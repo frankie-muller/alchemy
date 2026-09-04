@@ -1,0 +1,2642 @@
+import type { Pillar } from '../types.js';
+
+export const rock: Pillar = {
+  name: 'Rock',
+  subCategories: {
+    'Alternative / Indie': {
+      'Radiohead': {
+        bio: 'The defining art-rock band of the modern era, whose evolution from 90s guitar anthems to glitchy, electronic masterpieces set the standard for high-fidelity experimentation.',
+        aliases: ['Radio Head', 'Radiohead.'],
+      },
+
+      'The Strokes': {
+        bio: 'The razor-sharp, interlocking guitar architects of the early-2000s New York post-punk revival, whose debut remains a masterclass in compressed, stylish rock.',
+        aliases: ['Strokes', 'The Strokes.'],
+      },
+
+      'Arctic Monkeys': {
+        bio: "Sheffield's sharpest lyricist and his band, evolving from blistering garage rock to sophisticated, cinematic lounge-pop with meticulous studio detailing.",
+        aliases: ['arctic monkeys.', 'arcticmonkeys', 'alex turner'],
+      },
+
+      'The Killers': {
+        bio: "Las Vegas synth-rock titans whose stadium-sized hooks and neon-lit Americana made 'Hot Fuss' and 'Sam\\'s Town' defining alt-rock records of the 2000s.",
+        aliases: ['the killers.', 'thekillers', 'brandon flowers'],
+      },
+
+      'Bon Iver': {
+        bio: "Justin Vernon's project shifted from stark, cabin-in-the-woods folk to lush, vocoder-drenched electronic art-pop, influencing an entire generation of indie and R&B.",
+        aliases: ['Justin Vernon', 'bon iver.'],
+      },
+
+      'Oasis': {
+        bio: 'The titanic, swaggering kings of Britpop whose Beatlesque melodies, wall-of-sound mastering, and massive stadium anthems defined 1990s UK rock.',
+        aliases: ['Oasis (Band)', 'Oasis.', 'noel gallagher', 'liam gallagher'],
+      },
+
+      'Sigur Rós': {
+        bio: 'Icelandic post-rock visionaries whose glacial, bowed-guitar crescendos and invented language create overwhelming, cinematic, and audiophile-grade soundscapes.',
+        aliases: ['Sigur Ros', 'Sigur-Ros', 'sigur ros.', 'jónsi'],
+      },
+
+      'Animal Collective': {
+        bio: 'Psychedelic experimentalists whose sample-heavy, fractured pop pushed 2000s indie rock into wildly inventive electronic territory.',
+        aliases: ['AnCo', 'Animal Coll.', 'animal collective.', 'panda bear', 'avey tare'],
+      },
+
+      'Nirvana': {
+        bio: "The band that broke the underground into the mainstream; Kurt Cobain's melodic genius masked by Steve Albini and Butch Vig's raw, visceral production.",
+        aliases: ['Nirvana (Band)', 'Nirvana.', 'Kurt Cobain'],
+      },
+
+      'Gustavo Cerati': {
+        bio: 'A genius of Latin American rock whose solo work seamlessly integrated sophisticated electronic textures, shoegaze, and art-pop into his peerless guitar playing.',
+        aliases: ['Cerati', 'G. Cerati', 'Gustavo Cerati.'],
+      },
+
+      'My Bloody Valentine': {
+        bio: "The absolute pinnacle of shoegaze; Kevin Shields's 'Loveless' is a studio masterpiece of frequency manipulation, glide-guitar, and reverse reverb.",
+        aliases: ['MBV', 'm.b.v.', 'my bloody valentine.', 'mybloodyvalentine', 'kevin shields'],
+      },
+
+      'Pixies': {
+        bio: 'The loud-quiet-loud architects of alternative rock whose surreal lyrics and jagged basslines directly laid the blueprint for Nirvana and the 90s alt boom.',
+        aliases: ['The Pixies', 'pixies.', 'pixies (band)', 'pixxies', 'black francis', 'frank black'],
+      },
+
+      'Arcade Fire': {
+        bio: "Montreal's indie-rock collective whose soaring, orchestral anthems on 'Funeral' defined the emotive, baroque-pop sound of 2000s indie.",
+        aliases: ['arcadefire', 'The Arcade Fire', 'arcade fire.', 'arcade fyre', 'win butler'],
+      },
+
+      'Soda Stereo': {
+        bio: 'The most influential band in Rock en Español history, constantly pushing sonic boundaries from post-punk into lush, delay-soaked alternative rock.',
+        aliases: ['soda estereo', 'soda stereo.', 'sodastereo', 'soda stéreo'],
+      },
+
+      'Elliott Smith': {
+        bio: 'The patron saint of lo-fi indie folk whose intricate, Beatles-influenced fingerpicking and double-tracked whispers remain devastatingly intimate.',
+        aliases: ['elliot smith', 'eliot smith', 'elliottsmith', 'E. Smith'],
+      },
+
+      'Neutral Milk Hotel': {
+        bio: "Jeff Mangum's fuzz-folk opus 'In the Aeroplane Over the Sea' is the definitive indie-rock cult album, blending raw acoustic strumming with singing saws and tape collage.",
+        aliases: ['NMH', 'n.m.h.', 'neutral milk hotel.', 'neutralmilkhotel', 'jeff mangum'],
+      },
+
+      'The National': {
+        bio: "Master purveyors of melancholic, rhythmically complex chamber-rock, led by Matt Berninger's bourbon-soaked baritone and the Dessner brothers' intricate orchestrations.",
+        aliases: ['national', 'thenational', 'the national (band)', 'matt berninger'],
+      },
+
+      'Slowdive': {
+        bio: "Shoegaze legends whose delay-drenched, ethereal soundscapes on 'Souvlaki' were resurrected decades later, proving their atmospheric mastery was timeless.",
+        aliases: ['slowdive.', 'slow dive', 'slowdve', 'neil halstead'],
+      },
+
+      'Built to Spill': {
+        bio: "Doug Martsch's twisting, melodic guitar heroics proved that indie rock could embrace massive, Neil Young-style solos without losing its slacker charm.",
+        aliases: ['builttospill', 'doug martsch', 'built to spill.'],
+      },
+
+      'Deerhunter': {
+        bio: "Bradford Cox's ambient-punk project merges shimmering dream-pop with abrasive garage rock, creating a uniquely hazy, hypnotic catalog.",
+        aliases: ['deerhunter.', 'deer hunter', 'bradford cox'],
+      },
+
+      'Yo La Tengo': {
+        bio: "The ultimate critic's band; a perpetually evolving Hoboken trio capable of ear-splitting feedback, bossa nova, and the most delicate indie-pop imaginable.",
+        aliases: ['yo la tengo.', 'yolatengo', 'yo la tango'],
+      },
+
+      'Pavement': {
+        bio: 'Definitive 90s lo-fi indie rock band whose slacker aesthetic and off-kilter songwriting directly influenced The Strokes, Built to Spill, and countless others.',
+        aliases: ['pavement.', 'pavement (band)', 'pvmt', 'stephen malkmus', 's. malkmus', 'malkmus'],
+      },
+
+      'Sonic Youth': {
+        bio: 'Noise rock and art-rock pioneers who bridged the underground and mainstream, paving the way for Nirvana, Pixies, and virtually every alternative act that followed.',
+        aliases: ['sonic youth.', 'sonicyouth', 'sonic youth (band)', 'sonic yoth', 'thurston moore', 'lee ranaldo'],
+      },
+
+      'Modest Mouse': {
+        bio: 'Angular, emotionally volatile Pacific Northwest indie rock that shares DNA with Built to Spill and Pixies in its dynamic extremes and literary lyricism.',
+        aliases: ['modest mouse.', 'modestmouse', 'modest mouse (band)', 'modestt mouse', 'isaac brock', 'i. brock'],
+      },
+
+      'Sufjan Stevens': {
+        bio: "Boundary-dissolving indie folk and art-pop auteur whose orchestral intimacy connects Elliott Smith's confessionalism to Bon Iver's sonic ambition.",
+        aliases: ['sufjan stevens.', 'sufjan', 'suffjan stevens', 'sufjan stephens', 'sufjian stevens', 's. stevens', 'sufjanstevens'],
+      },
+
+      'Grizzly Bear': {
+        bio: "Harmonically rich chamber-indie that sits precisely at the intersection of Radiohead's experimentalism and Animal Collective's textural adventurousness.",
+        aliases: ['grizzly bear.', 'grizzlybear', 'grizzley bear', 'grizzy bear', 'grizzly bear (band)', 'ed droste', 'daniel rossen'],
+      },
+
+      'The Jesus and Mary Chain': {
+        bio: 'Noise-pop architects whose feedback-drenched melodies directly birthed shoegaze and remain foundational to understanding My Bloody Valentine and Slowdive.',
+        aliases: ['jesus and mary chain', 'jesus & mary chain', 'jamc', 'j.a.m.c.', 'the jesus & mary chain', 'tjmc', 'reid brothers'],
+      },
+
+      'Café Tacvba': {
+        bio: "Mexico's most adventurous alternative rock band, whose genre-bending experimentation mirrors Soda Stereo's boundary-pushing role in Latin American indie.",
+        aliases: ['cafe tacvba', 'cafe tacuba', 'café tacuba', 'cafetacvba', 'cafe tacvba.', 'caifanes tacvba', 'tacvba', 'tacuba'],
+      },
+
+      'Dinosaur Jr.': {
+        bio: 'Ear-splitting melodic noise rock pioneers whose fusion of punk volume and pop songwriting profoundly shaped Nirvana, Pixies, and the entire 90s alternative movement.',
+        aliases: ['dinosaur jr', 'dinosaur junior', 'dinosaurjr', 'dino jr', 'dino jr.', 'dinosaur j.r.', 'j mascis', 'j. mascis'],
+      },
+
+      'Stereolab': {
+        bio: 'Cult art-rock collective blending motorik krautrock, lounge pop, and Marxist theory into a singular sound beloved by fans of Yo La Tengo and Animal Collective.',
+        aliases: ['stereolab.', 'stereo lab', 'stereolab (band)', 'stéreolab', 'laetitia sadier', 'l. sadier'],
+      },
+
+      'Guided by Voices': {
+        bio: 'Legendarily prolific lo-fi indie band whose four-track pop gems and DIY ethos make them foundational to the same underground that produced Pavement.',
+        aliases: ['guided by voices.', 'guidedbyvoices', 'gbv', 'g.b.v.', 'guided by voises', 'robert pollard', 'bob pollard', 'r. pollard'],
+      },
+
+      'The Smiths': {
+        bio: 'Foundational indie and alternative band whose jangly guitars and literate melancholy are a direct ancestor of Radiohead, Oasis, and The National.',
+        aliases: ['smiths', 'thesmiths', 'the smiths.', 'the smiths (band)', 'morrissey and marr', 'smiths.'],
+      },
+
+      'Sparklehorse': {
+        bio: 'Tragically undersung lo-fi visionary whose fragile, tape-damaged beauty places him in the same rarefied emotional space as Elliott Smith.',
+        aliases: ['sparklehorse.', 'sparkle horse', 'spark horse', 'sparklhorse', 'mark linkous', 'm. linkous'],
+      },
+
+      'The Microphones': {
+        bio: "Phil Elverum's lo-fi masterwork The Glow Pt. 2 is a touchstone of raw, experimental indie folk revered alongside Neutral Milk Hotel.",
+        aliases: ['microphones', 'themicrophones', 'the microphones.', 'mount eerie', 'mounteerie', 'mt. eerie', 'phil elverum', 'p. elverum'],
+      },
+
+      'Broadcast': {
+        bio: "Cult hauntological indie band whose vintage-electronic textures and spectral pop sensibility bridges Stereolab's experimentalism with Cocteau Twins' otherworldliness.",
+        aliases: ['broadcast.', 'broadcast (band)', 'broadcst', 'trish keenan'],
+      },
+
+      'Silver Jews': {
+        bio: "David Berman's lo-fi indie project was intimately connected to Pavement's Stephen Malkmus and represents the same slacker-poetic lineage.",
+        aliases: ['silver jews.', 'silverjews', 'silver joos', 'the silver jews', 'david berman', 'd. berman', 'david berman (silver jews)', 'dcb'],
+      },
+
+      'Songs: Ohia': {
+        bio: "Jason Molina's devastating, sparse songwriting shares the bruised emotional core of Elliott Smith and Sparklehorse.",
+        aliases: ['songs ohia', 'songs:ohia', 'songsohia', 'songs: ohia.', 'jason molina', 'j. molina', 'songs of ohia', 'magnolia electric co', 'magnolia electric co.', 'magnolia electric company'],
+      },
+
+      'Red House Painters': {
+        bio: "Slowcore pioneers whose aching, extended compositions parallel the desolate beauty of Talk Talk's later work.",
+        aliases: ['red house painters.', 'redhousepainters', 'rhp', 'r.h.p.', 'red house painters (band)', 'mark kozelek', 'm. kozelek', 'sun kil moon', 'sunkillmoon', 'sun kill moon'],
+      },
+
+      'Fleet Foxes': {
+        bio: 'Lush harmonic indie folk that extends the lineage of Bon Iver and Sufjan Stevens with baroque, reverb-drenched arrangements.',
+        aliases: ['fleet foxes.', 'fleetfoxes', 'fleet foxs', 'fleet foxes (band)', 'robin pecknold', 'r. pecknold'],
+      },
+
+      'Low': {
+        bio: "Slowcore architects whose patient, near-silent dynamics share the hushed intensity of Talk Talk's Spirit of Eden era.",
+        aliases: ['low.', 'low (band)', 'low band', 'low (duluth)', 'alan sparhawk', 'a. sparhawk', 'mimi parker'],
+      },
+
+      'Television': {
+        bio: 'Marquee Moon is a foundational text for alternative guitar music, directly informing the interlocking guitar aesthetics of Sonic Youth and The Strokes.',
+        aliases: ['television.', 'television (band)', 'televison', 'tom verlaine', 't. verlaine', 'richard lloyd'],
+      },
+
+      'Spiritualized': {
+        bio: 'Space-rock visionaries whose maximalist gospel-drone epics parallel Sigur Rós and Mogwai while rooted in Velvet Underground minimalism.',
+        aliases: ['spiritualized.', 'spiritualised', 'spiritualized (band)', 'spirtiualized', 'jason pierce', 'j. pierce', 'j spaceman', 'jason spaceman', 'spacemen 3'],
+      },
+
+      'Mogwai': {
+        bio: "Scottish post-rock titans whose quiet-loud dynamics and cinematic instrumental grandeur share Sigur Rós's sense of patient emotional devastation.",
+        aliases: ['mogwai.', 'mogwai (band)', 'mogwi', 'mogwai band', 'stuart braithwaite', 's. braithwaite'],
+      },
+
+      'The Flaming Lips': {
+        bio: "Psychedelic experimentalists whose arc from noise-rock to orchestral grandeur mirrors Radiohead's and Animal Collective's trajectories.",
+        aliases: ['flaming lips', 'flaming lips.', 'theflaminglips', 'flamming lips', 'the flaming lips.', 'flaming lipps', 'wayne coyne', 'w. coyne', 'steven drozd'],
+      },
+
+      'Wilco': {
+        bio: 'Yankee Hotel Foxtrot-era Wilco embodies the same restless genre deconstruction as Radiohead, melding alt-country roots with noise and avant-garde textures.',
+        aliases: ['wilco.', 'wilco (band)', 'willco', 'wlco', 'jeff tweedy', 'j. tweedy', 'tweedy'],
+      },
+
+      'Caifanes': {
+        bio: 'Foundational Mexican alternative rock band whose dark post-punk aesthetic is inseparable from the Latin American rock tradition.',
+        aliases: ['caifanes.', 'caifanes (band)', 'caiphanes', 'los caifanes', 'jaguares', 'jaguares.', 'saul hernandez', 'saúl hernández', 's. hernandez'],
+      },
+
+      'Hüsker Dü': {
+        bio: 'Alt-rock architects who fused hardcore punk velocity with melodic songwriting, directly paving the way for Pixies and Nirvana.',
+        aliases: ['husker du', 'husker dü', 'hüsker du', 'huskerdu', 'husker du.', 'hüsker dü.', 'huker du', 'bob mould', 'b. mould', 'grant hart'],
+      },
+
+      'The Replacements': {
+        bio: 'Ragged, heartfelt college-rock pioneers whose sloppy sincerity established the emotional vocabulary used by Pavement and Modest Mouse.',
+        aliases: ['replacements', 'the replacements.', 'thereplacements', 'the replacments', 'the replacemnts', 'the \'mats', 'paul westerberg', 'p. westerberg'],
+      },
+
+      'Cat Power': {
+        bio: "Chan Marshall's raw, skeletal indie folk-blues shares the devastating intimacy and lo-fi vulnerability of Elliott Smith.",
+        aliases: ['cat power.', 'catpower', 'cat power (band)', 'cat pawer', 'chan marshall', 'chan marshall.', 'charlyn marshall', 'c. marshall'],
+      },
+
+      'Big Thief': {
+        bio: "Modern torchbearers of the raw, emotionally unguarded indie tradition, now widely regarded as this generation's essential indie band.",
+        aliases: ['big thief.', 'bigthief', 'big theif', 'big thief (band)', 'adrianne lenker', 'a. lenker', 'adrianne lenker.', 'adriane lenker', 'buck meek'],
+      },
+
+      'Bill Callahan': {
+        bio: 'As Smog and under his own name, his stark, literary songwriting is a spiritual sibling to Silver Jews and Songs: Ohia.',
+        aliases: ['bill callahan.', 'billcallahan', 'b. callahan', 'smog', 'smog.', 'smog (band)', '(smog)', 'bill callahan (smog)', 'bill calahan', 'bill callihan'],
+      },
+
+      'Bonnie "Prince" Billy': {
+        bio: "Will Oldham's many-named project is inseparable from the Songs: Ohia and Silver Jews world of raw Americana-tinged indie.",
+        aliases: ['bonnie prince billy', 'bonnie prince billy.', 'bonnieprinцebilly', 'bonnieprinцe billy', 'will oldham', 'w. oldham', 'palace music', 'palace brothers', 'palace', 'palace songs', 'bonny prince billy', 'bonnie prince billie', 'bpb', 'bonnie \'prince\' billy'],
+      },
+
+      'The Breeders': {
+        bio: "Kim Deal's band bridged Pixies' noise-pop with 90s alternative rock and remains a touchstone for indie guitar music.",
+        aliases: ['breeders', 'the breeders.', 'thebreeders', 'the breeders (band)', 'the breeders band', 'breeders.', 'the breders', 'kim deal', 'k. deal', 'kelley deal'],
+      },
+
+      'Sleater-Kinney': {
+        bio: 'One of the most critically revered indie rock bands of the 90s–2000s, combining punk ferocity with sophisticated songwriting.',
+        aliases: ['sleater kinney', 'sleaterkinney', 'sleater-kinney.', 'sleater-kinny', 'slater-kinney', 'slater kinney', 'sleater kinny', 's-k', 'sk', 'carrie brownstein', 'corin tucker', 'c. brownstein'],
+      },
+
+      'American Football': {
+        bio: 'Their self-titled debut became a cult cornerstone of indie/emo crossover, influencing the atmospheric sensitivity of modern indie.',
+        aliases: ['american football.', 'americanfootball', 'american football (band)', 'americ anfootball', 'american footbal', 'amerikan football', 'af (band)', 'mike kinsella', 'm. kinsella'],
+      },
+
+      'Mercury Rev': {
+        bio: "Psychedelic art-rock collaborators with The Flaming Lips whose Deserter's Songs is a touchstone of late-90s orchestral indie.",
+        aliases: ['mercury rev.', 'mercuryrev', 'mercury rev (band)', 'mercurey rev', 'murcury rev', 'jonathan donahue', 'j. donahue'],
+      },
+
+      'Unwound': {
+        bio: 'Tumwater post-hardcore band whose late-career art-noise experiments on Leaves Turn Inside You rival anything by Sonic Youth.',
+        aliases: ['unwound.', 'unwound (band)', 'un wound', 'unwound band', 'unwond', 'unwoond', 'justin trosper', 'j. trosper'],
+      },
+
+      'Sebadoh': {
+        bio: "Lou Barlow's lo-fi indie project was foundational to 90s underground rock alongside Dinosaur Jr. and Pavement.",
+        aliases: ['sebadoh.', 'sebadoh (band)', 'seabdoh', 'sebadho', 'lou barlow', 'l. barlow', 'lou barlow (sebadoh)', 'sebado'],
+      },
+
+      'Angel Olsen': {
+        bio: 'Her voice and songwriting span stark folk and lush indie rock, placing her squarely in the lineage of Cat Power and Big Thief.',
+        aliases: ['angel olsen.', 'angelolsen', 'angel olson', 'angel olssen', 'a. olsen', 'angle olsen', 'angel olsem'],
+      },
+
+      'Duster': {
+        bio: 'Cult lo-fi slowcore trio whose hazy, minimalist sound is a natural companion to Sparklehorse, Codeine, and early Mount Eerie.',
+        aliases: ['duster.', 'duster (band)', 'duster band', 'dustre', 'clay parton', 'c. parton', 'canaan dove amber'],
+      },
+
+      'Codeine': {
+        bio: 'Pioneering slowcore band whose glacial intensity directly spawned the aesthetic of Low and Red House Painters.',
+        aliases: ['codeine.', 'codeine (band)', 'codiene', 'codeine band', 'codine', 'codeine (indie)', 'chris brokaw', 'c. brokaw'],
+      },
+
+      'R.E.M.': {
+        bio: 'Arguably the single most important band in defining American alternative/indie, from Murmur to Automatic for the People they drew the map.',
+        aliases: ['rem', 'r.e.m', 'r e m', 'rem.', 'r.e.m. (band)', 'rem band', 'michael stipe', 'peter buck', 'mike mills', 'rém'],
+      },
+
+      'Blur': {
+        bio: "Britpop's most restlessly experimental pillar, evolving from Parklife pop to art-rock masterpieces.",
+        aliases: ['blur.', 'blur (band)', 'blur band', 'blurr', 'damon albarn blur', 'damon albarn', 'd. albarn', 'bluur', 'blur uk'],
+      },
+
+      'Pulp': {
+        bio: "Jarvis Cocker's decade of obscurity before Different Class makes them the ultimate cult-to-triumph story, and their class-conscious art-pop remains untouchable.",
+        aliases: ['pulp.', 'pulp (band)', 'pulp band', 'pulp uk', 'jarvis cocker', 'j. cocker', 'jarvis cocker pulp'],
+      },
+
+      'Suede': {
+        bio: 'Dog Man Star is one of the greatest British rock albums ever made, launching Britpop with an androgynous glam-meets-Smiths aesthetic.',
+        aliases: ['suede.', 'suede (band)', 'suede band', 'suede uk', 'the london suede', 'london suede', 'brett anderson', 'brett anderson suede', 'sued', 'suéde'],
+      },
+
+      'The Stone Roses': {
+        bio: 'Their self-titled debut fused psychedelia, dance, and jangle into a blueprint that seeded both Britpop and the entire Madchester moment.',
+        aliases: ['stone roses', 'stoneroses', 'the stone roses.', 'thestoneroses', 'stone roses.', 'the stone rosses', 'the stone rose', 'ian brown', 'john squire', 'stone roses band'],
+      },
+
+      'The Verve': {
+        bio: 'Before Bittersweet Symphony overshadowed everything, A Storm in Heaven was one of the most ambitious shoegaze-into-psychedelia records of the early nineties.',
+        aliases: ['verve', 'the verve.', 'theverve', 'the verve (band)', 'verve.', 'the verv', 'richard ashcroft', 'r. ashcroft', 'richard ashcroft verve'],
+      },
+
+      'Interpol': {
+        bio: 'Turn On the Bright Lights crystallized the early-2000s post-punk revival into something genuinely haunting and architecturally precise.',
+        aliases: ['interpol.', 'interpol (band)', 'interpol band', 'interpol nyc', 'interpl', 'paul banks', 'paul banks interpol', 'intrpol', 'interpole'],
+      },
+
+      'Spoon': {
+        bio: 'The most consistently excellent American indie rock band of the 21st century, with a minimalist economy of arrangement that rewards obsessive relistening.',
+        aliases: ['spoon.', 'spoon (band)', 'spoon band', 'spoon austin', 'spooon', 'britt daniel', 'britt daniel spoon', 'b. daniel', 'spoon tx'],
+      },
+
+      'Superchunk': {
+        bio: 'As a band and through Merge Records, Mac McCaughan built one of the foundational institutions of American indie.',
+        aliases: ['superchunk.', 'super chunk', 'superchunk (band)', 'superchunk band', 'super-chunk', 'mac mccaughan', 'mac mccaughan superchunk', 'superchuk', 'superchunc'],
+      },
+
+      'Archers of Loaf': {
+        bio: 'Icky Mettle is one of the most perfectly chaotic indie rock records of the nineties, an anti-careerist favorite.',
+        aliases: ['archers of loaf.', 'archersofloaf', 'archers of loaf (band)', 'archers of loaf band', 'the archers of loaf', 'archers of loaff', 'eric bachmann', 'e. bachmann', 'aol band'],
+      },
+
+      'Teenage Fanclub': {
+        bio: "Bandwagonesque proved that power-pop melody and indie noise weren't mutually exclusive, earning devotion from Big Star disciples.",
+        aliases: ['teenage fanclub.', 'teenagefanclub', 'teenage fanclub (band)', 'teenage fan club', 'tfc', 't.f.c.', 'teenage fanclub band', 'teenage fancclub', 'teenagefanclub.', 'norman blake teenage fanclub'],
+      },
+
+      'Throwing Muses': {
+        bio: "Kristin Hersh's fractured songwriting made them the first American band signed to 4AD, pre-dating the alt-rock explosion.",
+        aliases: ['throwing muses.', 'throwingmuses', 'throwing muses (band)', 'throwing muses band', 'throwing-muses', 'throwing musses', 'kristin hersh', 'k. hersh', 'tanya donelly throwing muses', 'throwing muzes'],
+      },
+
+      'The Go-Betweens': {
+        bio: "Australia's greatest indie band wrote some of the most literate, emotionally devastating guitar pop of the 1980s.",
+        aliases: ['go-betweens', 'the go betweens', 'go betweens', 'thegobetweens', 'the go-betweens.', 'go-betweens.', 'gobetweens', 'robert forster grant mclennan', 'robert forster', 'grant mclennan', 'the go betweens band'],
+      },
+
+      'The Clean': {
+        bio: 'The foundational Flying Nun band whose lo-fi jangle essentially invented the Dunedin Sound.',
+        aliases: ['clean', 'the clean.', 'theclean', 'the clean (band)', 'the clean band', 'the clean nz', 'the clean new zealand', 'david kilgour', 'd. kilgour', 'the cleen'],
+      },
+
+      'The Chills': {
+        bio: "Martin Phillipps' shimmering, melancholic pop is the pinnacle of the Dunedin Sound's bittersweet genius.",
+        aliases: ['chills', 'the chills.', 'thechills', 'the chills (band)', 'the chills band', 'the chills nz', 'martin phillipps', 'martin phillips', 'the chills new zealand', 'the chils'],
+      },
+
+      'The Wedding Present': {
+        bio: "David Gedge's relentless, jangling romanticism made them C86 royalty; their work with Steve Albini remains a devastating alt-rock landmark.",
+        aliases: ['wedding present', 'the wedding present.', 'theweddingpresent', 'weddingpresent', 'the wedding present (band)', 'twp', 't.w.p.', 'david gedge', 'd. gedge', 'the wedding present band', 'the weding present'],
+      },
+
+      'Hum': {
+        bio: 'Titanic, effects-drenched guitar grandeur that influenced every heavy shoegaze and space-rock band that followed.',
+        aliases: ['hum.', 'hum (band)', 'hum band', 'hum champaign', 'hum illinois', 'hum rock', 'matt talbott', 'matt talbott hum', 'humm', 'h.u.m.'],
+      },
+
+      'Failure': {
+        bio: 'Fantastic Planet is one of the most sonically ambitious alternative rock albums of the nineties, a swirling production masterpiece.',
+        aliases: ['failure.', 'failure (band)', 'failure band', 'failure la', 'failure los angeles', 'failur', 'faliure', 'ken andrews', 'ken andrews failure', 'failure rock'],
+      },
+
+      'Boris': {
+        bio: 'Endlessly prolific and genre-fluid, they collapse drone, shoegaze, stoner metal, noise, and pop into a singular vision.',
+        aliases: ['boris.', 'boris (band)', 'boris band', 'boris japan', 'boris (japan)', 'borris', 'boris japanese', 'ボリス', 'boris tokyo', 'boris heavy'],
+      },
+
+      'Fishmans': {
+        bio: 'Their dub-inflected dream pop represents a uniquely Japanese psychedelic lineage, with live recordings revered by collectors.',
+        aliases: ['fishmans.', 'fishmans (band)', 'fishmans band', 'fishmans japan', 'fish mans', 'fishman', 'フィッシュマンズ', 'fishmans japanese', 'shinji sato fishmans'],
+      },
+
+      'The Olivia Tremor Control': {
+        bio: 'The other towering Elephant 6 band alongside Neutral Milk Hotel, whose Black Foliage is a densely layered musique concrète pop masterpiece.',
+        aliases: ['olivia tremor control', 'the olivia tremor control.', 'theoliviatremorcontrol', 'otc', 'o.t.c.', 'olivia tremor control.', 'the olivia tremor controll', 'oliviatremorcontrol', 'bill doss', 'will cullen hart', 'the olivia tremor control (band)'],
+      },
+
+      'Bedhead': {
+        bio: 'Perfected a hushed, interlocking-guitar slowcore that was the quiet inverse of nineties loud-rock.',
+        aliases: ['bedhead.', 'bedhead (band)', 'bedhead band', 'bed head', 'bed-head', 'bedhead texas', 'the kadane brothers', 'matt kadane', 'bubba kadane', 'bedhed'],
+      },
+
+      'The Sea and Cake': {
+        bio: "Sam Prekop's bossa-nova-tinged post-rock is an elegant, essential bridge between jazz and indie on the Thrill Jockey axis.",
+        aliases: ['sea and cake', 'the sea and cake.', 'theseaandcake', 'sea and cake.', 'the sea & cake', 'sea & cake', 'the sea and cake (band)', 'the sea and cake band', 'sam prekop', 's. prekop', 'sea and the cake'],
+      },
+
+      'Parquet Courts': {
+        bio: 'Wide Awake! and Human Performance proved that literate, wiry post-punk-meets-slacker-rock still has urgent things to say.',
+        aliases: ['parquet courts.', 'parquetcourts', 'parquet courts (band)', 'parquet courts band', 'parquet-courts', 'andrew savage', 'a. savage', 'parkay quarts', 'parquet courts nyc', 'parquet courts brooklyn'],
+      },
+
+      'black midi': {
+        bio: 'The most ferociously inventive band to emerge from the 2020s London scene, collapsing math rock, prog, noise, and jazz.',
+        aliases: ['black midi.', 'blackmidi', 'black midi (band)', 'black midi band', 'black-midi', 'blk midi', 'black midi london', 'geordie greep', 'geordie greep black midi', 'blac midi', 'bm'],
+      },
+
+      'Beck': {
+        bio: "The ultimate lo-fi slacker savant who evolved into an eclectic, sample-heavy genius and one of alt-rock's most vital solo artists.",
+        aliases: ['Beck Hansen', 'Beck.', 'Beck (Artist)', 'beck hansen.'],
+      },
+    },
+
+    'Classic Rock / Arena Rock': {
+      'Janis Joplin': {
+        bio: "The ferocious, blues-scorched voice of late-'60s San Francisco; her raw catharsis on 'Pearl' and with Big Brother & the Holding Company remains rock's definitive vocal reckoning.",
+        aliases: ['janis joplin.', 'janis lyn joplin'],
+      },
+
+      'The Beatles': {
+        bio: 'The foundational bedrock of pop and rock music, whose unmatched studio evolution with George Martin established the very concept of the modern album.',
+        aliases: ['the beatles.', 'beatles', 'thebeatles', 'john lennon', 'paul mccartney', 'george harrison'],
+      },
+
+      'David Bowie': {
+        bio: 'The ultimate rock chameleon whose fearless theatricality, unmatched songwriting, and Berlin-era electronic experiments profoundly shifted the course of music.',
+        aliases: ['david bowie.', 'bowie', 'ziggy stardust', 'david robert jones'],
+      },
+
+      'The Kinks': {
+        bio: "The Davies brothers' razor-sharp British observational wit and proto-hard rock power chords made them essential cornerstones of the British Invasion.",
+        aliases: ['the kinks.', 'kinks', 'ray davies'],
+      },
+
+      'Led Zeppelin': {
+        bio: "The heaviest blues-rock powerhouse of the 1970s; Jimmy Page's revolutionary studio production and immense riffs defined the very concept of arena rock.",
+        aliases: ['Led Zepplin', 'led zeppelin.', 'ledzeppelin', 'Led Zep', 'LZ', 'Jimmy Page', 'Robert Plant'],
+      },
+
+      'The Rolling Stones': {
+        bio: 'The eternal rock and roll outlaws; their Exile on Main St. era perfected a sloppy, swaggering blues-rock perfection that remains the ultimate genre blueprint.',
+        aliases: ['Rolling Stones', 'rolling stones.', 'the rolling stones.', 'rollingstones', 'The Stones', 'Stones', 'mick jagger', 'keith richards'],
+      },
+
+      'The Who': {
+        bio: "Maximum R&B turned conceptual rock titans; Pete Townshend's windmill chords and Keith Moon's chaotic drumming set a new standard for rock intensity.",
+        aliases: ['who', 'the who.', 'thewho', 'Who (Band)', 'pete townshend'],
+      },
+
+      'Jimi Hendrix': {
+        bio: "The undisputed god of the electric guitar, whose mastery of feedback, fuzz, and stereo panning completely revolutionized the instrument's sonic vocabulary.",
+        aliases: ['Jimi Hendrix Experience', 'The Jimi Hendrix Experience', 'jimihendrix', 'jimi hendrix.', 'j. hendrix', 'hendrix'],
+      },
+
+      'Bruce Springsteen': {
+        bio: "The ultimate blue-collar stadium hero; his E Street Band's Wall of Sound production and working-class poetry turned rock into a profound communal experience.",
+        aliases: ['Bruce Springsteen & The E Street Band', 'springsteen', 'the boss', 'bruce springsteen.', 'b. springsteen'],
+      },
+
+      'Tom Petty': {
+        bio: 'Master purveyor of chiming, Byrds-esque Rickenbacker guitars and bulletproof heartland rock songwriting that ruled FM radio for decades.',
+        aliases: ['Tom Petty and the Heartbreakers', 'Tom Petty & The Heartbreakers', 'tom petty.', 'tompetty', 't. petty'],
+      },
+
+      'Creedence Clearwater Revival': {
+        bio: "John Fogerty's swamp-rock outfit pumped out a staggeringly flawless run of swampy, blues-drenched roots rock that defines American classic rock.",
+        aliases: ['CCR', 'C.C.R.', 'creedence', 'credence clearwater revival', 'creedance clearwater revival'],
+      },
+
+      'AC/DC': {
+        bio: "One of the most enduring arena rock acts in history, built on thunderous, uncompromising riffs and stadium-shaking anthems like 'Back in Black'.",
+        aliases: ['ac / dc', 'acdc', 'ac/dc.', 'angus young'],
+      },
+
+      'Aerosmith': {
+        bio: 'Blues-drenched hard rock giants whose swagger and longevity made them one of the definitive classic rock arena acts from the 1970s onward.',
+        aliases: ['areosmith', 'aero smith', 'aerosmith.', 'aersosmith', 'aerosmth', 'aerosmith (band)', 'steven tyler'],
+      },
+
+      'Deep Purple': {
+        bio: "Pioneering hard rock and proto-metal titans whose 'Smoke on the Water' riff and Jon Lord's distorted organ are legendary in classic rock history.",
+        aliases: ['deep purle', 'deep pruple', 'd. purple', 'deep purple (band)'],
+      },
+
+      'Bad Company': {
+        bio: 'Paul Rodgers-fronted supergroup forged from Free and Mott the Hoople stock, delivering stripped-down, blues-heavy arena rock that became FM radio gospel.',
+        aliases: ['bad co', 'bad company.', 'badcompany', 'bad co.', 'bad compnay', 'paul rodgers'],
+      },
+
+      'Boston': {
+        bio: 'Their meticulously produced debut is among the best-selling of all time, defining the polished, soaring, heavily-layered guitar sound of late-70s arena rock.',
+        aliases: ['boston (band)', 'boston.', 'bostón', 'tom scholz', 'boston band'],
+      },
+
+      'Journey': {
+        bio: "The quintessential arena rock band of the early 1980s, whose anthemic power ballads and Steve Perry's peerless voice filled stadiums worldwide.",
+        aliases: ['journey.', 'journy', 'joureny', 'journey (band)', 'journey band', 'steve perry'],
+      },
+
+      'Thin Lizzy': {
+        bio: "Phil Lynott's dual-guitar attack and poetic songwriting made them a cult-beloved classic rock institution and a key influence on hard rock harmony.",
+        aliases: ['thin lizzie', 'thin lizy', 'thin lizzey', 'phil lynot', 'phil lynott'],
+      },
+
+      'Heart': {
+        bio: "Ann and Nancy Wilson combined Led Zeppelin-weight riffs with arena-ready hooks and spectacular vocals, making them one of classic rock's most powerful acts.",
+        aliases: ['heart (band)', 'heart.', 'heart band', 'ann wilson', 'anne wilson', 'nancy wilson', 'ann & nancy wilson'],
+      },
+
+      'Grand Funk Railroad': {
+        bio: 'Often overlooked arena rock pioneers who sold out Shea Stadium faster than the Beatles, embodying blue-collar 70s rock at its most visceral.',
+        aliases: ['grand funk', 'grandfunk', 'grand funk railroad.', 'gfr', 'g.f.r.', 'grand funk rail road', 'grandfunk railroad'],
+      },
+
+      'Peter Frampton': {
+        bio: "'Frampton Comes Alive!' was one of the best-selling live albums ever and a defining document of 1970s arena rock showmanship and the talk-box effect.",
+        aliases: ['frampton', 'peter frampton.', 'peterframpton', 'p. frampton', 'pete frampton', 'frampton comes alive'],
+      },
+
+      'Foghat': {
+        bio: "A boogie-rock cult favorite whose 'Slow Ride' became a classic rock radio staple and whose relentless touring made them a beloved arena draw.",
+        aliases: ['foghat.', 'fog hat', 'foghat (band)', 'foghatt', 'foghat band'],
+      },
+
+      'UFO': {
+        bio: "A deep-cut classic rock essential whose 'Strangers in the Night' live album is considered one of the greatest hard rock concert recordings ever made.",
+        aliases: ['ufo (band)', 'ufo.', 'u.f.o.', 'u.f.o', 'ufo band', 'phil mogg', 'michael schenker'],
+      },
+
+      'ZZ Top': {
+        bio: 'Texas boogie-rock institution whose gritty blues-rock guitar tone and larger-than-life stage persona made them a classic rock touring force for decades.',
+        aliases: ['zztop', 'zz top.', 'z.z. top', 'zz topp', 'zz-top', 'z z top', 'zztop.', 'zz top band', 'billy gibbons'],
+      },
+
+      'Lynyrd Skynyrd': {
+        bio: "Southern rock legends whose anthemic guitar harmonies and arena-filling sound made 'Free Bird' and 'Sweet Home Alabama' permanent fixtures of rock culture.",
+        aliases: ['lynard skynard', 'lynyrd skynrd', 'lynrd skynyrd', 'lynyrdskynyrd', 'skynyrd', 'lynyrd skynyrd.', 'leonard skinnard', 'lynard skynrd', 'lenard skinard'],
+      },
+
+      'Foreigner': {
+        bio: "Quintessential arena rock hitmakers whose blend of British blues-rock grit and polished American AOR produced some of the era's biggest anthems.",
+        aliases: ['foriegner', 'foreigner.', 'forigner', 'forener', 'foreignor', 'foregner', 'foreigner band'],
+      },
+
+      'Free': {
+        bio: "British blues-rock trailblazers whose raw, stripped-back heaviness and Paul Rodgers' powerhouse vocals directly influenced the arena rock sound.",
+        aliases: ['free (band)', 'free.', 'free band', 'free rock band', 'paul rodgers free'],
+      },
+
+      'Bachman-Turner Overdrive': {
+        bio: "Canadian blue-collar rock institution whose driving riffs and no-frills anthems like 'Takin' Care of Business' became classic rock radio staples.",
+        aliases: ['bto', 'b.t.o.', 'bachman turner overdrive', 'bachman-turner overdrive.', 'bachman turner', 'bachman-turner', 'bachman–turner overdrive', 'bachmen turner overdrive', 'bachman turner over drive'],
+      },
+
+      'Def Leppard': {
+        bio: "One of the defining arena rock acts of the 1980s, selling out stadiums worldwide with slick, meticulously produced anthems like 'Pour Some Sugar on Me'.",
+        aliases: ['def lepard', 'def leppard.', 'defleppard', 'def lepard.', 'def lepperd', 'def leapard', 'def leppard (band)', 'd. leppard', 'def leopard', 'joe elliott'],
+      },
+
+      'Kansas': {
+        bio: "Progressive-leaning classic rock staple whose 'Carry On Wayward Son' and 'Dust in the Wind' became inescapable FM radio and arena standards.",
+        aliases: ['kansas (band)', 'kansas.', 'kansas band', 'kansas rock', 'kansas rock band', 'kansás', 'kanas'],
+      },
+
+      'Styx': {
+        bio: "Arena rock titans whose theatrical blend of prog and hard rock on albums like 'The Grand Illusion' and 'Paradise Theatre' dominated late-70s stadiums.",
+        aliases: ['styx.', 'styx (band)', 'styx band', 'styxx', 'stix', 'dennis deyoung', 'tommy shaw'],
+      },
+
+      'REO Speedwagon': {
+        bio: "Quintessential arena rock hitmakers whose 'Hi Infidelity' album and power ballads like 'Keep On Loving You' epitomize the commercial peak of the genre.",
+        aliases: ['reo speedwagon.', 'reo speed wagon', 'reospeedwagon', 'r.e.o. speedwagon', 'r.e.o.speedwagon', 'reo', 'reo speedwagon (band)', 'reo speedwagen', 'reo speedwaggon', 'kevin cronin'],
+      },
+
+      'Cheap Trick': {
+        bio: "Their legendary 'Live at Budokan' album essentially defined arena rock energy, blending pop hooks with hard rock power.",
+        aliases: ['cheap trick.', 'cheaptrick', 'cheap trick (band)', 'cheap trik', 'cheap trick band', 'cheep trick', 'robin zander', 'rick nielsen'],
+      },
+
+      'Ted Nugent': {
+        bio: "Guitar-shredding classic rock powerhouse known for 'Stranglehold' who was a massive arena draw throughout the 1970s.",
+        aliases: ['ted nugent.', 'tednugent', 't. nugent', 'ted nugent (band)', 'ted nugnet', 'ted nuggent', 'nugent', 'the amboy dukes', 'amboy dukes'],
+      },
+
+      'Scorpions': {
+        bio: "German hard rock legends whose anthems 'Rock You Like a Hurricane' and 'Wind of Change' made them one of the biggest arena acts worldwide.",
+        aliases: ['scorpions.', 'the scorpions', 'scorpians', 'scorpions (band)', 'scorpons', 'scorpions band', 'scorpoins', 'scropions', 'rudolf schenker', 'klaus meine'],
+      },
+
+      'Whitesnake': {
+        bio: "David Coverdale's powerhouse outfit delivered quintessential arena rock with 'Here I Go Again' and massive stadium tours.",
+        aliases: ['whitesnake.', 'white snake', 'whitesnake (band)', 'whitsnake', 'whitesnake band', 'whtiesnake', 'david coverdale', 'coverdale'],
+      },
+
+      'Blue Öyster Cult': {
+        bio: "Classic rock institution whose '(Don't Fear) The Reaper' and 'Burnin' for You' became FM radio staples, featuring a heavily touring arena presence.",
+        aliases: ['blue oyster cult', 'blue oyster cult.', 'blueoyster cult', 'blue oystercult', 'blue oyster cult (band)', 'blue öyster cult.', 'blue oister cult', 'blue oyster cult band', 'blue oyster', 'buck dharma'],
+      },
+
+      'Humble Pie': {
+        bio: "Steve Marriott and Peter Frampton's hard-rocking supergroup pioneered the arena rock format with their legendary live albums.",
+        aliases: ['humble pie.', 'humblepie', 'humble pie (band)', 'humble pie band', 'humle pie', 'steve marriott', 'humble pie rock'],
+      },
+
+      'Nazareth': {
+        bio: "Scottish hard rock veterans whose gritty power-ballad 'Love Hurts' and raw albums like 'Hair of the Dog' are classic rock cornerstones.",
+        aliases: ['nazareth.', 'nazareth (band)', 'nazareth band', 'nazareth rock', 'nazareth rock band', 'nazaerth', 'nazereth', 'dan mccafferty'],
+      },
+
+      'Uriah Heep': {
+        bio: "Proto-arena heavyweights whose organ-driven hard rock and albums like 'Demons and Wizards' helped lay the groundwork for classic rock.",
+        aliases: ['uriah heep.', 'uriahheep', 'uriah heep (band)', 'uriah heap', 'uraih heep', 'uriah heep band', 'uriah hep', 'u. heep'],
+      },
+
+      'Montrose': {
+        bio: "Ronnie Montrose's eponymous band featuring a young Sammy Hagar delivered a blueprint for American arena hard rock in the mid-1970s.",
+        aliases: ['montrose.', 'montrose (band)', 'montrose band', 'montrose rock', 'ronnie montrose'],
+      },
+
+      'Mountain': {
+        bio: "Leslie West's titanic riff on 'Mississippi Queen' and their crushing Woodstock performance cemented them as classic rock heavyweights.",
+        aliases: ['mountain.', 'mountain (band)', 'mountain band', 'mountain rock', 'leslie west', 'lesie west', 'leslie west mountain'],
+      },
+
+      'Survivor': {
+        bio: "Arena rock hitmakers whose 'Eye of the Tiger' and 'Burning Heart' became some of the most recognizable anthems of the 1980s.",
+        aliases: ['survivor.', 'survivor (band)', 'survivor band', 'survivior', 'suvivor', 'survior', 'jim peterik', 'survivor rock'],
+      },
+
+      'Night Ranger': {
+        bio: "1980s arena rock staples whose 'Sister Christian' and 'Don't Tell Me You Love Me' were quintessential power-ballad and FM rock hits.",
+        aliases: ['night ranger.', 'nightranger', 'night ranger (band)', 'night ranger band', 'night rangr', 'nite ranger', 'jack blades', 'brad gillis'],
+      },
+
+      '.38 Special': {
+        bio: "Southern-flavored arena rock act featuring Donnie Van Zant who scored massive hits with 'Hold On Loosely' and 'Caught Up in You.'",
+        aliases: ['38 special', 'thirty eight special', '.38 special.', '38special', '.38special', '.38 special (band)', '38 special band', 'thirty-eight special', 'donnie van zant'],
+      },
+
+      'Pat Benatar': {
+        bio: "Hard-rocking arena powerhouse whose 'Hit Me with Your Best Shot' and 'Heartbreaker' made her one of the top-selling rock acts of the early 1980s.",
+        aliases: ['pat benatar.', 'patbenatar', 'pat benetar', 'pat benater', 'pat benattar', 'pat benetar.', 'p. benatar', 'pat benatar (band)', 'pat benitar', 'neil giraldo'],
+      },
+
+      'Triumph': {
+        bio: "Canadian arena rock power trio whose anthems 'Lay It on the Line' and 'Fight the Good Fight' made them a major concert draw alongside Rush.",
+        aliases: ['triumph.', 'triumph (band)', 'triumph band', 'triumph rock', 'triumph rock band', 'trimuph', 'rik emmett'],
+      },
+
+      'Sammy Hagar': {
+        bio: "The 'Red Rocker' built a massive solo arena career with hits like 'I Can't Drive 55' before and after his tenure fronting Van Halen.",
+        aliases: ['sammy hagar.', 'sammyhagar', 'sammy haggar', 'sammy hager', 's. hagar', 'sammy hagar (solo)', 'the red rocker', 'sam hagar', 'sammy hagar band'],
+      },
+
+      'Van Halen': {
+        bio: "One of the most iconic arena rock acts of all time, dominating stadiums with Eddie's guitar-hero wizardry and anthemic, party-rock hooks.",
+        aliases: ['van halen.', 'vanhalen', 'van halen (band)', 'van halen band', 'van helen', 'van halan', 'vanhallen', 'van hallen', 'vh', 'v.h.', 'eddie van halen', 'david lee roth', 'van halen i', 'van haen'],
+      },
+
+      'Kiss': {
+        bio: 'The quintessential arena rock spectacle act, pioneering the stadium-scale live show with pyrotechnics and theatrical costumes.',
+        aliases: ['kiss.', 'kiss (band)', 'kiss band', 'k.i.s.s.', 'kss', 'kiis', 'kiss rock', 'kiss rock band', 'gene simmons', 'paul stanley', 'ace frehley'],
+      },
+
+      'Queen': {
+        bio: 'Arguably the greatest arena rock band in history, blending hard rock, operatic vocals, and massive singalong anthems that defined the stadium concert experience.',
+        aliases: ['queen.', 'queen (band)', 'queen band', 'qween', 'quuen', 'quean', 'queen rock', 'freddie mercury', 'freddy mercury', 'brian may', 'queen rock band'],
+      },
+
+      'Rush': {
+        bio: 'Canadian power trio who merged progressive complexity with arena-filling energy, becoming one of the most enduring and influential classic rock acts.',
+        aliases: ['rush.', 'rush (band)', 'rush band', 'rush rock', 'rush rock band', 'rush canadian', 'rüsh', 'geddy lee', 'neil peart', 'alex lifeson', 'rush trio'],
+      },
+
+      'Bon Jovi': {
+        bio: 'Massively successful 1980s arena rock act whose polished hard rock anthems and charismatic live performances made them one of the biggest-selling rock bands worldwide.',
+        aliases: ['bon jovi.', 'bonjovi', 'bon jovi (band)', 'bon jovi band', 'bon jovie', 'bon jovii', 'b. jovi', 'jon bon jovi', 'john bon jovi', 'john bongiovi', 'richie sambora'],
+      },
+
+      'Black Sabbath': {
+        bio: 'Pioneering heavy rock icons whose crushing riffs and dark theatricality laid the groundwork for hard rock and heavy metal while filling arenas.',
+        aliases: ['blacksabbath', 'black sabbath (band)', 'black sabbbath', 'black sabbth', 'blak sabbath', 'b. sabbath', 'black sabbath band', 'sabbath', 'tony iommi', 'ozzy osbourne'],
+      },
+
+      'Rainbow': {
+        bio: "Ritchie Blackmore's post-Deep Purple vehicle bridged classic hard rock and neoclassical metal, producing arena-ready anthems with Ronnie James Dio.",
+        aliases: ['rainbow band', 'rainbow rock', 'ritchie blackmore\'s rainbow', 'ritchie blackmores rainbow', 'blackmore\'s rainbow', 'blackmores rainbow', 'rianbow', 'ranbow', 'ronnie james dio rainbow'],
+      },
+
+      'Dio': {
+        bio: "Ronnie James Dio's namesake band delivered powerful, melodic arena metal and hard rock, cementing his status as one of classic rock's greatest vocalists.",
+        aliases: ['dio band', 'dio rock', 'ronnie dio', 'ronnie j. dio', 'rjd', 'ronnie james dio band', 'deo', 'ronnie james dio (band)'],
+      },
+
+      'Asia': {
+        bio: "Arena rock supergroup formed by members of Yes, King Crimson, and ELP, whose self-titled 1982 debut was the year's best-selling album with soaring anthems.",
+        aliases: ['asia.', 'asia (band)', 'asia band', 'asia rock', 'asia rock band', 'asia supergroup', 'john wetton', 'steve howe asia', 'geoff downes asia', 'carl palmer asia'],
+      },
+
+      'Loverboy': {
+        bio: "Canadian arena rock hitmakers whose synth-laced power anthems like 'Working for the Weekend' were 1980s FM radio and concert staples.",
+        aliases: ['loverboy.', 'loverboy (band)', 'loverboy band', 'lover boy', 'loverboy rock', 'loverboy rock band', 'loverboi', 'mike reno', 'paul dean loverboy'],
+      },
+
+      'Golden Earring': {
+        bio: "Dutch classic rock mainstays best known for the epic arena staples 'Radar Love' and 'Twilight Zone,' bridging European hard rock with American FM radio.",
+        aliases: ['golden earring.', 'goldenearring', 'golden earring (band)', 'golden earing', 'golden ear ring', 'golden earring band', 'golden earings', 'golden earring rock', 'the golden earring', 'barry hay'],
+      },
+
+      'Robin Trower': {
+        bio: 'Post-Procol Harum guitar virtuoso whose Hendrix-influenced blues-rock power trios produced deeply revered classic rock albums throughout the 1970s.',
+        aliases: ['robin trower.', 'robintrower', 'robin trower (band)', 'robin trower band', 'r. trower', 'robin tower', 'robin trowwer', 'robin trower rock', 'trower'],
+      },
+
+      'Y&T': {
+        bio: 'San Francisco hard rock outfit who were cult arena favorites in the early 1980s, delivering blistering guitar-driven rock.',
+        aliases: ['y & t', 'y&t.', 'y&t (band)', 'y and t', 'yandt', 'y&t band', 'y & t.', 'yesterday and today', 'yesterday & today', 'yesterday and today band', 'dave meniketti', 'y&t rock'],
+      },
+
+      'April Wine': {
+        bio: 'Canadian classic rock and arena rock staples whose hard-edged power pop and AOR anthems made them consistent hitmakers throughout the 1970s.',
+        aliases: ['april wine.', 'aprilwine', 'april wine (band)', 'april wine band', 'april wine rock', 'april wne', 'aprl wine', 'myles goodwyn', 'april wine canadian'],
+      },
+
+      'Tesla': {
+        bio: 'Sacramento hard rock act who carried the torch of blues-based classic arena rock into the late 1980s with an organic, unpolished sound.',
+        aliases: ['tesla.', 'tesla (band)', 'tesla band', 'tesla rock', 'tesla rock band', 'telsa', 'tessla', 'teslsa', 'jeff keith', 'jeff keith tesla', 'tesla the band'],
+      },
+
+      'Great White': {
+        bio: 'Blues-drenched hard rock act whose late 1980s arena hits fused Led Zeppelin-style riffing with accessible hooks.',
+        aliases: ['great white.', 'greatwhite', 'great white (band)', 'great white band', 'great white rock', 'gret white', 'great wite', 'great whte', 'jack russell', 'jack russell great white', 'great white shark'],
+      },
+
+      'Quiet Riot': {
+        bio: "First metal act to reach number one on the Billboard 200 with 'Metal Health,' delivering crowd-pleasing arena rock anthems.",
+        aliases: ['quiet riot.', 'quietriot', 'quiet riot (band)', 'quiet riot band', 'quiet riot rock', 'quite riot', 'queit riot', 'quiet riott', 'kevin dubrow', 'quietriot.', 'quiet riot metal'],
+      },
+
+      'Cream': {
+        bio: 'Pioneering power trio featuring Eric Clapton whose blues-rock improvisational intensity in the late 1960s helped invent the arena rock concert format.',
+        aliases: ['cream.', 'cream (band)', 'cream band', 'cream rock', 'cream rock band', 'creme', 'creem', 'eric clapton cream', 'ginger baker cream', 'jack bruce cream', 'cream trio'],
+      },
+
+      'Pat Travers': {
+        bio: 'Canadian blues-rock guitarist and cult classic rock figure whose fiery live performances in the late 1970s earned him a devoted arena-circuit following.',
+        aliases: ['pat travers.', 'pattravers', 'pat travers (band)', 'pat travers band', 'pat travers rock', 'p. travers', 'pat traverse', 'pat travrs', 'ptb', 'pat travers band.'],
+      },
+
+      'Molly Hatchet': {
+        bio: 'Southern hard rock powerhouse who brought a triple-guitar attack and Lynyrd Skynyrd-inspired swagger to arenas.',
+        aliases: ['molly hatchet.', 'mollyhatchet', 'molly hatchet (band)', 'molly hatchet band', 'molly hatchett', 'moly hatchet', 'molly hachet', 'molly hatchet rock', 'm. hatchet', 'molly hatchet southern rock', 'danny joe brown'],
+      },
+
+      'Pink Floyd': {
+        bio: "One of the most influential and best-selling classic rock acts in history, whose albums like 'Dark Side of the Moon' and 'The Wall' defined arena-scale ambition.",
+        aliases: ['pink floyd.', 'pinkfloyd', 'pink floyd (band)', 'pink flloyd', 'p. floyd', 'pink flyod', 'the pink floyd', 'roger waters', 'david gilmour', 'syd barrett pink floyd'],
+      },
+
+      'Eagles': {
+        bio: "Their Greatest Hits became the best-selling album in US history, and 'Hotel California' is the archetypal classic rock radio album.",
+        aliases: ['the eagles', 'eagles.', 'the eagles.', 'theeagles', 'eagles (band)', 'the eagels', 'eagels', 'don henley', 'glenn frey', 'joe walsh eagles'],
+      },
+
+      'The Doors': {
+        bio: "Jim Morrison and Ray Manzarek's organ-driven psychedelic rock became foundational to classic rock radio and the mythology of the genre itself.",
+        aliases: ['doors', 'thedoors', 'the doors.', 'doors.', 'the doors (band)', 'doors (band)', 'jim morrison', 'j. morrison', 'morrison', 'ray manzarek', 'the dors'],
+      },
+
+      'Bob Seger & The Silver Bullet Band': {
+        bio: "Quintessential heartland arena rock, with 'Night Moves' and 'Live Bullet' embodying the blue-collar power of American classic rock.",
+        aliases: ['bob seger', 'bob seger.', 'bob seger and the silver bullet band', 'bobseger', 'bob seeger', 'bob seger.', 'b. seger', 'bob seger band', 'silver bullet band', 'bob segr'],
+      },
+
+      'The Allman Brothers Band': {
+        bio: "Pioneers of Southern rock whose improvisational twin-guitar attack on 'At Fillmore East' set the template for decades of jam-based arena rock.",
+        aliases: ['allman brothers', 'allman brothers band', 'theallmanbrothersband', 'the allman brothers', 'allman brothers.', 'the allman brothers band.', 'allman bros', 'allmans', 'the allmans', 'duane allman', 'gregg allman', 'alman brothers'],
+      },
+
+      'Santana': {
+        bio: "Carlos Santana's fusion of Latin percussion with blues-rock guitar created a singular classic rock voice that broke through at Woodstock.",
+        aliases: ['santana.', 'santana (band)', 'carlos santana', 'c. santana', 'santanna', 'santana band', 'carlos santana band'],
+      },
+
+      'Dire Straits': {
+        bio: "Mark Knopfler's fingerpicked guitar tone and literary songwriting made 'Brothers in Arms' one of the biggest-selling arena rock albums of the 1980s.",
+        aliases: ['dire straits.', 'direstraits', 'dire straits (band)', 'dire strats', 'dire straights', 'dire-straits', 'mark knopfler', 'm. knopfler', 'knopfler'],
+      },
+
+      'Electric Light Orchestra': {
+        bio: "Jeff Lynne's orchestral rock vision produced an unbroken run of classic rock radio staples that merged Beatles ambition with arena-scaled pop-rock.",
+        aliases: ['elo', 'e.l.o.', 'e.l.o', 'electric light orchestra.', 'electriclightorchestra', 'the electric light orchestra', 'elo.', 'elo (band)', 'jeff lynne', 'jeff lynne elo', 'jeff lynn', 'electirc light orchestra'],
+      },
+
+      'Supertramp': {
+        bio: "'Breakfast in America' and 'Crime of the Century' represent the art-rock side of arena rock at its most commercially dominant and sonically meticulous.",
+        aliases: ['supertramp.', 'super tramp', 'supertramp (band)', 'supertramp band', 'super-tramp', 'supetramp', 'roger hodgson', 'rick davies supertramp'],
+      },
+
+      'The Doobie Brothers': {
+        bio: 'Evolved from chugging boogie-rock into yacht-soul sophistication while remaining a classic rock radio cornerstone across both eras.',
+        aliases: ['doobie brothers', 'thedoobiebrothers', 'the doobie brothers.', 'doobiebrothers', 'doobie bros', 'the doobies', 'doobies', 'tom johnston', 'michael mcdonald doobie brothers', 'the dooby brothers'],
+      },
+
+      'Steve Miller Band': {
+        bio: "'Fly Like an Eagle' and 'The Joker' made Steve Miller one of classic rock radio's most inescapable presences, with a space-blues guitar tone all his own.",
+        aliases: ['steve miller', 'stevemillerband', 'steve miller band.', 'the steve miller band', 'steve miller.', 's. miller', 'steve miller (band)', 'steve miler band', 'smb'],
+      },
+
+      'The J. Geils Band': {
+        bio: "Raw R&B-fueled party rock that tore through arenas in the early '80s, with 'Freeze-Frame' and a live show reputation that rivaled anyone in the genre.",
+        aliases: ['j. geils band', 'j geils band', 'j.geils band', 'thejgeilsband', 'j. geils', 'j geils', 'the j geils band', 'j. geils band.', 'j.geils', 'peter wolf', 'peter wolf j geils'],
+      },
+
+      'Toto': {
+        bio: "Session-musician precision turned arena rock, whose self-titled debut and 'Toto IV' represent the genre's most technically accomplished wing.",
+        aliases: ['toto.', 'toto (band)', 'toto band', 'toto rock', 'totó', 'steve lukather', 'steve lukather toto', 'david paich', 'jeff porcaro', 'toto iv'],
+      },
+
+      'Faces': {
+        bio: "The ragged, boozy elegance of Rod Stewart and Ronnie Wood's Faces laid the blueprint for unpretentious pub-to-arena rock swagger.",
+        aliases: ['faces.', 'faces (band)', 'the faces', 'thefaces', 'faces band', 'small faces / faces', 'rod stewart faces', 'rod stewart', 'rod stewart.', 'ronnie wood faces', 'ronnie lane', 'rod stewart & the faces'],
+      },
+
+      'Rory Gallagher': {
+        bio: "Ireland's greatest blues-rock guitarist, whose ferocious live performances and 'Irish Tour '74' are sacred texts for serious classic rock collectors.",
+        aliases: ['rory gallagher.', 'rorygallagher', 'rory gallagher (band)', 'r. gallagher', 'rory gallagher band', 'rory gallager', 'rory gallaher', 'rory galagher', 'rory gallagher irish'],
+      },
+
+      'Wishbone Ash': {
+        bio: "Pioneered twin-lead harmony guitar a full generation before Thin Lizzy, with 'Argus' standing as one of early-'70s British rock's most enduring deep cuts.",
+        aliases: ['wishbone ash.', 'wishboneash', 'wishbone ash (band)', 'wish bone ash', 'wishbone-ash', 'wishbone ash band', 'wishbne ash', 'andy powell wishbone ash'],
+      },
+
+      'Status Quo': {
+        bio: "Britain's most relentless boogie-rock institution, filling arenas for decades with a heads-down three-chord attack that became a national institution.",
+        aliases: ['status quo.', 'statusquo', 'status quo (band)', 'status quo band', 'the status quo', 'staus quo', 'status qou', 'statsu quo', 'francis rossi', 'rick parfitt'],
+      },
+
+      'Billy Squier': {
+        bio: "The 'Stroke' and 'Rock Me Tonite' era made Squier one of early-'80s arena rock's biggest draws, and his riffs remain some of the most sampled in hip-hop history.",
+        aliases: ['billy squier.', 'billysquier', 'billy squire', 'billy squier (band)', 'b. squier', 'billy squire.', 'billy sqiuer', 'billy squier band'],
+      },
+
+      'Steely Dan': {
+        bio: "The perfectionist jazz-rock outliers of classic rock whose 'Aja' and 'The Royal Scam' remain audiophile reference-grade records.",
+        aliases: ['steely dan.', 'steelydan', 'steely dan (band)', 'steely dan band', 'steelyd an', 'steely-dan', 'donald fagen', 'walter becker', 'fagen and becker', 'fagen becker'],
+      },
+
+      'Bryan Adams': {
+        bio: "'Reckless' is a masterclass in hooks-first arena rock songwriting, and his relentless touring made him one of the genre's most dependable worldwide draws.",
+        aliases: ['bryan adams.', 'bryanadams', 'bryan adams (band)', 'brian adams', 'b. adams', 'bryan adams band', 'bryan addams', 'bryan admas', 'bryan adams canadian'],
+      },
+
+      'Ratt': {
+        bio: "'Out of the Cellar' defined the Sunset Strip's transition from club circuit to arena-level dominance.",
+        aliases: ['ratt.', 'ratt (band)', 'ratt band', 'ratt rock', 'ratt!', 'stephen pearcy', 'warren demartini', 'stephen pearcy ratt', 'ratt la'],
+      },
+
+      'The Guess Who': {
+        bio: "Canada's first international rock powerhouse, whose 'American Woman' and 'These Eyes' made them essential precursors to the Canadian arena rock lineage.",
+        aliases: ['guess who', 'theguesswho', 'the guess who.', 'guess who.', 'guesswho', 'the guess who (band)', 'burton cummings', 'randy bachman', 'randy bachman guess who'],
+      },
+
+      'Steppenwolf': {
+        bio: "'Born to Be Wild' literally coined the term 'heavy metal' and defined biker-culture rock mythology — a foundational classic rock record.",
+        aliases: ['steppenwolf.', 'steppenwolf (band)', 'steppenwolf band', 'stepenwolf', 'steppen wolf', 'steppenwolf rock', 'john kay', 'john kay steppenwolf', 'steppnwolf'],
+      },
+
+      'Ten Years After': {
+        bio: "Alvin Lee's blinding speed at Woodstock made him an instant guitar hero, and the band's blues-rock chops represent the British Invasion's hard-rocking second wave.",
+        aliases: ['ten years after.', 'tenyearsafter', 'ten years after (band)', '10 years after', 'tya', 't.y.a.', 'alvin lee', 'alvin lee ten years after', 'ten yrs after', 'ten years aftr'],
+      },
+    },
+
+    'Post-Punk / New Wave': {
+      'Joy Division': {
+        bio: "The bleak, industrial-toned architects of post-punk whose atmospheric production defined the Factory Records sound and the genre's gothic wing.",
+        aliases: ['joydivision', 'joy division.', 'joy divison', 'Ian Curtis'],
+      },
+
+      'The Cure': {
+        bio: "Robert Smith's towering vision evolved from sparse, angular post-punk into lush, stadium-filling gothic pop, defining the aesthetics of 80s alternative music.",
+        aliases: ['Cure', 'thecure', 'the cure.', 'Robert Smith'],
+      },
+
+      'The Cars': {
+        bio: "Ric Ocasek's incredibly tight, synth-laced power-pop bridged the gap between CBGB punk energy and massive MTV-era new wave commercial success.",
+        aliases: ['the cars.', 'thecars', 'ric ocasek'],
+      },
+
+      'Blondie': {
+        bio: "Debbie Harry and Chris Stein's CBGB-born outfit effortlessly fused punk, disco, reggae, and new wave into some of the most enduring pop of the late 70s.",
+        aliases: ['blondie.', 'debbie harry'],
+      },
+
+      'Talking Heads': {
+        bio: "CBGB art-punks turned global superstars, David Byrne's twitchy paranoia and Brian Eno's polyrhythmic production created the most cerebral dance music of the 80s.",
+        aliases: ['talkingheads', 'talking heads.', 'David Byrne', 'david byrne.', 'talking-heads'],
+      },
+
+      'Wire': {
+        bio: "Their debut 'Pink Flag' is the Rosetta Stone of post-punk, stripping rock down to its barest, most minimalist, and intelligent essentials.",
+        aliases: ['Wire (Band)', 'wire.', 'wire band'],
+      },
+
+      'Gang of Four': {
+        bio: "The Marxist funk-punk originators whose jagged, feedback-laced guitar sound on 'Entertainment!' directly influenced everything from R.E.M. to the 2000s post-punk revival.",
+        aliases: ['gangoffour', 'gang of four.', 'gof'],
+      },
+
+      'Siouxsie and the Banshees': {
+        bio: "True post-punk royalty whose tribal drumming, icy guitars, and Siouxsie Sioux's commanding wail laid the foundation for goth and darkwave.",
+        aliases: ['Siouxsie & the Banshees', 'siouxsie', 'siouxsie and the banshees.', 'siousxie and the banshees'],
+      },
+
+      'Bauhaus': {
+        bio: "One of the defining post-punk acts whose stark, angular sound on tracks like 'Bela Lugosi's Dead' helped establish the genre's gothic wing.",
+        aliases: ['bauhaus.', 'bauhaus band', 'bauhaus (band)', 'bau haus', 'peter murphy bauhaus', 'bahaus'],
+      },
+
+      'Echo & the Bunnymen': {
+        bio: "Liverpool's finest post-punk group whose richly atmospheric guitar sound and Ian McCulloch's baritone voice made them one of the genre's most acclaimed acts.",
+        aliases: ['echo and the bunnymen', 'echo&the bunnymen', 'echo and the bunny men', 'echoandthebunnymen', 'echo & the bunnymen.', 'the bunnymen', 'ian mcculloch', 'echo and the bunneymen', 'echo & bunnymen'],
+      },
+
+      'Public Image Ltd': {
+        bio: "John Lydon's post-Sex Pistols project was a radical post-punk experiment, blending dub bass, abrasive guitar, and avant-garde structures.",
+        aliases: ['public image limited', 'pil', 'p.i.l.', 'p.i.l', 'public image ltd.', 'publicimageltd', 'public image', 'john lydon pil'],
+      },
+
+      'The Fall': {
+        bio: "Mark E. Smith's endlessly prolific and confrontational group defined the rawer, more experimental end of post-punk across four decades.",
+        aliases: ['thefall', 'the fall.', 'fall', 'the fall band', 'mark e smith', 'mark e. smith', 'the fall (band)', 'thee fall'],
+      },
+
+      'Devo': {
+        bio: "Akron's de-evolution pioneers fused art-school conceptualism with jerky synth-driven new wave, producing some of the genre's most iconic and subversive pop.",
+        aliases: ['devo.', 'devo band', 'de-vo', 'd.e.v.o', 'd.e.v.o.', 'devo (band)', 'mark mothersbaugh'],
+      },
+
+      'The Chameleons': {
+        bio: "A deeply influential cult post-punk band from Manchester whose lush, reverb-drenched guitar interplay on 'Script of the Bridge' is considered a genre masterpiece.",
+        aliases: ['thechameleons', 'the chameleons.', 'chameleons', 'the chameleons uk', 'chameleons uk', 'the chameleonsuk', 'the chamelons'],
+      },
+
+      'Killing Joke': {
+        bio: "Their crushing, tribal rhythms and metallic guitar textures made them one of post-punk's heaviest and most intense acts.",
+        aliases: ['killingjoke', 'killing joke.', 'killing joke band', 'killing-joke', 'killng joke', 'kiling joke'],
+      },
+
+      'Magazine': {
+        bio: "Howard Devoto's sophisticated post-punk group combined literary lyrics, jagged guitars, and dramatic keyboards to create one of the genre's most cerebral bodies of work.",
+        aliases: ['magazine.', 'magazine band', 'magazine (band)', 'howard devoto magazine', 'howard devoto', 'magazne'],
+      },
+
+      'The Sound': {
+        bio: 'Led by the tragically underappreciated Adrian Borland, The Sound delivered impassioned, urgent post-punk that rivals Joy Division and The Chameleons in depth and intensity.',
+        aliases: ['thesound', 'the sound.', 'the sound band', 'the sound (band)', 'adrian borland', 'adrian borland the sound'],
+      },
+
+      'The Birthday Party': {
+        bio: "Nick Cave's pre-Bad Seeds group played a ferocious, unhinged strain of post-punk rooted in swamp blues and expressionist noise.",
+        aliases: ['thebirthdayparty', 'the birthday party.', 'birthday party', 'the birthday party band', 'nick cave birthday party', 'the birthday party (band)', 'birthdayparty'],
+      },
+
+      'A Certain Ratio': {
+        bio: 'A Factory Records staple who blended post-punk angularity with funk, jazz, and electronic rhythms, representing the danceable, experimental side of the Manchester scene.',
+        aliases: ['acertainratio', 'a certain ratio.', 'acr', 'a.c.r.', 'a certain ratio band', 'a certan ratio', 'a-certain-ratio'],
+      },
+
+      'The Psychedelic Furs': {
+        bio: "Richard Butler's richly textured post-punk band bridged angular early work with glossy new wave pop, influencing the genre's commercial crossover.",
+        aliases: ['psychedelic furs', 'thepsychedelicfurs', 'the psychedelic furs.', 'psychedelicfurs', 'pschyedelic furs', 'richard butler', 'the psych furs'],
+      },
+
+      'Pere Ubu': {
+        bio: "Cleveland proto-post-punk visionaries whose avant-garde noise, unsettling atmospherics, and David Thomas's unhinged vocals predated and shaped the entire movement.",
+        aliases: ['pereubu', 'pere ubu.', 'père ubu', 'pere-ubu', 'pere ubu band', 'david thomas pere ubu'],
+      },
+
+      'The Sisters of Mercy': {
+        bio: 'Leeds goth-rock institution whose drum-machine-driven, baritone-vocal post-punk became a genre-defining template alongside Bauhaus and Siouxsie.',
+        aliases: ['sisters of mercy', 'thesistersofmercy', 'the sisters of mercy.', 'sistersofmercy', 'sisters of mercy.', 'the sisters', 'andrew eldritch', 'the sisters of mery', 'sister of mercy', 'sisters-of-mercy'],
+      },
+
+      'Cabaret Voltaire': {
+        bio: 'Sheffield industrial post-punk experimentalists whose tape-loop-heavy electronic approach paralleled Wire and Pere Ubu in deconstructing rock conventions.',
+        aliases: ['cabaretvoltaire', 'cabaret voltaire.', 'cab voltaire', 'cabaret voltare', 'cabaret voltiare', 'cab volt', 'cabaret-voltaire', 'cabaret voltaire (band)', 'c.v.'],
+      },
+
+      'The Comsat Angels': {
+        bio: "Sheffield post-punk group whose atmospheric, melancholic guitar-driven sound on albums like 'Sleep No More' placed them squarely alongside The Sound and The Chameleons.",
+        aliases: ['comsat angels', 'thecomsatangels', 'the comsat angels.', 'comsatangels', 'the comsat angels band', 'comsat angels.', 'the comsat angelss', 'comsat-angels', 'the comsats'],
+      },
+
+      'Modern English': {
+        bio: '4AD-affiliated post-punk band whose early dark records evolved into shimmering new wave, bridging the atmospheres of Cocteau Twins and Echo & the Bunnymen.',
+        aliases: ['modernenglish', 'modern english.', 'modern english band', 'modern-english', 'modern english (band)', 'moder english', 'modem english'],
+      },
+
+      'The Durutti Column': {
+        bio: "Factory Records' most delicate post-punk act, whose impressionistic guitar textures from Vini Reilly offered a contemplative counterpart to labelmates Joy Division.",
+        aliases: ['durutti column', 'thedurutticolumn', 'the durutti column.', 'durutticolumn', 'the duritti column', 'the duruti column', 'durutti column.', 'vini reilly', 'the durutti collumn', 'the-durutti-column'],
+      },
+
+      'Tuxedomoon': {
+        bio: "San Francisco post-punk experimentalists who fused synthesizers, violin, and cinematic ambition in a manner that paralleled Wire and Cabaret Voltaire's boundary-pushing ethos.",
+        aliases: ['tuxedo moon', 'tuxedomoon.', 'tuxedomoon band', 'tuxedo-moon', 'tuxedomoon (band)', 'tuxdomoon', 'tuxemoon'],
+      },
+
+      'Clan of Xymox': {
+        bio: 'Dutch 4AD post-punk group whose layered synths and darkly romantic songwriting made them essential peers of The Cure and Siouxsie and the Banshees.',
+        aliases: ['clan of xymox band', 'clan of ximox', 'clan-of-xymox', 'clanofximox'],
+      },
+
+      'Josef K': {
+        bio: 'Scottish Postcard Records legends whose angular, Franz Kafka-inspired guitar post-punk directly paralleled and rivaled Gang of Four and Wire in stripped-down intensity.',
+        aliases: ['josefk', 'josef k.', 'josef k band', 'josef-k', 'josef k (band)', 'joself k', 'paul haig josef k', 'paul haig'],
+      },
+
+      'Crispy Ambulance': {
+        bio: 'Manchester Factory Records post-punk band whose brooding, reverb-drenched sound was a natural companion to Joy Division and The Sound in the early 1980s.',
+        aliases: ['crispyambulance', 'crispy ambulance.', 'crispy ambulance band', 'crispy-ambulance', 'crispy ambulance (band)', 'crispy ambulnce'],
+      },
+
+      'The Pop Group': {
+        bio: 'Bristol post-punk radicals whose explosive fusion of funk, dub, free jazz, and agit-prop noise stood alongside Gang of Four and Pere Ubu as genre-defining deconstructors.',
+        aliases: ['pop group', 'thepopgroup', 'the pop group.', 'the pop group band', 'the-pop-group', 'the pop group (band)', 'popgroup', 'mark stewart pop group', 'mark stewart'],
+      },
+
+      'The Monochrome Set': {
+        bio: 'Witty, art-school post-punk group whose jangling, literate songwriting bridged the aesthetics of Wire and Talking Heads with a distinctly British eccentricity.',
+        aliases: ['monochrome set', 'themonochromeset', 'the monochrome set.', 'monochromeset', 'the monochrome set band', 'the-monochrome-set', 'the monochrome set (band)', 'monocrome set'],
+      },
+
+      'Sad Lovers & Giants': {
+        bio: 'Cult UK post-punk band whose shimmering, effects-laden guitar sound and atmospheric melancholy earned them deserved comparisons to Echo & the Bunnymen and The Chameleons.',
+        aliases: ['sad lovers and giants', 'sadloversandgiants', 'sad lovers & giants.', 'sad lovers and giants.', 'sad-lovers-and-giants', 'sad lovers + giants', 'sadlovers&giants', 'sad lovers giants'],
+      },
+
+      'Red Lorry Yellow Lorry': {
+        bio: 'Leeds post-punk band whose driving, bass-heavy gothic sound placed them firmly alongside The Sisters of Mercy and Killing Joke in the darker wing of the genre.',
+        aliases: ['redlorryyellowlorry', 'red lorry yellow lorry.', 'the lorries', 'red lorry', 'red-lorry-yellow-lorry', 'red lorrie yellow lorrie', 'rlyl'],
+      },
+
+      'And Also the Trees': {
+        bio: "Rural English post-punk group mentored by The Cure's Robert Smith, whose pastoral atmospherics and literary lyrics made them one of the genre's most distinctive cult acts.",
+        aliases: ['andalso the trees', 'andalsothetrees', 'and also the trees.', 'and-also-the-trees', 'and also the trees band', 'also the trees', 'and also the tree'],
+      },
+
+      'Section 25': {
+        bio: "Factory Records post-punk act whose blend of motorik rhythms, synths, and glacial atmospheres connected the dots between Joy Division and New Order's electronic evolution.",
+        aliases: ['section25', 'section 25.', 'section twenty five', 'section-25', 'section 25 band', 'section 25 (band)', 'secton 25'],
+      },
+
+      'The Raincoats': {
+        bio: 'Pioneering all-female London post-punk group whose radical, free-form deconstructions of pop and rock were as boldly experimental as Wire and Gang of Four.',
+        aliases: ['raincoats', 'theraincoats', 'the raincoats.', 'the raincoats band', 'the-raincoats', 'the raincoats (band)', 'raincoats.', 'the rain coats'],
+      },
+
+      'XTC': {
+        bio: 'Swindon new wave innovators whose tightly wound, angular early records sat perfectly alongside Talking Heads and Devo before evolving into baroque pop classicism.',
+        aliases: ['x.t.c.', 'x.t.c', 'xtc.', 'xtc band', 'xtc (band)', 'andy partridge xtc', 'andy partridge', 'x t c'],
+      },
+
+      'The Associates': {
+        bio: 'Scottish post-punk duo whose dramatic, soaring vocals from Billy Mackenzie and adventurous production rivaled The Cure and Siouxsie in emotional intensity and sonic ambition.',
+        aliases: ['associates', 'theassociates', 'the associates.', 'the associates band', 'the-associates', 'the associates (band)', 'billy mackenzie', 'billy mackenzie associates', 'asociates'],
+      },
+
+      'Minimal Compact': {
+        bio: 'Israeli-Belgian post-punk group whose hypnotic bass-driven sound and Middle Eastern-inflected melodies brought a unique global perspective to the Bauhaus and Killing Joke continuum.',
+        aliases: ['minimalcompact', 'minimal compact.', 'minimal compact band', 'minimal-compact', 'minimal compact (band)', 'minimal compct', 'minmal compact'],
+      },
+
+      'The Teardrop Explodes': {
+        bio: "Julian Cope's Liverpool post-punk/neo-psychedelic group was a key part of the same scene that produced Echo & the Bunnymen, blending new wave hooks with adventurous arrangements.",
+        aliases: ['teardrop explodes', 'theteardropexplodes', 'the teardrop explodes.', 'teardropexplodes', 'the tear drop explodes', 'the-teardrop-explodes', 'julian cope teardrop', 'julian cope', 'the teardrop explodes (band)', 'tear drop explodes'],
+      },
+
+      'The Wake': {
+        bio: "Quintessential Factory Records post-punk act whose shimmering, melancholic sound bridges Joy Division's darkness and New Order's synthesizer pop.",
+        aliases: ['thewake', 'the wake.', 'wake', 'the wake band', 'the-wake', 'the wake (band)', 'the wake factory', 'the wake scotland'],
+      },
+
+      'Virgin Prunes': {
+        bio: "Dublin's confrontational post-punk collective emerged from the same Lypton Village scene as U2 but pursued a far darker, theatrical path aligned with Bauhaus and Birthday Party.",
+        aliases: ['virginprunes', 'virgin prunes.', 'the virgin prunes', 'virgin-prunes', 'virgin prunes (band)', 'virginprunes.', 'gavin friday virgin prunes', 'gavin friday', 'virgn prunes'],
+      },
+
+      'Fad Gadget': {
+        bio: "Mute Records' first signing and a pioneering post-punk/industrial performer whose body-music theatrics and electronic experimentation influenced the entire darkwave lineage.",
+        aliases: ['fad-gadget', 'fadgadet', 'fad gadjet', 'frank tovey fad gadget'],
+      },
+
+      'The Mekons': {
+        bio: 'Leeds post-punk originators who emerged alongside Gang of Four from the same art-school milieu, delivering agit-prop post-punk with restless stylistic adventurism.',
+        aliases: ['mekons', 'themekons', 'the mekons.', 'the-mekons', 'the mekons (band)', 'mekons.', 'the mekons band', 'the mecons', 'mecons'],
+      },
+
+      'The Slits': {
+        bio: "Groundbreaking all-female post-punk group whose dub-inflected deconstructions of punk ran parallel to The Raincoats and Pop Group in reshaping the genre's boundaries.",
+        aliases: ['slits', 'theslits', 'the slits.', 'the-slits', 'the slits (band)', 'slits.', 'the slits band', 'ari up slits', 'ari up'],
+      },
+
+      'The Au Pairs': {
+        bio: "Birmingham's politically charged post-punk group combined angular Gang of Four-style guitar work with incisive feminist lyrical content.",
+        aliases: ['au pairs', 'theaupairs', 'the au pairs.', 'aupairs', 'the-au-pairs', 'the au pairs (band)', 'au pairs.', 'the au pars', 'au pars'],
+      },
+
+      'Delta 5': {
+        bio: 'Leeds post-punk collective featuring dual bass guitars and call-and-response vocals, emerging from the same scene as Gang of Four and The Mekons.',
+        aliases: ['delta5', 'delta 5.', 'delta-5', 'delta five', 'delta 5 (band)', 'delta 5 band', 'delta5.', 'the delta 5', 'dlta 5'],
+      },
+
+      'Eyeless in Gaza': {
+        bio: 'Cherry Red Records post-punk duo whose experimental, emotionally raw sound sits perfectly alongside labelmates like The Monochrome Set and Felt.',
+        aliases: ['eyelessingaza', 'eyeless in gaza.', 'eyeless-in-gaza', 'eyeless in gaza (band)', 'eyeless in gaza band', 'eyless in gaza', 'eyeless gaza', 'martyn bates', 'martyn bates eyeless in gaza'],
+      },
+
+      'Swell Maps': {
+        bio: 'Proto-post-punk pioneers whose lo-fi experimentalism and DIY aesthetic were a crucial bridge between first-wave punk and the post-punk underground.',
+        aliases: ['swellmaps', 'swell maps.', 'the swell maps', 'swell-maps', 'swell maps (band)', 'swell maps band', 'swel maps', 'swellmaps.', 'nikki sudden swell maps'],
+      },
+
+      'Xmal Deutschland': {
+        bio: "Hamburg's defining post-punk/goth group brought a Germanic intensity to the 4AD roster, bridging Siouxsie's Banshees and Clan of Xymox's darkwave.",
+        aliases: ['xmaldeutschland', 'xmal deutschland.', 'x-mal deutschland', 'x mal deutschland', 'xmal-deutschland', 'xmal deutchland', 'xmal deutshland', 'xmal', 'xmal deutschland (band)'],
+      },
+
+      'Theatre of Hate': {
+        bio: "Kirk Brandon's anthemic post-punk group channeled Killing Joke's tribal rhythms and Spaghetti Western guitar into a powerful, cinematic sound.",
+        aliases: ['theatreofhate', 'theatre of hate.', 'theater of hate', 'theatre-of-hate', 'theatre of hate (band)', 'theatre of hate band', 'theatreofhate.', 'kirk brandon', 'kirk brandon theatre of hate'],
+      },
+
+      'Mission of Burma': {
+        bio: "Boston's fiercely intellectual post-punk trio matched Wire's taut experimentalism with American noise-guitar intensity, becoming a key US post-punk touchstone.",
+        aliases: ['missionofburma', 'mission of burma.', 'mission-of-burma', 'mission of burma (band)', 'mob', 'mission of burma band', 'misson of burma', 'roger miller burma'],
+      },
+
+      'The Names': {
+        bio: 'Belgian post-punk group on Factory Benelux/Les Disques du Crépuscule whose tense, angular sound epitomized the Continental post-punk aesthetic alongside Minimal Compact and Tuxedomoon.',
+        aliases: ['names', 'thenames', 'the names.', 'the-names', 'the names (band)', 'the names band', 'the names belgium', 'thenames.', 'the namez'],
+      },
+
+      'The Passage': {
+        bio: 'Manchester post-punk group on Cherry Red whose cerebral, politically engaged sound shared the same intellectual DNA as Magazine and The Fall.',
+        aliases: ['passage', 'thepassage', 'the passage.', 'the-passage', 'the passage (band)', 'the passage band', 'thepassage.', 'the passage manchester', 'dick witts'],
+      },
+
+      'Young Marble Giants': {
+        bio: "Cardiff's minimalist post-punk trio created a strikingly spare, hushed sound on their sole album that profoundly influenced generations of post-punk and indie artists.",
+        aliases: ['youngmarblegiants', 'young marble giants.', 'ymg', 'young-marble-giants', 'young marble giants (band)', 'young marble giants band', 'youngmarblegiants.', 'yong marble giants', 'young marple giants'],
+      },
+
+      'Lowlife': {
+        bio: 'Scottish post-punk band on 4AD whose lush, atmospheric guitar sound directly extended the lineage of The Chameleons and The Comsat Angels.',
+        aliases: ['lowlife.', 'lowlife band', 'lowlife (band)', 'low life', 'low-life', 'lowlife 4ad', 'lowlife scotland', 'craig lorentson lowlife', 'lowlfe'],
+      },
+
+      'The March Violets': {
+        bio: 'Leeds goth-post-punk act who shared both a city and a dark, driving aesthetic with The Sisters of Mercy and Red Lorry Yellow Lorry.',
+        aliases: ['march violets', 'themarchviolets', 'the march violets.', 'marchviolets', 'the-march-violets', 'the march violets (band)', 'march violets.', 'the march violettes', 'march violts'],
+      },
+
+      'The Membranes': {
+        bio: "Blackpool's abrasive, bass-heavy post-punk group led by John Robb delivered a ferocious noise that sat between The Fall's anti-rock and Killing Joke's intensity.",
+        aliases: ['membranes', 'themembranes', 'the membranes.', 'the-membranes', 'the membranes (band)', 'membranes.', 'the membranes band', 'john robb membranes', 'john robb'],
+      },
+
+      'Angine de Poitrine': {
+        bio: 'French-language post-punk provocateurs delivering raw, angular energy with sardonic Francophone wit — the kind of tightly-wound, caffeinated noise-rock that recalls Wire and Les Thugs at their most ferocious.',
+        aliases: ['angine de poitrine.', 'angine-de-poitrine', 'anginedepoitrine', 'angine', 'angine de poitrine band'],
+      },
+    },
+
+    'Progressive / Experimental': {
+      'King Gizzard & The Lizard Wizard': {
+        bio: "The relentlessly prolific Australian psych collective who treat genre as a sandbox—microtonal rock, thrash, boogie, and prog, often several albums deep in a single year.",
+        aliases: ['king gizzard', 'the lizard wizard', 'kglw', 'king gizzard and the lizard wizard'],
+      },
+
+      'Yes': {
+        bio: "The foundational kings of progressive rock whose albums 'Close to the Edge' and 'Fragile' define the genre's ambitious, symphonic peak.",
+        aliases: ['yes.', 'yes (band)', 'yes band', 'jon anderson'],
+      },
+
+      'Genesis': {
+        bio: "Peter Gabriel and Phil Collins's project evolved from weird, theatrical avant-prog into one of the most successful pop-prog bands in history.",
+        aliases: ['genesis.', 'genesis (band)', 'genesis band', 'peter gabriel'],
+      },
+
+      'Frank Zappa': {
+        bio: 'The ultimate composer-iconoclast; his sprawling discography blends doo-wop, free jazz, orchestral avant-garde, and blistering guitar rock into pure genius.',
+        aliases: ['frank zappa.', 'zappa', 'f. zappa', 'the mothers of invention'],
+      },
+
+      'King Crimson': {
+        bio: 'The defining pioneers of progressive rock whose debut basically invented the genre, balancing crushing mellotrons with delicate jazz-rock interludes.',
+        aliases: ['kingcrimson', 'king crimsn', 'king crimson.', 'KC', 'robert fripp'],
+      },
+
+      'The Mars Volta': {
+        bio: "Omar Rodríguez-López and Cedric Bixler-Zavala's post-hardcore prog juggernaut, marrying blistering punk energy to Santana-esque Latin-fusion and King Crimson complexity.",
+        aliases: ['Mars Volta', 'TMV', 'The Mars Volta.'],
+      },
+
+      'Steven Wilson': {
+        bio: 'The modern king of progressive rock and reference-grade 5.1 surround mixes, an absolute titan of high-fidelity art-rock and atmospheric production.',
+        aliases: ['Steve Wilson', 'S. Wilson', 'Steven Wilson.'],
+      },
+
+      'Porcupine Tree': {
+        bio: "Wilson's main project transitioned from psychedelic space-rock into heavy, metal-infused modern prog, delivering some of the most flawlessly engineered rock records of the 2000s.",
+        aliases: ['porcupinetree', 'porcupine tree.', 'pocupine tree', 'PT'],
+      },
+
+      'Tortoise': {
+        bio: "Chicago post-rock pioneers whose jazz-inflected, vibraphone-heavy instrumentals on 'Millions Now Living Will Never Die' became the gold standard for 90s experimental rock.",
+        aliases: ['Tortoise (Band)'],
+      },
+
+      'Can': {
+        bio: "The quintessential krautrock band whose improvisational genius and Jaki Liebezeit's motorik drumming essentially laid the groundwork for post-punk, ambient, and modern electronic music.",
+        aliases: ['Can (Band)', 'can.', 'The Can'],
+      },
+
+      'Magma': {
+        bio: "Christian Vander's completely unique creation: singing in an invented language (Kobaïan), blending Carl Orff, John Coltrane, and heavy prog into the terrifying genre known as Zeuhl.",
+        aliases: ['Magma (Band)', 'magma.'],
+      },
+
+      'Slint': {
+        bio: "Their album 'Spiderland' practically invented the quiet-loud dynamics and spoken-word intensity of 90s post-rock, directly influencing Mogwai and Explosions in the Sky.",
+        aliases: ['slint.', 'slint (band)'],
+      },
+
+      'This Heat': {
+        bio: "A terrifying, brilliant post-punk/experimental trio whose manipulation of tape loops and abrasive noise on 'Deceit' anticipated industrial rock and math rock by decades.",
+        aliases: ['thisheat', 'this heat.'],
+      },
+
+      'Battles': {
+        bio: 'Math-rock virtuosos who turned loop pedals and interlocking rhythmic complexity into joyous, danceable experimental pop.',
+        aliases: ['battles.', 'battles (band)'],
+      },
+
+      'Don Caballero': {
+        bio: "The absolute godfathers of instrumental math-rock, whose shifting time signatures and Damon Che's octopus-like drumming established a completely new rock vocabulary.",
+        aliases: ['Don Cab', 'doncaballero', 'don cabalero'],
+      },
+
+      'Bark Psychosis': {
+        bio: "'Hex' coined the very term 'post-rock', blending ambient textures, jazz instrumentation, and Talk Talk-esque minimalism into breathtakingly fragile compositions.",
+        aliases: ['barkpsychosis', 'bark psychosis.'],
+      },
+
+      'Faust': {
+        bio: "Foundational krautrock collective whose radical tape-splicing collages and industrial experimentation directly parallel Can's avant-garde approach to rock deconstruction.",
+        aliases: ['faust (band)', 'faust (krautrock)', 'faust.', 'faust (germany)'],
+      },
+
+      'Neu!': {
+        bio: "Klaus Dinger and Michael Rother's motorik-driven krautrock duo pioneered hypnotic repetition techniques that profoundly influenced post-rock and experimental music.",
+        aliases: ['neu', 'neu !', 'neu!.', 'neu! (band)'],
+      },
+
+      'Van der Graaf Generator': {
+        bio: "Peter Hammill's darkly complex progressive rock ensemble pushed the genre toward abrasive, avant-garde territory that presaged post-punk and experimental rock.",
+        aliases: ['vdgg', 'van der graaf', 'vandergraaf generator', 'van der graaf generator.', 'van der graf generator', 'van de graaf generator'],
+      },
+
+      'Henry Cow': {
+        bio: 'Defining Rock in Opposition collective whose fusion of free improvisation, contemporary classical, and rock made them among the most uncompromising avant-prog ensembles ever.',
+        aliases: ['henrycow', 'henry cow.', 'henry cow (band)'],
+      },
+
+      'Univers Zero': {
+        bio: 'Belgian chamber-rock pioneers whose Gothic, Bartók-influenced compositions represent the darkest extreme of the European avant-prog and RIO movements alongside Magma.',
+        aliases: ['univers zéro', 'univers 0', 'universzero', 'univers zero.', 'univers zéro.'],
+      },
+
+      'Ruins': {
+        bio: "Tatsuya Yoshida's Japanese duo fuses zeuhl intensity with math-rock precision, sitting squarely at the intersection of Magma's influence and Don Caballero's rhythmic complexity.",
+        aliases: ['ruins.', 'ruins (band)', 'ruins (japan)', 'ruins alone'],
+      },
+
+      'Godspeed You! Black Emperor': {
+        bio: 'Montreal post-rock collective whose sprawling, politically charged orchestral compositions expanded the possibilities of experimental rock into cinematic, large-ensemble territory.',
+        aliases: ['godspeed you black emperor', 'gybe', 'gy!be', 'godspeed', 'godspeed you! black emperor.', 'god speed you black emperor', 'godspeed you !black emperor', 'g y!b e'],
+      },
+
+      'Swans': {
+        bio: "Michael Gira's ever-evolving project traversed no wave brutalism, gothic drone, and transcendent post-rock maximalism across four decades of uncompromising experimental rock.",
+        aliases: ['swans.', 'swans (band)', 'the swans'],
+      },
+
+      'Cardiacs': {
+        bio: "Tim Smith's cult UK ensemble fused punk energy with dizzying prog complexity and avant-garde pop in a singular, wildly inventive style that influenced a generation of experimental rock acts.",
+        aliases: ['cardiacs.', 'cardiacs (band)', 'the cardiacs', 'cardiac'],
+      },
+
+      'Hella': {
+        bio: "Zach Hill and Spencer Seim's frenetic duo pushed math rock to its most virtuosic and chaotic extremes, extending the legacy of Don Caballero and Battles into noise-rock territory.",
+        aliases: ['hella.', 'hella (band)'],
+      },
+
+      'Thinking Plague': {
+        bio: "Denver's deep-cut avant-prog visionaries blended Rock in Opposition aesthetics with American experimentalism, creating densely orchestrated and rhythmically labyrinthine compositions rivaling Henry Cow in ambition.",
+        aliases: ['thinkingplague', 'thinking plague.', 'thinking plague (band)'],
+      },
+
+      'Gentle Giant': {
+        bio: 'Masters of interlocking counterpoint and complex time signatures, Gentle Giant are one of the most technically ambitious bands in 1970s progressive rock.',
+        aliases: ['gentlegiant', 'gentle giant.', 'gentle gaint', 'gg'],
+      },
+
+      'Amon Düül II': {
+        bio: 'A foundational krautrock collective whose sprawling psychedelic-progressive compositions parallel Can and Faust in experimental ambition.',
+        aliases: ['amon duul ii', 'amon düül 2', 'amon duul 2', 'amon duul', 'amon dül ii', 'amon düül', 'amondüülii', 'amon duül ii.'],
+      },
+
+      'Art Bears': {
+        bio: 'Born directly from Henry Cow, Art Bears pushed avant-prog into darker, more deconstructed territory across three essential albums.',
+        aliases: ['artbears', 'art bears.', 'art bears (band)', 'the art bears'],
+      },
+
+      'Soft Machine': {
+        bio: 'Canterbury scene founders who evolved from psychedelic pop into jazz-inflected experimental prog, influencing decades of adventurous rock.',
+        aliases: ['softmachine', 'soft machine.', 'the soft machine', 'soft machine (band)', 'soft machne'],
+      },
+
+      'Hatfield and the North': {
+        bio: 'A Canterbury scene pinnacle blending whimsical progressive composition with jazz fusion complexity and absurdist wit.',
+        aliases: ['hatfield & the north', 'hatfieldandthenorth', 'hatfield and the north.', 'hatfield + the north'],
+      },
+
+      'Area': {
+        bio: "Italy's most radical RIO-adjacent progressive group, fusing avant-jazz, electronic experimentation, and politically charged free-form rock.",
+        aliases: ['area (band)', 'area (italy)', 'area.', 'area (italian band)', 'area international popular group'],
+      },
+
+      'Present': {
+        bio: 'Belgian RIO chamber-rock ensemble and close Univers Zéro allies whose crushing, dissonant compositions define the darkest edge of avant-prog.',
+        aliases: ['present (band)', 'present.', 'present (belgium)', 'présent'],
+      },
+
+      'Ash Ra Tempel': {
+        bio: 'Krautrock visionaries whose cosmic guitar explorations and proto-ambient electronic work sit alongside Tangerine Dream and Cluster as Berlin-school pioneers.',
+        aliases: ['ashratempel', 'ash ra tempel.', 'ashra tempel', 'ashra', 'ash ra temple', 'ash ra'],
+      },
+
+      'Cluster': {
+        bio: 'Foundational krautrock and proto-ambient duo whose minimalist electronic experiments with Roedelius and Moebius influenced vast swaths of experimental music.',
+        aliases: ['cluster.', 'cluster (band)', 'cluster (krautrock)', 'kluster'],
+      },
+
+      'Deerhoof': {
+        bio: 'Restlessly inventive experimental rock band whose playful noise-pop deconstructions and angular compositions echo the spirit of Cardiacs and Hella.',
+        aliases: ['deerhoof.', 'deerhoof (band)', 'deer hoof', 'dear hoof'],
+      },
+
+      'Boredoms': {
+        bio: 'Japanese noise-rock experimentalists whose trajectory from chaotic punk to transcendent percussive psychedelia is one of the most radical arcs in experimental rock.',
+        aliases: ['boredoms.', 'boredoms (band)', 'the boredoms', 'booredoms', 'v∞redoms'],
+      },
+
+      'Tera Melos': {
+        bio: 'Math-rock inheritors of Don Caballero and Hella whose hyperactive guitar interplay and restless structural invention define modern experimental rock.',
+        aliases: ['teramelos', 'tera melos.', 'tera melos (band)', 'terra melos'],
+      },
+
+      'Shellac': {
+        bio: "Steve Albini's brutally precise post-hardcore trio whose minimalist, angular attack and uncompromising production ethos exemplify experimental rock rigor.",
+        aliases: ['shellac.', 'shellac (band)', 'shelac', 'shellac of north america'],
+      },
+
+      'Polvo': {
+        bio: 'Chapel Hill experimentalists whose microtonally detuned guitars and unpredictable song structures bridged indie rock and genuine progressive ambition in the 1990s.',
+        aliases: ['polvo.', 'polvo (band)'],
+      },
+
+      'Comus': {
+        bio: "Cult acid-folk progressives whose unhinged 1971 debut 'First Utterance' remains one of the most unsettling and original albums in the British prog lineage.",
+        aliases: ['comus.', 'comus (band)', 'comus (uk)'],
+      },
+
+      'Miriodor': {
+        bio: 'Montréal-based RIO/avant-prog chamber ensemble whose intricate, cinematic compositions sit naturally alongside Univers Zéro and Thinking Plague.',
+        aliases: ['miriodor.', 'miriodor (band)'],
+      },
+
+      'Goblin': {
+        bio: 'Italian progressive rock group whose dark, rhythmically complex soundtrack work for Argento films created a uniquely sinister strain of experimental prog.',
+        aliases: ['goblin.', 'goblin (band)', 'goblin (italy)', 'the goblin'],
+      },
+
+      'Robert Wyatt': {
+        bio: 'Former Soft Machine drummer and vocalist whose solo career is a singular journey through avant-garde song, jazz experimentation, and heartbreaking beauty.',
+        aliases: ['robertwyatt', 'robert wyatt.', 'r. wyatt', 'rob wyatt'],
+      },
+
+      'Popol Vuh': {
+        bio: 'Krautrock mystics whose pioneering use of Moog synthesizers and devotional improvisation created a spiritual counterpart to the experimentalism of Can and Faust.',
+        aliases: ['popolvu', 'popol vuh.', 'popol vuh (band)', 'popol vuh (krautrock)'],
+      },
+
+      'Koenjihyakkei': {
+        bio: "Japanese zeuhl ensemble directly extending Magma's legacy with ferocious polyrhythmic complexity, standing alongside Ruins as the genre's most vital non-French practitioners.",
+        aliases: ['koenji hyakkei', 'koenjihyakkei.', 'koenji hyakei', 'koenjihyakei', '高円寺百景'],
+      },
+
+      'Etron Fou Leloublan': {
+        bio: 'Core Rock in Opposition collective member alongside Henry Cow and Art Bears, blending frantic avant-prog with absurdist punk energy.',
+        aliases: ['etron fou', 'etronfou', 'etron fou leloublan.', 'étron fou leloublan', 'etron fou le loublan'],
+      },
+
+      'Gong': {
+        bio: "Canterbury-scene pillar whose Radio Gnome trilogy is a landmark of space-infused progressive experimentation, directly tied to Soft Machine's orbit.",
+        aliases: ['gong.', 'gong (band)', 'gong (uk)', 'gong band', 'planet gong'],
+      },
+
+      'National Health': {
+        bio: 'Canterbury supergroup featuring members of Hatfield and the North and Soft Machine, continuing the tradition of intricate, jazz-laced British prog.',
+        aliases: ['nationalhealth', 'national health.', 'national health (band)', 'nat health'],
+      },
+
+      'Egg': {
+        bio: 'Early Canterbury scene trio whose organ-driven compositions bridged classical minimalism and progressive rock before the genre had a name.',
+        aliases: ['egg.', 'egg (band)', 'egg (canterbury)', 'egg (uk)', 'egg band'],
+      },
+
+      'Harmonia': {
+        bio: 'Krautrock supergroup uniting members of Cluster and Neu!, creating shimmering proto-ambient electronic rock that Brian Eno famously sought out.',
+        aliases: ['harmonia.', 'harmonia (band)', 'harmonia (krautrock)', 'harmonia76'],
+      },
+
+      'Guru Guru': {
+        bio: "Ferocious early krautrock trio whose acid-drenched improvisations paralleled Can and Amon Düül II at the genre's most unhinged extreme.",
+        aliases: ['guruguru', 'guru guru.', 'guru guru (band)', 'guru-guru', 'gurú gurú'],
+      },
+
+      'The Residents': {
+        bio: 'Anonymous avant-garde collective whose five-decade career of radical deconstruction of popular music forms defines American experimental rock.',
+        aliases: ['residents', 'theresidents', 'the residents.', 'residents (band)', 'the residents (band)'],
+      },
+
+      'Acid Mothers Temple': {
+        bio: 'Prolific Japanese psychedelic collective channeling the cosmic freakout energy of krautrock and noise into sprawling, overwhelming improvisations.',
+        aliases: ['acidmotherstemple', 'acid mothers temple.', 'amt', 'acid mothers', 'acid mothers temple & the melting paraiso u.f.o.', 'acid mothers temple (band)'],
+      },
+
+      'Ånglagård': {
+        bio: 'Swedish progressive rock revivalists whose dense, darkly orchestrated compositions are among the most acclaimed in the 1990s prog renaissance.',
+        aliases: ['anglagard', 'ånglagard', 'anglagård', 'anglagard.', 'ånglagård.', 'anglagard (band)'],
+      },
+
+      'Weidorje': {
+        bio: 'Short-lived Zeuhl side project featuring Magma alumni, producing a single self-titled album regarded as essential in the Zeuhl canon.',
+        aliases: ['weidorje.', 'weidorje (band)', 'weidorje (zeuhl)', 'weïdorje'],
+      },
+
+      'Shub-Niggurath': {
+        bio: 'French avant-prog/Zeuhl-adjacent group whose claustrophobic, dissonant chamber rock sits perfectly between Univers Zero and Magma.',
+        aliases: ['shub niggurath', 'shubniggurath', 'shub-niggurath.', 'shub-niggurath (band)', 'shub-niggurath (french band)', 'shub niggurath (france)'],
+      },
+
+      'Chrome': {
+        bio: 'San Francisco experimentalists whose corrosive, tape-manipulated proto-industrial rock was decades ahead of its time, influencing noise and industrial music.',
+        aliases: ['chrome.', 'chrome (band)', 'chrome (sf)', 'chrome (san francisco)', 'chrome band'],
+      },
+
+      'Sleepytime Gorilla Museum': {
+        bio: 'Bay Area avant-prog collective combining RIO compositional complexity with homemade instruments and theatrical intensity reminiscent of Henry Cow and Cardiacs.',
+        aliases: ['sleepytimegorillamuseum', 'sleepytime gorilla museum.', 'sgm', 'sleepytime gorilla', 'sleep time gorilla museum'],
+      },
+
+      'Happy Family': {
+        bio: 'Japanese Zeuhl group featuring members of Ruins and Koenjihyakkei, completing the trinity of essential Japanese Magma-inspired bands.',
+        aliases: ['happyfamily', 'happy family.', 'happy family (band)', 'happy family (japan)', 'happy family (zeuhl)'],
+      },
+
+      'Birdsongs of the Mesozoic': {
+        bio: 'Boston chamber-rock ensemble bridging the aesthetic of Art Bears and Univers Zero with post-punk energy and modernist composition.',
+        aliases: ['birdsongs', 'birdsongsofthemesozoic', 'birdsongs of the mesozoic.', 'birdsong of the mesozoic', 'b.o.t.m.'],
+      },
+
+      'Dün': {
+        bio: "Obscure French progressive group whose sole album 'Eros' is a cult masterpiece of Zeuhl-adjacent symphonic experimentalism.",
+        aliases: ['dun', 'dün.', 'dun.', 'dün (band)', 'dun (band)', 'dün (france)', 'dun (french band)'],
+      },
+
+      '5uu\'s': {
+        bio: 'Dave Kerman-led avant-prog group directly extending the Rock in Opposition tradition with jagged, rhythmically complex compositions alongside Present and Thinking Plague.',
+        aliases: ['5uus', '5uu\'s.', '5 uu\'s', '5uu\'s (band)', 'five uu\'s', '5uus band'],
+      },
+
+      'Upsilon Acrux': {
+        bio: 'Los Angeles math-rock/avant-prog duo whose hypercomplex, through-composed guitar instrumentals push the Don Caballero lineage to its logical extreme.',
+        aliases: ['upsilonacrux', 'upsilon acrux.', 'upsilon acrux (band)', 'υ acrux'],
+      },
+
+      'Zeni Geva': {
+        bio: "KK Null's punishing Japanese noise-rock project that bridges Swans-level heaviness with Boredoms-style psychedelic extremity and mathematical precision.",
+        aliases: ['zenigeva', 'zeni geva.', 'zeni geva (band)', 'zenni geva', 'zeni geva (japan)'],
+      },
+
+      'Todd Rundgren': {
+        bio: "A prodigious pop-rock genius whose solo works like 'Something/Anything?' blend lush Beatles-esque melodies with pioneering, self-produced studio experimentation.",
+        aliases: ['toddrundgren', 'todd rundgren.', 't. rundgren', 't.rundgren', 'tod rundgren', 'todd rundgen', 'rundgren', 'todd rundgren/utopia', 'utopia'],
+      },
+
+      'Bill Nelson': {
+        bio: 'The visionary guitarist of Be-Bop Deluxe who evolved into a prolific pioneer of electronic art-rock, synth-pop, and ambient music.',
+        aliases: ['billnelson', 'bill nelson.', 'b. nelson', 'b.nelson', 'bill nelsen', 'bill nelson (musician)', 'bill nelson band', 'be-bop deluxe', 'be bop deluxe', 'bebop deluxe', 'bill nelson\'s red noise', 'red noise'],
+      },
+
+      'Godley & Creme': {
+        bio: "10cc members who pushed art-pop boundaries with 'Consequences' and created some of the most inventive and technically daring music videos of the MTV era.",
+        aliases: ['godley and creme', 'godley & creme.', 'godley&creme', 'godley-creme', 'godley creme', 'godley and cream', 'kevin godley & lol creme', 'kevin godley', 'lol creme', 'godley and creme.'],
+      },
+
+      'The Notwist': {
+        bio: "German indie pioneers who seamlessly fused melancholic guitar rock with glitchy IDM and minimal techno, mastering the \"indietronica\" sound on 'Neon Golden.'",
+        aliases: ['thenotwist', 'the notwist.', 'notwist', 'the-notwist', 'the notwist band', 'the notwist (band)', 'notwist.', 'markus acher', 'markus and micha acher'],
+      },
+
+      'Einstürzende Neubauten': {
+        bio: "Blixa Bargeld's groundbreaking industrial band that used custom-built metal instruments to create brutal, poetic, and genuinely avant-garde sonic architecture.",
+        aliases: ['einsturzende neubauten', 'einstürzende neubauten.', 'einstuerzende neubauten', 'einstürzende-neubauten', 'neubauten', 'e.n.', 'einsturzende neubauten.', 'einstürzende neubaten', 'einsturzende nubauten', 'blixa bargeld', 'blixa bargeld & einstürzende neubauten'],
+      },
+
+      'The The': {
+        bio: "Matt Johnson's cerebral, synth-heavy post-punk project tackled political and existential anxiety with sophisticated arrangements and Johnny Marr's guitar work.",
+        aliases: ['thethe', 'the the.', 'the-the', 'the the band', 'the the (band)', 'matt johnson', 'matt johnson.', 'matt johnson the the', 'matthewjohnson', 'the the.'],
+      },
+
+      'John Foxx': {
+        bio: "Ultravox founder who departed to create 'Metamatic,' a stone-cold masterpiece of icy, JG Ballard-inspired minimal synth-pop that influenced the entire synthwave genre.",
+        aliases: ['johnfoxx', 'john foxx.', 'j. foxx', 'j.foxx', 'john fox', 'john foxx (musician)', 'dennis leigh', 'john foxx & the maths', 'john foxx and the maths'],
+      },
+    },
+
+    'Shoegaze / Dream Pop': {
+      'Cocteau Twins': {
+        bio: "The foundational architects of dream pop; Robin Guthrie's glittering, chorus-drenched guitars and Elizabeth Fraser's glossolalia defined the 4AD sound.",
+        aliases: ['cocteau twins.', 'cocteu twins', 'The Cocteau Twins', 'cocteautwins'],
+      },
+
+      'Mazzy Star': {
+        bio: "Hope Sandoval's languid, hypnotic vocals and David Roback's psychedelic country-blues created the definitive blueprint for atmospheric, melancholic dream pop.",
+        aliases: ['mazzystar', 'mazzy star.', 'mazy star', 'Hope Sandoval'],
+      },
+
+      'Beach House': {
+        bio: "The defining dream-pop duo of the 21st century; Victoria Legrand and Alex Scally's lush, analog-synth and slide-guitar soundscapes are modern classics.",
+        aliases: ['beachhouse', 'beach house.', 'beach-house'],
+      },
+
+      'Lush': {
+        bio: 'Essential first-wave shoegazers whose pristine, effects-laden pop hooks were masterfully produced by Robin Guthrie, bridging the 4AD and Creation Records aesthetics.',
+        aliases: ['Lush (Band)', 'lush.'],
+      },
+
+      'Ride': {
+        bio: 'Creation Records pioneers who brought a driving, 60s-Byrds-infused pop sensibility to the ear-splitting volume of the early Thames Valley shoegaze scene.',
+        aliases: ['Ride (Band)', 'ride.', 'ride band'],
+      },
+
+      'Chapterhouse': {
+        bio: "Purveyors of some of the most dance-rhythm-infused shoegaze of the 90s, blending baggy beats with swirling, phased-out guitar noise on 'Whirlpool'.",
+        aliases: ['chapterhouse.', 'chapter house'],
+      },
+
+      'Galaxie 500': {
+        bio: "Pioneering dream pop trio whose slow, hypnotic guitar work and Dean Wareham's subdued vocals laid essential groundwork for the genre.",
+        aliases: ['galaxie500', 'galaxie 500.', 'galaxy 500', 'galaxie five hundred'],
+      },
+
+      'Pale Saints': {
+        bio: '4AD labelmates of the Cocteau Twins who blended ethereal vocals with buzzing shoegaze guitar on the cult classic The Comforts of Madness.',
+        aliases: ['palesaints', 'pale saints.', 'the pale saints', 'pale saint'],
+      },
+
+      'Swervedriver': {
+        bio: 'Creation Records stalwarts whose muscular yet dreamy guitar interplay on Raise and Mezcal Head made them essential figures in early-90s shoegaze.',
+        aliases: ['swervedriver.', 'swerve driver', 'swerve-driver', 'swervediver'],
+      },
+
+      'Alvvays': {
+        bio: 'Modern dream pop band whose shimmering, reverb-soaked guitar pop on albums like Antisocialites carries a direct lineage from Cocteau Twins and Ride.',
+        aliases: ['alvvays.', 'always', 'alvways', 'allvays', 'alvvays band'],
+      },
+
+      'Curve': {
+        bio: "Toni Halliday and Dean Garcia's project fused shoegaze wash with electronic beats, producing an influential and underappreciated body of dream pop work.",
+        aliases: ['curve.', 'curve (band)', 'curve uk', 'curve band'],
+      },
+
+      'Drop Nineteens': {
+        bio: 'Cult Boston shoegaze band whose album Delaware is a beloved deep cut of the genre, combining wall-of-sound guitars with wistful melodies.',
+        aliases: ['dropnineteens', 'drop nineteens.', 'drop 19s', 'the drop nineteens', 'drop ninetens'],
+      },
+
+      'Bowery Electric': {
+        bio: "NYC duo who merged shoegaze's gauzy textures with electronic minimalism, creating an atmospheric and deeply immersive strain of dream pop.",
+        aliases: ['boweryelectric', 'bowery electric.', 'bowery electic', 'bowery-electric'],
+      },
+
+      'Cranes': {
+        bio: "Alison Shaw's childlike soprano over dark, reverb-heavy instrumentation made Cranes a uniquely haunting presence in the early-90s dream pop scene.",
+        aliases: ['cranes.', 'cranes (band)', 'cranes band', 'cranes uk', 'the cranes'],
+      },
+
+      'Asobi Seksu': {
+        bio: "New York shoegaze revivalists whose album Citrus is considered a high point of the genre's mid-2000s resurgence, layering ethereal bilingual vocals over dense guitar swells.",
+        aliases: ['asobiseksu', 'asobi seksu.', 'asobi sexsu', 'asobi seksu band', 'asobi seku'],
+      },
+
+      'Catherine Wheel': {
+        bio: "Their debut 'Ferment' is a landmark of textured shoegaze guitar work, blending melodic hooks with dense, swirling distortion.",
+        aliases: ['catherinewheel', 'catherine wheel.', 'catherine weel', 'catherine wheel band', 'catherine-wheel', 'catharine wheel'],
+      },
+
+      'Mojave 3': {
+        bio: 'Formed from the ashes of Slowdive, they carried the dream pop torch into gentler, folk-inflected territory while retaining ethereal atmospherics.',
+        aliases: ['mojave3', 'mojave 3.', 'mojave three', 'mojave-3', 'mojav 3', 'mojave three band'],
+      },
+
+      'Julee Cruise': {
+        bio: "Her Angelo Badalamenti-produced work, especially 'Floating into the Night,' is a foundational dream pop recording synonymous with otherworldly vocal beauty.",
+        aliases: ['juleecruise', 'julee cruise.', 'julie cruise', 'julee cruse', 'julee cruise band'],
+      },
+
+      'Medicine': {
+        bio: "L.A. shoegaze act whose 'Shot Forth Self Living' and 'The Buried Life' delivered some of the most abrasive and inventive noise-pop of the early 90s.",
+        aliases: ['medicine.', 'medicine (band)', 'medicine band', 'medicine shoegaze', 'medecine'],
+      },
+
+      'Ringo Deathstarr': {
+        bio: "Austin-based revivalists who channel My Bloody Valentine's wall of noise with pop hooks, becoming key figures in the 2010s shoegaze resurgence.",
+        aliases: ['ringodeathstarr', 'ringo deathstarr.', 'ringo death starr', 'ringo deathstar', 'ringo-deathstarr', 'ringo deathstarr band'],
+      },
+
+      'Whirr': {
+        bio: 'San Francisco shoegaze act known for thick, heavily effected guitar layers and buried vocals in the classic tradition of early-90s UK shoegaze.',
+        aliases: ['whirr.', 'whirr band', 'whrr', 'whir', 'whirr shoegaze'],
+      },
+
+      'DIIV': {
+        bio: "Brooklyn dream pop/shoegaze group whose shimmering, reverb-laden guitar interplay on 'Oshin' and 'Deceiver' made them modern genre standard-bearers.",
+        aliases: ['diiv.', 'diiv band', 'd.i.i.v.', 'dive', 'diiv brooklyn'],
+      },
+
+      'Wild Nothing': {
+        bio: 'Dream pop project defined by crystalline synths and chiming guitars that directly descend from the Cocteau Twins and Galaxie 500 lineage.',
+        aliases: ['wildnothing', 'wild nothing.', 'wild-nothing', 'wild nothng', 'wild nothing band', 'jack tatum'],
+      },
+
+      'The Radio Dept.': {
+        bio: "Swedish dream pop group whose hazy, lo-fi productions and whispery vocals on 'Lesser Matters' are essential modern dream pop listening.",
+        aliases: ['radio dept.', 'the radio dept', 'radio dept', 'theradiodept', 'the radio department', 'radio department', 'the radio dep'],
+      },
+
+      'Tamaryn': {
+        bio: "Her albums 'The Waves' and 'Tender New Signs' are steeped in cavernous reverb and goth-tinged dream pop atmospherics.",
+        aliases: ['tamaryn.', 'tamaryn band', 'tamaryn shoegaze', 'tamryn', 'tamaryn brown'],
+      },
+
+      'Nothing': {
+        bio: "Philadelphia heavy shoegaze band whose crushing guitar walls and melancholic melodies on 'Guilty of Everything' revitalized the genre's heavier side.",
+        aliases: ['nothing.', 'nothing (band)', 'nothing band', 'nothing shoegaze', 'nothing philly', 'nothing philadelphia'],
+      },
+
+      'A.R. Kane': {
+        bio: "Often cited as the co-inventors of shoegaze (and dream pop) alongside Cocteau Twins, their '69' album predates and anticipates the entire movement.",
+        aliases: ['ar kane', 'a.r.kane', 'arkane', 'a r kane', 'a.r. kane.', 'ar kane band'],
+      },
+
+      'Loveliescrushing': {
+        bio: "Deep-cut ambient shoegaze duo whose extreme guitar abstraction pushes the genre's wall-of-sound into purely textural, dissolving territory.",
+        aliases: ['loveliescrushing.', 'lovliescrushing', 'lovelies crushing', 'lovelies-crushing', 'loveliescrushing band'],
+      },
+
+      'Candy Claws': {
+        bio: "Their album 'Ceres & Calypso in the Deep Time' is a fan-favorite psychedelic dream pop masterpiece of layered, kaleidoscopic sound.",
+        aliases: ['candyclaws', 'candy claws.', 'candy-claws', 'candy clause', 'candy claws band'],
+      },
+
+      'Blonde Redhead': {
+        bio: "Their mid-career pivot on '23' and 'Misery Is a Butterfly' produced some of the most sophisticated and haunting dream pop of the 2000s.",
+        aliases: ['blonderedhead', 'blonde redhead.', 'blonde red head', 'blonde-redhead', 'blond redhead', 'blonde readhead'],
+      },
+
+      'Lilys': {
+        bio: "Kurt Heasley's project delivered 'In the Presence of Nothing,' a masterclass in early-90s American shoegaze packed with gorgeous noise-pop.",
+        aliases: ['lilys.', 'the lilys', 'lily\'s', 'lillys', 'lilys band', 'lilys shoegaze'],
+      },
+
+      'Airiel': {
+        bio: "Long-running Chicago shoegaze act whose 'Molten Young Lovers' is a cult favorite for its faithful yet refined take on classic MBV-influenced layering.",
+        aliases: ['airiel.', 'airiel band', 'ariel', 'airiel shoegaze', 'airiel chicago'],
+      },
+
+      'Flying Saucer Attack': {
+        bio: 'Bristol-based lo-fi shoegaze project whose distortion-buried, deeply atmospheric recordings are a touchstone of experimental dream pop.',
+        aliases: ['flying saucer attack.', 'flyingsaucerattack', 'flying saucer atack', 'FSA', 'flying-saucer-attack', 'flying saucer attack band'],
+      },
+
+      'Seefeel': {
+        bio: 'Bridged shoegaze and ambient techno with guitar textures dissolved into hypnotic, loop-driven electronic dreamscapes.',
+        aliases: ['seefeel.', 'see feel', 'see-feel', 'seefeel band', 'seefeel uk', 'seefeel warp'],
+      },
+
+      'The Telescopes': {
+        bio: "Early UK shoegaze act whose raw, feedback-laden sound on 'Taste' and subsequent records earned them cult status alongside Creation Records peers.",
+        aliases: ['telescopes', 'thetelescopes', 'the telescopes.', 'telescopes.', 'the telescopes band', 'the telescopes uk'],
+      },
+
+      'Sweet Trip': {
+        bio: "Merged shoegaze's hazy guitar layers with glitchy electronic production on the beloved cult album 'Velocity:Design:Comfort.'",
+        aliases: ['sweettrip', 'sweet trip.', 'sweet-trip', 'sweet trip band', 'sweettrip.', 'sweet trip shoegaze'],
+      },
+
+      'Amusement Parks on Fire': {
+        bio: 'Modern shoegaze revivalists who channeled dense, layered guitar walls and soaring melodies in the tradition of My Bloody Valentine and Ride.',
+        aliases: ['amusement parks on fire.', 'amusementparksonfire', 'APOF', 'amusement parks on fire band', 'amusement-parks-on-fire', 'amusment parks on fire'],
+      },
+
+      'Kinoko Teikoku': {
+        bio: "Leading Japanese shoegaze band whose blend of crushing distortion and delicate vocals became a benchmark for the genre's modern Asian wave.",
+        aliases: ['kinoko teikoku.', 'kinokoteikoku', 'きのこ帝国', 'kinoko teikoku band', 'kinoko-teikoku', 'kinoko tiekoku', 'mushroom empire'],
+      },
+
+      'LSD and the Search for God': {
+        bio: 'San Francisco shoegaze group whose self-titled EP is a widely cherished modern classic of swirling, effects-heavy dream pop.',
+        aliases: ['lsd and the search for god.', 'lsdandthesearchforgod', 'lsd & the search for god', 'lsd search for god', 'lsd + the search for god'],
+      },
+
+      'Pinkshinyultrablast': {
+        bio: 'Russian shoegaze group blending massive walls of guitar noise with crystalline synth textures and euphoric pop songwriting.',
+        aliases: ['pinkshinyultrablast.', 'pink shiny ultrablast', 'pink-shiny-ultra-blast', 'pinkshinyultrablast band', 'PSUB', 'pinkshineyultrablast'],
+      },
+
+      'Fleeting Joys': {
+        bio: 'Sacramento-based shoegaze act whose lush, feedback-saturated sound directly evokes the classic Creation Records aesthetic.',
+        aliases: ['fleetingjoys', 'fleeting joys.', 'fleeting-joys', 'fleeting joys band', 'fleeting joys shoegaze', 'fleetng joys'],
+      },
+
+      'Starflyer 59': {
+        bio: "Jason Martin's long-running project debuted with some of the heaviest American shoegaze before evolving into shimmering dream pop.",
+        aliases: ['starflyer59', 'starflyer 59.', 'starflyer fifty nine', 'starflyer-59', 'star flyer 59', 'sf59', 'starflyer 59 band'],
+      },
+
+      'Tears Run Rings': {
+        bio: 'Dream pop/shoegaze duo whose luminous, expansive soundscapes and layered reverb guitars directly carry on the Cocteau Twins and Slowdive tradition.',
+        aliases: ['tearsrunrings', 'tears run rings.', 'tears-run-rings', 'tears run rings band', 'tears run ring', 'TRR'],
+      },
+
+      'Film School': {
+        bio: 'San Francisco dream pop group whose darkly atmospheric, reverb-soaked guitar sound bridges shoegaze, post-punk, and ethereal pop.',
+        aliases: ['filmschool', 'film school.', 'film-school', 'film school band', 'film school sf', 'filmschool band'],
+      },
+
+      'No Joy': {
+        bio: 'Montréal shoegaze project built around massive fuzzed-out guitar layers, breathy buried vocals, and a fierce noise pop energy.',
+        aliases: ['nojoy', 'no joy.', 'no-joy', 'no joy band', 'no joy montreal', 'no joy shoegaze'],
+      },
+
+      'Astrobrite': {
+        bio: "Scott Cortez's deeply prolific solo project delivering maximalist, white-noise-saturated shoegaze at its most immersive and abstract.",
+        aliases: ['astrobrite.', 'astro brite', 'astro-brite', 'astrobrite band', 'astrobright', 'astrobrite shoegaze'],
+      },
+
+      'Pia Fraus': {
+        bio: 'Estonian shoegaze and dream pop band whose radiant, melodic guitar wash earned them an international cult following on Shelflife Records.',
+        aliases: ['piafraus', 'pia fraus.', 'pia-fraus', 'pia fraus band', 'pia fraus estonia', 'pia fraud'],
+      },
+    },
+
+    'Grunge': {
+      'Dave Grohl': {
+        bio: "The definitive band of the 90s alternative explosion; Kurt Cobain's bleeding-throat melodicism and Dave Grohl's punishing drums reshaped global rock.",
+        aliases: ['nirvana', 'nirvana.', 'kurt cobain', 'krist novoselic'],
+      },
+
+      'Pearl Jam': {
+        bio: "The stadium-filling conscience of the Seattle scene; Eddie Vedder's towering baritone and the band's twin-guitar attack set a benchmark for 90s hard rock.",
+        aliases: ['pearljam', 'pearl jam.', 'pearl-jam', 'Eddie Vedder', 'mookie blaylock'],
+      },
+
+      'Soundgarden': {
+        bio: "Pioneers of the Seattle heavy sound, blending Sabbath-esque sludge with Chris Cornell's otherworldly, multi-octave vocal acrobatics.",
+        aliases: ['soundgarden.', 'sound garden', 'Chris Cornell', 'soundgarden band'],
+      },
+
+      'Alice in Chains': {
+        bio: "The darkest, most metallic pillar of the Seattle big four; Layne Staley and Jerry Cantrell's haunting vocal harmonies are utterly inimitable.",
+        aliases: ['aliceinchains', 'alice in chains.', 'jerry cantrell', 'layne staley'],
+      },
+
+      'Stone Temple Pilots': {
+        bio: "Scott Weiland's charismatic swagger and the DeLeo brothers' massive, groove-heavy riffs made 'Core' and 'Purple' inescapable alt-rock monuments.",
+        aliases: ['STP', 's.t.p.', 'stone temple pilots.', 'stonetemplepilots', 'Scott Weiland'],
+      },
+
+      'Mudhoney': {
+        bio: "The foundational Sub Pop band whose raw, Stooges-infused distortion on 'Touch Me I'm Sick' literally defined the blueprint for the grunge aesthetic.",
+        aliases: ['mudhoney.', 'mud honey', 'mudhoney band', 'Mark Arm'],
+      },
+
+      'Screaming Trees': {
+        bio: "Mark Lanegan's whiskey-soaked baritone grounded this deeply underrated band, merging grunge with neo-psychedelia and American roots rock.",
+        aliases: ['screaming trees.', 'screamingtrees', 'Mark Lanegan', 'screaming trees band'],
+      },
+
+      'Hole': {
+        bio: "Courtney Love's ferociously articulate, abrasive songwriting on 'Live Through This' proved them to be one of the most vital, vitalizing bands of the 90s.",
+        aliases: ['hole.', 'hole (band)', 'Courtney Love', 'hole band'],
+      },
+
+      'Bush': {
+        bio: "The British titans of the post-grunge boom whose album 'Sixteen Stone' perfected a polished, radio-ready translation of the Seattle sound.",
+        aliases: ['bush.', 'bush (band)', 'Gavin Rossdale', 'bush band'],
+      },
+
+      'Smashing Pumpkins': {
+        bio: "Billy Corgan's obsessive studio perfectionism and wall-of-fuzz guitars elevated alt-rock into soaring, operatic dreamscapes on 'Siamese Dream'.",
+        aliases: ['The Smashing Pumpkins', 'smashingpumpkins', 'smashing pumpkins.', 'Billy Corgan', 'tsp'],
+      },
+
+      'melvins band': {
+        bio: 'Aberdeen proto-grunge pioneers whose sludgy, down-tuned sound directly influenced Kurt Cobain and the entire Seattle scene.',
+        aliases: ['the melvins.', 'king buzzo', 'buzz osborne'],
+      },
+
+      'Tad': {
+        bio: 'Sub Pop stalwarts whose crushing heaviness made them one of the most essential first-wave Seattle grunge acts alongside Nirvana and Mudhoney.',
+        aliases: ['tad.', 'tad band', 'tad doyle', 't.a.d.', 'tad (band)'],
+      },
+
+      'Green River': {
+        bio: 'Widely considered the first true grunge band, whose members later formed Pearl Jam and Mudhoney.',
+        aliases: ['greenriver', 'green river.', 'green river band', 'green-river'],
+      },
+
+      'Mother Love Bone': {
+        bio: "Andrew Wood's glam-tinged grunge band was the direct precursor to Pearl Jam and a cornerstone of the early Seattle scene.",
+        aliases: ['motherlovebone', 'mother love bone.', 'mlb', 'mother love bone band', 'mother lovebone'],
+      },
+
+      'Temple of the Dog': {
+        bio: 'Grunge supergroup formed by Chris Cornell and members of Pearl Jam as a tribute to Andrew Wood, producing an iconic one-off album.',
+        aliases: ['templeofthedog', 'temple of the dog.', 'temple of dog', 'totd'],
+      },
+
+      'Mad Season': {
+        bio: "Grunge supergroup featuring Layne Staley and Pearl Jam's Mike McCready whose album 'Above' is a celebrated deep cut of the era.",
+        aliases: ['madseason', 'mad season.', 'mad-season', 'mad season band'],
+      },
+
+      'Babes in Toyland': {
+        bio: "Minneapolis trio whose abrasive, visceral noise-grunge was pivotal to the movement's feminist wing alongside Hole and L7.",
+        aliases: ['babesintoyland', 'babes in toyland.', 'babes in toy land', 'babes-in-toyland', 'kat bjelland'],
+      },
+
+      'L7': {
+        bio: "LA grunge band whose riff-heavy sound and punk attitude made them fixtures of the early-'90s grunge and riot grrrl crossover.",
+        aliases: ['l7.', 'l 7', 'l7 band', 'l7 (band)', 'l-7'],
+      },
+
+      'Silverchair': {
+        bio: "Australian grunge trio who broke through as teenagers with 'Frogstomp,' carrying the Seattle sound to a global audience.",
+        aliases: ['silverchair.', 'silver chair', 'silver-chair', 'silverchair band', 'daniel johns'],
+      },
+
+      'Candlebox': {
+        bio: "Seattle band whose multi-platinum self-titled debut was one of the biggest-selling grunge records of the mid-'90s.",
+        aliases: ['candlebox.', 'candle box', 'candle-box', 'candlebox band'],
+      },
+
+      'Gruntruck': {
+        bio: 'Seattle grunge act featuring former Skin Yard members, known for a punishing metal-grunge hybrid sound on Sub Pop and Roadrunner.',
+        aliases: ['gruntruck.', 'grunt truck', 'grunt-truck', 'gruntruck band'],
+      },
+
+      'Skin Yard': {
+        bio: "First-wave Seattle grunge band led by producer Jack Endino, who went on to record Nirvana's 'Bleach' and dozens of other grunge landmarks.",
+        aliases: ['skinyard', 'skin yard.', 'skin-yard', 'skin yard band', 'jack endino'],
+      },
+
+      '7 Year Bitch': {
+        bio: "All-female Seattle grunge band whose raw, politically charged sound was central to the city's underground scene in the early '90s.",
+        aliases: ['7yearbitch', 'seven year bitch', '7 year bitch.', '7-year-bitch', '7 year bitch band'],
+      },
+
+      'The Gits': {
+        bio: 'Cult Seattle grunge-punk band fronted by Mia Zapata, revered for their intense live shows and tragically cut-short legacy.',
+        aliases: ['gits', 'thegits', 'the gits.', 'gits band', 'mia zapata'],
+      },
+
+      'Malfunkshun': {
+        bio: "Andrew Wood's first band and a founding act of the Seattle proto-grunge scene whose glam-metal-meets-punk ethos predated the movement's explosion.",
+        aliases: ['malfunkshun.', 'mal funk shun', 'malfunkshun band', 'mal-funkshun'],
+      },
+
+      'The Afghan Whigs': {
+        bio: 'Cincinnati band signed to Sub Pop whose dark, soul-inflected grunge offered a compelling counterpoint to the Pacific Northwest sound.',
+        aliases: ['afghan whigs', 'afghanwhigs', 'the afghan whigs.', 'afghan whigs.', 'greg dulli'],
+      },
+
+      'Local H': {
+        bio: "Illinois grunge duo known for massive guitar tones achieved by just two members, with 'Bound for the Floor' becoming a '90s grunge staple.",
+        aliases: ['localh', 'local h.', 'local-h', 'local h band', 'scott lucas'],
+      },
+
+      'Paw': {
+        bio: "Kansas grunge band whose A&M debut 'Dragline' was produced by Mark Heard and championed by the same tastemakers who broke Nirvana.",
+        aliases: ['paw.', 'paw band', 'paw (band)', 'paw kansas'],
+      },
+
+      'Love Battery': {
+        bio: "Sub Pop Seattle band whose psychedelic-tinged grunge made them consistent fixtures of the local scene through the early '90s.",
+        aliases: ['lovebattery', 'love battery.', 'love-battery', 'love battery band'],
+      },
+
+      'Hammerbox': {
+        bio: "Seattle grunge band signed to C/Z Records whose dynamic, melodic heaviness and powerful female vocals embodied the scene's diversity.",
+        aliases: ['hammerbox.', 'hammer box', 'hammer-box', 'hammerbox band', 'carrie akre'],
+      },
+
+      'Truly': {
+        bio: 'Seattle grunge supergroup featuring ex-Soundgarden bassist Hiro Yamamoto, releasing acclaimed albums on Sub Pop and Capitol in the mid-90s.',
+        aliases: ['truly.', 'truly band', 'truly (band)', 'truly seattle', 'robert roth'],
+      },
+
+      'My Sister\'s Machine': {
+        bio: 'Seattle grunge band formed by members adjacent to the Alice in Chains circle, releasing two albums of heavy, dark grunge on Caroline Records.',
+        aliases: ['my sisters machine', 'mysistersmachine', 'my sister\'s machine.', 'my-sisters-machine', 'my sister\'s machine band', 'msm'],
+      },
+
+      'Pond': {
+        bio: 'Portland grunge band signed to Sub Pop with ties to the Nirvana and Screaming Trees circles, led by Charlie Campbell.',
+        aliases: ['pond.', 'pond band', 'pond (band)', 'pond portland', 'pond grunge', 'charlie campbell pond'],
+      },
+
+      'Cat Butt': {
+        bio: 'Early Seattle grunge band on Sub Pop whose raw, sludgy sound helped define the nascent grunge aesthetic alongside Mudhoney and Tad.',
+        aliases: ['catbutt', 'cat butt.', 'cat-butt', 'cat butt band', 'cat butt (band)'],
+      },
+
+      'Blood Circus': {
+        bio: 'One of the earliest Sub Pop grunge acts, featured on the landmark Sub Pop 200 compilation that introduced the Seattle sound to the world.',
+        aliases: ['bloodcircus', 'blood circus.', 'blood-circus', 'blood circus band', 'blood circus (band)'],
+      },
+
+      'U-Men': {
+        bio: 'Pioneering Seattle proto-grunge band whose noisy, post-punk-infused garage rock in the mid-80s directly laid the groundwork for the grunge explosion.',
+        aliases: ['u men', 'the u-men', 'the u men', 'umen', 'u-men.', 'the u-men.', 'u-men band'],
+      },
+
+      'Bundle of Hiss': {
+        bio: 'Early Seattle grunge band produced by Jack Endino, featuring future Tad members and contributing to the foundational Sub Pop sound.',
+        aliases: ['bundleofhiss', 'bundle of hiss.', 'bundle-of-hiss', 'bundle of hiss band'],
+      },
+
+      'Coffin Break': {
+        bio: 'Seattle grunge-punk band on C/Z and Epitaph Records who bridged hardcore punk and the emerging grunge scene throughout the late 80s.',
+        aliases: ['coffinbreak', 'coffin break.', 'coffin-break', 'coffin break band', 'coffin break (band)'],
+      },
+
+      'The Fluid': {
+        bio: "Denver-based band signed to Sub Pop whose garage-inflected grunge made them a key out-of-Seattle contributor to the label's early roster.",
+        aliases: ['fluid', 'thefluid', 'the fluid.', 'fluid.', 'the fluid band', 'fluid band'],
+      },
+
+      'Sweet Water': {
+        bio: 'Seattle grunge band signed to Atlantic Records during the major-label gold rush, known for a melodic yet heavy sound that typified early-90s grunge.',
+        aliases: ['sweetwater', 'sweet water.', 'sweet-water', 'sweet water band', 'sweetwater band', 'sweetwater.'],
+      },
+
+      'Seaweed': {
+        bio: 'Tacoma grunge-punk band on Sub Pop whose distorted, energetic sound placed them firmly within the Pacific Northwest grunge movement.',
+        aliases: ['seaweed.', 'seaweed band', 'seaweed (band)', 'sea weed', 'sea-weed'],
+      },
+
+      'Flop': {
+        bio: 'Seattle grunge-pop band on Frontier and Sony whose power-pop-tinged grunge was a fixture of the early-90s Seattle scene.',
+        aliases: ['flop.', 'flop band', 'flop (band)', 'flop seattle'],
+      },
+
+      'Bam Bam': {
+        bio: 'Proto-grunge Seattle band fronted by Tina Bell, widely regarded as one of the earliest progenitors of the grunge sound in the mid-1980s.',
+        aliases: ['bambam', 'bam bam.', 'bam-bam', 'bam bam band', 'bam bam (band)', 'bam bam seattle'],
+      },
+
+      'Mono Men': {
+        bio: "Pacific Northwest garage-grunge band whose raw, fuzz-drenched recordings on Estrus Records embody the region's gritty underground rock tradition.",
+        aliases: ['the mono men', 'monomen', 'mono men.', 'the mono men.', 'mono-men', 'mono men band'],
+      },
+
+      'Willard': {
+        bio: 'Seattle grunge band on Roadrunner Records whose heavy, sludgy sound was a staple of the early-90s Seattle club circuit.',
+        aliases: ['willard.', 'willard band', 'willard (band)', 'willard seattle', 'willard grunge'],
+      },
+
+      'Dickless': {
+        bio: "All-female Seattle grunge band featured on the Sub Pop 200 compilation, contributing a fierce, uncompromising heaviness to the scene's early development.",
+        aliases: ['dickless.', 'dickless band', 'dickless (band)', 'dickless seattle', 'dick less'],
+      },
+
+      'Sponge': {
+        bio: "Detroit grunge band whose platinum-selling debut Rotting Piñata brought grungy post-grunge to mainstream radio with singles like 'Plowed'.",
+        aliases: ['sponge.', 'sponge band', 'sponge (band)', 'sponge detroit'],
+      },
+
+      'Meat Puppets': {
+        bio: 'Desert proto-grunge pioneers whose influence on Nirvana was cemented when Cobain invited them to perform together on MTV Unplugged.',
+        aliases: ['the meat puppets', 'meatpuppets', 'meat puppets.', 'the meat puppets.', 'meat-puppets', 'meat puppets band', 'curt kirkwood', 'cris kirkwood'],
+      },
+
+      'Brad': {
+        bio: "Grunge side project of Pearl Jam's Stone Gossard and vocalist Shawn Smith, blending soulful vocals with heavy grunge arrangements.",
+        aliases: ['brad.', 'brad band', 'brad (band)', 'brad seattle', 'brad stone gossard', 'shawn smith brad'],
+      },
+
+      'Treepeople': {
+        bio: 'Boise grunge band featuring a young Doug Martsch, whose raw indie-grunge releases on C/Z Records made them key participants in the Pacific Northwest scene.',
+        aliases: ['tree people', 'treepeople.', 'tree-people', 'treepeople band', 'treepeople (band)', 'tree people band'],
+      },
+    },
+
+    'Punk / Post-Hardcore': {
+      'The Clash': {
+        bio: "The only band that mattered; Joe Strummer's political fury fused with reggae, dub, and pure rockabilly to expand punk's entire musical vocabulary.",
+        aliases: ['clash', 'theclash', 'the clash.', 'joe strummer mick jones'],
+      },
+
+      'Sex Pistols': {
+        bio: "The architects of pure chaos; John Lydon's sneer and Steve Jones's guitar distortion kickstarted the UK punk explosion with 'Never Mind the Bollocks.'",
+        aliases: ['sexpistols', 'sex pistols.', 'the sex pistols', 'john lydon', 'johnny rotten'],
+      },
+
+      'Ramones': {
+        bio: 'The absolute originators; three chords, leather jackets, and blisteringly fast bubblegum melodies that invented American punk rock in Queens, NYC.',
+        aliases: ['the ramones', 'ramones.', 'theramones'],
+      },
+
+      'The Jam': {
+        bio: 'The mod-fathers of the UK punk explosion whose melodic, R&B-tinged anthems under Paul Weller captured British youth culture perfectly.',
+        aliases: ['the jam.', 'thejam', 'paul weller'],
+      },
+
+      'The Stooges': {
+        bio: "Iggy Pop's proto-punk juggernaut whose raw, violent noise and stage antics essentially invented the attitude of punk rock years before it had a name.",
+        aliases: ['iggy and the stooges', 'iggy pop'],
+      },
+
+      'The Damned': {
+        bio: "The first UK punk band to release a single; their transition from raw punk to gothic, keyboard-laced post-punk is one of the genre's great evolutions.",
+        aliases: ['damned', 'the damned.', 'thedamned'],
+      },
+
+      'Dead Kennedys': {
+        bio: "Jello Biafra's razor-sharp political satire and East Bay Ray's surf-inflected shredding made them the definitive, uncompromising voice of West Coast punk.",
+        aliases: ['deadkennedys', 'dead kennedys.', 'jello biafra'],
+      },
+
+      'Bad Brains': {
+        bio: "D.C.'s legendary originators of hardcore punk, blindingly fast and mathematically tight, seamlessly integrating reggae and dub into the hardcore blueprint.",
+        aliases: ['badbrains', 'bad brains.'],
+      },
+
+      'Black Flag': {
+        bio: "The ultimate DIY hardcore pioneers; Henry Rollins's primal roar and Greg Ginn's sludgy, atonal riffs birthed modern American underground punk.",
+        aliases: ['blackflag', 'black flag.', 'henry rollins black flag'],
+      },
+
+      'Minor Threat': {
+        bio: "Ian MacKaye's lightning-fast, hyper-articulate hardcore burst codified the straight-edge movement and set the ethical standard for underground music.",
+        aliases: ['minorthreat', 'minor threat.', 'ian mackaye'],
+      },
+
+      'Fugazi': {
+        bio: 'Dischord Records royalty; their fiercely independent ethos and complex, dub-influenced post-hardcore practically defined 90s underground rock integrity.',
+        aliases: ['fugazi.', 'fugazi band'],
+      },
+
+      'huskerdü': {
+        bio: 'Husker Du',
+        aliases: [],
+      },
+
+      'Descendents': {
+        bio: "Milo Aukerman's caffeine-fueled pop-punk invented the template for combining hyperspeed hardcore with lovelorn, self-deprecating teenage angst.",
+        aliases: ['descendents.', 'the descendents', 'milo aukerman'],
+      },
+
+      'The Misfits': {
+        bio: "Glenn Danzig's horror-punk progenitors fused 50s rockabilly melodies with B-movie gore, creating a subculture and visual aesthetic that endures endlessly.",
+        aliases: ['misfits', 'the misfits.', 'themisfits'],
+      },
+
+      'Danzig': {
+        bio: 'Danzig',
+        aliases: [],
+      },
+
+      'Social Distortion': {
+        bio: 'Mike Ness infused Orange County punk with Johnny Cash-style outlaw country and blues, creating an instantly recognizable cowpunk/rockabilly hybrid.',
+        aliases: ['socialdistortion', 'social distortion.', 'mike ness'],
+      },
+
+      'The Offspring': {
+        bio: 'The Offspring',
+        aliases: ['offspring', 'theoffspring', 'the offspring.'],
+      },
+
+      'Green Day': {
+        bio: 'Green Day',
+        aliases: ['greenday', 'green day.', 'billie joe armstrong'],
+      },
+
+      'Rancid': {
+        bio: 'Rancid',
+        aliases: ['rancid.', 'rancid band', 'tim armstrong'],
+      },
+
+      'NOFX': {
+        bio: 'NOFX',
+        aliases: ['nofx.', 'no fx'],
+      },
+
+      'Bad Religion': {
+        bio: 'Bad Religion',
+        aliases: ['badreligion', 'bad religion.', 'greg graffin'],
+      },
+
+      'Pennywise': {
+        bio: 'Pennywise',
+        aliases: ['pennywise.', 'pennywise band'],
+      },
+
+      'Alkaline Trio': {
+        bio: 'Alkaline Trio',
+        aliases: ['alkalinetrio', 'alkaline trio.'],
+      },
+
+      'Dropkick Murphys': {
+        bio: 'Dropkick Murphys',
+        aliases: ['dropkickmurphys', 'dropkick murphys.'],
+      },
+
+      'Flogging Molly': {
+        bio: 'Flogging Molly',
+        aliases: ['floggingmolly', 'flogging molly.'],
+      },
+
+      'Rise Against': {
+        bio: 'Rise Against',
+        aliases: ['riseagainst', 'rise against.'],
+      },
+
+      'Thursday': {
+        bio: 'Thursday',
+        aliases: ['thursday.', 'thursday band'],
+      },
+
+      'Saves the Day': {
+        bio: 'Saves the Day',
+        aliases: ['savesTheDay', 'saves the day.'],
+      },
+
+      'Taking Back Sunday': {
+        bio: 'Taking Back Sunday',
+        aliases: ['takingbacksunday', 'taking back sunday.', 'tbs'],
+      },
+
+      'Brand New': {
+        bio: 'Brand New',
+        aliases: ['brandnew', 'brand new.', 'brand new band', 'jesse lacey'],
+      },
+
+      'The Used': {
+        bio: 'The Used',
+        aliases: ['used', 'theused', 'the used.'],
+      },
+
+      'Hawthorne Heights': {
+        bio: 'Hawthorne Heights',
+        aliases: ['hawthorne heights.', 'hawthorneheights'],
+      },
+
+      'Senses Fail': {
+        bio: 'Senses Fail',
+        aliases: ['senses fail.', 'sensesfail'],
+      },
+
+      'Underoath': {
+        bio: 'Underoath',
+        aliases: ['underoath.', 'under oath'],
+      },
+
+      'The Starting Line': {
+        bio: 'The Starting Line',
+        aliases: ['starting line', 'thestartingline'],
+      },
+
+      'Matchbook Romance': {
+        bio: 'Matchbook Romance',
+        aliases: ['matchbookromance', 'matchbook romance.'],
+      },
+
+      'My Chemical Romance': {
+        bio: 'My Chemical Romance (emo/punk)',
+        aliases: ['mychemicalromance', 'my chemical romance.', 'mcr', 'gerard way'],
+      },
+
+      'AFI': {
+        bio: 'AFI',
+        aliases: ['afi.', 'a fire inside', 'afi band', 'davey havok'],
+      },
+
+      'Paramore': {
+        bio: 'Paramore',
+        aliases: ['paramore.', 'hayley williams'],
+      },
+
+      'Fall Out Boy': {
+        bio: 'Fall Out Boy',
+        aliases: ['falloutboy', 'fall out boy.', 'fob', 'pete wentz'],
+      },
+
+      'Panic! at the Disco': {
+        bio: 'Panic! At The Disco',
+        aliases: ['panic at the disco', 'panicatthedisco', 'panic! at the disco.', 'brendon urie'],
+      },
+
+      'Sum 41': {
+        bio: 'Sum 41',
+        aliases: ['sum41', 'sum 41.'],
+      },
+
+      'Blink-182': {
+        bio: 'Blink-182',
+        aliases: ['blink182', 'blink 182', 'blink-182.', 'mark hoppus tom delonge'],
+      },
+
+      'New Found Glory': {
+        bio: 'New Found Glory',
+        aliases: ['newfoundglory', 'new found glory.'],
+      },
+
+      'At the Drive-In': {
+        bio: "El Paso post-hardcore legends whose frenzied energy on Relationship of Command essentially defined the genre's creative peak around 2000.",
+        aliases: ['at the drive in', 'atthedrivein', 'atdi', 'at the drive-in.', 'at the drivein', 'cedric bixler zavala at the drive in'],
+      },
+
+      'Refused': {
+        bio: 'Swedish post-hardcore visionaries whose The Shape of Punk to Come is one of the most influential and forward-thinking punk records ever made.',
+        aliases: ['refused.', 'refused band', 'the refused', 'dennis lyxzén'],
+      },
+
+      'Jawbreaker': {
+        bio: 'San Francisco punk trio who bridged melodic punk and confessional songwriting, directly paving the way for the emo and pop-punk explosion.',
+        aliases: ['jawbreaker.', 'jawbreaker band', 'jaw breaker', 'blake schwarzenbach'],
+      },
+
+      'Buzzcocks': {
+        bio: 'Manchester punk originators whose hook-driven, lovelorn approach to three-chord punk on Singles Going Steady became the template for pop-punk.',
+        aliases: ['the buzzcocks', 'buzzcocks.', 'buzz cocks', 'pete shelley buzzcocks'],
+      },
+
+      'Operation Ivy': {
+        bio: 'Foundational East Bay ska-punk act whose brief output on Lookout! Records directly spawned Rancid and the entire 90s punk revival.',
+        aliases: ['operationivy', 'operation ivy.', 'op ivy', 'opivy', 'jesse michaels operation ivy'],
+      },
+
+      'Quicksand': {
+        bio: 'New York post-hardcore architects whose dense, groove-heavy approach on Slip influenced countless bands from Deftones to Thursday.',
+        aliases: ['quicksand.', 'quicksand band', 'quick sand', 'walter schreifels'],
+      },
+
+      'Glassjaw': {
+        bio: 'Long Island post-hardcore innovators whose raw, dynamic records Worship and Tribute and Everything You Ever Wanted to Know About Silence are genre cornerstones.',
+        aliases: ['glassjaw.', 'glass jaw', 'glassjaw band', 'daryl palumbo'],
+      },
+
+      'Thrice': {
+        bio: 'Orange County post-hardcore mainstays who evolved from blistering punk on The Illusion of Safety to ambitious art-rock while retaining devoted genre credibility.',
+        aliases: ['thrice.', 'thrice band', 'dustin kensrue', 'dustin kensrue thrice'],
+      },
+
+      'Saosin': {
+        bio: 'Post-hardcore act whose soaring clean-to-scream vocal dynamics and Translating the Name EP helped define the mid-2000s wave of the genre.',
+        aliases: ['saosin.', 'saosin band', 'saosín', 'cove reber', 'anthony green saosin'],
+      },
+
+      'Silverstein': {
+        bio: 'Canadian post-hardcore staple whose blend of melodic hooks and screamed passages across Discovering the Waterfront made them Victory Records linchpins.',
+        aliases: ['silverstein.', 'silverstein band', 'silver stein', 'shane told silverstein'],
+      },
+
+      'Against Me!': {
+        bio: 'Gainesville punk institution whose evolution from anarchist folk-punk to anthemic rock brought raw political urgency back to mainstream punk.',
+        aliases: ['against me', 'againstme', 'against me!.', 'against me band', 'laura jane grace', 'tom gabel'],
+      },
+
+      'Hot Water Music': {
+        bio: 'Gainesville punk stalwarts whose gravel-voiced, emotionally resonant brand of melodic hardcore influenced an entire generation of post-hardcore.',
+        aliases: ['hotwatermusic', 'hot water music.', 'hwm', 'chuck ragan hot water music'],
+      },
+
+      'Circle Jerks': {
+        bio: 'Los Angeles hardcore punk legends fronted by ex-Black Flag vocalist Keith Morris, delivering some of the fastest and funniest early American punk.',
+        aliases: ['circlejerks', 'circle jerks.', 'the circle jerks', 'keith morris circle jerks'],
+      },
+
+      'Drive Like Jehu': {
+        bio: "San Diego post-hardcore pioneers whose angular, explosive sound on Yank Crime is considered one of the genre's most essential and uncompromising records.",
+        aliases: ['drivelikejehu', 'drive like jehu.', 'dlj', 'rick froberg', 'john reis drive like jehu'],
+      },
+
+      'Dag Nasty': {
+        bio: "Dischord Records post-hardcore originators who helped invent melodic hardcore in the mid-1980s, bridging Minor Threat's intensity with tuneful songwriting.",
+        aliases: ['dagnasty', 'dag nasty.', 'dag nasty band', 'brian baker dag nasty'],
+      },
+
+      'Gorilla Biscuits': {
+        bio: 'New York hardcore punk icons from the youth crew movement whose Start Today remains a foundational positive hardcore album.',
+        aliases: ['gorillabiscuits', 'gorilla biscuits.', 'gb', 'gorilla biscuits band', 'walter schreifels gorilla biscuits', 'civ gorilla biscuits'],
+      },
+
+      'The Bouncing Souls': {
+        bio: "New Brunswick punk rock lifers whose endlessly energetic and heartfelt catalog has made them one of the East Coast's most beloved underground punk bands.",
+        aliases: ['bouncing souls', 'thebouncingsouls', 'the bouncing souls.', 'bouncingsouls'],
+      },
+
+      'Anti-Flag': {
+        bio: 'Pittsburgh political punk stalwarts who carried the tradition of Dead Kennedys-style agitprop punk into the 2000s mainstream with unrelenting activism.',
+        aliases: ['anti flag', 'antiflag', 'anti-flag.', 'anti flag.', 'justin sane anti-flag'],
+      },
+
+      'Chiodos': {
+        bio: "Michigan post-hardcore act whose theatrical, keyboard-laced sound on All's Well That Ends Well made them key players in the mid-2000s post-hardcore scene.",
+        aliases: ['chiodos.', 'chiodos band', 'craig owens chiodos', 'chiodos bros'],
+      },
+
+      'From First to Last': {
+        bio: "Post-hardcore band whose raw intensity and Sonny Moore's visceral screaming on Dear Diary, My Teen Angst Has a Body Count epitomized mid-2000s scene culture.",
+        aliases: ['fromfirsttolast', 'from first to last.', 'fftl', 'sonny moore from first to last'],
+      },
+    },
+
+    'Rock en Español': {
+      'Soda Stereo': {
+        bio: "The most influential band in Rock en Español history; Gustavo Cerati's visionary songwriting pushed sonic boundaries from post-punk into lush, stadium-filling alternative rock.",
+        aliases: ['soda estereo', 'soda stereo.', 'sodastereo', 'soda stéreo'],
+      },
+
+      'Gustavo Cerati (solo)': {
+        bio: 'A genius of Latin American rock whose solo work seamlessly integrated sophisticated electronic textures, shoegaze, and art-pop into his peerless guitar playing.',
+        aliases: ['gustavocerati'],
+      },
+
+      'Café Tacvba': {
+        bio: "Mexico's most adventurous alternative rock band, whose genre-bending fusion of indigenous folk, punk, and electronic music mirrors Radiohead's boundary-pushing role.",
+        aliases: ['cafe tacvba', 'cafe tacuba', 'café tacuba'],
+      },
+
+      'Caifanes': {
+        bio: 'Foundational Mexican alternative rock band whose dark, poetic post-punk aesthetic and massive anthems define the classic Latin American rock tradition.',
+        aliases: ['caifanes band', 'caifanes.'],
+      },
+
+      'Jaguares': {
+        bio: "Saúl Hernández's post-Caifanes project that continued his legacy of mystic, deeply Mexican stadium rock.",
+        aliases: ['jaguares band', 'jaguares.'],
+      },
+
+      'Molotov': {
+        bio: 'The irreverent, socially conscious rap-rock titans of Mexico whose explosive grooves and bilingual lyrics made them the Beastie Boys of Latin America.',
+        aliases: ['molotov.', 'molotov mexico'],
+      },
+
+      'Maná': {
+        bio: 'The undisputed kings of mainstream Latin pop-rock; their reggae-infused grooves and arena-ready ballads made them global superstars.',
+        aliases: ['mana', 'maná.', 'fher olvera'],
+      },
+
+      'Los Fabulosos Cadillacs': {
+        bio: 'Argentine party-rock institution blending ska, cumbia, and rock whose infectious energy and two-decade catalog make them a staple of Latin American rock festivals.',
+        aliases: ['losfabulososcadillacs', 'fabulosos cadillacs'],
+      },
+
+      'Héroes del Silencio': {
+        bio: "Spain's premier stadium rock band whose gothic, hard-rocking sound and Enrique Bunbury's theatrical baritone conquered Europe and the Americas.",
+        aliases: ['heroes del silencio', 'heroesdelsilencio', 'enrique bunbury'],
+      },
+
+      'enriquebunbury': {
+        bio: 'Enrique Bunbury (solo)',
+        aliases: ['bunbury'],
+      },
+
+      'Charly García': {
+        bio: 'The brilliant, unpredictable pioneer of Argentine rock whose solo career and work with Sui Generis shaped the DNA of Rock Nacional.',
+        aliases: ['charly garcia', 'charlygarcia', 'sui generis'],
+      },
+
+      'El Tri': {
+        bio: "The godfathers of Mexican blues-rock; Alex Lora's gravelly voice and working-class anthems make them the Rolling Stones of Mexico.",
+        aliases: ['eltri', 'el tri.', 'alex lora'],
+      },
+
+      'Zoé': {
+        bio: "Mexican indie-rock royalty whose spacey, synth-driven psychedelia and León Larregui's haunting vocals soundtracked the 2000s Latin alt-rock explosion.",
+        aliases: ['zoe', 'zoé.', 'zoe band mexico'],
+      },
+
+      'Panda': {
+        bio: 'The defining voice of Mexican pop-punk and emo; their angst-fueled anthems commanded an absolute cult following in the 2000s.',
+        aliases: ['panda.', 'panda mx', 'pxndx'],
+      },
+
+      'Kinky': {
+        bio: "Monterrey's electronic-rock visionaries who fused techno, funk, and rock into a seamless, highly danceable alternative sound.",
+        aliases: ['kinky.', 'kinky mx'],
+      },
+
+      'Babasónicos': {
+        bio: 'Argentine provocateurs whose sly, glamorous fusion of alt-rock and synth-pop made them the most stylish, subversive rock band in South America.',
+        aliases: ['babasonicos', 'babasónicos.'],
+      },
+
+      'Los Prisioneros': {
+        bio: 'The voice of Chilean youth in the 80s; their politically charged, synth-punk anthems spoke truth to power and defined a generation of resistance.',
+        aliases: ['losprisioneros', 'los prisioneros.'],
+      },
+
+      'Los Bunkers': {
+        bio: 'Chilean rockers whose immaculate, Beatlesque melodies and driving guitars revived classic 60s rock aesthetics for the 2000s Latin scene.',
+        aliases: ['losbunkers', 'los bunkers.'],
+      },
+
+      'La Ley': {
+        bio: "Chile's slickest, most internationally successful dark-pop/rock export, blending new wave aesthetics with arena-rock ambition.",
+        aliases: ['laley', 'la ley.'],
+      },
+
+      'Jarabe de Palo': {
+        bio: "The quintessential Spanish pop-rock band whose acoustic-driven, flamenco-tinged hits like 'La Flaca' remain universally beloved.",
+        aliases: ['jarabedepalo', 'jarabe de palo.'],
+      },
+
+      'Los Enanitos Verdes': {
+        bio: "Argentine staples whose instantly recognizable riffs and melancholic pop-rock anthems ('Lamento Boliviano') are absolute karaoke and bar-rock classics.",
+        aliases: ['losenanitos', 'enanitos verdes'],
+      },
+
+      'Miranda!': {
+        bio: 'The glittering, melodramatic kings of Argentine electro-pop whose infectious falsettos and synth-heavy hooks redefined 2000s Latin pop.',
+        aliases: ['miranda', 'miranda!.'],
+      },
+
+      'División Minúscula': {
+        bio: "Mexico's premier melodic punk-rock band, driving the late-90s and 2000s underground rock resurgence in the north.",
+        aliases: ['division minuscula', 'divisionminuscula'],
+      },
+
+      'Porter': {
+        bio: "Avant-garde Mexican indie rock whose surreal, experimental sound on 'Atemahawke' marked them as the Radiohead of the Guadalajara scene.",
+        aliases: ['porter.', 'porter mx'],
+      },
+
+      'Rata Blanca': {
+        bio: 'Argentine heavy metal and neoclassical rock titans whose epic guitar solos and fantasy-driven lyrics rule the Latin hard rock scene.',
+        aliases: ['ratablanca', 'rata blanca.'],
+      },
+
+      'La Renga': {
+        bio: 'Massive, working-class Argentine hard-rockers whose blues-heavy riffs and rabid, stadium-filling fanbase make them a cultural phenomenon.',
+        aliases: ['larenga', 'la renga.'],
+      },
+
+      'Bersuit Vergarabat': {
+        bio: 'Argentine rockers whose anarchic, cumbia-infused political rock and explosive live shows dominated the 1990s and 2000s underground.',
+        aliases: ['bersuit vergarabat.', 'bersuit'],
+      },
+
+      'Tricot Machine': {
+        bio: 'Tricot Machine',
+        aliases: ['tricotmachine'],
+      },
+
+      'Illya Kuryaki and the Valderramas': {
+        bio: 'The funky, Prince-indebted Argentine duo whose rap-rock and R&B fusion brought massive, undeniable groove to Rock en Español.',
+        aliases: ['illya kuryaki'],
+      },
+
+      'Mano Negra': {
+        bio: "Manu Chao's legendary, chaotic French-Spanish collective that fused punk, ska, salsa, and reggae into an incredibly influential global sound.",
+        aliases: ['mano negra.', 'manu chao'],
+      },
+
+      'Los Rodríguez': {
+        bio: 'The legendary Spanish-Argentine supergroup featuring Andrés Calamaro that essentially defined 90s Spanish rock with perfect, bluesy pop-rock anthems.',
+        aliases: ['los rodriguez', 'los rodríguez.'],
+      },
+
+      'Aterciopelados': {
+        bio: 'Colombian rock pioneers whose blend of alternative rock, punk, and Latin rhythms made them one of the most critically acclaimed acts of the 1990s.',
+        aliases: ['aterciopelados.', 'atercioplados', 'andrea echeverri', 'andreaecheverri'],
+      },
+
+      'Fito Páez': {
+        bio: "Argentine rock icon whose album 'El Amor Después del Amor' became the best-selling Argentine rock record of all time.",
+        aliases: ['fito paez', 'fitopaez', 'fito páez.', 'fito', 'fito paéz'],
+      },
+
+      'Andrés Calamaro': {
+        bio: 'Former Los Abuelos de la Nada and Los Rodríguez frontman whose prolific solo career made him an enduring pillar of Spanish-language rock.',
+        aliases: ['andres calamaro', 'andrescalamaro', 'andrés calamaro.', 'calamaro', 'a. calamaro'],
+      },
+
+      'Luis Alberto Spinetta': {
+        bio: 'Widely regarded as the founding father of Argentine rock, his work pioneered the entire rock nacional movement with deep poeticism and jazz chords.',
+        aliases: ['luisalbertospinetta', 'spinetta', 'el flaco spinetta', 'l.a. spinetta', 'flaco spinetta'],
+      },
+
+      'Maldita Vecindad y los Hijos del Quinto Patio': {
+        bio: 'Mexico City ska-rock legends whose fusion of punk, ska, and Mexican urban culture made them essential figures in the late-80s explosion.',
+        aliases: ['maldita vecindad', 'malditavecindad', 'maldita vecindad.', 'maldita', 'maldita vecindad y los hijos del 5to patio'],
+      },
+
+      'El Cuarteto de Nos': {
+        bio: 'Uruguayan rock band whose witty, literary lyrics and genre-bending style earned them massive pan-Latin American acclaim.',
+        aliases: ['elcuartetodenos', 'cuarteto de nos', 'cuartetodenos', 'el cuarteto de nos.'],
+      },
+
+      'Los Auténticos Decadentes': {
+        bio: 'Argentine party-rock institution blending ska, cumbia, and rock whose infectious energy and two-decade catalog make them a festival staple.',
+        aliases: ['los autenticos decadentes', 'losautenticosdecadentes', 'autenticos decadentes', 'auténticos decadentes', 'los autenticos', 'decadentes'],
+      },
+
+      'Divididos': {
+        bio: 'Argentine power trio born from the ashes of Sumo, known for their blues-heavy hard rock and improvisational live shows.',
+        aliases: ['divididos.', 'divididos band', 'divididos argentina'],
+      },
+
+      'Extremoduro': {
+        bio: "Spain's most beloved underground rock band, whose raw transgressive lyrics and powerful blues-rock sound built a massive cult following.",
+        aliases: ['extremoduro.', 'extremo duro', 'robe iniesta', 'robe'],
+      },
+
+      'Los Planetas': {
+        bio: "Granada-based indie rock cornerstone whose shoegazing textures and poetic Spanish-language lyrics defined Spain's 1990s independent rock scene.",
+        aliases: ['losplanetas', 'los planetas.', 'planetas'],
+      },
+
+      'Patricio Rey y sus Redonditos de Ricota': {
+        bio: "Argentina's most mythical rock band, whose cryptic lyrics and fierce independence define the absolute cult end of rock nacional.",
+        aliases: ['redonditos de ricota', 'los redonditos', 'los redondos', 'redonditos', 'indio solari', 'el indio solari'],
+      },
+
+      'Serú Girán': {
+        bio: "Charly García's legendary supergroup, often called the Argentine Beatles for their genre-defining progressive and pop-rock.",
+        aliases: ['seru giran', 'serugiran', 'seru giran.', 'serú giran'],
+      },
+
+      'Los Tres': {
+        bio: 'Chilean rock band whose fusion of blues, bolero, cueca, and alternative rock made them one of the most artistically ambitious acts in 1990s Rock en Español.',
+        aliases: ['lostres', 'los tres.', 'los 3', 'los tres chile'],
+      },
+
+      'Plastilina Mosh': {
+        bio: "Monterrey electronic-rock duo whose playful fusion of big beat, hip-hop, and rock helped define Mexico's late-90s alternative scene.",
+        aliases: ['plastilinamosh', 'plastilina mosh.', 'plastilina', 'plastilinamosh.'],
+      },
+
+      'Enjambre': {
+        bio: "Mexican indie-rock band whose emotionally charged melodic rock earned them a devoted following across Latin America's 2000s rock scene.",
+        aliases: ['enjambre.', 'enjambre mx', 'enjambre band', 'enjambre mexico'],
+      },
+
+      'Siddhartha': {
+        bio: "Monterrey singer-songwriter whose dreamy synth-inflected rock made him one of Mexico's most important 21st-century Rock en Español artists.",
+        aliases: ['siddhartha.', 'siddhartha mx', 'siddartha', 'siddarta', 'siddhartha mexico'],
+      },
+
+      'Santa Sabina': {
+        bio: 'Mexico City art-rock band fronted by the late Rita Guerrero, whose dark progressive rock made them a revered cult act of the 1990s.',
+        aliases: ['santasabina', 'santa sabina.', 'santa savina', 'rita guerrero'],
+      },
+
+      'Botellita de Jerez': {
+        bio: 'Pioneering Mexican rock-humorístico trio whose irreverent fusion of rock, punk, and Mexican folk in the 1980s helped break the cultural stigma against rock in Mexico.',
+        aliases: ['botellitadejerez', 'botellita de jeréz', 'botellita', 'botellita de jerez.'],
+      },
+
+      'Tijuana No!': {
+        bio: 'Tijuana-born political punk-ska-rock collective whose bilingual border-culture sound made them key figures in 1990s Mexican alternative rock.',
+        aliases: ['tijuana no', 'tijuanano', 'tijuana no!.', 'tj no'],
+      },
+
+      'Tan Biónica': {
+        bio: 'Argentine pop-rock band whose arena-filling synth-rock anthems and emotionally resonant songwriting made them one of the biggest acts of the 2010s.',
+        aliases: ['tan bionica', 'tanbionica', 'tan biónica.', 'tan bionica.', 'tanbiónica'],
+      },
+    },
+  },
+};

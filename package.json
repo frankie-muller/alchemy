@@ -1,0 +1,63 @@
+{
+  "name": "music-alchemy",
+  "version": "0.1.0",
+  "description": "Music genre alchemy — a taxonomy of 3,545 artists across 12 pillars, a classifier that survives real-world ID3 tags, and a zero-network discovery engine.",
+  "keywords": [
+    "music",
+    "genre",
+    "taxonomy",
+    "classification",
+    "id3",
+    "metadata",
+    "music-library",
+    "recommendation",
+    "offline"
+  ],
+  "license": "MIT",
+  "author": "Frank Müller (https://www.singularcontinuum.com/octopus)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankie-muller/alchemy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/frankie-muller/alchemy/issues"
+  },
+  "homepage": "https://github.com/frankie-muller/alchemy#readme",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "sideEffects": false,
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "clean": "rm -rf dist",
+    "build": "npm run clean && tsc -p tsconfig.build.json",
+    "verify": "node scripts/verify.mjs",
+    "test": "npm run typecheck && npm run verify",
+    "typecheck": "tsc --noEmit",
+    "example:classify": "node examples/classify.mjs",
+    "example:discover": "node examples/discover.mjs",
+    "grow": "node scripts/grow.mjs",
+    "prepare": "npm run build",
+    "prepublishOnly": "npm test"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0",
+    "typescript": "^5.6.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

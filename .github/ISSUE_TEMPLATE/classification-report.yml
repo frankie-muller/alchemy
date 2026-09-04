@@ -1,0 +1,62 @@
+name: Misclassification report
+description: An artist is filed in the wrong pillar or sub-category, or isn't found at all.
+title: "[classify] "
+labels: ["classification"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This is the most useful issue you can file. The test harness proves the dictionary is
+        internally consistent — it cannot prove it is *right*. Only ears do that.
+
+  - type: input
+    id: artist
+    attributes:
+      label: The artist string
+      description: Copy it exactly as it appears in your file's tag — spacing, punctuation, accents and all. The exact shape is often the whole bug.
+      placeholder: "Rihanna feat.Calvin Harris"
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: What Alchemy says
+      description: |
+        Run this and paste the output — it reports which step of the waterfall made the call, which is usually the diagnosis:
+        ```
+        node examples/classify.mjs "Your Exact Artist String"
+        ```
+      render: text
+    validations:
+      required: true
+
+  - type: input
+    id: expected
+    attributes:
+      label: Where it belongs
+      description: Pillar › Sub-category, using the names from the README taxonomy table. Write "not in the dictionary yet" if that's the issue.
+      placeholder: "Electronic › Detroit Techno / Chicago House"
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: |
+        Briefly — what makes this the right home? "Centre of gravity" is the standard: where does the bulk of their work actually live?
+        If this is a judgment call rather than a clear error, say so. Those are still worth filing, they just get discussed instead of fixed.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: kind
+    attributes:
+      label: Type
+      options:
+        - label: Wrong pillar
+        - label: Wrong sub-category
+        - label: Not found at all (returns Unmatched)
+        - label: Found, but the name collides with a different artist of the same name
+        - label: The biography is wrong or describes someone else

@@ -1,0 +1,27 @@
+{
+  // Base config: typechecking only (`npm run typecheck`). The emit settings
+  // live in tsconfig.build.json.
+  //
+  // module/moduleResolution are NodeNext deliberately. This package publishes
+  // as real ESM, and NodeNext is the only setting that ENFORCES the rule Node
+  // enforces at runtime: relative imports must carry a '.js' extension. Under
+  // "Bundler" an extensionless import typechecks clean and then throws
+  // ERR_MODULE_NOT_FOUND in a consumer's project — a class of bug the person
+  // installing the package finds, not the person shipping it.
+  "compilerOptions": {
+    "target": "ES2020",
+    "lib": ["ES2020"],
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "strict": true,
+    "noUncheckedIndexedAccess": false,
+    "noEmit": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "types": []
+  },
+  "include": ["src/**/*.ts", "scripts/**/*.ts"]
+}

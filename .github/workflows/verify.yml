@@ -1,0 +1,67 @@
+name: verify
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  verify:
+    name: typecheck + roll call
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      # `prepare` runs here, so this also builds dist/.
+      - run: npm ci
+
+      # typecheck + the roll call: every artist must resolve to itself, in its
+      # own pillar. This is the contract that makes the dictionary safe to grow
+      # — a change that breaks self-match cannot land.
+      - run: npm test
+
+      # The demos bundle the real modules, so they double as a smoke test that
+      # the public API in src/index.ts is actually importable.
+      - run: node examples/classify.mjs
+      - run: node examples/discover.mjs
+
+  package:
+    name: installs as a consumer
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - run: npm ci
+      - run: npm run build
+
+      # Pack the tarball and install it into a scratch project, then import it
+      # the way a stranger would. Catches the packaging mistakes a test suite
+      # never sees: a missing file in `files`, a wrong `exports` path, or a
+      # relative import emitted without its .js extension — all of which
+      # typecheck clean here and throw ERR_MODULE_NOT_FOUND over there.
+      - name: Pack and import from a scratch project
+        run: |
+          TARBALL="$(npm pack --silent)"
+          mkdir -p /tmp/consumer && cd /tmp/consumer
+          echo '{"name":"c","private":true,"type":"module","version":"1.0.0"}' > package.json
+          npm install "$GITHUB_WORKSPACE/$TARBALL" --no-audit --no-fund
+          cat > run.mjs <<'EOF'
+          import { classifyTrack, getDictionaryStats } from 'music-alchemy';
+          const s = getDictionaryStats();
+          if (s.artists !== 3545) { throw new Error(`expected 3545 artists, got ${s.artists}`); }
+          const r = classifyTrack({ id: '1', title: '-', artist: 'Earth, Wind & Fire' });
+          if (r.pillar !== 'R&B / Soul') { throw new Error(`expected R&B / Soul, got ${r.pillar}`); }
+          console.log(`consumer import OK - ${s.artists} artists, ${s.pillars} pillars`);
+          EOF
+          node run.mjs
