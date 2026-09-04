@@ -1,0 +1,55 @@
+name: pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Required by actions/deploy-pages. Read-only on contents: this job publishes
+# a built artifact, it never writes to the repo.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deploy at a time; don't cancel a running one half-published.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: bundle the demo
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - run: npm ci
+
+      # Typecheck the demo separately — it is the only code here allowed to
+      # touch the DOM, so it has its own lib settings.
+      - run: npm run typecheck:demo
+
+      # Bundles src/ into site/demo.js and copies index.html beside it. The
+      # whole dictionary ships in the page: no API, no server, no key.
+      - run: npm run build:demo -- --out site
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    name: deploy to Pages
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

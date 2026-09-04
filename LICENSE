@@ -19,18 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-NOTE ON THE DICTIONARY DATA
-
-The MIT license above covers this repository in full — both the code and the
-dictionary data (artist entries, biographies, aliases, connectors, and
-sub-category metadata) under `src/pillars/`, `src/aliasMap.ts`,
-`src/connectors.ts`, and `src/subCategoryMeta.ts`.
-
-The biographies were generated with large language models (Claude and Gemini)
-under human review, and are released under the same terms. Artist names, genre
-labels, and the factual associations between them are not claimed as property
-— they are facts. Attribution is appreciated but, per MIT, required only in the
-form of this notice.

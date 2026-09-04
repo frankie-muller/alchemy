@@ -5,6 +5,8 @@
 
 **Music genre alchemy** — turn a messy local music library into a structured one, entirely offline.
 
+**▶ [Try it in your browser](https://frankie-muller.github.io/alchemy)** — the real dictionary, running client-side. Pick a corner of the taxonomy and get recommendations, or throw a mangled ID3 tag at the classifier and watch which step catches it.
+
 Alchemy ships a taxonomy of **3,545 artists** across **12 pillars** and **76 sub-categories**, an artist classifier built for the tags real files actually carry, and a discovery engine that recommends by *neighbourhood* instead of by calling an API.
 
 **At runtime: no network, no accounts, no telemetry, zero dependencies.** The dataset was *built* with LLMs — see [How this was built](#how-this-was-built), which is also why the script that built it ships with it.
@@ -217,6 +219,6 @@ Fork it and grow it in the meantime — that's what `scripts/grow.mjs` is for, a
 
 ## License
 
-[MIT](LICENSE) — code *and* dictionary data. Artist names and their genre associations are facts, claimed by no one; the biographies are model-generated text released under the same terms.
+[MIT](LICENSE) — code *and* dictionary data. Artist names and their genre associations are facts, claimed by no one; the biographies are model-generated text released under the same terms. [NOTICE.md](NOTICE.md) spells out the provenance.
 
 Built by [Frank Müller](https://www.singularcontinuum.com/octopus).

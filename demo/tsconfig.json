@@ -1,0 +1,12 @@
+{
+  // The demo is the one place in this repo allowed to touch the DOM.
+  // It gets its own config rather than adding "DOM" to the base lib, so the
+  // library itself still fails to compile if it ever reaches for `window` —
+  // it has to run in React Native and Node, where there isn't one.
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "noEmit": true
+  },
+  "include": ["**/*.ts", "../src/**/*.ts"]
+}
