@@ -1569,6 +1569,16 @@ export const rock: Pillar = {
         bio: "Ultravox founder who departed to create 'Metamatic,' a stone-cold masterpiece of icy, JG Ballard-inspired minimal synth-pop that influenced the entire synthwave genre.",
         aliases: ['johnfoxx', 'john foxx.', 'j. foxx', 'j.foxx', 'john fox', 'john foxx (musician)', 'dennis leigh', 'john foxx & the maths', 'john foxx and the maths'],
       },
+
+      'Camel': {
+        bio: 'British progressive rock band renowned for intricate melodic craftsmanship, expansive long-form arrangements, and conceptual albums like The Snow Goose.',
+        aliases: [],
+      },
+
+      'Caravan': {
+        bio: 'Foundational Canterbury scene band combining whimsical songwriting, complex time signatures, and extended, jazz-influenced progressive rock suites.',
+        aliases: [],
+      },
     },
 
     'Shoegaze / Dream Pop': {

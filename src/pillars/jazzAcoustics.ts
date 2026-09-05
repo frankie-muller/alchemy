@@ -1530,6 +1530,26 @@ export const jazzAcoustics: Pillar = {
         bio: 'The Dominican pianist whose explosive technique and rich harmonic palette fuse Caribbean rhythm with the full force of modern jazz.',
         aliases: ['michel camilo.', 'michel camillo', 'michel camilo trio', 'michel camilo piano', 'michel camillo.'],
       },
+
+      'Mario Bauzá': {
+        bio: 'Cuban multi-instrumentalist credited with creating Afro-Cuban jazz by merging traditional Cuban rhythms with bebop horn arrangements in 1940s New York.',
+        aliases: ['Mario Bauza'],
+      },
+
+      'Chico O\'Farrill': {
+        bio: 'Legendary composer and arranger who shaped the sound of Afro-Cuban jazz through grand orchestral suites and collaborations with top jazz icons.',
+        aliases: ['Chico OFarrill', 'Chico O\'Farrill & His Afro-Cuban Jazz Orchestra'],
+      },
+
+      'Gonzalo Rubalcaba': {
+        bio: 'Virtuoso Cuban pianist who seamlessly integrates traditional Afro-Cuban folk music with complex post-bop jazz harmonies.',
+        aliases: ['Gonzalo Rubalcava'],
+      },
+
+      'Dave Valentin': {
+        bio: 'Acclaimed flutist who spent decades at the forefront of Latin jazz, blending Latin rhythms with contemporary jazz improvisations.',
+        aliases: [],
+      },
     },
 
     'Acoustic Guitar': {
@@ -1576,6 +1596,26 @@ export const jazzAcoustics: Pillar = {
       'Don Ross': {
         bio: 'The powerhouse Canadian fingerstylist whose muscular, percussive technique and genre-blending compositions pushed solo acoustic guitar to new extremes.',
         aliases: ['don ross.', 'don ross guitar', 'don ross fingerstyle', 'donn ross', 'don ross canada'],
+      },
+
+      'Alex de Grassi': {
+        bio: 'American fingerstyle guitarist and Grammy nominee whose intricate steel-string acoustic compositions helped define the modern fingerstyle genre.',
+        aliases: ['Alex De Grassi', 'Alex DeGrassi'],
+      },
+
+      'Antoine Dufour': {
+        bio: 'Canadian fingerstyle guitarist renowned for his highly technical percussive acoustic playing and original instrumental compositions.',
+        aliases: [],
+      },
+
+      'Preston Reed': {
+        bio: 'Pioneering fingerstyle acoustic guitarist who revolutionized the instrument through his inventive percussive, two-handed tapping techniques.',
+        aliases: [],
+      },
+
+      'Adrian Legg': {
+        bio: 'English fingerstyle acoustic guitarist celebrated for blending folk, jazz, and classical elements using intricate alternate tunings and custom techniques.',
+        aliases: [],
       },
     },
   },

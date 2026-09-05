@@ -16,12 +16,16 @@
 //   ALCHEMY_MODEL     overrides the per-provider default
 //   ALCHEMY_API_URL   required for `custom` — any OpenAI-compatible /chat/completions
 //                     endpoint (llama.cpp, Ollama, vLLM, OpenRouter, Together, …)
+//   ALCHEMY_TRENDING_FILE  optional — path to JSON ([{pillar, trending:[{name,note}]}])
+//                     from a web-search sweep for currently-trending artists per
+//                     pillar. The model still decides which (if any) fit this
+//                     specific sub-category; this only widens what it considers.
 //
 // Nothing here is Anthropic-specific by design. `custom` covers a local model,
 // so you can grow the dictionary with no API key and no network at all.
 // ─────────────────────────────────────────────────────────────────────────────
 import { execSync } from 'node:child_process';
-import { mkdtempSync, mkdirSync, writeFileSync, rmSync } from 'node:fs';
+import { mkdtempSync, mkdirSync, writeFileSync, readFileSync, rmSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join, dirname } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
@@ -78,7 +82,7 @@ const PROVIDERS = {
     extract: (json) => json?.choices?.[0]?.message?.content,
   },
   gemini: {
-    defaultModel: 'gemini-2.5-flash',
+    defaultModel: 'gemini-3.6-flash',
     request: (model, prompt, key) => ({
       url: `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`,
       headers: { 'content-type': 'application/json', 'x-goog-api-key': key },
@@ -162,6 +166,26 @@ if (!existing) {
 const existingNames = Object.keys(existing);
 const meta = getSubCategoryMeta(subName);
 
+// ── Optional trending context ────────────────────────────────────────────────
+// A base model's training data goes stale; it will under-propose acts who
+// broke out after its cutoff. ALCHEMY_TRENDING_FILE points at JSON written by
+// a web-search sweep (scripts run this per pillar, not per sub-category — the
+// model itself decides which trending names, if any, actually fit THIS
+// sub-category rather than an adjacent one in the same pillar).
+let trendingBlock = '';
+const trendingFile = process.env.ALCHEMY_TRENDING_FILE;
+if (trendingFile) {
+  try {
+    const all = JSON.parse(readFileSync(trendingFile, 'utf8'));
+    const forPillar = all.find((p) => p.pillar === pillarName);
+    if (forPillar?.trending?.length) {
+      trendingBlock = `\nCURRENTLY TRENDING IN THIS PILLAR (found via live web search — only use ones that genuinely fit THIS sub-category, not just the pillar):\n${forPillar.trending.map((t) => `- ${t.name} — ${t.note}`).join('\n')}\n`;
+    }
+  } catch (err) {
+    console.error(`Warning: could not read ALCHEMY_TRENDING_FILE (${err.message}) — continuing without it.`);
+  }
+}
+
 // ── The prompt ───────────────────────────────────────────────────────────────
 // Sending the artists already present is what keeps proposals additive and on
 // register — the model is matching a demonstrated standard, not guessing at one.
@@ -170,7 +194,7 @@ const prompt = `You are helping curate a music genre taxonomy.
 PILLAR: ${pillarName}
 SUB-CATEGORY: ${subName}
 ${meta ? `INTENT: ${meta.description}\nMOOD: ${meta.mood.join(', ')} · ENERGY: ${meta.energy} · ERAS: ${meta.decades.join(', ')}` : '(no metadata defined for this sub-category yet)'}
-
+${trendingBlock}
 Artists ALREADY in this sub-category (${existingNames.length}) — do not repeat any of them:
 ${existingNames.join(', ')}
 
@@ -193,7 +217,21 @@ console.log(`      provider=${providerName} model=${model} · ${existingNames.le
 console.log(`      asking for ${count}…\n`);
 
 const { url, headers, body } = provider.request(model, prompt, apiKey);
-const res = await fetch(url, { method: 'POST', headers, body: JSON.stringify(body) });
+
+// Capacity errors (503/429) are the provider being busy, not the request
+// being wrong — retrying with backoff belongs here so every caller (this
+// script standalone, or an orchestrator driving hundreds of these) gets it
+// for free, instead of an orchestrator mistaking "provider is overloaded"
+// for "this sub-category ran out of real artists."
+const MAX_ATTEMPTS = 5;
+let res;
+for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+  res = await fetch(url, { method: 'POST', headers, body: JSON.stringify(body) });
+  if (res.ok || ![429, 500, 502, 503, 504].includes(res.status) || attempt === MAX_ATTEMPTS) { break; }
+  const backoffMs = Math.min(5000 * 2 ** (attempt - 1), 60000);
+  console.error(`  provider busy (${res.status}), retrying in ${Math.round(backoffMs / 1000)}s… (attempt ${attempt}/${MAX_ATTEMPTS})`);
+  await new Promise((r) => setTimeout(r, backoffMs));
+}
 if (!res.ok) {
   console.error(`API error ${res.status} ${res.statusText}\n${(await res.text()).slice(0, 800)}`);
   process.exit(1);

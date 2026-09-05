@@ -744,6 +744,36 @@ export const electronic: Pillar = {
         bio: 'Diynamic-affiliated live act producing hypnotic, melodic deep techno/house that is a direct sonic cousin to Kollektiv Turmstrasse and Adriatique.',
         aliases: ['township rebelion', 'townshiprebellion', 'township reb', 'township rebellion live'],
       },
+
+      'Michael Bibi': {
+        bio: 'British DJ and producer known for his groove-heavy tech house tracks and co-founding the influential Solid Grooves label.',
+        aliases: [],
+      },
+
+      'Dennis Cruz': {
+        bio: 'Spanish producer renowned for his signature warm, rhythm-driven tech house releases and deep dancefloor grooves.',
+        aliases: [],
+      },
+
+      'PAWSA': {
+        bio: 'UK producer and Solid Grooves co-founder delivering stripped-back, inventive tech house tailored for late-night dance floors.',
+        aliases: [],
+      },
+
+      'Steve Bug': {
+        bio: 'German DJ and Poker Flat Recordings founder, pivotal in shaping minimalist, warm deep house and tech house since the 1990s.',
+        aliases: [],
+      },
+
+      'East End Dubs': {
+        bio: 'London-based producer celebrated for his refined, atmospheric deep tech house cuts and infectious underground grooves.',
+        aliases: [],
+      },
+
+      'Lee Foss': {
+        bio: 'Hot Creations co-founder instrumental in defining the modern warm, vocal-driven deep and tech house sound.',
+        aliases: [],
+      },
     },
 
     'Ambient / Downtempo': {
@@ -1913,6 +1943,26 @@ export const electronic: Pillar = {
         bio: "A Chicago acid-house pioneer whose 'Land of Confusion' and '151' epitomised the raw, stripped Trax Records sound before his early death.",
         aliases: ['armando.', 'armando gallop', 'armando galo'],
       },
+
+      'Sleezy D': {
+        bio: 'Chicago producer team-up with Marshall Jefferson that released the 1986 track I\'ve Lost Control, widely considered the first acid house record.',
+        aliases: ['Sleezy D.'],
+      },
+
+      'Maurice': {
+        bio: 'Chicago producer Maurice Joshua whose 1988 track This Is Acid became one of the definitive and most influential anthems of the acid house era.',
+        aliases: ['Maurice Joshua'],
+      },
+
+      'Tyree': {
+        bio: 'Essential Chicago house producer and DJ who delivered seminal acid house anthems like Acid Over during the genre\'s late-1980s peak.',
+        aliases: ['Tyree Cooper'],
+      },
+
+      'Fast Eddie': {
+        bio: 'Pioneering Chicago producer who bridged hip-house and acid house with foundational, squelch-driven tracks like Acid Thunder.',
+        aliases: ['"Fast" Eddie'],
+      },
     },
 
     'EBM / Industrial': {
@@ -1959,6 +2009,16 @@ export const electronic: Pillar = {
       'Combichrist': {
         bio: "Andy LaPlegua's aggrotech battering ram, all distorted kicks and screamed vocals, that became a fixture of dark-dancefloor and gaming worlds.",
         aliases: ['combichrist.', 'andy laplegua', 'combi christ'],
+      },
+
+      'Die Krupps': {
+        bio: 'German industrial and EBM pioneers who fused heavy electronic sequences with metallic percussion and dark synth textures.',
+        aliases: [],
+      },
+
+      'Suicide Commando': {
+        bio: 'Belgian electro-industrial project that pioneered dark aggrotech and hard-hitting EBM with abrasive synths and distorted vocals.',
+        aliases: [],
       },
     },
 
