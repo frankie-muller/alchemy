@@ -7,6 +7,15 @@
 //
 //   ALCHEMY_PROVIDER=gemini ALCHEMY_API_KEY=... node scripts/grow-to-target.mjs --target 132
 //
+//   --models "openai/gpt-oss-120b,openai/gpt-oss-20b,groq/compound-mini"
+//     Round-robins across models that share one ALCHEMY_PROVIDER/API_URL but
+//     have SEPARATE quota buckets (true of Groq's per-model daily caps).
+//     When a model fails, cycles to the next one automatically rather than
+//     stalling the whole run on a single provider's clock. Cross-provider
+//     cycling isn't supported here — ALCHEMY_PROVIDER/ALCHEMY_API_URL are
+//     fixed for the whole run, only the model name rotates. Falls back to
+//     ALCHEMY_MODEL (or its provider default) if --models is omitted.
+//
 // Per sub-category: ask for a batch, merge what's accepted, repeat until it
 // reaches --target OR two consecutive batches land zero new artists (the
 // niche is exhausted — padding further would mean forcing fabrication, which
@@ -30,7 +39,21 @@ const BATCH = Number(arg('--batch', 12));
 const PACE_MS = Number(arg('--pace-ms', 7000));
 const MAX_ROUNDS_PER_SUB = Number(arg('--max-rounds', 40));
 const TRENDING_FILE = arg('--trending-file', null);
-const childEnv = TRENDING_FILE ? { ...process.env, ALCHEMY_TRENDING_FILE: TRENDING_FILE } : process.env;
+const baseEnv = TRENDING_FILE ? { ...process.env, ALCHEMY_TRENDING_FILE: TRENDING_FILE } : { ...process.env };
+
+// ── Model cycling ────────────────────────────────────────────────────────────
+// --models "a,b,c" round-robins across models with SEPARATE quota buckets
+// (different models, or the same model via different providers). grow.mjs
+// already retries 429/503 internally with backoff, so if a call still fails
+// by the time it reaches here, that model is genuinely spent for now (daily
+// cap, sustained congestion, or a hard error) — move to the next one rather
+// than stall the whole run waiting on a single provider's clock.
+const MODELS = (arg('--models', null) || process.env.ALCHEMY_MODEL || '').split(',').map((s) => s.trim()).filter(Boolean);
+if (MODELS.length === 0) {
+  console.error('No model configured. Pass --models "model1,model2,..." or set ALCHEMY_MODEL.');
+  process.exit(1);
+}
+let modelIndex = 0;
 
 async function loadDictionary() {
   const workDir = mkdtempSync(join(tmpdir(), 'alchemy-orchestrate-'));
@@ -97,20 +120,30 @@ for (let i = 0; i < jobs.length; i++) {
     rounds++;
     const need = Math.min(BATCH, TARGET - current + 3);
 
-    let growOutput;
-    try {
-      growOutput = execFileSync('node', ['scripts/grow.mjs', '--pillar', job.pillar, '--sub', job.sub, '-n', String(need)], {
-        cwd: root, encoding: 'utf8', env: childEnv,
-      });
-    } catch (err) {
-      const out = (err.stdout || '') + (err.stderr || '');
-      if (/503|429|UNAVAILABLE|RESOURCE_EXHAUSTED/i.test(out)) {
-        log(`  retrying after transient error (${job.pillar} › ${job.sub})`);
-        await sleep(PACE_MS * 3);
-        continue;
+    // Try each model at most once this round; grow.mjs already retries
+    // transient errors internally, so a failure here means THIS model is
+    // spent for now — cycle to the next rather than stall on it.
+    let growOutput = null;
+    for (let attempt = 0; attempt < MODELS.length; attempt++) {
+      const model = MODELS[modelIndex];
+      try {
+        growOutput = execFileSync('node', ['scripts/grow.mjs', '--pillar', job.pillar, '--sub', job.sub, '-n', String(need)], {
+          cwd: root, encoding: 'utf8', env: { ...baseEnv, ALCHEMY_MODEL: model },
+        });
+        break;
+      } catch (err) {
+        const out = (err.stdout || '') + (err.stderr || '');
+        const nextModel = MODELS[(modelIndex + 1) % MODELS.length];
+        log(`  model ${model} failed (${out.slice(0, 150).replace(/\n/g, ' ')}) — switching to ${nextModel}`);
+        modelIndex = (modelIndex + 1) % MODELS.length;
       }
-      log(`  HARD ERROR, moving on: ${out.slice(0, 300)}`);
-      break;
+    }
+
+    if (growOutput === null) {
+      consecutiveEmpty++;
+      log(`  round ${rounds}: every configured model failed (now ${current}/${TARGET})  [${consecutiveEmpty} empty in a row]`);
+      await sleep(PACE_MS);
+      continue;
     }
     totalCallsMade++;
 
@@ -129,7 +162,7 @@ for (let i = 0; i < jobs.length; i++) {
     totalMerged += merged;
     mergedSincePillarCommit += merged;
     consecutiveEmpty = merged === 0 ? consecutiveEmpty + 1 : 0;
-    log(`  round ${rounds}: +${merged} (now ${current}/${TARGET})${consecutiveEmpty ? `  [${consecutiveEmpty} empty in a row]` : ''}`);
+    log(`  round ${rounds} [${MODELS[modelIndex]}]: +${merged} (now ${current}/${TARGET})${consecutiveEmpty ? `  [${consecutiveEmpty} empty in a row]` : ''}`);
 
     await sleep(PACE_MS);
   }

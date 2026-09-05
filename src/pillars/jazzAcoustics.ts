@@ -2131,6 +2131,21 @@ export const jazzAcoustics: Pillar = {
         bio: 'Teri Thornton, famed for her soaring alto, delivered timeless ballads and emotionally rich storytelling.',
         aliases: [],
       },
+
+      'Vanessa Rubin': {
+        bio: 'Renowned interpreter of the Great American Songbook, offering polished, emotionally resonant vocal jazz performances.',
+        aliases: [],
+      },
+
+      'The Manhattan Transfer': {
+        bio: 'Vocal quartet famous for sophisticated harmonies and inventive takes on jazz standards, swing, and vocal storytelling.',
+        aliases: ['Manhattan Transfer'],
+      },
+
+      'Catherine Russell': {
+        bio: 'American vocalist devoted to classic jazz and swing standards, delivering heartfelt, timeless performances.',
+        aliases: [],
+      },
     },
 
     'Acoustic / Bossa Nova': {
