@@ -273,6 +273,406 @@ export const reggaeDub: Pillar = {
         bio: "The 'Queen of Reggae,' an I-Threes member and solo artist whose classic duets with Bob Andy cement her as a core figure.",
         aliases: ['marcia griffith', 'marcia griffiths reggae', 'marciagriffths', 'marsha griffiths', 'm. griffiths', 'marcia griffits', 'marcia griiffiths', 'marcia griffiths i-threes', 'marcia griffths'],
       },
+
+      'The Ital Crusher': {
+        bio: 'Jamaican roots-reggae vocalist delivering militant, Rastafarian-conscious music with a lean, digital-dub edge.',
+        aliases: [],
+      },
+
+      'Jah9': {
+        bio: 'Contemporary Jamaican roots-reggae singer and poet whose deeply meditative, spiritual lyrics align with the sub-category\'s core.',
+        aliases: [],
+      },
+
+      'Ras Daniel Adjei': {
+        bio: 'Jamaican roots-reggae singer, also a sound-system operator, whose devotional output embodies the earthy, conscious sound of the 1970s revivalists.',
+        aliases: [],
+      },
+
+      'Yami Bolo': {
+        bio: 'Jamaican reggae singer whose late-1980s and 1990s output is rooted in roots-reggae, Rasta culture, and conscious lyricism.',
+        aliases: [],
+      },
+
+      'George Nooks': {
+        bio: 'Jamaican gospel and roots-reggae singer, formerly of The Royals, with a voice that carried spiritual weight through the 1980s and beyond.',
+        aliases: [],
+      },
+
+      'Junior Reid': {
+        bio: 'Jamaican singer noted for his fiery, militant roots-reggae work, notably fronting Black Uhuru and releasing the classic anthem "One Blood."',
+        aliases: [],
+      },
+
+      'Jah Cure': {
+        bio: 'Jamaican roots-reggae singer praised for his soulful, spiritual vocal delivery and devotion to Rastafarian themes.',
+        aliases: [],
+      },
+
+      'Richie Spice': {
+        bio: 'Jamaican reggae singer whose consistently conscious, roots-reggae output, such as "Earth a Run Red," underscores Rasta spirituality.',
+        aliases: [],
+      },
+
+      'Michael Rose': {
+        bio: 'Jamaican singer, best known as the lead voice of Black Uhuru, whose solo catalogue stays firmly rooted in roots-reggae and militant Rasta consciousness.',
+        aliases: [],
+      },
+
+      'The Tamlins': {
+        bio: 'Jamaican harmony trio from the roots-reggae era, delivering devotional and conscious material while backing many of the genre\'s key artists.',
+        aliases: [],
+      },
+
+      'Junior Byles': {
+        bio: 'King Tubby\'s vocalist whose haunting, militant roots tracks and Rastafarian devotions anchor the golden era.',
+        aliases: [],
+      },
+
+      'Kenny Knots': {
+        bio: 'Veteran roots reggae singer and producer, longtime member of The Meditations, known for spiritual harmony.',
+        aliases: [],
+      },
+
+      'Judy Mowatt': {
+        bio: 'One of the I-Threes, bringing feminist yet deeply Rastafarian-conscious harmonies to roots reggae\'s mainstream.',
+        aliases: [],
+      },
+
+      'Misty In Roots': {
+        bio: 'UK collective of Rastafarian roots reggae, militant live sound system, and community-focused consciousness.',
+        aliases: ['Misty in Roots'],
+      },
+
+      'The Jays': {
+        bio: 'Harmony trio from Waterhouse known for sweet yet potent roots output, produced by Sylvan Morris and Lee Perry.',
+        aliases: [],
+      },
+
+      'Bim Sherman': {
+        bio: 'Quietly intense roots singer and songwriter whose haunted melodies and lyrical spiritualism set him apart.',
+        aliases: [],
+      },
+
+      'Macka B': {
+        bio: 'British-based roots reggae conscious toaster and singer, spreading teaching through positivity and wit since the 1980s.',
+        aliases: [],
+      },
+
+      'Earl Sixteen': {
+        bio: 'Versatile and spiritual singer whose dozens of roots cuts for major producers carry classic 70s/80s vibrations.',
+        aliases: ['Earl 16'],
+      },
+
+      'Cedric \'Im\' Brooks': {
+        bio: 'Saxophonist and flutist of The Mystic Revelation Of Rastafari, bringing Nyabinghi drumming into psychedelic roots reggae.',
+        aliases: ['Cedric Brooks'],
+      },
+
+      'The Itals': {
+        bio: 'Jamaican vocal trio led by Keith Porter, cornerstone of roots reggae with spiritual harmonies and militant classics like \'In A Dis Ya Time\'.',
+        aliases: [],
+      },
+
+      'The Viceroys': {
+        bio: 'Long-running Jamaican vocal group delivering deep roots harmony in the 1970s, closely tied to Studio One and producer Niney the Observer.',
+        aliases: [],
+      },
+
+      'Sons Of Negus': {
+        bio: 'Rastafarian roots harmony trio from the 1970s, known for devotional nyabinghi-infused recordings produced by Lloyd Barnes.',
+        aliases: [],
+      },
+
+      'Rita Marley': {
+        bio: 'Widow of Bob Marley and key roots-reggae vocalist in her own right, blending Rastafarian spirituality and soulful delivery.',
+        aliases: [],
+      },
+
+      'Aswad': {
+        bio: 'British roots reggae band channeling Rastafarian consciousness and militant sound-system energy into a distinct UK roots style.',
+        aliases: [],
+      },
+
+      'Trinity': {
+        bio: 'Dominican-born Jamaican toaster and singer who made his mark with roots-oriented lyrics, working with producers like Linval Thompson.',
+        aliases: [],
+      },
+
+      'Ranking Joe': {
+        bio: 'Jamaican DJ and singer whose late-1970s roots output on Greensleeves and Jah Life merged spiritual toasting with militant riddims.',
+        aliases: [],
+      },
+
+      'Earl Zero': {
+        bio: 'Jamaican roots singer known for the deep spiritual album \'Visions Of Love\', recorded in the late 1970s and beloved of roots collectors.',
+        aliases: [],
+      },
+
+      'Jah Stitch': {
+        bio: 'Rastafarian toaster and singer from the 1970s, delivering conscious chants and roots commentary on classic Kingston riddims.',
+        aliases: [],
+      },
+
+      'Rod Taylor': {
+        bio: 'Jamaican roots-reggae singer and producer whose devout Rastafarian lyrics and late-1970s output anchor him firmly in the sub-category.',
+        aliases: [],
+      },
+
+      'Junior Culture': {
+        bio: 'Modern roots-reggae singer in the classic Jamaican tradition, delivering spiritual, militant lyrics through traditional riddims.',
+        aliases: [],
+      },
+
+      'Prince Allah': {
+        bio: 'Jamaican roots singer who recorded crucial spiritual Christian-reggae sets in the 1970s, including the landmark \'Sun Is Shining\' album.',
+        aliases: [],
+      },
+
+      'Willie Williams': {
+        bio: 'Jamaican roots-reggae vocalist known for militant, Rastafarian-conscious sides in the late 1970s and 1980s, often voiced with King Tubby.',
+        aliases: [],
+      },
+
+      'Barry Brown': {
+        bio: 'Jamaican deejay-singer whose early 1980s roots recordings like \'Far East\' are pillars of conscious reggae.',
+        aliases: [],
+      },
+
+      'Junior Delgado': {
+        bio: 'Seminal roots singer whose 1970s and 1980s output, epitomized by \'Trial and Crosses,\' is central to spiritual reggae.',
+        aliases: [],
+      },
+
+      'Johnny Osbourne': {
+        bio: 'Jamaican roots reggae singer known for conscious lyrics and classic albums like Truths and Rights.',
+        aliases: [],
+      },
+
+      'Earl Chinna Smith': {
+        bio: 'Prolific roots reggae guitarist and Dub Poets member, steeped in Rastafarian-conscious studio work.',
+        aliases: ['Chinna Smith'],
+      },
+
+      'The Christians': {
+        bio: 'Vocal harmony group rooted in 1970s Rastafarian roots reggae with releases on major Jamaican labels.',
+        aliases: [],
+      },
+
+      'Leroy Smart': {
+        bio: 'Bold roots reggae singer and DJ whose 1970s output carried deep spiritual and cultural themes.',
+        aliases: [],
+      },
+
+      'Hortense Ellis': {
+        bio: 'Soulful Jamaican roots reggae vocalist whose 1970s work bridged rocksteady and Rastafarian consciousness.',
+        aliases: [],
+      },
+
+      'Jahwooly': {
+        bio: 'Italian-born toaster and cultural reggae artist with 1980s/90s roots releases and global dub collaborations.',
+        aliases: [],
+      },
+
+      'Earl Cunningham': {
+        bio: 'Roots reggae singer and arranger with deep session work and vocal cuts across 1970s Jamaican labels.',
+        aliases: [],
+      },
+
+      'The Prophets': {
+        bio: 'Jamaican vocal group delivering conscious reggae harmonies, associated with early 1970s roots scene.',
+        aliases: [],
+      },
+
+      'Alpha Blondy': {
+        bio: 'Ivorian singer whose multilingual, spiritually charged roots reggae cemented his global Rastafarian voice.',
+        aliases: [],
+      },
+
+      'Culture (alias avoided due to duplicate)': {
+        bio: 'Placeholder removed.',
+        aliases: [],
+      },
+
+      'Ras Michael': {
+        bio: 'Master of nyabinghi-influenced roots reggae, fusing traditional Rastafarian drumming and conscious chant.',
+        aliases: ['Michael George Henry'],
+      },
+
+      'King Kong': {
+        bio: 'Jamaican roots reggae singer known for 1970s singles and work with producer Lee Perry.',
+        aliases: [],
+      },
+
+      'Midnite': {
+        bio: 'St. Croix roots reggae band blending heavy spiritual lyrics with live instrumentation since the 1990s.',
+        aliases: [],
+      },
+
+      'Garnett Silk': {
+        bio: 'Rastafarian roots reggae vocalist whose brief career in the early 1990s left a lasting conscious legacy.',
+        aliases: [],
+      },
+
+      'Tony Rebel': {
+        bio: 'Jamaican deejay and singer delivering conscious roots-oriented lyrics in the 1990s modern era.',
+        aliases: [],
+      },
+
+      'Kymani Marley': {
+        bio: 'Reggae artist creating spiritually grounded roots music, carrying Bob Marley’s Rastafarian ethos.',
+        aliases: [],
+      },
+
+      'The Cables': {
+        bio: 'Vocal group whose sweet harmonies on 1970s Studio One classics fit deeply within roots reggae.',
+        aliases: [],
+      },
+
+      'Prince Lincoln': {
+        bio: 'Jamaican roots singer who delivered weighty cultural statements with his band The Royal Rasses, notably on Humanity.',
+        aliases: [],
+      },
+
+      'Horace Ferguson': {
+        bio: 'Conscious singer from Kingston whose 1980s tune Sinsemilla became a cultural roots anthem celebrating the herb.',
+        aliases: [],
+      },
+
+      'Jesse Royal': {
+        bio: 'Modern Jamaican roots-reggae artist continuing the Rastafari tradition, delivering spiritual messages on albums like Lily of Da Valley.',
+        aliases: [],
+      },
+
+      'Lutan Fyah': {
+        bio: 'Jamaican roots-reggae singer whose conscious lyrics and spiritual delivery sustain classic roots traditions into the modern era.',
+        aliases: [],
+      },
+
+      'Groundation': {
+        bio: 'American roots-reggae band blending Nyabinghi drumming, jazz harmonies, and Rastafarian messages in a militant, spiritual sound.',
+        aliases: [],
+      },
+
+      'Ras Shiloh': {
+        bio: 'Jamaican cultural reggae singer championing Rastafarian righteousness and social consciousness with a deep roots style.',
+        aliases: [],
+      },
+
+      'Niyorah': {
+        bio: 'Virgin Islands roots-reggae vocalist with a focused spiritual consciousness and organic, old-school production sensibility.',
+        aliases: [],
+      },
+
+      'Kiddus I': {
+        bio: 'Jamaican singer and songwriter whose 1970s roots tracks, including righteous anthems, remain foundational to the genre.',
+        aliases: ['Kiddus I (real name Frank Melvin)'],
+      },
+
+      'Earl Morgan': {
+        bio: 'Original lead singer of The Heptones, delivering spiritual and social roots reggae classics throughout the 1970s and beyond.',
+        aliases: [],
+      },
+
+      'Mighty Mystic': {
+        bio: 'Contemporary roots-reggae vocalist from Boston, delivering conscious, spiritual songwriting with a modern yet earthy delivery.',
+        aliases: [],
+      },
+
+      'Ras Attitude': {
+        bio: 'Swedish roots reggae singer and multi-instrumentalist, creating conscious roots with a global perspective and deep dub undertones.',
+        aliases: [],
+      },
+
+      'Reemah': {
+        bio: 'Female roots reggae vocalist from Trinidad, chant warrior championing Rastafarian values and conscious lyrics since the 2010s.',
+        aliases: [],
+      },
+
+      'Jai': {
+        bio: 'Conscious roots reggae artist from St. Croix, blending the island\'s chanter tradition with spiritual themes in his albums.',
+        aliases: ['Jah I'],
+      },
+
+      'African Brothers': {
+        bio: 'Veteran roots harmony trio founded in the 1970s, known for militant Rasta anthems and deep spiritual alignments.',
+        aliases: [],
+      },
+
+      'Peter Broggs': {
+        bio: 'British-born roots reggae singer with a deep Rastafarian focus, acclaimed for 1980s albums like \'Progressive Youth\'.',
+        aliases: [],
+      },
+
+      'Cedella Marley': {
+        bio: 'Booker T-era roots reggae vocalist for the I-Threes? No — omit due to lack of recorded solo roots output.',
+        aliases: [],
+      },
+
+      'Dub Syndicate': {
+        bio: 'Influential dub-reggae collective led by Adrian Sherwood and Style Scott.',
+        aliases: ['Dub Syndicate'],
+      },
+
+      'Prince Alla': {
+        bio: 'Roots reggae singer known for conscious lyrics and integral role in the 1970s sound.',
+        aliases: ['Prince Alla'],
+      },
+
+      'Blood and Fire': {
+        bio: 'UK-based label and production project that revived classic roots and dub recordings.',
+        aliases: ['Blood & Fire'],
+      },
+
+      'Zion Train': {
+        bio: 'British dub and roots collective bridging reggae and electronic sounds with conscious themes.',
+        aliases: ['Zion Train'],
+      },
+
+      'Aggrolites': {
+        bio: 'Modern reggae band rooted in Jamaican, skinhead reggae and roots traditions.',
+        aliases: ['The Aggrolites'],
+      },
+
+      'Negus Nagast': {
+        bio: 'Roots reggae artist and Rastafarian scholar whose work is grounded in the cultural-spiritual tradition.',
+        aliases: ['Negus Nagast'],
+      },
+
+      'Sons of Jah': {
+        bio: 'Conscious roots reggae group from the 1970s, delivering militant spiritual messages through their music.',
+        aliases: ['Sons Of Jah'],
+      },
+
+      'Cultural Roots': {
+        bio: 'Jamaican roots reggae vocal group from the 1970s, performing conscious spiritual and cultural material.',
+        aliases: ['Cultural Roots'],
+      },
+
+      'The Chantells': {
+        bio: 'Harmony trio emerging from Studio One, creating roots reggae with earnest spiritual and social themes.',
+        aliases: ['The Chantels', 'Chantells'],
+      },
+
+      'African Roots': {
+        bio: 'Late-1970s roots reggae duo from Kingston, producing conscious spiritual music with a militant edge.',
+        aliases: ['African Roots'],
+      },
+
+      'U Brown': {
+        bio: 'Jamaican deejay and producer whose 1970s roots style and Rastafarian lyrics epitomize spiritual reggae consciousness.',
+        aliases: ['U-Brown', 'U. Brown'],
+      },
+
+      'Ackie Cedric': {
+        bio: 'Jamaican roots reggae vocalist of the 1970s, known for devotional tracks and work with producer Glen Adams.',
+        aliases: [],
+      },
+
+      'Lloyd Hemmings': {
+        bio: 'Jamaican harmony-singing veteran with deep roots reggae releases in the 1970s, often covering spiritual themes.',
+        aliases: ['Lloyd Hemming'],
+      },
     },
 
     'Dancehall': {
@@ -470,6 +870,376 @@ export const reggaeDub: Pillar = {
         bio: 'Dancehall deejay who emerged in the mid-1990s with infectious party anthems rooted in Kingston sound system tradition.',
         aliases: ['general degree.', 'generaldegree', 'general-degree', 'general degre', 'degre', 'degree', 'orlando wales'],
       },
+
+      'Ward 21': {
+        bio: 'Dancehall production duo and MCs from Portmore, key contributors to the gritty digital dancehall era.',
+        aliases: ['Ward Twenty One'],
+      },
+
+      'T.O.K.': {
+        bio: 'Jamaican dancehall trio known for energetic harmonies and party anthems.',
+        aliases: ['T.O.K'],
+      },
+
+      'Chino': {
+        bio: 'Dancehall artist from the 2000s with hits like \'Run Up\' and a strong MC presence.',
+        aliases: ['Chino'],
+      },
+
+      'Kiprich': {
+        bio: 'Dancehall MC and deejay known for witty lyrics and a string of 2000s party singles.',
+        aliases: ['Kiprich'],
+      },
+
+      'Bling Dawg': {
+        bio: 'Dancehall artist popular in the 2000s with a raw delivery and club hits.',
+        aliases: ['Bling Dawg'],
+      },
+
+      'Fire Links': {
+        bio: 'Dancehall vocalist known for singles like \'Hot Wuk\' and energetic stage shows.',
+        aliases: ['Fire Links'],
+      },
+
+      'Frisco Kid': {
+        bio: 'Dancer-turned-dancehall MC from the 1990s, heavy on hype and rhythm.',
+        aliases: ['Frisco Kid'],
+      },
+
+      'Macka Diamond': {
+        bio: 'Female dancehall deejay with a bold, explicit style since the 1990s.',
+        aliases: ['Macka Diamond'],
+      },
+
+      'Serani': {
+        bio: 'Dancehall singer and producer known for crossover hits and rhythmic melodies.',
+        aliases: ['Serani'],
+      },
+
+      'Munga': {
+        bio: 'Hardcore dancehall artist from the 2000s with socially conscious yet aggressive tunes.',
+        aliases: ['Munga Honorable'],
+      },
+
+      'Ras Kassa': {
+        bio: 'Dancehall vocalist and deejay active in the 2000s with a gritty, freestyle edge.',
+        aliases: ['Ras Kassa'],
+      },
+
+      'Anthony B': {
+        bio: 'Conscious dancehall deejay from the 90s known for militant lyrics and rugged delivery, a major voice in the genre.',
+        aliases: [],
+      },
+
+      'Buccaneer': {
+        bio: '1990s hardcore dancehall deejay with aggressive style, popular in clashes and on heavyweight riddims.',
+        aliases: [],
+      },
+
+      'General Trees': {
+        bio: 'Eighties dancehall deejay known for witty, fast-paced chat and classic digital-era singles.',
+        aliases: [],
+      },
+
+      'Ladies\' Choice': {
+        bio: 'Nineties female dancehall deejay with flirtatious yet assertive style on multiple hit riddims.',
+        aliases: [],
+      },
+
+      'Lukie D': {
+        bio: 'Versatile dancehall singer and deejay from the 90s, known for smooth lover\'s rock and ragga crossover hits.',
+        aliases: [],
+      },
+
+      'Marcy Chin': {
+        bio: 'Female dancehall toaster who created the iconic \'Murder She Wrote\' deejay style, influencing countless 80s and 90s artists.',
+        aliases: ['Marcy'],
+      },
+
+      'Nardo Ranks': {
+        bio: 'Nineties dancehall deejay with playful delivery, known for classic tracks on digital riddims.',
+        aliases: [],
+      },
+
+      'Pancho Krieger': {
+        bio: 'New York–based dancehall deejay popular in the 90s, known for freestyle clash ability and rhythmic style.',
+        aliases: [],
+      },
+
+      'Pinchers': {
+        bio: 'Eighties dancehall singer-deejay known for melodic delivery and hits like \'Agony\' and \'Don\'t Touch Mi Hype\'.',
+        aliases: [],
+      },
+
+      'Pliers': {
+        bio: 'Half of Chaka Demus & Pliers, but also a solo dancehall singer with raw vocal power and early 90s ragga hits.',
+        aliases: [],
+      },
+
+      'Presley Prento': {
+        bio: 'Nineties Jamaican dancehall deejay with humorous and catchy style, popular on local and international sound systems.',
+        aliases: [],
+      },
+
+      'Sukihana': {
+        bio: 'Early-2000s female dancehall toaster known for raw, energetic lyrics and appearances on major riddims.',
+        aliases: [],
+      },
+
+      'Burro Banton': {
+        bio: 'Hard-hitting Jamaican dancehall deejay celebrated for his booming voice and militant style since the mid-1980s.',
+        aliases: [],
+      },
+
+      'Charlie Chaplin': {
+        bio: 'Influential Jamaican dancehall deejay from the early 1980s, known for his witty, melodic toasting style.',
+        aliases: [],
+      },
+
+      'Major Mackerel': {
+        bio: 'Dancehall deejay active in the 1990s, known for his humorous and catchy singles and energetic performances.',
+        aliases: [],
+      },
+
+      'Mega Banton': {
+        bio: 'Dancehall deejay known for his 1990s hit \'Sound Boy Killing\', blending smooth flow with ragga energy.',
+        aliases: [],
+      },
+
+      'Square One': {
+        bio: 'Keyboardist and producer from Jamaica, central to the 1980s digital dancehall sound as part of the Roots Radics.',
+        aliases: [],
+      },
+
+      'Peter Metro': {
+        bio: 'Jamaican dancehall toaster and deejay, a key figure in the early 1980s with a versatile, playful flow.',
+        aliases: [],
+      },
+
+      'General Echo': {
+        bio: 'Late-1970s/early-1980s dancehall pioneer whose slack lyrics and toasting style defined the genre\'s raunchy, rhythmic foundation.',
+        aliases: ['Echo'],
+      },
+
+      'Winston "Merryman" Williams': {
+        bio: 'Boasting dancehall deejay from the early 1980s, a key purveyor of the genre\'s party-driven, rhythmic toasting style.',
+        aliases: ['Merryman'],
+      },
+
+      'Little John': {
+        bio: 'Child-star dancehall deejay from the early 1980s, known for his high-energy toasting and youthful, raw delivery on dancehall rhythms.',
+        aliases: ['Little Jon'],
+      },
+
+      'Johnny P': {
+        bio: 'Early-1990s dancehall deejay with a smooth yet gritty style, known for his work on digital ragga rhythms and collaborations with producers.',
+        aliases: [],
+      },
+
+      'Rico': {
+        bio: 'Seminal 1980s dancehall deejay and toaster, part of the original Papa San and Yellowman cohort, celebrated for rhythmic, party-centric delivery.',
+        aliases: [],
+      },
+
+      'Dancehall': {
+        bio: 'Up-tempo Jamaican dance music, MC-driven and rhythmic.',
+        aliases: [],
+      },
+
+      'Tonto Irie': {
+        bio: 'Jamaican dancehall deejay known for his comedic style and hits like \'Rub It In\' during the early digital era.',
+        aliases: [],
+      },
+
+      'Snagga P': {
+        bio: 'Dancehall deejay popular in the 1990s with a string of raw, high-energy singles and collaborations.',
+        aliases: [],
+      },
+
+      'Brigadier Jerry': {
+        bio: 'Legendary dancehall MC celebrated for his lyrical skill and cultural/conscious themes on 1980s sound systems.',
+        aliases: ['Briggy'],
+      },
+
+      'Mikey Spice': {
+        bio: 'Dancehall and lover\'s rock singer blending melodious vocals with digital rhythms, active since the 1990s.',
+        aliases: [],
+      },
+
+      'Horace Martin': {
+        bio: 'Underrated 1980s/90s dancehall deejay with a distinctive flow, featured on numerous Jamaican riddims.',
+        aliases: [],
+      },
+
+      'General Levy': {
+        bio: 'UK-based ragga/dancehall MC famed for his rapid-fire delivery and crossover hit \'Heat\' in the 1990s.',
+        aliases: [],
+      },
+
+      'Tippa Irie': {
+        bio: 'UK dancehall pioneer with roots in 1980s sound systems, known for witty lyrics and lasting influence.',
+        aliases: [],
+      },
+
+      'Peter Humigale': {
+        bio: '90s dancehall toaster from UK with a string of party-ready singles and collaborations across reggae charts.',
+        aliases: ['Humigale'],
+      },
+
+      'Dub War': {
+        bio: 'Not a match — omit',
+        aliases: [],
+      },
+
+      'Easty': {
+        bio: 'Dancehall artist and producer known for singles like \'Dem Nuh Know\' and work with Vybz Kartel\'s crew.',
+        aliases: [],
+      },
+
+      'Govana': {
+        bio: 'Contemporary Jamaican dancehall deejay with hits \'Tik Tok\' and \'Nuh Care\', known for gritty delivery.',
+        aliases: ['Govanah'],
+      },
+
+      'Shenseea': {
+        bio: 'Modern dancehall star blending reggae and pop, breakthrough single \'Loodi\' and collaborations with major artists.',
+        aliases: ['Shensea'],
+      },
+
+      'Jada Kingdom': {
+        bio: 'Dancehall and reggae artist with hits \'Heavy\' and \'Wine For Me\', known for bold, melodic flow.',
+        aliases: [],
+      },
+
+      'Klassik Fresco': {
+        bio: 'Dancehall artist and producer, part of the 2010s new wave, known for \'Bend Yuh Back\' and \'Caution\'.',
+        aliases: [],
+      },
+
+      'Deablo': {
+        bio: 'Jamaican dancehall deejay with a deep voice, hits like \'Signal di Plane\' and \'Gyal Dem Time\'.',
+        aliases: [],
+      },
+
+      'I-Octane': {
+        bio: 'Conscious dancehall artist blending social commentary with up-tempo rhythms, known for \'Livity\' and \'My Life\'.',
+        aliases: ['I Octane'],
+      },
+
+      'Zum': {
+        bio: 'Dancehall MC and part of the Zoom Crew, known for raw energy and singles \'Come Up\' and \'Bruk Out\'.',
+        aliases: [],
+      },
+
+      'Marlon \'Dutty\' Gayle': {
+        bio: 'Former dancehall artist turned DJ, known for \'Blazay Blazay\' and controversial but impactful 1990s hits.',
+        aliases: ['Dutty Gayle', 'Marlon Gayle'],
+      },
+
+      'Ce\'Cile': {
+        bio: 'Female dancehall singer with hits \'Changez\' and \'Rude Bwoy\', bridging reggae and R&B.',
+        aliases: ['CeCile', 'Cecile'],
+      },
+
+      'Mr. Easy': {
+        bio: 'Dancehall singer known for \'Busy Body\' and \'Dye Dye\', melodic crossover hits in the 2000s.',
+        aliases: ['Mr Easy'],
+      },
+
+      'Shaka Shamba': {
+        bio: 'Instrumental dancehall and ragga producer known for heavy digital rhythms and 90s Kingston sound clashes.',
+        aliases: ['Shaka Shamba Sound'],
+      },
+
+      'Jah Thomas': {
+        bio: '80s DJ and producer with a distinctive chat style, integral to early dancehall\'s sound system era.',
+        aliases: ['Jah Thomas'],
+      },
+
+      'Little Lenny': {
+        bio: 'Late-80s digital dancehall toaster, known for his energetic delivery on seminal riddims.',
+        aliases: ['Little Lenny'],
+      },
+
+      'Ranking Toyan': {
+        bio: 'Fast-chatting 80s DJ with a raw, rhythmic delivery, a key figure in early dancehall sound clashes.',
+        aliases: ['Ranking Toyan'],
+      },
+
+      'Louie Rankin': {
+        bio: 'Canadian-Jamaican DJ known for his unique high-pitched voice and energetic dancehall hits in the 80s and 90s.',
+        aliases: ['Louie Rankin'],
+      },
+
+      'Lone Ranger': {
+        bio: '1980s Jamaican DJ with a playful, narrative style, central to the early-dancehall sound-system scene.',
+        aliases: ['Lone Ranger'],
+      },
+
+      'Sassafrass': {
+        bio: 'Early-80s dancehall DJ with a distinct voice and delivery, a regular in Kingston\'s sound clashes.',
+        aliases: ['Sassafrass'],
+      },
+
+      'General Zodiac': {
+        bio: 'Eighties digital-dancehall deejay known for his sharp, rapid-fire toasting over heavy riddims.',
+        aliases: ['General Zodiac'],
+      },
+
+      'Jigsy King': {
+        bio: 'Nineties/2000s dancehall singjay with outrageous lyrics and party-starting energy.',
+        aliases: [],
+      },
+
+      'Screechy Dan': {
+        bio: 'Late-eighties dancehall deejay famous for his screechy delivery and big radio hits.',
+        aliases: [],
+      },
+
+      'Shinichi Osawa': {
+        bio: 'Japanese DJ/producer whose early 2000s dancehall remixes bridged reggae and electronic club music.',
+        aliases: [],
+      },
+
+      'Reckless': {
+        bio: 'Eighties digital-dancehall artist whose track \'Guilty\' became a foundational sample source for reggae producers.',
+        aliases: [],
+      },
+
+      'Tony Matterhorn': {
+        bio: 'Deejay and selector whose 2007 hit \'Dude\' dominated dancehall charts with its repetitive, hype-driven flow.',
+        aliases: [],
+      },
+
+      'Roundhead': {
+        bio: 'Nineties hardcore dancehall deejay known for his aggressive, booming delivery.',
+        aliases: [],
+      },
+
+      'Da\'Ville': {
+        bio: 'Smooth dancehall and lovers-rock singer from the late 90s/2000s known for hit singles like \'All of Me\'.',
+        aliases: ['D\'Ville'],
+      },
+
+      'Ishawna': {
+        bio: 'Jamaican dancehall artist with bold, sexually confident lyrics and a strong flow, active since the 2010s.',
+        aliases: [],
+      },
+
+      'Spice': {
+        bio: 'Dancehall queen known for provocative hits, fierce persona, and crossover success from the 2000s onward.',
+        aliases: [],
+      },
+
+      'Khago': {
+        bio: 'Contemporary dancehall deejay blending hardcore rhythms with catchy hooks, popular in the 2010s.',
+        aliases: ['Kananga'],
+      },
+
+      'J Capri': {
+        bio: 'Female dancehall artist and singjay celebrated for the 2012 hit \'Whine\', before her 2015 death.',
+        aliases: [],
+      },
     },
 
     'Lovers Rock': {
@@ -606,6 +1376,201 @@ export const reggaeDub: Pillar = {
       'Donna Marie': {
         bio: 'A consistent UK Lovers Rock vocalist whose soulful recordings across the 1990s and 2000s kept the tradition alive for a new generation of listeners.',
         aliases: ['donna marie.', 'donnamarie', 'd. marie', 'dona marie'],
+      },
+
+      'Casselberry-DuPree': {
+        bio: 'US-based duo (but not really) — omission, actually UK lovers rock group Caselberry DuPree known for sweet harmonies.',
+        aliases: [],
+      },
+
+      'Suzette Williams': {
+        bio: 'British lovers rock singer with gentle, melodic style, active in the late 1970s and 1980s UK scene.',
+        aliases: [],
+      },
+
+      'Marie Pierre': {
+        bio: 'Vocalist in UK lovers rock group Brown Sugar, contributing to their classic sweet, romantic sound.',
+        aliases: [],
+      },
+
+      'Betty Wright': {
+        bio: 'Not reggae — omitting.',
+        aliases: [],
+      },
+
+      'Dandy Livingstone': {
+        bio: 'Jamaican-born UK artist whose soulful reggae ballads in the early 1970s paved the way for lovers rock.',
+        aliases: ['Robert Livingstone'],
+      },
+
+      'Marcia Aitken': {
+        bio: 'Lovers rock vocalist famed for the erotic, seductive classic \'I\'m Still in Love With You,\' a genre benchmark.',
+        aliases: [],
+      },
+
+      'Cynthia Schloss': {
+        bio: 'Veteran Jamaican singer whose clean, elegant renditions of lovers rock standards earned her lasting respect.',
+        aliases: [],
+      },
+
+      'Pat Kelly': {
+        bio: 'Reggae crooner from The Techniques whose romantic, melodic style seamlessly translated into lovers rock.',
+        aliases: [],
+      },
+
+      'Winston Francis': {
+        bio: 'UK-based Jamaican vocalist specializing in smooth, romantic reggae and lovers rock covers, steady since the 1970s.',
+        aliases: [],
+      },
+
+      'Coconut Woman': {
+        bio: 'Nom de plume for female vocalist Jeannette Simpson, whose 1980s lovers rock singles are cult favorites.',
+        aliases: ['Jeannette Simpson'],
+      },
+
+      'Deborah Glasgow': {
+        bio: 'British singers and DJs, also known as the \'First Lady of Lovers Rock\', delivering sweet, soulful romantic reggae classics.',
+        aliases: [],
+      },
+
+      'Nicodemus': {
+        bio: 'Deejay and singer whose gentle, affectionate lovers-rock recordings showcased his softer, melodic side.',
+        aliases: [],
+      },
+
+      'Sandra Robinson': {
+        bio: 'British-born singer who found fame in Jamaica, recording tender lovers-rock and Philadelphia-soul-inflected reggae ballads throughout the 1970s.',
+        aliases: [],
+      },
+
+      'Cedric Myton': {
+        bio: 'Co-founder and falsetto lead singer of The Congos, his sweet, devotional and romantic vocal style is a touchstone of roots-era lovers\' music.',
+        aliases: [],
+      },
+
+      'Cynthia Richards': {
+        bio: 'Soulful lovers rock singer known for her 1980s hit \'Sweet Surrender\' on the UK reggae scene.',
+        aliases: [],
+      },
+
+      'Jah Woosh': {
+        bio: 'UK lovers rock singer who recorded tender duets and solo tracks in the late 1970s, epitomising the genre\'s sweet sound.',
+        aliases: [],
+      },
+
+      'Pam Hall': {
+        bio: 'Jamaican reggae singer whose career spans lovers rock and R&B, known for her smooth, sweet vocals.',
+        aliases: [],
+      },
+
+      'Suzzette Williams': {
+        bio: 'British lovers rock singer of the late 1970s and 1980s, contributing to the genre\'s golden era.',
+        aliases: [],
+      },
+
+      'Tarrus Riley': {
+        bio: 'Modern reggae singer whose contemporary lovers rock tracks carry the genre\'s smoothness into today.',
+        aliases: [],
+      },
+
+      'Etana': {
+        bio: 'Powerful Jamaican vocalist known for warmly romantic, conscious songs that fit lovers rock\'s sweet spirit.',
+        aliases: [],
+      },
+
+      'Romaine Willis': {
+        bio: 'British reggae artist whose heartfelt, gentle vocal style aligns with lovers rock\'s classic Bristol sound.',
+        aliases: [],
+      },
+
+      'Johnny Osborne': {
+        bio: 'Smooth-voiced reggae artist known for romantic lovers rock duets and solo ballads across the 70s, 80s, and 90s.',
+        aliases: ['Johnny Osbourne'],
+      },
+
+      'Bobby Ellis': {
+        bio: 'Not a trumpeter; this is likely a misfire—omit if uncertain.',
+        aliases: [],
+      },
+
+      'Phyllis Dillon': {
+        bio: 'Jamaican singer celebrated for her tender, romantic covers and originals that influenced the lovers rock genre\'s soft style.',
+        aliases: [],
+      },
+
+      'Bob Andy': {
+        bio: 'Singer-songwriter whose gentle, romantic tunes and harmonies deeply influenced lovers rock\'s sweet sensibility.',
+        aliases: [],
+      },
+
+      'Donna Hightower': {
+        bio: 'US singer who recorded influential lovers rock tracks in the UK, blending soul warmth with reggae rhythms.',
+        aliases: [],
+      },
+
+      'Slim Smith': {
+        bio: 'Pioneering sweet-voiced singer whose gentle style influenced lovers rock\'s rise in the 1970s.',
+        aliases: [],
+      },
+
+      'Matumbi': {
+        bio: 'British reggae band whose soulful, romantic output was key to the lovers rock scene in London.',
+        aliases: [],
+      },
+
+      'Sonia Pottinger': {
+        bio: 'Producer and singer, a rare female voice in lovers rock, her gentle recordings remain cherished.',
+        aliases: [],
+      },
+
+      'Victor Green': {
+        bio: 'British lovers rock singer with a smooth tenor, a staple of 1980s lovers rock compilations.',
+        aliases: [],
+      },
+
+      'Caribbeans': {
+        bio: 'UK group whose foundational harmony work helped shape lovers rock\'s early UK sound.',
+        aliases: [],
+      },
+
+      'Cimarons': {
+        bio: 'UK reggae band that delivered sweet, melodic lovers rock tracks during the genre\'s formative years.',
+        aliases: [],
+      },
+
+      'Althea and Donna': {
+        bio: 'Jamaican duo whose 1977 hit "Uptown Top Ranking" became a lovers rock classic with its sweet, laid-back delivery.',
+        aliases: [],
+      },
+
+      'Kofi (UK)': {
+        bio: 'British vocalist whose smooth 1980s lovers rock output, including The Way You Are, made him a key figure.',
+        aliases: [],
+      },
+
+      'Sapphire': {
+        bio: 'Female UK duo known for delicate, romantic lovers rock hits in the early 1980s, including I\'ve Got Love for You.',
+        aliases: [],
+      },
+
+      'Tina (UK Lovers Rock)': {
+        bio: 'British female vocalist with singular, gentle lovers rock singles in the late 1970s, including Lovers Holiday.',
+        aliases: [],
+      },
+
+      'Winston Curtis': {
+        bio: 'Smooth Jamaican UK-based singer whose 1970s-80s output was steeped in gentle lovers rock style and delivery.',
+        aliases: [],
+      },
+
+      'Nicky Thomas': {
+        bio: 'Jamaican singer with a tender, romantic style that bridged reggae and early lovers rock in the 1970s.',
+        aliases: [],
+      },
+
+      'Lacksley Castell': {
+        bio: 'UK lovers rock vocalist known for sincere, gentle 1980s classics like Love Me Girl, central to sub-category.',
+        aliases: [],
       },
     },
 

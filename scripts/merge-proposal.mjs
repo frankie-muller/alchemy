@@ -88,7 +88,17 @@ if (!subCategoryObj) {
 // file may have changed since — e.g. an earlier merge in this same run.)
 const existingKeys = new Set(subCategoryObj.properties.map(propKeyText).filter(Boolean));
 
-const quote = (s) => `'${String(s).replace(/\\/g, '\\\\').replace(/'/g, "\\'")}'`;
+// A single-quoted JS string can't contain a raw newline (or carriage
+// return/tab) -- a model occasionally emits one inside a JSON string value
+// (valid JSON, since JSON.parse decodes \n to an actual newline character),
+// which then breaks the moment it's written back out unescaped. Collapsing
+// whitespace runs also cleans up the more common case of a model wrapping
+// a bio across soft-wrapped lines.
+const quote = (s) => `'${String(s)
+  .replace(/\\/g, '\\\\')
+  .replace(/'/g, "\\'")
+  .replace(/\s+/g, ' ')
+  .trim()}'`;
 
 // Two guards, not one: existingKeys catches "already in the file"; this
 // second check catches a proposal repeating a name against ITSELF (grow.mjs
