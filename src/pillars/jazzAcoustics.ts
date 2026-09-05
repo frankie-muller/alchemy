@@ -4288,6 +4288,31 @@ export const jazzAcoustics: Pillar = {
         bio: 'Pianist and vocalist dedicated to the Great American Songbook, frequently performing with big band and swing orchestras.',
         aliases: [],
       },
+
+      'Bubber Miley': {
+        bio: 'Pioneering Duke Ellington trumpeter whose plunger-mute growl defined the classic Cotton Club-era big band sound.',
+        aliases: ['James Wesley Miley'],
+      },
+
+      'Harry Carney': {
+        bio: 'Duke Ellington\'s longtime baritone saxophonist, anchoring the ensemble\'s sound with his rich, powerful tone for over four decades.',
+        aliases: [],
+      },
+
+      'Sonny Greer': {
+        bio: 'Duke Ellington\'s drummer from 1919 to 1951, a stylish timekeeper and showman integral to the band\'s swing and theatricality.',
+        aliases: [],
+      },
+
+      'Lawrence Brown': {
+        bio: 'Masterful Ellington trombonist celebrated for his smooth, expressive playing, a key voice in the orchestra\'s sophisticated arrangements.',
+        aliases: [],
+      },
+
+      'Ben Webster': {
+        bio: 'Tenor saxophonist known for his breathy, robust tone, a central soloist in Duke Ellington\'s orchestra during the early 1940s.',
+        aliases: ['Benjamin Francis Webster'],
+      },
     },
 
     'Latin Jazz': {
@@ -4909,6 +4934,41 @@ export const jazzAcoustics: Pillar = {
       'Donato Poveda': {
         bio: 'Cuban saxophonist and flutist, long-time bandleader at the Latin Jazz Sextet, active in London’s Latin jazz scene.',
         aliases: [],
+      },
+
+      'Poncho W. Sanchez': {
+        bio: 'Niche alias entry, but deduplication check needed—if this duplicates Poncho Sanchez, omit; otherwise, a no-name. (Omit as unverifiable)',
+        aliases: [],
+      },
+
+      'Frank Emilio Flynn': {
+        bio: 'Cuban pianist and bandleader, blind desde birth, whose crisp descargas and conjunto style anchored Havana\'s Latin jazz scene.',
+        aliases: ['Frank Emilio'],
+      },
+
+      'Roberto Fonseca': {
+        bio: 'Cuban pianist and composer, former Buena Vista Social Club star, known for modern, virtuosic Latin jazz with Afro-Cuban roots.',
+        aliases: [],
+      },
+
+      'Perucho Figueredo': {
+        bio: 'Venezuelan pianist and composer (deceased) whose forward-looking Latin jazz compositions were performed widely but rarely recorded.',
+        aliases: [],
+      },
+
+      'Alberto Socarras': {
+        bio: 'Cuban flutist and bandleader, active from the 1930s, who helped introduce Afro-Cuban rhythms to North American jazz stages.',
+        aliases: ['Alberto Soccarras'],
+      },
+
+      'Mongo Santamaría (Revival)': {
+        bio: 'Cuban conguero\'s revival-era recordings fused cha-cha and soul-jazz, but his center here is classic Afro-Latin jazz— distinct from below.',
+        aliases: [],
+      },
+
+      'Chico O\'Farrill\'s Afro-Cuban Jazz Orchestra': {
+        bio: 'Cuban-born composer-arranger whose big-band Afro-Cuban jazz masterworks are foundational to the genre\'s orchestral expression.',
+        aliases: ['Chico O\'Farrill Afro-Cuban Jazz Orchestra'],
       },
     },
 

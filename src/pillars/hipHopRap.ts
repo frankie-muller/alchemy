@@ -623,6 +623,51 @@ export const hipHopRap: Pillar = {
         bio: 'Newark-born MC from the Artifacts, whose 90s output with the group set a boom-bap benchmark.',
         aliases: [],
       },
+
+      'Grandmaster Flash': {
+        bio: 'Pioneering Bronx DJ/rapper whose \'The Message\' defined socially conscious rap and foundational hip-hop sound.',
+        aliases: ['Grandmaster Flash & the Furious Five'],
+      },
+
+      'Run-DMC': {
+        bio: 'Queens trio that brought hard-hitting beats and rock-infused energy, essential architects of rap\'s golden age.',
+        aliases: ['Run DMC'],
+      },
+
+      'Cold Chillin\' Records': {
+        bio: 'Label roster shouldn\'t be listed, but key artist — skip.',
+        aliases: [],
+      },
+
+      'Stetsasonic': {
+        bio: 'Staten Island group blending jazz and funk into rap, early pioneers of live instrumentation in hip-hop.',
+        aliases: [],
+      },
+
+      'Kid \'n Play': {
+        bio: 'Party-oriented rap duo with energetic delivery and feel-good hip-hop tracks, popularizing the kid-and-play dance.',
+        aliases: ['Kid N Play'],
+      },
+
+      'Peter Gunz': {
+        bio: 'Bronx rapper famed for the 1998 hit \'Deja Vu (Uptown Baby)\' with Lord Tariq, embodying late-90s boom-bap and lyrical storytelling.',
+        aliases: ['Peter Gunter'],
+      },
+
+      'The Alkoholiks': {
+        bio: 'Mid-90s West Coast group blending funk-heavy boom-bap and witty, party-ready lyricism, known for \'Likwit\' and \'Make Room\'.',
+        aliases: ['Tha Alkaholiks'],
+      },
+
+      'The Visionaries': {
+        bio: 'Los Angeles collective of underground rappers, DJs, and producers anchoring 90s boom-bap with a jazz-infused, lyrical edge.',
+        aliases: [],
+      },
+
+      'Screwball': {
+        bio: 'Queensbridge group comprising KL, hosted by Tragedy Khadafi and featuring Nature, with a gritty, hardcore 90s East Coast sound.',
+        aliases: [],
+      },
     },
 
     'Current / Trap': {
@@ -1725,6 +1770,136 @@ export const hipHopRap: Pillar = {
 
       'Boldy James': {
         bio: 'Detroit rapper, but his gritty street narratives, Griselda-affiliated production, and sample-heavy sound align with refined East Coast-style lyricism; a modern heir to the tradition.',
+        aliases: [],
+      },
+
+      'Mobb Deep affiliate Big Noyd': {
+        bio: 'Queensbridge hardcore lyricist with raw, menacing delivery; frequent collaborator on Mobb Deep\'s classic 90s recordings.',
+        aliases: [],
+      },
+
+      'CNN (Capone-N-Noreaga)': {
+        bio: 'Queensbridge duo known for gritty, menacing Queens sound with hard-hitting, sample-heavy production and raw street narratives.',
+        aliases: ['Capone-N-Noreaga'],
+      },
+
+      'Nature': {
+        bio: 'Queens rapper who emerged alongside Nas and The Firm, delivering sharp, streetwise lyricism with authentic East Coast cadence.',
+        aliases: [],
+      },
+
+      'Necro': {
+        bio: 'Brooklyn underground rapper and producer known for dark, brutal, sample-heavy beats and dense, aggressive rhyme delivery.',
+        aliases: [],
+      },
+
+      'Juggaknots affiliate Austin \'A-Bee\' Bess': {
+        bio: 'Bronx-based producer-rapper associated with the legendary Juggaknots, contributing dense lyricism and gritty sample-driven boom-bap.',
+        aliases: [],
+      },
+
+      'Nems': {
+        bio: 'Queens/Staten Island battle-tested MC known for rapid-fire, humorous street lyricism with strong New York indie pedigree.',
+        aliases: ['Nems the Don'],
+      },
+
+      'EC Illa': {
+        bio: 'Brooklyn newcomer with a clear Golden Era influence, his "The Rap Files" series showcases pure, sample-heavy 1990s-style lyricism.',
+        aliases: [],
+      },
+
+      'Autumn in April': {
+        bio: 'New Jersey lyricists (Vaughn and Langston) blending dense, soulful sample-based production with sharp, reflective East Coast boom-bap.',
+        aliases: [],
+      },
+
+      'Ransom': {
+        bio: 'New Jersey punchline specialist with a cold, gritty delivery and deep catalog rooted in traditional East Coast street rap.',
+        aliases: ['Ransom the Spitter'],
+      },
+
+      'Blacastan': {
+        bio: 'NYC underground rapper whose dense, street-level storytelling and hard-hitting boom-bap production fit the East Coast lyrical mold.',
+        aliases: ['Blac Astron'],
+      },
+
+      'Tragic Allies': {
+        bio: 'Brooklyn-based collective delivering sample-heavy, lyrically dense 1990s-style East Coast hip-hop with a gritty, underground edge.',
+        aliases: [],
+      },
+
+      'Lungz': {
+        bio: 'Harlem rapper with a raw, streetwise flow and murky, sample-driven beats, exemplifying contemporary New York boom-bap lyricism.',
+        aliases: [],
+      },
+
+      'Khrysis': {
+        bio: 'North Carolina producer-rapper, but his gritty, boom-bap sound and lyrical approach align closely with East Coast sample-heavy aesthetics.',
+        aliases: [],
+      },
+
+      'OCS': {
+        bio: 'New York underground duo blending abstract lyricism with gritty, sample-heavy production, rooted in the city\'s boom-bap tradition.',
+        aliases: [],
+      },
+
+      'Shabaam Sahdeeq': {
+        bio: 'Brooklyn underground MC with intricate rhyme patterns and gritty collaborations across 1990s-2000s East Coast circuit.',
+        aliases: ['Shabaam'],
+      },
+
+      'Bishop Lamont': {
+        bio: 'Carson-born, but his aggressive, sample-heavy, lyrically dense style channels classic New York boom-bap energy.',
+        aliases: [],
+      },
+
+      'Kool G Rap collaborator Nasaan': {
+        bio: 'Nasaan is a Queens-raised artist whose dense, streetwise lyricism and dark beats echo the borough\'s golden-era core.',
+        aliases: [],
+      },
+
+      'The Last Emperor': {
+        bio: 'Philadelphia lyricist with complex storytelling, dense rhyme schemes, and boom-bap beats fitting the Eastern underground.',
+        aliases: [],
+      },
+
+      'Mach-Hommy': {
+        bio: 'Newark-based, Haitian-American rapper with a cryptic, streetwise style and opaque sample-driven sound, a key figure in the Griselda-adjacent East Coast underground.',
+        aliases: [],
+      },
+
+      'Rhyme Asylum': {
+        bio: 'London group with gritty, wordy, underground hip-hop style, heavily influenced by New York boom-bap and horrorcore.',
+        aliases: [],
+      },
+
+      'J Live': {
+        bio: 'Lauded underground New York rapper-producer, praised for clever sample-heavy beats and literate street-smart wordplay.',
+        aliases: [],
+      },
+
+      'Count Bass D': {
+        bio: 'New York producer-rapper, off-kilter rhyme schemes and jazz-soul sampling exemplify lyrical East Coast ethos.',
+        aliases: [],
+      },
+
+      'Killarmy': {
+        bio: 'Staten Island collective linked to Wu-Tang Clan, delivering martial, sample-heavy production and grim street lyrics in the late 1990s.',
+        aliases: [],
+      },
+
+      'Prince Po': {
+        bio: 'Ohio-born but Queens-based lyricist from Organized Konfusion, known for complex, socially conscious verses and inventive wordplay.',
+        aliases: ['Prince Poetry'],
+      },
+
+      'Andre Harrell': {
+        bio: 'Uptown Records founder and key architect of New York\'s late-80s/early-90s street-conscious rap landscape, though influential more as executive than rapper.',
+        aliases: [],
+      },
+
+      'Timbaland': {
+        bio: 'Virginia producer/rapper known for futuristic beats, but his creative center lies in Southern R&B/hip-hop crossover, not New York lyricism; omitted.',
         aliases: [],
       },
     },
@@ -2845,6 +3020,116 @@ export const hipHopRap: Pillar = {
       'Sa-Roc': {
         bio: 'Washington, D.C. emcee with dense, literate rhymes on Black liberation, spirituality, and resistance, a staple of the Rhymesayers conscious canon.',
         aliases: ['Sa-Roc'],
+      },
+
+      'André 3000': {
+        bio: 'OutKast\'s visionary emcee whose experimental flows and afrocentric, philosophical bars redefine conscious rap boundaries across eclectic soundscapes.',
+        aliases: ['Andre 3000'],
+      },
+
+      'Tobe Nwigwe': {
+        bio: 'Houston rapper and singer fusing Nigerian lineage, sharp social messages, and soulful delivery into a singular, spiritually grounded artistry.',
+        aliases: [],
+      },
+
+      'IDK': {
+        bio: 'Maryland rapper whose concept albums dissect race, class, religion, and self-doubt with cinematic production and sharp journalistic perspective.',
+        aliases: ['Jay IDK'],
+      },
+
+      'Sintax the Terrific': {
+        bio: 'Christian hip-hop veteran crafting literary, theologically rich, and overtly conscious multi-syllabic rhymes within the Deepspace5 collective.',
+        aliases: ['Sintax'],
+      },
+
+      'Bishop Nehru': {
+        bio: 'Young boombap stalwart channeling jazz-soaked 90s ethos and introspective, socially aware lyricism influenced by MF Doom and Nas.',
+        aliases: [],
+      },
+
+      'Logic': {
+        bio: 'Maryland rapper known for philosophical, introspective tracks addressing mental health, race, and societal pressures.',
+        aliases: [],
+      },
+
+      'Azealia Banks': {
+        bio: 'New York MC fusing house, hip-hop, and sharp lyricism; her work includes biting social critique and introspective, avant-garde club tracks.',
+        aliases: [],
+      },
+
+      'Pusha T': {
+        bio: 'While street-focused, his drug-trade chronicles often serve as sharp commentary on capitalism, racism, and American hypocrisy, delivered with minimalist, dark production.',
+        aliases: [],
+      },
+
+      'Shad': {
+        bio: 'Canadian rapper-critic delivering witty, literature-inspired, socially aware rhymes over eclectic soul and boom-bap production, a modern introspective stalwart.',
+        aliases: [],
+      },
+
+      'Autumn Jones': {
+        bio: 'Conscious, soulful rapper from Atlanta whose introspective lyrics tackle self-worth and social pressure over warm, jazz-inflected production.',
+        aliases: [],
+      },
+
+      'Mickey Factz': {
+        bio: 'Bronx lyricist blending street wisdom and book smarts into socially aware, literary-minded hip-hop with a polished classicist style.',
+        aliases: [],
+      },
+
+      'Marlowe': {
+        bio: 'Collaborative duo of producer L\'Orange and rapper Solemn Brigham, delivering dense, introspective boom-bap with literary flair.',
+        aliases: [],
+      },
+
+      'Theopholus London': {
+        bio: 'Genre-blurring rapper and singer whose work touches on identity, culture, and intimacy with avant-garde soulfulness.',
+        aliases: ['Theo'],
+      },
+
+      'Reuben Vincent': {
+        bio: 'Jamla Records lyricist blending 90s-style boom-bap with contemporary introspection, praised for his thoughtful storytelling.',
+        aliases: [],
+      },
+
+      'Che Noir': {
+        bio: 'Buffalo-based rapper whose sharp, soulful delivery tackles systemic issues and personal growth with unflinching honesty.',
+        aliases: [],
+      },
+
+      'Dave': {
+        bio: 'British rapper whose deeply personal, socially aware narratives on poverty and grief anchor him in conscious hip-hop.',
+        aliases: ['Santan Dave'],
+      },
+
+      'ZelooperZ': {
+        bio: 'Detroit experimental rapper whose fragmented, abstract style and raw introspection align with alternative and conscious currents.',
+        aliases: [],
+      },
+
+      'Lila Iké': {
+        bio: 'Though rooted in reggae, her conscious, soulful songwriting places her within a broader alternative hip-hop-adjacent sphere.',
+        aliases: [],
+      },
+
+      'Meechy Darko': {
+        bio: 'Flatbush Zombies\' rapper whose solo work leans into sharp social observation and existential lyricism, beyond typical horrorcore.',
+        aliases: [],
+      },
+
+      'Watsky': {
+        bio: 'Bay Area spoken-word poet and rapper known for rapid, literate, and deeply personal social commentary in his music.',
+        aliases: ['George Watsky'],
+      },
+
+      'Genesis Owusu': {
+        bio: 'Australian-Ghanaian artist fusing rap, punk, and soul to explore themes of alienation, race, and self-actualization with raw intelligence.',
+        aliases: [],
+      },
+
+      'Sole': {
+        bio: 'Pioneering underground rapper whose dense, abstract, and politically critical lyrics helped define the 1990s-2000s alternative conscious scene.',
+        aliases: ['Tim Holland'],
       },
     },
   },
