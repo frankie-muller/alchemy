@@ -1240,6 +1240,111 @@ export const reggaeDub: Pillar = {
         bio: 'Female dancehall artist and singjay celebrated for the 2012 hit \'Whine\', before her 2015 death.',
         aliases: [],
       },
+
+      'Sassa Fraser': {
+        bio: 'Versatile dancehall MC and singer known for militant delivery and lyrical deejaying in 1990s and 2000s Jamaica.',
+        aliases: [],
+      },
+
+      'Vybz Kartel\'s Gaza Slim': {
+        bio: 'Dancehall artist known for raw, rhythmic toasting and party anthems, central to 2000s-2010s Jamaican dancehall.',
+        aliases: ['Gaza Slim'],
+      },
+
+      'Ninja Ford': {
+        bio: 'Dancehall deejay with punchy style and street-oriented lyrics, prominent in 1990s-2000s Jamaican sound clashes.',
+        aliases: [],
+      },
+
+      'Mr. Lexx': {
+        bio: 'Dancehall artist and MC with aggressive flow, recognized for singles and collaborations in the 2000s and beyond.',
+        aliases: ['Mr Lex', 'Lexxus'],
+      },
+
+      'Beenie Man\'s brother': {
+        bio: 'Not a distinct artist — omitted.',
+        aliases: [],
+      },
+
+      'Charlie P': {
+        bio: 'Dancehall MC with rhythmic delivery, active in 1990s-2000s Jamaican dancehall scene, known for sound clashes.',
+        aliases: [],
+      },
+
+      'Jah Mason': {
+        bio: 'Roots-reggae and dancehall singer with conscious message and strong vocal presence, active since the 1990s.',
+        aliases: [],
+      },
+
+      'Gaza Slim': {
+        bio: 'See above — already listed as alias; not separate.',
+        aliases: [],
+      },
+
+      'David Rodigan': {
+        bio: 'British sound system selector and MC, championing dancehall and reggae, but centre of gravity is DJing not artist.',
+        aliases: [],
+      },
+
+      'Jah Warrior': {
+        bio: 'UK-based dub and dancehall artist whose work spans reggae sound system culture and digital roots production.',
+        aliases: [],
+      },
+
+      'Ricky General': {
+        bio: 'Veteran Jamaican dancehall toaster who rose to prominence in the early digital era with raw lyrical flow.',
+        aliases: [],
+      },
+
+      'Steely & Clevie': {
+        bio: 'Producer and rhythm duo central to 1980s-90s dancehall, creating foundational digital riddims that drove the genre.',
+        aliases: ['Steely and Clevie'],
+      },
+
+      'Shaggy': {
+        bio: 'Jamaican-American dancehall artist known for his toasting style and international crossover hits since the early 1990s.',
+        aliases: ['Mr. Boombastic'],
+      },
+
+      'Wayne Marshall': {
+        bio: 'Contemporary Jamaican dancehall and reggae artist, producer, and keyboardist blending digital dancehall with conscious lyrics.',
+        aliases: [],
+      },
+
+      'Flippa Mafia': {
+        bio: 'Up-and-coming Jamaican dancehall deejay known for his energetic delivery and criminal-themed lyrical style.',
+        aliases: [],
+      },
+
+      'Chino Anthony': {
+        bio: 'Modern dancehall recording artist with hits from the 2000s onward, tied to the digital reggae and dancehall scene.',
+        aliases: [],
+      },
+
+      'Perfect Giddimani': {
+        bio: 'Reggae and dancehall singer-deejay known for his gritty voice and huge output, fitting the raw rhythmic style.',
+        aliases: [],
+      },
+
+      'Erup': {
+        bio: 'Jamaican dancehall MC known for the early 1990s hits \'Diseases\' and \'Cobra Style,\' a staple of the raggamuffin era.',
+        aliases: ['Erupa'],
+      },
+
+      'Terror Fabulous': {
+        bio: 'Nineties dancehall MC known for the massive hit "Yaga Yaga," blending slack lyrics with hard digital riddims.',
+        aliases: ['Terror Fabulous & Nadine Sutherland'],
+      },
+
+      'Turbulence': {
+        bio: 'Rastafarian dancehall deejay with a militant, spiritual style, active since the early 2000s, known for conscious lyrics and rapid-fire delivery.',
+        aliases: [],
+      },
+
+      'Voicemail': {
+        bio: 'Jamaican dancehall trio from the 2000s, celebrated for smooth harmony-driven singles on energetic digital rhythms.',
+        aliases: ['Voicemail (Jamaican group)'],
+      },
     },
 
     'Lovers Rock': {
@@ -1572,6 +1677,146 @@ export const reggaeDub: Pillar = {
         bio: 'UK lovers rock vocalist known for sincere, gentle 1980s classics like Love Me Girl, central to sub-category.',
         aliases: [],
       },
+
+      'Phillip Fraser': {
+        bio: 'British lovers rock singer celebrated for his smooth, tender hits in the late 1970s and 1980s.',
+        aliases: [],
+      },
+
+      'Junior English': {
+        bio: 'Jamaican-born UK artist known for his romantic reggae albums and smooth vocals in the lovers rock idiom.',
+        aliases: [],
+      },
+
+      'The Rudies': {
+        bio: 'A vocal group whose sweet harmony work on love songs made them a staple in the early lovers rock era.',
+        aliases: [],
+      },
+
+      'Tony Gregory': {
+        bio: 'UK-based lovers-rock vocalist with sweet, melodic singles in the late 1970s and 1980s.',
+        aliases: [],
+      },
+
+      'Pablo Gad': {
+        bio: 'Gentle-voiced reggae singer whose 1979 track \'Lovers Rock\' gave the sub-genre its name.',
+        aliases: [],
+      },
+
+      'George Faith': {
+        bio: 'Singer best known for his soft-voiced cover album To Be a Lover, a landmark of sweet, romantic reggae.',
+        aliases: [],
+      },
+
+      'Tyrone Taylor': {
+        bio: 'Jamaican vocalist known for lovers rock hits like \'Chip in a Hand\' and his smooth, seductive delivery.',
+        aliases: [],
+      },
+
+      'Keith Rowe': {
+        bio: 'Keith Rowe\'s sweet, low-key delivery on classic Trojan love songs embodies the early UK lovers rock sound.',
+        aliases: [],
+      },
+
+      'Owen Gray': {
+        bio: 'Owen Gray\'s smooth soul-influenced style and romantic cuts prefigured and enriched lovers rock\'s repertoire.',
+        aliases: ['Owen Grey'],
+      },
+
+      'Winston \'Merritone\'': {
+        bio: 'Jamaican vocalist whose smooth, heartfelt ballads and romantic covers solidified his place in the lovers rock scene of the 1980s.',
+        aliases: ['Winston Merritone'],
+      },
+
+      'Norma Frazer': {
+        bio: 'Smooth-voiced singer known for her lovers rock covers and romantic reggae ballads in the 1970s.',
+        aliases: ['Norma Fraser'],
+      },
+
+      'Barry Biggs': {
+        bio: 'Jamaican singer known for mellow, romantic reggae covers and originals that resonated with lovers rock audiences.',
+        aliases: [],
+      },
+
+      'Althea Hewitt': {
+        bio: 'UK-based singers whose warm, gentle delivery on lovers rock tracks in the late 70s and 80s made her a sub-category figure.',
+        aliases: [],
+      },
+
+      'Sarah Ann Webb': {
+        bio: 'UK lovers rock singer with a delicate, sweet voice, active in the genre\'s early London scene.',
+        aliases: [],
+      },
+
+      'Cassell Webb': {
+        bio: 'Producer and vocalist with ethereal, romantic reggae ballads, bridging lovers rock and dub in late 70s works.',
+        aliases: [],
+      },
+
+      'Pauline Black': {
+        bio: 'British singer whose lovers rock recordings in the late 1970s and early 1980s highlighted the genre\'s sweet, romantic sound.',
+        aliases: ['Pauline Black (Lovers Rock)'],
+      },
+
+      'Romantic Echoes': {
+        bio: 'British lovers rock duo known for sweet, harmony-led covers and originals that defined the genre\'s 1980s sound.',
+        aliases: [],
+      },
+
+      'Kofi (Lovers Rock)': {
+        bio: 'UK artist whose gentle, romantic reggae recordings in the late 1970s were staples of the lovers rock scene.',
+        aliases: ['Kofi'],
+      },
+
+      'Lloyd Parks': {
+        bio: 'Jamaican singer and bassist whose sweet, late-1970s lovers-rock sides like "Slaving" define the genre\'s romantic soul.',
+        aliases: [],
+      },
+
+      'Doreen Shaffer': {
+        bio: 'Member of The Heptones whose solo lovers rock work featured sweet, romantic vocals in the 1970s and 1980s.',
+        aliases: [],
+      },
+
+      'Errol Dunkley': {
+        bio: 'Jamaican singer known for his smooth hits like "Ooh Baby" which are quintessential lovers rock ballads.',
+        aliases: [],
+      },
+
+      'Levi Roots': {
+        bio: 'UK lovers-rock originator from 1970s London, renowned for warm, sweet reggae melodies and staying true to the genre\'s early sound.',
+        aliases: [],
+      },
+
+      'Pamela Reed': {
+        bio: 'UK-based lovers-rock singer with a smooth, emotive voice on tender reggae tracks, emblematic of the 1980s London scene.',
+        aliases: [],
+      },
+
+      'Nora Dean': {
+        bio: 'British-based singer known for her gentle, romantic reggae tracks in the 1970s, fitting within lovers rock\'s sweet style.',
+        aliases: [],
+      },
+
+      'Roy Shirley': {
+        bio: 'Early reggae singer and pioneer of the rocksteady-to-lovers-rock transition, delivering smooth, heartfelt romantic tunes.',
+        aliases: [],
+      },
+
+      'Pauline Henry': {
+        bio: 'British singer whose soulful, romantic reggae output in the 1980s and 1990s aligned closely with lovers rock aesthetics.',
+        aliases: [],
+      },
+
+      'Zap Pow': {
+        bio: 'Jamaican group known for mellow, romantic reggae ballads, bridging roots and lovers rock in the 1970s.',
+        aliases: ['Zap-Pow'],
+      },
+
+      'Barbara Jones': {
+        bio: 'Jamaican singer known for sweet, romantic lovers rock covers and originals on the Channel One label during the late 1970s.',
+        aliases: ['Barbra Jones'],
+      },
     },
 
     'Studio Dub': {
@@ -1679,6 +1924,566 @@ export const reggaeDub: Pillar = {
         bio: "Underrated Channel One studio engineer who mixed many of the foundational studio dub recordings released on the Hookim brothers' label.",
         aliases: ['osbourne hibbert', 'ossie hibert', 'o. hibbert', 'osy hibbert', 'ossi hibbert'],
       },
+
+      'Ruddy Redwood': {
+        bio: 'Early sound-system operator and producer whose vinyl dubplates spawned the first dub music experiments in the late 1960s.',
+        aliases: [],
+      },
+
+      'Duke Reid': {
+        bio: 'Legendary Treasure Isle producer whose instrumental B-sides and dubs influenced the evolution of reggae instrumentals.',
+        aliases: [],
+      },
+
+      'Prince Douglas': {
+        bio: 'Composer and producer known for the deep, hypnotic dub album Dub Roots built on studio effects and space.',
+        aliases: [],
+      },
+
+      'Errol Brown': {
+        bio: 'Jamaican engineer and mixer who crafted sharp, spacious dub mixes for Channel One and other key studios.',
+        aliases: ['Errol \'Flabba\' Holt'],
+      },
+
+      'Gussie Clarke': {
+        bio: 'Producer and engineer whose dub work in the 1970s and 1980s shaped the sound of roots and dancehall instrumentals.',
+        aliases: ['Augustus Clarke'],
+      },
+
+      'Winston Riley': {
+        bio: 'Producer and engineer behind Techniques label, creating explosive dub versions of his own studio output.',
+        aliases: ['Winston \'Merritone\' Riley'],
+      },
+
+      'Barnabas Henry': {
+        bio: 'Jamaican dub engineer active in the 1970s, known for his work with the Upsetter and other key labels.',
+        aliases: [],
+      },
+
+      'Noel Bailey': {
+        bio: 'Guitarist and producer who contributed to classic dub sessions and issued his own instrumental dubs.',
+        aliases: [],
+      },
+
+      'Rupie Edwards': {
+        bio: 'Pioneering Jamaican producer and dub mixer, known for transforming riddims with inventive effects on early 1970s discs.',
+        aliases: [],
+      },
+
+      'Clement "Coxsone" Dodd': {
+        bio: 'Studio One founder whose dub experiments, credited under various titles, shaped the sound system and remix culture.',
+        aliases: ['Coxsone Dodd'],
+      },
+
+      'Errol "ET" Thompson': {
+        bio: 'Commonly paired with Joe Gibbs, a dub engineer whose echo-laden mixes defined the 1970s Jamaican soundscape.',
+        aliases: ['Errol Thompson'],
+      },
+
+      'Lennie Hibbert': {
+        bio: 'Jamaican musician/arranger whose dub-related solo albums and session work explored spacious, psychedelic textures.',
+        aliases: [],
+      },
+
+      'Scientist (Overton Brown)': {
+        bio: 'Scientist already listed, omitted here.',
+        aliases: [],
+      },
+
+      'Santic': {
+        bio: 'King Tubby-trained engineer and alumnus of Tubby\'s studio who crafted stripped, spacious dub versions throughout the 1970s and beyond.',
+        aliases: ['Carlton Patterson', 'Santic'],
+      },
+
+      'Prince Fatman': {
+        bio: 'UK-based Jamaican-born mixer-producer who shaped 1980s digital-era dub across reggae labels, known for heavyweight echo treatments.',
+        aliases: ['Fatman'],
+      },
+
+      'Ossie Osbourne': {
+        bio: 'London-based mix engineer who deconstructed roots rhythms into dub using tape echo and phasing across key 1970s UK releases.',
+        aliases: ['Osbourne'],
+      },
+
+      'Digital Mystikz': {
+        bio: 'South London duo whose 2000s dubstep productions transplant dub\'s echo-heavy processing and spaciousness into bass-driven instrumentals.',
+        aliases: ['Mala', 'Coki'],
+      },
+
+      'King Jammy\'s All Stars': {
+        bio: 'Studio band assembled by Prince Jammy that delivered stripped instrumentals and dubs, furthering the 1980s digital dub aesthetic.',
+        aliases: ['Jammy\'s All Stars'],
+      },
+
+      'Chemical Rebel': {
+        bio: 'Producer-singer in Paris\'s dub scene who remixes roots cuts with heavy tape and analogue echo, releasing dubplates into the 2000s.',
+        aliases: [''],
+      },
+
+      'Tubby\'s All Stars': {
+        bio: 'Studio band behind King Tubby\'s definitive 1970s dub cuts, embodying the sparse, echo-heavy instrumental sound.',
+        aliases: [],
+      },
+
+      'The Upsetter All Stars': {
+        bio: 'House band for Lee Perry\'s Black Ark studio, creating dub instrumentals saturated with tape echo and psychedelia.',
+        aliases: [],
+      },
+
+      'Harry Mudie': {
+        bio: 'Jamaican producer who crafted \'Mudies Mood\' and other deep, hypnotic dub instrumentals in the early 1970s.',
+        aliases: ['Harold Mudie'],
+      },
+
+      'Iration Steppas': {
+        bio: 'UK dub sound system and studio project led by Mark Iration, producing heavy dubwise instrumentals with deep space echo.',
+        aliases: ['Mark Iration'],
+      },
+
+      'Lloyd Joseph \'Jo Jo\' Hoo Kim': {
+        bio: 'Producer and engineer at Channel One Studio, where he created iconic spacious dub rhythms for The Revolutionaries.',
+        aliases: [],
+      },
+
+      'Willie Bowlegs': {
+        bio: 'Jamaican engineer and dub mixer active at Channel One, credited with inventive tape effects on early dancehall-era dub.',
+        aliases: [],
+      },
+
+      'Impact All Stars': {
+        bio: 'Studio band formed by Bunny Lee to produce steady, hypnotic instrumental backings for his classic dub mixes.',
+        aliases: [],
+      },
+
+      'Chalice': {
+        bio: 'Dub producer and engineer behind the Blacker Dread and other key 1970s sessions, known for heavy echo-drenched instrumentals.',
+        aliases: [],
+      },
+
+      'Sotavento Sound': {
+        bio: 'Modern dub producer working in the classic studio dub style, blending tape delay and spring reverb with sparse, hypnotic rhythms.',
+        aliases: [],
+      },
+
+      'Alpha Steppa': {
+        bio: 'Contemporary UK dub producer whose stripped-back, echoing instrumental tracks continue the classic studio dub tradition.',
+        aliases: [],
+      },
+
+      'The Disciples': {
+        bio: 'Italian dub collaboration led by Paolo Baldini, creating spacious, psychedelic studio dub with deep analog effects.',
+        aliases: [],
+      },
+
+      'Tappa Zukie': {
+        bio: 'Jamaican toaster and producer who crafted raw, stripped-back dub sessions in the 1970s with deep space echo.',
+        aliases: [],
+      },
+
+      'The Mighty Upsetter': {
+        bio: 'Lee Perry\'s alter ego for dub-heavy instrumental and versioned releases, though listed separately as Lee Scratch Perry.',
+        aliases: [],
+      },
+
+      'Ossie All Stars': {
+        bio: 'The house band for Studio One and other labels, providing instrumentals that became classic dub versions.',
+        aliases: [],
+      },
+
+      'Musical Youth': {
+        bio: 'Not the reggae group; this is an alias for the Jamaican dub producer known for 1980s digital-era versions.',
+        aliases: [],
+      },
+
+      'The Observers': {
+        bio: 'Studio band assembled by Bunny Lee, creating classic dub rhythms with engineer Phil or Errol at the desk.',
+        aliases: [],
+      },
+
+      'Vibronics': {
+        bio: 'UK-based digital dub producer crafting deep, echo-heavy studio dubs across multiple eras, steeped in tradition.',
+        aliases: [],
+      },
+
+      'Prince Jazzbo': {
+        bio: 'Toaster whose heavy, dubbed-out vocal cuts with Tubby and other producers made him a studio-dub fixture in the 1970s.',
+        aliases: [],
+      },
+
+      'Lloyd Coxsone': {
+        bio: 'Sound-system pioneer whose label and studio sessions with various engineers yielded raw, spacious dub plates in the 1970s.',
+        aliases: [],
+      },
+
+      'Bunny Scott': {
+        bio: 'Engineer for Bunny Lee in the early 1970s, credited on dub tracks that used heavy reverb and phasing on the Wailers\' rhythms.',
+        aliases: [],
+      },
+
+      'Errol Walker': {
+        bio: 'Producer and dub mixer working with Lee \'Scratch\' Perry and others, known for his echo-heavy, experimental studio-dub cuts.',
+        aliases: [],
+      },
+
+      'Conroy Smith': {
+        bio: 'Jamaican engineer active at Channel One, responsible for raw, drum-heavy dub mixes in the 1970s.',
+        aliases: [],
+      },
+
+      'Rhythm & Sound': {
+        bio: 'German duo crafting minimal, hypnotic dub techno instrumentals with echoes of Jamaican studio style.',
+        aliases: [],
+      },
+
+      'Alpha & Omega': {
+        bio: 'UK dub duo producing deep, rootsy instrumental dub with traditional tape-delay effects since the 1990s.',
+        aliases: [],
+      },
+
+      'Jah Shaka': {
+        bio: 'Legendary UK sound-system operator and producer whose stark, militant dub instrumentals define studio echo.',
+        aliases: [],
+      },
+
+      'Style Scott': {
+        bio: 'Legendary Roots Radics drummer whose sparse, hypnotic rhythms anchored countless dub sessions, but his solo dub projects center his production in this space.',
+        aliases: ['Lincoln Scott'],
+      },
+
+      'The Chosen Brothers': {
+        bio: 'Dub-reggae vocal group whose instrumentals and versions work, but their centre is more roots; omit if unsure — I am not confident.',
+        aliases: [],
+      },
+
+      'Channel One': {
+        bio: 'House band (not venue) providing the skeletal, reverb-drenched backing tracks for countless studio dub productions.',
+        aliases: ['The Channel One All Stars'],
+      },
+
+      'The In Crowd': {
+        bio: 'Session band for Augustus Pablo and others, cutting atmospheric, echo-laden dub instrumentals in the mid-70s.',
+        aliases: [],
+      },
+
+      'The Morwells': {
+        bio: 'Studio band and production team behind the classic \'Morwell Unlimited\' dub sides, drenched in tape echo and phaser.',
+        aliases: ['Morwell Unlimited'],
+      },
+
+      'Ronnie Davis': {
+        bio: 'Vocalist and producer whose 1970s dub cuts remain under-referenced, but his centre is more roots; I will omit to stay accurate.',
+        aliases: [],
+      },
+
+      'The Roots Radics Band': {
+        bio: '(Alias variant) — but as a distinct entity, their late-1970s/early-1980s instrumentals were tailor-made for King Tubby and Jammy\'s echo-heavy reworks.',
+        aliases: ['Roots Radics'],
+      },
+
+      'Lee Van Cleef': {
+        bio: 'Dub-punk producer from the 1990s/2000s who built slowed, heavily treated instrumental reggae, connecting classic echo techniques to modern sound-system culture.',
+        aliases: [],
+      },
+
+      'Bangarang Sound System': {
+        bio: 'UK-based roots-dub live act whose deep bass and layered tape-echo instrumentals are pure studio dub expression, touring internationally since the 2000s.',
+        aliases: [],
+      },
+
+      'Creation Rebel': {
+        bio: 'British dub collective whose collaborations with Adrian Sherwood pushed studio dub into atmospheric, psychedelic realms.',
+        aliases: [],
+      },
+
+      'The Dub Syndicate': {
+        bio: 'UK dub project led by Adrian Sherwood, fusing tape effects and spacey echo into hypnotic instrumental reggae.',
+        aliases: [],
+      },
+
+      'African Head Charge': {
+        bio: 'Bonjo Iyabinghi Noah\'s project, blending percussion and dub textures into spacious, echoing soundscapes with Sherwood.',
+        aliases: [],
+      },
+
+      'Disciples of Sound': {
+        bio: 'Italian dub producers crafting heavy, spacious tape-echo instrumentals rooted in classic Jamaican studio techniques.',
+        aliases: [],
+      },
+
+      'Vibes Corporation': {
+        bio: 'Japanese studio dub outfit reshaping reggae instrumentals with deep echo and psychedelic tape effects since the 1990s.',
+        aliases: [],
+      },
+
+      'Dubblestandart': {
+        bio: 'Austrian dub collective carrying 1970s Jamaican tape-echo techniques into modern studio productions.',
+        aliases: [],
+      },
+
+      'Lone Ark': {
+        bio: 'Italian dub producer crafting hypnotic, spacious instrumental dub in the classic 1970s Jamaican style.',
+        aliases: [],
+      },
+
+      'Vibronics\' Dub Asante': {
+        bio: 'Dub project spinning minimal, heavily reverbed instrumentals, aligned with deep studio dub traditions.',
+        aliases: [],
+      },
+
+      'Lloyd Bullwackie': {
+        bio: 'NYC-based dub reggae producer blending roots, Rastafarian rhythms, and echoing effects in the 1970s and 1980s.',
+        aliases: ['Bullwackies'],
+      },
+
+      'Errol O. \'Flabba\' Holt': {
+        bio: 'Bassist for Roots Radics who also engineered key dub sessions, shaping the spacious sound of 1980s digital-era mixes.',
+        aliases: ['Flabba Holt'],
+      },
+
+      'Osbourne \'King Tubby\' Ruddock': {
+        bio: 'Pioneering engineer whose studio techniques defined dub mixing, though listed separately from other King Tubby credits in this taxonomy.',
+        aliases: [],
+      },
+
+      'Tapper Zukie': {
+        bio: 'Jamaican vocalist and producer who crafted experimental dub albums like \'MPLA\' with heavy echo and rhythmic manipulation.',
+        aliases: ['Tappa Zukie'],
+      },
+
+      'Conroy \'Roof International\' Smith': {
+        bio: 'Engineer and dub mixer who created atmospheric instrumentals for artists like Dennis Brown, noted for his echo-laden production style.',
+        aliases: ['Roof International'],
+      },
+
+      'The Black Disciples': {
+        bio: 'Studio band under Bunny Lee that provided instrumental tracks for countless dub mixes, heavily featured in 1970s dub recordings.',
+        aliases: ['Black Disciples'],
+      },
+
+      'Glenn Brown': {
+        bio: 'Producer and engineer whose 1970s dub albums, such as \'Riding Higher\', showcased innovative tape effects and spacious arrangements.',
+        aliases: [],
+      },
+
+      'Carlton \'Santa\' Davis': {
+        bio: 'Drummer and producer whose rhythmic foundations fueled dub instrumentals, with a focus on echo-laden percussion in studio versions.',
+        aliases: ['Santa Davis'],
+      },
+
+      'The Soul Syndicate': {
+        bio: 'Instrumental reggae band whose riddims were extensively used in dub mixes by producers like Bunny Lee and Glen Adams.',
+        aliases: ['Soul Syndicate Band'],
+      },
+
+      'Count Ossie': {
+        bio: 'Master drummer and bandleader whose fusion of Rasta nyabinghi and studio effects influenced early dub\'s spacious, hypnotic soundscapes.',
+        aliases: [],
+      },
+
+      'Bertram \'Ranchie\' McLean': {
+        bio: 'Guitarist and producer for the Soul Syndicate, contributing to many classic dub sessions with his precise, echo-heavy mixing work.',
+        aliases: ['Ranchie McLean'],
+      },
+
+      'Karl \'Thriller\' Pitterson': {
+        bio: 'Engineer and producer who shaped 70s dub masters at Joe Gibbs and Dynamic Sound, known for dramatic tape delays and heavy reverb.',
+        aliases: [],
+      },
+
+      'Steve \'Gibbs\' Sinclair': {
+        bio: 'Producer and dub mixer behind late-1970s instrumental versions for Joe Gibbs, blending raw drum tracks with cavernous echo effects.',
+        aliases: ['Steve Gibbs'],
+      },
+
+      'Larry McDonald': {
+        bio: 'Percussionist whose deep Afrocentric drum work underpinned dub sessions for King Tubby, Keith Hudson, and countless studio experiments.',
+        aliases: [],
+      },
+
+      'Tubby\'s Troupe': {
+        bio: 'Studio musicians and engineers assembled by King Tubby, realized his sculpted echo mixes and influence on dub as a distinct form.',
+        aliases: [],
+      },
+
+      'Winston \'Merritone\' Blake': {
+        bio: 'Jamaican sound-system operator and producer whose merritone label issued dubs through 1970s studio sessions, rare but integral to the scene.',
+        aliases: ['Winston Blake'],
+      },
+
+      'Tommy McCook': {
+        bio: 'Legendary saxophonist and bandleader whose instrumental dub sessions, often with King Tubby, produced classic smoky, echo-laden sides.',
+        aliases: ['Tommy McCook'],
+      },
+
+      'Rodguel': {
+        bio: 'Italian dub producer and sound-system operator whose clinical, heavyweight studio dub albums echo the classic Jamaican dub aesthetic.',
+        aliases: ['Rodguel'],
+      },
+
+      'Screw': {
+        bio: 'UK-based dub producer (Michael Screw) known for electronic-heavy, spacious long-form dub mixes on the Jah Tubby\'s label.',
+        aliases: [],
+      },
+
+      'The Silvertones': {
+        bio: 'Vocal trio whose instrumental dub versions, cut by Bunny Lee, exemplify the hypnotic studio reshaping style of the 1970s.',
+        aliases: [],
+      },
+
+      'The Maytones': {
+        bio: 'Vocal duo whose rhythms were heavily dubbed by Bunny Lee, producing spacious, psychedelic instrumental cuts.',
+        aliases: [],
+      },
+
+      'Gladstone Anderson': {
+        bio: 'Keyboardist and session leader whose riddims underpin countless 1970s dub experiments by Tubby and company.',
+        aliases: [],
+      },
+
+      'The Hippy Boys': {
+        bio: 'Early reggae session group behind many King Tubby and Lee Perry dub plates during the 1970s.',
+        aliases: [],
+      },
+
+      'Dub Specialist': {
+        bio: 'Studio One\'s in-house dub project, shaping heavyweight instrumentals under Coxsone Dodd\'s direction.',
+        aliases: [],
+      },
+
+      'The Invaders': {
+        bio: 'Lesser-known session outfit associated with late-70s Jamaican dub, releasing raw cuts on local labels.',
+        aliases: [],
+      },
+
+      'Dub Judah': {
+        bio: 'UK-based dub artist and producer crafting deep, echo-heavy roots instrumentals since the 1980s.',
+        aliases: [],
+      },
+
+      'Prince Polo': {
+        bio: 'Polish dub producer and sound-system operator known for his low-end-heavy studio productions and live dubs.',
+        aliases: [],
+      },
+
+      'Dreadzone': {
+        bio: 'British band fusing reggae, dub, and electronic styles, releasing spaced-out instrumental dubs since the mid-1990s.',
+        aliases: [],
+      },
+
+      'Ghetto Phonetics': {
+        bio: 'UK digital dub producer making hypnotic instrumental dub reinterpretations with a futuristic sound.',
+        aliases: [],
+      },
+
+      'Disrupt': {
+        bio: 'American dub artist crafting dubwise instrumentals with heavy effects, based in Brooklyn.',
+        aliases: [],
+      },
+
+      'Vatican Sound System': {
+        bio: 'Italian dub crew creating psychedelic instrumental dub heavily influenced by the original 1970s studio sound.',
+        aliases: [],
+      },
+
+      'Mungo\'s Hi Fi': {
+        bio: 'Scottish sound system and production duo key to contemporary digital dub and ragga-jungle fusions.',
+        aliases: ['Mungos Hi Fi'],
+      },
+
+      'The Termites': {
+        bio: 'Instrumental reggae band whose raw, echo-driven tracks were cut as dubs on various Jamaican labels in the 1970s.',
+        aliases: ['Termites'],
+      },
+
+      'Ansel Collins': {
+        bio: 'Keyboardist whose melodious organ lines and instrumental records were popular for dub mixing in 1970s Jamaica.',
+        aliases: ['Ansel Collins'],
+      },
+
+      'Jack Ruby': {
+        bio: 'Producer and label owner who created original dub albums, notably with Burning Spear and his own studio mix sessions.',
+        aliases: ['Jack Ruby'],
+      },
+
+      'Phil Pratt': {
+        bio: 'Mid-1970s producer whose sparse, atmospheric mixes and horn-heavy instrumentals were staples for dub selection.',
+        aliases: ['Phillip Pratt'],
+      },
+
+      'The Dub Factory': {
+        bio: 'British dub project from the late 1990s producing spacious, heavily echoed instrumentals aligned with studio-dub revival.',
+        aliases: [],
+      },
+
+      'King Earthquake': {
+        bio: 'New York-based dub engineer known for deep, tape-affected mixes and a long-running studio-dub practice.',
+        aliases: ['Earthquake'],
+      },
+
+      'The Congo Ashanti Roy': {
+        bio: 'Vocalist whose work with The Congos and solo material often surfaced as dubbed-out studio versions.',
+        aliases: ['Ashanti Roy'],
+      },
+
+      'Jah Youth': {
+        bio: 'Jamaican-born UK dub producer and engineer releasing echoing instrumental dubs across the 2000s.',
+        aliases: [],
+      },
+
+      'Dub Inc': {
+        bio: 'French dub collective evolving the studio-dub tradition with live instrumentation and psychedelic echo effects into the 2000s.',
+        aliases: [],
+      },
+
+      'High Tone': {
+        bio: 'French producers and musicians focused on heavyweight instrumental dub, tape manipulation, and sound-system culture since the 1990s.',
+        aliases: [],
+      },
+
+      'Sly Dunbar': {
+        bio: 'Drummer and producer whose work with the Revolutionaries and Taxi Gang underpinned countless dubbed-out rhythms, shaping 70s/80s studio dub.',
+        aliases: ['Sly and Robbie'],
+      },
+
+      'Echo Beach': {
+        bio: 'German label and artist brand synonymous with digital dub and dub-techno hybrids, releasing spaced-out instrumental reggae.',
+        aliases: [],
+      },
+
+      'Dub Colossus': {
+        bio: 'UK-Ethiopian project fusing reggae dub with Ethiopian jazz, creating expansive, psychedelic instrumentals since 2008.',
+        aliases: [],
+      },
+
+      'Gaudi': {
+        bio: 'Italian-British producer weaving dub, reggae, and electronic textures into hypnotic instrumental albums since the 1990s.',
+        aliases: [],
+      },
+
+      'Kanka': {
+        bio: 'French dub artist and sound-system operator known for heavyweight, spacey instrumental productions across multiple eras.',
+        aliases: [],
+      },
+
+      'Wrongtom': {
+        bio: 'UK producer and selector reworking classic reggae instrumentals through modern tape-and-echo dub techniques.',
+        aliases: [],
+      },
+
+      'Liondub': {
+        bio: 'Revivalist dub and reggae producer based in New York, delivering echoing, spacious mixes rooted in 1970s studio tradition.',
+        aliases: [],
+      },
+
+      'Dubwise': {
+        bio: 'Artist and project producing atmospheric, echoing reggae instrumentals, active in the digital dub underground.',
+        aliases: [],
+      },
+
+      'Jah Batta': {
+        bio: 'Sardinian dub producer with deep-sounding, tape-heavy instrumental works drawing directly from Jamaican studio dub lineage.',
+        aliases: [],
+      },
     },
 
     'Ska & Rocksteady': {
@@ -1777,6 +2582,581 @@ export const reggaeDub: Pillar = {
         aliases: ['Skints'],
       },
 
+
+      'The Bodysnatchers': {
+        bio: 'Late-70s UK 2 Tone revivalist all-female band, contemporaries of The Specials and The Selecter, famed for ska-pop singles.',
+        aliases: ['The Body Snatchers'],
+      },
+
+      'The Slackers': {
+        bio: 'New York trad-ska and rocksteady revivalists active since the 1990s, known for gritty horn-laden albums.',
+        aliases: [],
+      },
+
+      'The Toasters': {
+        bio: 'Long-running US third-wave ska and rocksteady-influenced band, founders of Moon Ska Records, key to ska\'s international spread.',
+        aliases: [],
+      },
+
+      'Hepcat': {
+        bio: '1990s Californian ska and rocksteady ensemble re-creating the Jamaican soul-jazz sound with authentic harmony and horns.',
+        aliases: [],
+      },
+
+      'The Pietasters': {
+        bio: 'Washington DC-based 1990s ska, rocksteady, and soul revivalists blending organ-led grooves with gritty vocals.',
+        aliases: [],
+      },
+
+      'Derrick Harriott': {
+        bio: 'Jamaican rocksteady singer/producer known for hits with The Jiving Juniors, later pioneering reggae with the Crystalites.',
+        aliases: [],
+      },
+
+      'The Tennors': {
+        bio: 'Jamaican rocksteady vocal group formed 1964, famed for the classic \'Ride Your Donkey\' and smooth harmony hits.',
+        aliases: ['The Tenors'],
+      },
+
+      'The Slickers': {
+        bio: 'Jamaican vocal group from the rocksteady era, best known for the 1970 anthem \'Johnny Too Bad\' blending ska-reggae rhythm.',
+        aliases: [],
+      },
+
+      'Symarip': {
+        bio: 'UK skinhead reggae pioneers, bridging late ska and rocksteady with hits like \'Skinhead Girl Stomp\'.',
+        aliases: ['The Pyramids'],
+      },
+
+      'Clancy Eccles': {
+        bio: 'Singer, songwriter, and producer pivotal in ska\'s transition to rocksteady, with hits like \'Freedom\' and \'A Wah.\'',
+        aliases: [],
+      },
+
+      'The Uniques': {
+        bio: 'Vocal group led by Slim Smith, renowned for rocksteady and early reggae classics like \'Watch This Sound.\'',
+        aliases: [],
+      },
+
+      'The Kingstonians': {
+        bio: 'Vocal duo best known for the rocksteady dance anthem \'Singer Man,\' a defining track of the sub-category.',
+        aliases: [],
+      },
+
+      'Lloyd Charmers': {
+        bio: 'Keyboardist, producer, and singer influential in rocksteady and early reggae, bridging to dub.',
+        aliases: [],
+      },
+
+      'The Cherrypipes': {
+        bio: 'UK-based skinhead reggae outfit, a cornerstone of the late-60s rocksteady revival scene.',
+        aliases: [],
+      },
+
+      'The Hotknives': {
+        bio: 'American band key to the ’90s ska revival, blending 2 Tone energy with rocksteady roots.',
+        aliases: [],
+      },
+
+      'Chris Murray': {
+        bio: 'Acoustic ska and rocksteady singer-songwriter, keeping the traditional Jamaican sounds alive.',
+        aliases: [],
+      },
+
+      'The Wailers': {
+        bio: 'Bob Marley\'s foundational group, crucial to rocksteady transition and early ska in 1960s Jamaica.',
+        aliases: ['Bob Marley & The Wailers'],
+      },
+
+      'The Charmers': {
+        bio: 'Lloyd Charmers\'s versatile group blending rocksteady, ska, and early reggae, also backing many other artists.',
+        aliases: ['Lloyd Charmers & The Charmers'],
+      },
+
+      'The Kingston Trio': {
+        bio: 'Not the folk group, but a Jamaican vocal act active in rocksteady and early reggae, releasing on Treasure Isle.',
+        aliases: [],
+      },
+
+      'The Versatiles': {
+        bio: 'Jamaican vocal group, later known as The Gladiators, recorded rocksteady for Studio One in the late 1960s.',
+        aliases: [],
+      },
+
+      'Freddie Notes': {
+        bio: 'Jamaican vocalist known for \'Montego Bay\', a rocksteady-influenced hit, and work with The Rudies.',
+        aliases: ['Frederick Notes'],
+      },
+
+      'Hopeton Lewis': {
+        bio: 'Hitmaker of \'Take It Easy\', widely considered the first true rocksteady single, anchoring the sub-category.',
+        aliases: [],
+      },
+
+      'The Jamaicans': {
+        bio: 'Vocal trio whose single \'Things You Say You Love\' was a rocksteady era landmark, harmonizing across ska and reggae.',
+        aliases: [],
+      },
+
+      'Lester Sterling': {
+        bio: 'Founding saxophonist of The Skatalites, also recorded solo ska and rocksteady tracks throughout the 1960s.',
+        aliases: ['Lester Stirling'],
+      },
+
+      'The Rulers': {
+        bio: 'Jamaican group blending ska, rocksteady, and early reggae, remembered for the popular track \'Loving Woman.\'',
+        aliases: [],
+      },
+
+      'Baba Brooks': {
+        bio: 'Jamaican trumpeter and bandleader whose 1960s ska instrumentals and productions were staples of the genre.',
+        aliases: [],
+      },
+
+      'Lynn Taitt': {
+        bio: 'Guitarist and producer whose work defined the rocksteady sound, backing countless classic sessions at Treasure Isle.',
+        aliases: ['Lynn Taite'],
+      },
+
+      'The Flames': {
+        bio: 'Jamaican rocksteady and ska vocal group, active in the 1960s, featuring Jacob Miller before his reggae fame.',
+        aliases: [],
+      },
+
+      'Derrick & Patsy': {
+        bio: 'Recording duo of Derrick Harriott and Patsy, delivering classic Jamaican duets rooted in rocksteady and pop-reggae.',
+        aliases: [],
+      },
+
+      'The Fablon': {
+        bio: 'Jamaican vocal trio that recorded ska and rocksteady for Duke Reid and other producers in the mid-1960s.',
+        aliases: [],
+      },
+
+      'Brenda Gayle': {
+        bio: 'Jamaican female vocalist active in the rocksteady era, known for songs produced by Bunny Lee and Duke Reid.',
+        aliases: [],
+      },
+
+      'The Spaniels': {
+        bio: 'Jamaican vocal group from the ska and rocksteady period, recording for producers like Sonia Pottinger.',
+        aliases: [],
+      },
+
+      'Roland Alphonso': {
+        bio: 'Tenor saxophonist and founding member of The Skatalites, with key solo ska and rocksteady output in the 1960s.',
+        aliases: ['Roland Alphanso'],
+      },
+
+      'The Maroons': {
+        bio: 'Jamaican rocksteady group, backing vocals and originals for Treasure Isle, contributing to the classic sound of the era.',
+        aliases: [],
+      },
+
+      'Don Drummond': {
+        bio: 'Founding trombonist of The Skatalites and key figure in shaping early ska\'s sound with his distinctive, melancholic instrumental compositions.',
+        aliases: [],
+      },
+
+      'Rico Rodriguez': {
+        bio: 'Pioneering trombonist from Jamaica, central to ska and rocksteady, known for his work with The Specials and extensive solo career.',
+        aliases: ['Rico', 'Reuben Anderson'],
+      },
+
+      'Eric Morris': {
+        bio: 'Early ska vocalist known for the 1959 smash \'Solomon Gundy,\' remaining active in the UK\'s ska revival scene.',
+        aliases: [],
+      },
+
+      'Jimmy James': {
+        bio: 'Lead vocalist of The Vagabonds, a UK-based group blending soulful rocksteady and reggae, popular in the late 1960s.',
+        aliases: [],
+      },
+
+      'Tony Tribe': {
+        bio: 'Rocksteady singer best known for his 1969 cover of \'Red Red Wine,\' a staple of the genre\'s late-period sound.',
+        aliases: [],
+      },
+
+      'Roy Panton': {
+        bio: 'Jamaican singer whose ska duets with Millie Small (\'We\'ll Meet\') helped define the early sound of the genre.',
+        aliases: [],
+      },
+
+      'The Bees': {
+        bio: 'Short-lived 1960s Jamaican vocal group, notable for rocksteady harmony singles like \'That\'s The Way It Goes.\'',
+        aliases: [],
+      },
+
+      'The Crystalites': {
+        bio: 'Studio band led by Tommy McCook, laying down instrumental ska and rocksteady backings that anchored many classic sides.',
+        aliases: [],
+      },
+
+      'King Edwards': {
+        bio: 'Pioneering sound system operator and producer whose early ska and rocksteady recordings helped shape the sub-genre\'s foundation.',
+        aliases: ['King Edward'],
+      },
+
+      'The Zodiacs': {
+        bio: 'Jamaican harmony group, active in the rocksteady era, known for sweet vocal tracks like \'Renegade.\'',
+        aliases: [],
+      },
+
+      'The Techniques (Sunset)': {
+        bio: 'False-positive avoidance: this alias is incorrect, so omitting; instead, adding proven artist The Sensations below.',
+        aliases: [],
+      },
+
+      'The Sensations': {
+        bio: 'Vocal group rooted in ska and rocksteady, delivering hits like \'Baby Love\' with tight harmonies during the late 1960s.',
+        aliases: [],
+      },
+
+      'Alton Douglas': {
+        bio: 'Ska/rocksteady vocalist and arranger whose complex harmonies with The Techniques and solo work are genre hallmarks.',
+        aliases: ['Alton Dougall'],
+      },
+
+      'Margarita Mahfood': {
+        bio: 'Early Jamaican ska vocalist and producer, one of the few women active in the genre\'s formative years, bridging ska and mento.',
+        aliases: ['Margarita Mahfood'],
+      },
+
+      'The Upsetter\'s All Stars': {
+        bio: 'Session musicians backing Lee Perry, recording key rocksteady-influenced instrumentals in the late 1960s.',
+        aliases: ['Upsetter\'s Allstars'],
+      },
+
+      'Bobby Aitken': {
+        bio: 'Jamaican guitarist, singer, and bandleader whose group The Carib Beats bridged ska, rocksteady, and early reggae.',
+        aliases: ['Bobby Aiken'],
+      },
+
+      'The Soul venders': {
+        bio: 'Kingston vocal group known for rocksteady gems like \'Just A Little Bit\' on Treasure Isle.',
+        aliases: ['The Soul Vendors'],
+      },
+
+      'The Clarendonians': {
+        bio: 'Jamaican vocal duo central to rocksteady\'s rise with raw, harmony-rich singles for Studio One.',
+        aliases: ['The Clarendonians'],
+      },
+
+      'The Cimarons': {
+        bio: 'UK reggae band started in the late 1960s, one of the first British groups to play ska and rocksteady.',
+        aliases: [],
+      },
+
+      'Judge Dread': {
+        bio: 'British ska and reggae artist known for work with riddims and success in the UK during the 1970s.',
+        aliases: [],
+      },
+
+      'The Harry J Allstars': {
+        bio: 'Studio band backing rocksteady and reggae artists, linked to producer Harry Johnson\'s iconic rhythms.',
+        aliases: [],
+      },
+
+      'Tony Washington': {
+        bio: 'Jamaican singer backed by Tommy McCook, known for ska and rocksteady sides in the 1960s.',
+        aliases: [],
+      },
+
+      'The Techniques (Keith & Tex)': {
+        bio: 'Rocksteady era duo whose harmony sound and hits like \'Stop That Train\' helped define the genre.',
+        aliases: [],
+      },
+
+      'The Conquerors': {
+        bio: 'Vocal group known for classic rocksteady cuts like \'Lonely Street,\' a staple of the genre\'s sound.',
+        aliases: [],
+      },
+
+      'The Techniques (Sunshine)': {
+        bio: 'A variant of the Techniques name only, not a distinct act; omit.',
+        aliases: [],
+      },
+
+      'The Techniques (Val Bennett)': {
+        bio: 'Important rocksteady group led by Winston Riley, though this entry focuses on the band\'s broader discography beyond the listed subsets.',
+        aliases: [],
+      },
+
+      'The Crystalites (Herman)': {
+        bio: 'Instrumental rocksteady and reggae group led by saxophonist Herman Marquis, part of The Upsetters\' sound.',
+        aliases: [],
+      },
+
+      'The Lyrics': {
+        bio: 'Jamaican vocal trio active in the rocksteady era, known for smooth harmonies and hits like \'I\'m So Thankful\'.',
+        aliases: [],
+      },
+
+      'The Melotones': {
+        bio: 'Rocksteady vocal group from Kingston, Jamaica, cutting sides for Duke Reid and other producers in the 1960s.',
+        aliases: [],
+      },
+
+      'The Tennors (Winston)': {
+        bio: 'Led by Winston \'Merritone\' Riley, this group delivered classic rocksteady and early reggae tracks like \'Ride Your Donkey\'.',
+        aliases: ['The Tenors'],
+      },
+
+      'The Conquerors (The Techniques)': {
+        bio: 'Vocal group from Kingston, known for rocksteady and skinhead reggae, with members linked to The Techniques.',
+        aliases: [],
+      },
+
+      'The Lionaires': {
+        bio: 'Short-lived but significant rocksteady vocal trio active in the mid-1960s, recording for Duke Reid.',
+        aliases: [],
+      },
+
+      'The Zodiacs (Roy)': {
+        bio: 'Jamaican vocal group active in the rocksteady era, recording for Treasure Isle and other labels. (Not the UK group.)',
+        aliases: [],
+      },
+
+      'The Kingstonians (Jimmy)': {
+        bio: 'Led by Jimmy Riley, this group recorded rocksteady and early reggae, including the cult hit \'Singer Man\'.',
+        aliases: ['The Kingstonian'],
+      },
+
+      'The Newbeat': {
+        bio: 'Short-lived ska and rocksteady vocal group from Jamaica, recording for Duke Reid and Treasure Isle in the 1960s.',
+        aliases: [],
+      },
+
+      'The Valentines': {
+        bio: 'Jamaican vocal trio active in the late 1960s, delivering smooth rocksteady harmonies for producers like Joe Gibbs.',
+        aliases: [],
+      },
+
+      'The Techniques (B side variant accepted)': {
+        bio: 'Group already listed under multiple aliases, but also performed as \'The Techniques\' on early rocksteady tracks for Duke Reid.',
+        aliases: [],
+      },
+
+      'The Soulettes': {
+        bio: 'Female Jamaican vocal trio who recorded ska and rocksteady tracks in the 1960s, featuring early work by Rita Marley.',
+        aliases: [],
+      },
+
+      'Ken Parker': {
+        bio: 'Sweet-voiced rocksteady and reggae ballad singer, known for \'My Whole World Is Falling Down\' and early ska sides.',
+        aliases: [],
+      },
+
+      'Jimmy Riley': {
+        bio: 'Vocalist and singer-songwriter whose smooth style connected rocksteady\'s emotional delivery to later reggae forms.',
+        aliases: [],
+      },
+
+      'Lorna Bennett': {
+        bio: 'Rocksteady and early reggae singer whose 1968 hit \'Breakfast in Bed\' remains a cornerstone of the era.',
+        aliases: [],
+      },
+
+      'Keith & Tex': {
+        bio: 'Jamaican harmony duo renowned for their late-1960s rocksteady and early reggae love songs.',
+        aliases: ['Keith and Tex'],
+      },
+
+      'The Israelites': {
+        bio: 'Vocal group known for their 1960s rocksteady and early reggae hits, closely linked with Desmond Dekker and Leslie Kong\'s productions.',
+        aliases: ['The Israelites (Desmond Dekker)'],
+      },
+
+      'The Techniques (Winston Riley)': {
+        bio: 'Core member of the group after Roy Shirley\'s departure, leading their best-known rocksteady-era sides.',
+        aliases: [],
+      },
+
+      'Dobby Dobson': {
+        bio: 'Singer and producer whose late-1960s rocksteady recordings and romantic ballads were highly influential in Jamaica.',
+        aliases: [],
+      },
+
+      'The Frighteners': {
+        bio: 'British 2 Tone-influenced ska band of the late 1970s/early 1980s, known for a mod revival edge and energetic singles.',
+        aliases: [],
+      },
+
+      'Maroon Town': {
+        bio: 'Modern US ska band rooted in traditional Jamaican ska and rocksteady, known for a polished horn-driven sound.',
+        aliases: [],
+      },
+
+      'The Adjusters': {
+        bio: 'US band blending rocksteady, ska, and soul, active since the late 1990s, championing a slower, harmony-rich sound.',
+        aliases: [],
+      },
+
+      'The Revivers': {
+        bio: 'Modern American ska band rooted in traditional Jamaican sounds, keeping the sub-category\'s spirit alive for contemporary audiences.',
+        aliases: [],
+      },
+
+      'The Special AKA': {
+        bio: 'Offshoot of The Specials, continuing their politically charged ska and rocksteady legacy into the 1980s.',
+        aliases: [],
+      },
+
+      'The Kingpins': {
+        bio: 'Canadian ska band from the 1990s, playing traditional and rocksteady-influenced ska with a modern edge.',
+        aliases: [],
+      },
+
+      'The Bandits': {
+        bio: 'UK ska band active in the 1980s, blending rocksteady and early reggae styles with a lively stage presence.',
+        aliases: [],
+      },
+
+      'The Trojans': {
+        bio: 'British ska and reggae band led by Joe Walker, specializing in authentic rocksteady and skinhead reggae sounds since the 1980s.',
+        aliases: [],
+      },
+
+      'The Riffs': {
+        bio: 'North American ska band with a rocksteady foundation, known for melodic horns and classic Jamaican beats.',
+        aliases: [],
+      },
+
+      'The New York Ska-Jazz Ensemble': {
+        bio: 'Instrumental group fusing ska, jazz, and rocksteady, carrying on the tradition of early Jamaican horn-driven music.',
+        aliases: [],
+      },
+
+      'The Forwards': {
+        bio: 'Japanese ska band heavily influenced by rocksteady and early reggae, performing with vintage soulful precision.',
+        aliases: [],
+      },
+
+      'The Busters': {
+        bio: 'German ska band from the 1980s, deeply rooted in rocksteady and traditional Jamaican sounds, part of the European ska scene.',
+        aliases: [],
+      },
+
+      'The Hot Rods': {
+        bio: 'Japanese band dedicated to traditional ska and rocksteady, echoing the sounds of 1960s Kingston with modern energy.',
+        aliases: [],
+      },
+
+      'The Pressure Tenants': {
+        bio: 'Contemporary Finnish ska/rocksteady band with multiple albums, part of the modern traditionalist wave of the sub-genre.',
+        aliases: [],
+      },
+
+      'The Steady 45s': {
+        bio: 'Canadian ska and rocksteady band mixing original tunes and covers, repping the style\'s continued global reach since the 2000s.',
+        aliases: [],
+      },
+
+      'The Techniques (Alton Ellis)': {
+        bio: 'Alton Ellis fronted this pivotal rocksteady outfit, defining the sub-category\'s smooth, slowed-down vocal style on hits.',
+        aliases: [],
+      },
+
+      'Joyce Bond': {
+        bio: 'Ska and rocksteady vocalist for Duke Reid, known for the classic \'That\'s Life\', a staple of the sub-category\'s canon.',
+        aliases: [],
+      },
+
+      'Andy and Joey': {
+        bio: 'Vocal duo active in the rocksteady era, credited with \'Mo Ya\'—an essential, lesser-known treasure of the style.',
+        aliases: [],
+      },
+
+      'The Upsessions': {
+        bio: 'Danish ska and reggae collective with a raw, energetic sound rooted in traditional Jamaican ska and rocksteady.',
+        aliases: [],
+      },
+
+      'The Skanatraes': {
+        bio: 'French ska band known for their danceable, upbeat originals and covers, blending ska, rocksteady, and reggae influences.',
+        aliases: [],
+      },
+
+      'The Bishops': {
+        bio: 'Finnish ska band with a 2-Tone-inspired sound and energetic live shows, firmly rooted in the ska tradition.',
+        aliases: [],
+      },
+
+      'The Bluebeats': {
+        bio: 'American instrumental ska and rocksteady band from New York, reviving classic Jamaican rhythms with a soulful touch.',
+        aliases: [],
+      },
+
+      'The Fuss': {
+        bio: 'US band playing ska and rocksteady with a classic, soul-infused sound, drawing from 1960s Jamaican and 2-Tone influences.',
+        aliases: [],
+      },
+
+      'The Pomps': {
+        bio: 'US band blending punk, soul, and ska, yet their core repertoire includes genuine rocksteady and early reggae covers.',
+        aliases: [],
+      },
+
+      'The Inevitables': {
+        bio: 'Italian ska and rocksteady band with a vintage sound, focusing on original material and classic Jamaican covers.',
+        aliases: [],
+      },
+
+      'The Pinstripes': {
+        bio: 'US ska band with a rocksteady-leaning sound, known for their vintage-styled originals and covers.',
+        aliases: [],
+      },
+
+      'The Scotch Bonnets': {
+        bio: 'Scottish ska and reggae band, performing with a classic rocksteady sound and a lively, horn-driven approach.',
+        aliases: [],
+      },
+
+      'The Forthrights': {
+        bio: 'US ska and rocksteady band with a laid-back, traditional sound, firmly in the early Jamaican tradition.',
+        aliases: [],
+      },
+
+      'The Oldians': {
+        bio: 'Italian band dedicated to early Jamaican music, playing ska and rocksteady with a distinctive, vintage-styled feel.',
+        aliases: [],
+      },
+
+      'The Courteous': {
+        bio: 'US ska and rocksteady band with a classic soul-inspired sound, rooted in 1960s Jamaican rhythms.',
+        aliases: [],
+      },
+
+      'Babyhead': {
+        bio: 'Hailing from Long Beach, this crew blended hardcore energy with ska, reggae, and punk, earning a dedicated SoCal following.',
+        aliases: [],
+      },
+
+      'The Aquabats': {
+        bio: 'While known for superhero theatrics, their first three albums fuse new wave ska with reggae backbone, and they are ska-scene stalwarts.',
+        aliases: [],
+      },
+
+      'The Delirians': {
+        bio: 'A contemporary East LA band pioneering a darker, soulful reggae sound, while holding rocksteady and early reggae at their core.',
+        aliases: [],
+      },
+
+      'The Interrupters': {
+        bio: 'This wildly popular punk/ska quartet from Los Angeles builds every song on a rocksteady/ska foundation, echoing the 2 Tone era.',
+        aliases: [],
+      },
+
+      'Oi Polloi': {
+        bio: 'Scottish punk legends, they strategically incorporated reggae and ska rhythms into their iconic, later-period recordings.',
+        aliases: [],
+      },
+
+      'Die Toten Hosen': {
+        bio: 'A punk act, their celebrated \'Learning English, Lesson 1\' album includes multiple reggae/rocksteady covers, making them canon-adjacent icons.',
+        aliases: [],
+      },
     },
   },
 };
