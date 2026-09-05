@@ -1196,6 +1196,11 @@ export const jazzAcoustics: Pillar = {
         bio: 'Chico Hamilton, West Coast drummer and bandleader, pioneered cool, spacious jazz with modal textures in groups like the Chico Hamilton Quintet.',
         aliases: [],
       },
+
+      'Johnny Hodges': {
+        bio: 'Tenor saxophonist famed for his silky cool tone, key voice in Duke Ellington\'s orchestra.',
+        aliases: [],
+      },
     },
 
     'Free / Avant-Garde': {
@@ -1603,6 +1608,26 @@ export const jazzAcoustics: Pillar = {
 
       'Gerry Hemingway': {
         bio: 'Drummer and composer integrating free improvisation with complex compositional structures, active in avant‑garde circles.',
+        aliases: [],
+      },
+
+      'James Carter': {
+        bio: 'A saxophonist blending free jazz, blues, and avant-garde, noted for his explosive, genre-defying solos on \'King of the Tenors.\'',
+        aliases: [],
+      },
+
+      'Darius Jones': {
+        bio: 'A saxophonist who fuses free jazz, spiritualism, and modern sensibilities, exemplified on \'The Great Escape.\'',
+        aliases: [],
+      },
+
+      'Don Moye': {
+        bio: 'Percussionist of the Art Ensemble of Chicago, his polyrhythmic contributions deepened the group\'s avant-garde ethos.',
+        aliases: [],
+      },
+
+      'Arthur Blythe': {
+        bio: 'An alto saxophonist known for his avant-garde tone and daring improvisations on albums such as \'The Sun.\'',
         aliases: [],
       },
     },
@@ -2393,6 +2418,56 @@ export const jazzAcoustics: Pillar = {
         bio: 'Widely regarded as the greatest drummer who ever lived, a force of nature whose technically dazzling big band roared on into the modern era.',
         aliases: ['buddy rich.', 'buddy rich big band', 'bernard rich', 'buddy rich orchestra', 'buddy rich drums'],
       },
+
+      'Paul Whiteman': {
+        bio: 'American composer, conductor, and pianist who led the 1920s "King of Jazz" big band, shaping early swing sound.',
+        aliases: [],
+      },
+
+      'Benny Carter': {
+        bio: 'Jazz alto saxophonist, trumpeter, and composer who fronted a celebrated big band, influencing swing and modern jazz.',
+        aliases: [],
+      },
+
+      'Maynard Ferguson': {
+        bio: 'High-note trumpeter and bandleader, he commanded a dynamic big band that delivered energetic swing and modern jazz.',
+        aliases: [],
+      },
+
+      'The Count Basie Orchestra': {
+        bio: 'Contemporary ensemble preserving Count Basie\'s legacy with swinging big band arrangements and modern flair.',
+        aliases: ['Count Basie Orchestra'],
+      },
+
+      'The Glenn Miller Orchestra': {
+        bio: 'Modern swing orchestra faithfully performing Glenn Miller\'s iconic arrangements with authentic big band sound.',
+        aliases: ['Glenn Miller Orchestra'],
+      },
+
+      'The Tommy Dorsey Orchestra': {
+        bio: 'Contemporary tribute band that recreates Tommy Dorsey\'s classic swing big band sound with precision.',
+        aliases: ['Tommy Dorsey Orchestra'],
+      },
+
+      'The Benny Goodman Orchestra': {
+        bio: 'Modern ensemble that honors Benny Goodman\'s swing legacy through classic arrangements and vibrant performances.',
+        aliases: ['Benny Goodman Orchestra'],
+      },
+
+      'The Duke Ellington Orchestra': {
+        bio: 'Contemporary big band that continues Duke Ellington\'s rich harmonic legacy with modern interpretations.',
+        aliases: ['Duke Ellington Orchestra'],
+      },
+
+      'The Woody Herman Legacy Big Band': {
+        bio: 'Modern big band preserving Woody Herman\'s progressive swing, delivering high-energy performances and fresh arrangements.',
+        aliases: ['Woody Herman Legacy Big Band', 'Woody Herman Orchestra'],
+      },
+
+      'The Benny Carter Big Band': {
+        bio: 'A current big band led by Benny Carter, blending swing roots with contemporary jazz textures.',
+        aliases: ['Benny Carter Big Band'],
+      },
     },
 
     'Latin Jazz': {
@@ -2444,6 +2519,36 @@ export const jazzAcoustics: Pillar = {
       'Dave Valentin': {
         bio: 'Acclaimed flutist who spent decades at the forefront of Latin jazz, blending Latin rhythms with contemporary jazz improvisations.',
         aliases: [],
+      },
+
+      'Miguel Zenón': {
+        bio: 'Puerto Rican saxophonist fusing Afro‑Puerto Rican rhythms with contemporary jazz.',
+        aliases: [],
+      },
+
+      'David Sánchez': {
+        bio: 'Panamanian saxophonist blends Latin rhythms, jazz improvisation, and world music influences.',
+        aliases: [],
+      },
+
+      'Machito': {
+        bio: 'Cuban‑American bandleader Manuel Ortiz, credited with pioneering Afro‑Cuban jazz through his orchestra.',
+        aliases: ['Manuel Ortiz'],
+      },
+
+      'Luis Bonilla': {
+        bio: 'Cuban percussionist and composer known for modern Latin jazz ensembles.',
+        aliases: [],
+      },
+
+      'Juan de Marcos González': {
+        bio: 'Cuban drummer and bandleader who leads Afro‑Cuban All Stars, fusing jazz with Afro‑Cuban traditions.',
+        aliases: ['Juan de Marcos'],
+      },
+
+      'Antonio Sánchez': {
+        bio: 'Award‑winning drummer whose work blends Latin jazz with contemporary fusion.',
+        aliases: ['Antonio Sanchez'],
       },
     },
 
