@@ -443,6 +443,136 @@ export const hipHopRap: Pillar = {
         bio: 'The Natural is a cult golden-age gem powered by Irv Gotti-era production and features from Jay-Z, DMX, and Ja Rule before they were superstars.',
         aliases: ['mike geronimo', 'micgeronimo', 'mic gernonimo', 'mic g', 'michael davis'],
       },
+
+      'Lords of the Underground': {
+        bio: 'New Jersey trio known for the early-90s singles \'Chief Rocka\' and \'Funky Child,\' blending hardcore beats with a lively, party-centric flow.',
+        aliases: ['LOTUG'],
+      },
+
+      'Fu-Schnickens': {
+        bio: 'Brooklyn crew celebrated for rapid, tongue-twisting, martial-arts-inflected rhymes atop golden-age production, highlighted on 1992\'s \'F.U. Don\'t Take It Personal.\'',
+        aliases: [],
+      },
+
+      'Heavy D & the Boyz': {
+        bio: 'Mount Vernon rapper whose 1991 album \'Peaceful Journey\' blended commercial appeal with crisp, jazz-sampled production — a bridge from golden age to new jack swing.',
+        aliases: [],
+      },
+
+      'Kurious': {
+        bio: 'Harlem-based underground lyricist, member of the Gravediggaz offshoot, known for complex, surreal storytelling on his late-90s solo albums like \'A Constipated Monkey.\'',
+        aliases: [],
+      },
+
+      'Positive K': {
+        bio: 'Harlem rapper best known for his 1992 smash \'I Got a Man,\' a witty, rapid-fire battle of the sexes that highlighted the era\'s playful, sample-driven production.',
+        aliases: [],
+      },
+
+      'Lord Tariq and Peter Gunz': {
+        bio: 'Bronx duo from the late 90s, whose \'Deja Vu\' is a gold-selling golden-age crossover with streetwise charm.',
+        aliases: [],
+      },
+
+      'Keith Murray': {
+        bio: 'Def Squad member with a raspy voice and dense punchlines, active in the early-to-mid 90s boom-bap era.',
+        aliases: [],
+      },
+
+      'Special Ed': {
+        bio: 'Brooklyn lyricist whose \'1989 debut \'Youngest in Charge\' showcased witty, boastful rhymes over production from the golden era.',
+        aliases: ['Special Eddie'],
+      },
+
+      'Killa Priest': {
+        bio: 'Wu-Tang affiliate from Brooklyn, known for his intricate, spiritual rhyme style and mid-90s features on classic crews.',
+        aliases: ['Killah Priest'],
+      },
+
+      'RZA': {
+        bio: 'Founding member of the Wu-Tang Clan, whose solo work in the 90s, like \'Liquid Swords\' collaborations, embodies raw, dark boom-bap.',
+        aliases: [],
+      },
+
+      'Knucklehead': {
+        bio: 'A contributor to the late-80s East Coast scene, often linked with influential groups, though less known now.',
+        aliases: [],
+      },
+
+      'Pete Rock': {
+        bio: 'Producer and emcee from Mount Vernon, architect of the golden-age jazz-sampled beat aesthetic.',
+        aliases: [],
+      },
+
+      'Percee P': {
+        bio: 'Prolific underground MC known for his relentless flow and sharp battle bars, rooted in the late-80s Bronx scene.',
+        aliases: [],
+      },
+
+      'Akinyele': {
+        bio: 'Queens rapper who delivered blunt, humorous street narratives, with key 90s cuts like \'Put It in Your Mouth\'.',
+        aliases: [],
+      },
+
+      'The Cenobites': {
+        bio: 'Underground supergroup of Godfather Don and Kool Keith, fusing abstract rhymes with dusty, jazz-sampled beats.',
+        aliases: [],
+      },
+
+      'Shabazz the Disciple': {
+        bio: 'Brooklyn lyricist, an early affiliate of Wu-Tang, known for his dense, righteous street poetry and raw 90s sound.',
+        aliases: [],
+      },
+
+      'Royal Flush': {
+        bio: 'Queens rapper known for his gritty 1997 album \'Ghetto Millionaire\', a cult classic of the late-90s East Coast boom-bap scene.',
+        aliases: [],
+      },
+
+      'Chino XL': {
+        bio: 'New Jersey lyricist with a sharp, verbose style, whose 1996 debut \'Here to Save You All\' showcases classic boom-bap production and battle-rap pedigree.',
+        aliases: ['XL, Chino'],
+      },
+
+      'Kool Moe Dee': {
+        bio: 'Pioneering rapper from the early \'80s whose battle rhymes and social commentary bridged the old school and golden age.',
+        aliases: ['Kool Moe Dee'],
+      },
+
+      'Biz Markie': {
+        bio: 'Beatbox veteran and playful storyteller whose 1989 comedic classic \'Just a Friend\' became a hip-hop staple.',
+        aliases: ['Biz Markie'],
+      },
+
+      'Doug E. Fresh': {
+        bio: 'Legendary beatboxer and MC whose \'The Show\' and \'La Di Da Di\' remain foundational hip-hop recordings from the golden age.',
+        aliases: ['Doug E Fresh'],
+      },
+
+      '3rd Bass': {
+        bio: 'Cult-favorite white rap trio from New York whose sharp, battle-focused albums challenged the status quo of early \'90s hip-hop.',
+        aliases: ['3rd Bass'],
+      },
+
+      'Grand Puba': {
+        bio: 'Smooth-voiced rapper and producer from Brand Nubian whose solo work deepened golden-age sound with jazz-infused beats.',
+        aliases: ['Grand Puba'],
+      },
+
+      'MC Serch': {
+        bio: 'Member of 3rd Bass and solo artist whose \'1999\' concept album offered a panoramic view of hip-hop\'s golden era.',
+        aliases: ['MC Serch'],
+      },
+
+      'Sadat X': {
+        bio: 'Lyricist from Brand Nubian contributing politically aware verses and classic tracks like \'Slow Down\' in the early \'90s.',
+        aliases: [],
+      },
+
+      'D.I.T.C.': {
+        bio: 'An influential collective of rappers and producers who anchored the lyrical, sample-based boom-bap sound of the East Coast in the 1990s.',
+        aliases: ['Diggin\' in the Crates'],
+      },
     },
 
     'Current / Trap': {
@@ -970,6 +1100,151 @@ export const hipHopRap: Pillar = {
         bio: 'New Jersey breakout whose 808-drenched beats and aggressive trap flow create a menacing, high-energy sound for contemporary rap audiences.',
         aliases: [],
       },
+
+      'Zaytoven': {
+        bio: 'Atlanta trap pioneer whose beats defined the 808-heavy, hi-hat-driven sound that underpins the modern trap era.',
+        aliases: ['Zaytoven'],
+      },
+
+      'TM88': {
+        bio: '808 Mafia producer crafting dark, menacing trap beats central to the sub-category\'s sound.',
+        aliases: ['TM88'],
+      },
+
+      'Wheezy': {
+        bio: 'Atlanta producer known for brooding, textured trap instrumentals that shaped the 2010s and 2020s rap landscape.',
+        aliases: ['Wheezy'],
+      },
+
+      'DJ Esco': {
+        bio: 'Future\'s go-to producer, delivering drug-addled, heavy 808 soundscapes that define modern narcotic trap.',
+        aliases: ['Esco'],
+      },
+
+      'Tay Keith': {
+        bio: 'Memphis producer known for hard-hitting 808s and sliding hi-hats, a staple of current trap\'s aggressive sound.',
+        aliases: ['Tay Keith'],
+      },
+
+      'Pyrex Whippa': {
+        bio: 'Playboi Carti\'s co-producer crafting sparse, eerie, 808-dense tracks for the rage/trap sub-scene.',
+        aliases: ['Pyrex'],
+      },
+
+      'F1lthy': {
+        bio: 'Producer central to rage and dark trap, delivering abrasive, metallic beats for key artists in this lane.',
+        aliases: ['F1lthy'],
+      },
+
+      'Lil 88': {
+        bio: 'Atlanta producer specializing in ominous, drug-heavy trap bangers fitting the narcotic mood.',
+        aliases: ['Lil88'],
+      },
+
+      'Sonny Digital': {
+        bio: '2010s trap producer known for dark, bouncing beats that set the template for the current sub-category.',
+        aliases: ['Sonny Digital'],
+      },
+
+      'Honorable C.N.O.T.E.': {
+        bio: 'Producer crafting booming, dark trap instrumentals for Gucci Mane, Future, and 21 Savage, fitting this heavy sound.',
+        aliases: ['Honorable Cnote'],
+      },
+
+      'Cassius Jay': {
+        bio: 'Atlanta producer delivering glossy yet menacing 808-trap tracks, working closely with Future and Young Thug.',
+        aliases: ['Cassius Jay'],
+      },
+
+      'Twysted Genius': {
+        bio: 'Producer known for dark, melodic trap beats for Lil Wayne and Migos, fitting the sub-category\'s 808-leaning style.',
+        aliases: ['Twysted Genius'],
+      },
+
+      'Kankan': {
+        bio: 'Memphis-born rapper and producer crafting dark, 808-heavy trap with clattering hi-hats and a clouded, narcotic delivery.',
+        aliases: ['KanKan'],
+      },
+
+      '2wo2wo': {
+        bio: 'Memphis rapper known for menacing, rapid-fire flows over distorted 808s and eerie, futuristic trap production, rising alongside Kankan.',
+        aliases: [],
+      },
+
+      'Summrs': {
+        bio: 'Louisiana-born pioneer of the pluggnb and rage-adjacent trap sound, blending melodic croons with hard-hitting, 808-driven beats.',
+        aliases: ['Summrs'],
+      },
+
+      'Autumn!': {
+        bio: 'Atlanta-raised artist crafting whispery, menacing, and atmospheric trap tracks, a key figure in the underground rage and plugg scene.',
+        aliases: ['Autumn'],
+      },
+
+      'Xaviersobased': {
+        bio: 'New York rage-rap agitator whose distorted, high-energy sound and chaotic performances channel the genre\'s aggressive, 808-led core.',
+        aliases: ['Xavier Wulf'],
+      },
+
+      'Yhapojj': {
+        bio: 'New Jersey rapper whose sinister, minimalist trap blends jerky hi-hat patterns with low-end 808s, emblematic of the current underground.',
+        aliases: [],
+      },
+
+      'Glokk40Spaz': {
+        bio: 'Atlanta artist delivering cold-blooded, menacing trap narratives over bass-heavy production, aligned with the city\'s grimier drill-rap wave.',
+        aliases: ['Glokk40'],
+      },
+
+      'HNTR': {
+        bio: 'Maryland rapper steeped in dark, aggressive, underground trap, known for a raw, relentless delivery over punishing 808-driven beats.',
+        aliases: [],
+      },
+
+      'Lazer Dim 700': {
+        bio: 'Teenage Houston rapper creating chaotic, low-fidelity rage and jerk hybrids, built on booming 808s and frantic triplet percussion.',
+        aliases: [],
+      },
+
+      'Iayze': {
+        bio: 'Dallas-Fort Worth rapper and producer weaving high-pitched, melodic vocals over dark, 808-heavy trap, bridging rage and mainstream drill.',
+        aliases: ['Jace!'],
+      },
+
+      'RealYungPhil': {
+        bio: 'Florida-born rapper known for somber yet hard-hitting trap cuts, with distorted bass and murky, introspective aggression.',
+        aliases: [],
+      },
+
+      'Marlon DuBois': {
+        bio: 'Savannah-raised artist fusing slurred, hazy vocals with bass-heavy, underground cloud-rap and trap textures, aligning with the darker resurgence.',
+        aliases: [],
+      },
+
+      'ZillaKami': {
+        bio: 'New York rapper known for dark, aggressive trap-metal fusion with menacing 808s and hard-hitting delivery.',
+        aliases: ['Zillakami'],
+      },
+
+      'SSGKobe': {
+        bio: 'Atlanta rapper blending melodic trap and rage-style energy, fitting the modern 808-driven sound perfectly.',
+        aliases: ['SSGKobe'],
+      },
+
+      'Lil Double 0': {
+        bio: 'Florida drill-trap artist whose dark, menacing delivery and heavy beats align with current trap sub-genre.',
+        aliases: ['Lil Double 0'],
+      },
+
+      'YungMal': {
+        bio: 'Emerging Atlanta trap vocalist with dark, bass-heavy tracks and narcotic vocal style, resonant with modern sub-genre.',
+        aliases: ['Yung Mal'],
+      },
+
+      'Wam SpinThaBin': {
+        bio: 'Jersey drill artist with eerie, heavy trap-influenced beats and aggressive energy, fitting current underground wave.',
+        aliases: ['Wam SpinThaBin'],
+      },
     },
 
     'East Coast': {
@@ -1160,6 +1435,211 @@ export const hipHopRap: Pillar = {
 
       'Jay Electronica': {
         bio: 'Jay Electronica\'s introspective lyricism and dense rhyme schemes bring a modern edge to East Coast rap.',
+        aliases: [],
+      },
+
+      'Consequence': {
+        bio: 'Queens rapper with crisp, intricate wordplay and soulful sample-based tracks, deeply rooted in the late-90s Native Tongues scene.',
+        aliases: ['Cons'],
+      },
+
+      'Dave East': {
+        bio: 'Harlem rapper channeling 1990s gritty lyricism and street storytelling over soulful, sample-heavy production, straight out of New York.',
+        aliases: [],
+      },
+
+      'Westside Gunn': {
+        bio: 'Buffalo rapper bringing gritty street imagery, rapid-fire cadence, and dense sample-based beats to contemporary East Coast hip-hop.',
+        aliases: ['FlyGod'],
+      },
+
+      'Action Bronson': {
+        bio: 'Queens rapper blending intricate wordplay, food-centric tales, and gritty sample-based production, carrying East Coast lyricism into the 2010s.',
+        aliases: [],
+      },
+
+      'Big Noyd': {
+        bio: 'Queensbridge affiliate of Mobb Deep; gritty street lyricism and menacing delivery align perfectly with East Coast hardcore rap.',
+        aliases: [],
+      },
+
+      'Lil\' Fame': {
+        bio: 'Brooklyn half of M.O.P.; rough, sample-heavy style and relentless, high-energy street anthems.',
+        aliases: [],
+      },
+
+      'Cage': {
+        bio: 'New York rapper with menacing, gritty, confessional lyricism; early underground East Coast standout with a dense rhyme style.',
+        aliases: ['Cage Kennylz'],
+      },
+
+      'Killer Mike': {
+        bio: 'Atlanta-raised but East Coast-bred in Dungeon Family\'s boom-bap tradition; dense lyricism and political depth align with this gritty style.',
+        aliases: [],
+      },
+
+      'Benny the Butcher': {
+        bio: 'Buffalo rapper with Buffalo\'s Griselda collective, delivering gritty sample-heavy beats and dense drug-kingpin storytelling in the 2010s-20s.',
+        aliases: ['Benny The Butcher'],
+      },
+
+      'Currensy': {
+        bio: 'Though Southern-based, his early career and chill, sample-driven delivery earned deep ties to New York\'s underground; still, his centre is Southern rap—omit?',
+        aliases: [],
+      },
+
+      'Onyx': {
+        bio: 'Queens hardcore duo with aggressive, street-oriented delivery and gritty, sample-heavy production, defining 1990s East Coast rap energy.',
+        aliases: ['Onyx Rap'],
+      },
+
+      'M.O.P.': {
+        bio: 'Brooklyn duo (with Brownsville roots) famed for high-energy, gritty street anthems and a menacing, lyrical hardcore style.',
+        aliases: ['MOP', 'Mash Out Posse'],
+      },
+
+      'Mobb Deep collaborator Big Twin': {
+        bio: 'Queens rapper associated with Mobb Deep; gritty five-percenter lyrics and hardcore New York street rap in the 90s.',
+        aliases: [],
+      },
+
+      'Macho Man Randy Savage': {
+        bio: 'Southern rapper blending syrupy flow with layered, genre-splicing beats, critically acclaimed in underground hip-hop circles since the 2000s.',
+        aliases: [],
+      },
+
+      'Shyheim': {
+        bio: 'Staten Island rapper and early Wu-Tang affiliate whose gritty teenage street tales and sample-heavy productions echo the 90s New York sound.',
+        aliases: [],
+      },
+
+      'Chaos': {
+        bio: 'Brooklyn rapper and member of the group Tha Connection, known for darkly cinematic street lyricism and allegiance to the classic New York underground sound.',
+        aliases: [],
+      },
+
+      'Royce da 5\'9"': {
+        bio: 'Detroit/New York-bred lyricist with dense multisyllabic rhyme schemes and gritty collaborative work with DJ Premier and Eminem, fitting East Coast tradition.',
+        aliases: ['Royce Da 5\'9"', 'Royce'],
+      },
+
+      'Clipse': {
+        bio: 'Virginia duo signed to New York\'s Roc-A-Fella, known for sharp drug-trade narratives and minimalist Neptunes beats, echoing East Coast menace.',
+        aliases: [],
+      },
+
+      'Afu-Ra': {
+        bio: 'Brooklyn/brownsville rapper and affiliate of Gang Starr, delivering dense, spiritual, and street-conscious lyricism over dusty, sample-heavy beats.',
+        aliases: [],
+      },
+
+      'Jedi Mind Tricks': {
+        bio: 'Philadelphia rap group with a dark, menacing, sample-heavy sound, dense allegorical lyricism, and stark street imagery.',
+        aliases: ['Vinnie Paz', 'Jus Allah', 'Stoupe'],
+      },
+
+      'Casual': {
+        bio: 'While Bay Area-affiliated, his complex rhyme schemes and lyrical density align closely with the Esoteric East Coast tradition.',
+        aliases: ['Casual'],
+      },
+
+      'Jakki Da Motormouth': {
+        bio: 'Queens rapper with a rapid-fire delivery and intricate street rhymes, emblematic of the early 2000s East Coast mixtape scene.',
+        aliases: ['Jakki Da Motormouth'],
+      },
+
+      'Neek the Exotic': {
+        bio: 'NYC underground MC blending hardcore street lyricism with soulful, gritty boom-bap production, a staple of East Coast backpacker rap.',
+        aliases: ['Neek the Exotic'],
+      },
+
+      'Lord Tariq': {
+        bio: 'Queens rapper whose streetwise narratives and \'Deja Vu (Uptown Baby)\' pairing with Peter Gunz cemented his late-90s New York presence.',
+        aliases: [],
+      },
+
+      'Craig G': {
+        bio: 'Queens MC and Juice Crew member whose battle-tested delivery and classic \'Now That\'s More Like It\' exemplify foundational East Coast lyricism.',
+        aliases: [],
+      },
+
+      'Megahertz': {
+        bio: 'New York rapper and producer with gritty, sample-heavy tracks and street-level lyricism from the late 90s and 2000s East Coast axis.',
+        aliases: ['Mega Hertz'],
+      },
+
+      'Sauce Money': {
+        bio: 'Brooklyn rapper and Roc-A-Fella affiliate with sharp street lyricism, featured on key 90s and 2000s East Coast records.',
+        aliases: [],
+      },
+
+      'Juggaknots': {
+        bio: 'Bronx duo renowned for Breeze Brewin\'s intricate, everyday-man storytelling and production on the indie classic \'Clear Blue Skies\'.',
+        aliases: [],
+      },
+
+      'Smoothe da Hustler': {
+        bio: 'Brooklyn lyricist with a gritty, laid-back delivery and dense wordplay, known for the 1995 D.I.T.C.-produced classic \'Broken Language\'.',
+        aliases: ['Smoothe Da Hustler'],
+      },
+
+      'Sada Baby': {
+        bio: 'Detroit rapper, but his gritty, off-kilter delivery and menacing street narratives align more with New York\'s aggressive boom-bap ethos.',
+        aliases: ['Sada'],
+      },
+
+      'Meyhem Lauren': {
+        bio: 'Queens underground rapper whose gritty streetwise verses ride rugged, Alchemist-produced loops, keeping classic NYC energy alive in the 2010s-20s.',
+        aliases: ['Meyhem Lauren'],
+      },
+
+      'Sean Combs': {
+        bio: 'Puff Daddy shaped East Coast hip-hop\'s sound and business through Bad Boy Records, blurring lines between artist and mogul.',
+        aliases: ['Puff Daddy', 'P. Diddy'],
+      },
+
+      'Fabolous': {
+        bio: 'Brooklyn rapper known for witty punchlines and effortless New York cadence, championing the city\'s street-savvy lyricism since the early 2000s.',
+        aliases: [],
+      },
+
+      'Papoose': {
+        bio: 'Crown Heights lyricist with intricate wordplay and relentless street narratives, holding down the underground East Coast tradition.',
+        aliases: [],
+      },
+
+      'Smoke DZA': {
+        bio: 'Harlem rapper blending gritty street narratives with sample-heavy, New York-centric beats, carrying the city\'s 2000s-2010s underground torch.',
+        aliases: [],
+      },
+
+      'Prince Paul': {
+        bio: 'Long Island producer-DJ whose gritty, sample-heavy soundscapes framed dense East Coast lyricism across De La Soul and Gravediggaz.',
+        aliases: [],
+      },
+
+      'Buckwild': {
+        bio: 'Bronx producer and rapper, key in D.I.T.C., crafting gritty sample-heavy beats for East Coast artists.',
+        aliases: ['Buck Wild'],
+      },
+
+      'Milo (RAP Ferreira)': {
+        bio: 'Milwaukee/LA experimental lyricist with dense, introspective, literary wordplay over jazzy, sample-heavy beats; bridges underground East Coast intellectual rap.',
+        aliases: ['RAP Ferreira', 'Scallops Hotel'],
+      },
+
+      'Copywrite': {
+        bio: 'Ohio-born battle rapper with a relentlessly dense, multisyllabic style and boom-bap production that aligns him firmly with East Coast underground lyricism.',
+        aliases: [],
+      },
+
+      'Torae': {
+        bio: 'Brooklyn rapper and radio vet whose unflinching, punchline-heavy delivery over classic sample drums anchors him squarely in New York\'s boom-bap revival.',
+        aliases: [],
+      },
+
+      'Styles of Beyond': {
+        bio: 'Los Angeles-based duo with East Coast-tight rhyme structures and underground cult status, though coastal origin is West; fits via dense lyrical style.',
         aliases: [],
       },
     },

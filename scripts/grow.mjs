@@ -233,12 +233,28 @@ const { url, headers, body } = provider.request(model, prompt, apiKey);
 // for "this sub-category ran out of real artists."
 const MAX_ATTEMPTS = 5;
 let res;
+let networkError;
 for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
-  res = await fetch(url, { method: 'POST', headers, body: JSON.stringify(body) });
-  if (res.ok || ![429, 500, 502, 503, 504].includes(res.status) || attempt === MAX_ATTEMPTS) { break; }
+  networkError = undefined;
+  try {
+    // fetch() itself can throw (DNS, TLS, connect timeout) instead of
+    // returning a response — that's not a 5xx to check res.status on, but
+    // it's exactly as transient, so it gets the same retry treatment rather
+    // than crashing the process with a raw stack trace.
+    res = await fetch(url, { method: 'POST', headers, body: JSON.stringify(body) });
+  } catch (err) {
+    networkError = err;
+  }
+  const shouldRetry = networkError || (!res.ok && [429, 500, 502, 503, 504].includes(res.status));
+  if (!shouldRetry || attempt === MAX_ATTEMPTS) { break; }
   const backoffMs = Math.min(5000 * 2 ** (attempt - 1), 60000);
-  console.error(`  provider busy (${res.status}), retrying in ${Math.round(backoffMs / 1000)}s… (attempt ${attempt}/${MAX_ATTEMPTS})`);
+  const reason = networkError ? networkError.cause?.code || networkError.message : res.status;
+  console.error(`  provider busy (${reason}), retrying in ${Math.round(backoffMs / 1000)}s… (attempt ${attempt}/${MAX_ATTEMPTS})`);
   await new Promise((r) => setTimeout(r, backoffMs));
+}
+if (networkError) {
+  console.error(`Network error reaching ${url}: ${networkError.cause?.code || networkError.message}`);
+  process.exit(1);
 }
 if (!res.ok) {
   console.error(`API error ${res.status} ${res.statusText}\n${(await res.text()).slice(0, 800)}`);
