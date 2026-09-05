@@ -58,6 +58,14 @@ Example:
 // ── Providers ────────────────────────────────────────────────────────────────
 // Each entry turns a prompt into { url, headers, body } and pulls the text back
 // out of that provider's response shape. Add one to support anything else.
+//
+// max_tokens is deliberately modest (2048), not generous: some free-tier
+// providers (Groq's smaller models) enforce a combined prompt+max_tokens
+// tokens-per-minute ceiling, so requesting more headroom than this task
+// actually needs (a short JSON array of names/bios) can get the request
+// rejected as "too large" before generation even starts, on a sub-category
+// with a long existing-artist list. 2048 comfortably covers a real batch of
+// 15+ entries while leaving room under a tight per-minute budget.
 const PROVIDERS = {
   anthropic: {
     defaultModel: 'claude-sonnet-5',
@@ -68,7 +76,7 @@ const PROVIDERS = {
         'x-api-key': key,
         'anthropic-version': '2023-06-01',
       },
-      body: { model, max_tokens: 8192, messages: [{ role: 'user', content: prompt }] },
+      body: { model, max_tokens: 2048, messages: [{ role: 'user', content: prompt }] },
     }),
     extract: (json) => json?.content?.[0]?.text,
   },
@@ -77,7 +85,7 @@ const PROVIDERS = {
     request: (model, prompt, key) => ({
       url: 'https://api.openai.com/v1/chat/completions',
       headers: { 'content-type': 'application/json', authorization: `Bearer ${key}` },
-      body: { model, max_tokens: 8192, messages: [{ role: 'user', content: prompt }] },
+      body: { model, max_tokens: 2048, messages: [{ role: 'user', content: prompt }] },
     }),
     extract: (json) => json?.choices?.[0]?.message?.content,
   },
@@ -86,7 +94,7 @@ const PROVIDERS = {
     request: (model, prompt, key) => ({
       url: `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`,
       headers: { 'content-type': 'application/json', 'x-goog-api-key': key },
-      body: { contents: [{ parts: [{ text: prompt }] }], generationConfig: { maxOutputTokens: 8192 } },
+      body: { contents: [{ parts: [{ text: prompt }] }], generationConfig: { maxOutputTokens: 2048 } },
     }),
     extract: (json) => json?.candidates?.[0]?.content?.parts?.[0]?.text,
   },
@@ -101,7 +109,7 @@ const PROVIDERS = {
     request: (model, prompt, key) => ({
       url: 'https://api.x.ai/v1/chat/completions',
       headers: { 'content-type': 'application/json', authorization: `Bearer ${key}` },
-      body: { model, max_tokens: 8192, messages: [{ role: 'user', content: prompt }] },
+      body: { model, max_tokens: 2048, messages: [{ role: 'user', content: prompt }] },
     }),
     extract: (json) => json?.choices?.[0]?.message?.content,
   },
@@ -114,7 +122,7 @@ const PROVIDERS = {
       return {
         url,
         headers: { 'content-type': 'application/json', authorization: `Bearer ${key}` },
-        body: { model, max_tokens: 8192, messages: [{ role: 'user', content: prompt }] },
+        body: { model, max_tokens: 2048, messages: [{ role: 'user', content: prompt }] },
       };
     },
     extract: (json) => json?.choices?.[0]?.message?.content,

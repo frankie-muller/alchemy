@@ -1806,6 +1806,71 @@ export const jazzAcoustics: Pillar = {
         bio: 'Drummer and composer known for intricate fusion rhythms and virtuosic electric performances.',
         aliases: [],
       },
+
+      'Kiefer': {
+        bio: 'LA pianist and producer blending beat-driven jazz-hip hop with electric grooves, earning a Blue Note debut and a high-energy tour.',
+        aliases: [],
+      },
+
+      'Sasha Berliner': {
+        bio: 'Vibraphonist pioneering modern electric jazz, touring with the avant‑electric project Arts & Sciences after the acclaimed Fantome LP.',
+        aliases: [],
+      },
+
+      'Dani Offline': {
+        bio: 'Oakland singer fusing neo‑soul and new‑age jazz, rising to NPR and FADER buzz with the soulful track Angel.',
+        aliases: [],
+      },
+
+      'corto.alto (Liam Shortall)': {
+        bio: 'Glasgow trombonist and producer delivering funky future‑jazz fusion, shortlisted for the Mercury Prize and named Jazz FM Act of the Year.',
+        aliases: ['Liam Shortall'],
+      },
+
+      'Salin': {
+        bio: 'Thai‑Canadian producer infusing Afro‑Thai psychedelic elements into electric jazz‑funk, Juno‑nominated for Global Music Album of the Year with Rammana.',
+        aliases: [],
+      },
+
+      'Moses Yoofee (Trio)': {
+        bio: 'Berlin teen prodigy leading a piano‑centric modern jazz trio, celebrated as a German Jazz Prize Live Act winner.',
+        aliases: ['Moses Yoofee'],
+      },
+
+      'Venna': {
+        bio: 'London saxophonist/producer blending R&B, hip‑hop and jazz‑funk, collaborating with Jorja Smith and dominating club scenes.',
+        aliases: [],
+      },
+
+      'Yoni Mayraz': {
+        bio: 'UK keyboardist fusing jazz‑funk with hip‑hop and electronics on the LP Dogs Bark Babies Cry, shaping contemporary jazz sound.',
+        aliases: [],
+      },
+
+      'Omasta': {
+        bio: 'Krakow five‑piece fusing jazz‑funk with street‑culture grooves, spotlighted as a 2026 new‑wave jazz sensation.',
+        aliases: [],
+      },
+
+      'Nubya Garcia': {
+        bio: 'London saxophonist crafting orchestral jazz that blends R&B and dub, with the forthcoming album Odyssey receiving critical acclaim.',
+        aliases: [],
+      },
+
+      'Billy Cobham': {
+        bio: 'Electric jazz-rock drummer who pioneered fusion with his dynamic, high‑energy drumming on albums like \'Spectrum\' and \'Mahogany\'.',
+        aliases: [],
+      },
+
+      'Yellowjackets': {
+        bio: 'Modern jazz-funk group known for tight grooves, virtuosic solos, and blending of acoustic and electric instrumentation across decades.',
+        aliases: [],
+      },
+
+      'Jaga Jazzist': {
+        bio: 'Norwegian progressive group combining jazz, electronica, and funk to produce atmospheric, groove‑heavy electric fusion.',
+        aliases: [],
+      },
     },
 
     'Vocal Jazz': {
@@ -1940,6 +2005,101 @@ export const jazzAcoustics: Pillar = {
       'Nina Simone': {
         bio: 'The High Priestess of Soul whose commanding, classically trained piano and ferocious, unvarnished contralto channeled the civil rights struggle into undeniable art.',
         aliases: ['n. simone', 'simone', 'eunice kathleen waydon', 'nina simone trio', 'nina simon', 'nina simmone'],
+      },
+
+      'Lena Horne': {
+        bio: 'Renowned for her lush voice and iconic interpretations of 1940s and 1950s standards, Lena Horne brought jazz standards to mainstream audiences.',
+        aliases: [],
+      },
+
+      'Etta Jones': {
+        bio: 'Etta Jones\' warm contralto delivered timeless ballads and jazz standards, earning her acclaim as a storytelling vocalist.',
+        aliases: [],
+      },
+
+      'Joe Williams': {
+        bio: 'Joe Williams\' smooth baritone and charismatic storytelling on jazz standards cemented his legacy as a vocal jazz icon.',
+        aliases: [],
+      },
+
+      'Jo Stafford': {
+        bio: 'Jo Stafford\'s clear, emotive voice brought classic jazz and popular standards to listeners with intimate ballad delivery.',
+        aliases: [],
+      },
+
+      'Ann Hampton Callaway': {
+        bio: 'Ann Hampton Callaway\'s soulful voice and narrative phrasing make her a celebrated interpreter of jazz standards and modern compositions.',
+        aliases: [],
+      },
+
+      'Nikki Yanofsky': {
+        bio: 'Nikki Yanofsky\'s bright alto voice and dynamic phrasing reinterpret jazz standards for a modern audience.',
+        aliases: [],
+      },
+
+      'Jane Monheit': {
+        bio: 'Jane Monheit\'s lush, resonant voice and nuanced storytelling bring classic jazz ballads to life.',
+        aliases: [],
+      },
+
+      'Martha Tilton': {
+        bio: 'Martha Tilton\'s smooth alto voice captured the essence of 1940s jazz standards, earning her the nickname \'Lady of the Lark\'.',
+        aliases: [],
+      },
+
+      'Diane Schuur': {
+        bio: 'American jazz singer famed for her expressive standards, blending bluesy phrasing with heartfelt storytelling.',
+        aliases: [],
+      },
+
+      'Mary Coughlan': {
+        bio: 'Irish singer acclaimed for intimate storytelling through jazz standards and emotive ballads.',
+        aliases: [],
+      },
+
+      'Doris Day': {
+        bio: 'Legendary vocalist who brought classic jazz standards to mainstream audiences with her warm, narrative ballads.',
+        aliases: [],
+      },
+
+      'Michael Bublé': {
+        bio: 'Pop-jazz icon celebrated for modern takes on timeless standards and engaging storytelling.',
+        aliases: [],
+      },
+
+      'Liza Minnelli': {
+        bio: 'Broadway star who interprets classic jazz ballads with theatrical storytelling and emotional depth.',
+        aliases: [],
+      },
+
+      'Laura Fygi': {
+        bio: 'British singer distinguished by her refined jazz standards and lyrical storytelling.',
+        aliases: [],
+      },
+
+      'Roseanna Vitro': {
+        bio: 'Roseanna Vitro blends classic jazz standards with innovative phrasing, creating intimate and expressive vocal narratives.',
+        aliases: [],
+      },
+
+      'Karen Souza': {
+        bio: 'Karen Souza delivers smooth Brazilian-infused jazz vocals, emphasizing romantic ballads and storytelling with a subtle, lyrical touch.',
+        aliases: [],
+      },
+
+      'Sara Gazarek': {
+        bio: 'Sara Gazarek captivates listeners with her rich tone, nuanced phrasing, and heartfelt renditions of jazz standards.',
+        aliases: [],
+      },
+
+      'Eddie Jefferson': {
+        bio: 'Eddie Jefferson pioneered vocalese, turning instrumental jazz solos into lyrical, narrative-driven vocal performances.',
+        aliases: [],
+      },
+
+      'Teri Thornton': {
+        bio: 'Teri Thornton, famed for her soaring alto, delivered timeless ballads and emotionally rich storytelling.',
+        aliases: [],
       },
     },
 
