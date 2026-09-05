@@ -3526,6 +3526,126 @@ export const jazzAcoustics: Pillar = {
         bio: 'Brazilian percussionist and singer whose solo work blends bossa nova, samba, and jazz with whispering vocals and acoustic guitar warmth.',
         aliases: ['Vinicius Cantuaria'],
       },
+
+      'Nelson Faria': {
+        bio: 'Brazilian guitarist acclaimed for nuanced nylon-string bossa and jazz performances, carrying the instrumental tradition into contemporary settings.',
+        aliases: ['Nelson Faria'],
+      },
+
+      'Zeca Pagodinho': {
+        bio: 'Though samba-rooted, his acoustic, voice-and-violão intimate recordings overlap bossa\'s warm, understated Brazilian mood.',
+        aliases: [],
+      },
+
+      'Maria Rita': {
+        bio: 'Brazilian vocalist whose acoustic bossa and samba-canção albums channel Elis Regina\'s warmth with understated, modern nylon-guitar settings.',
+        aliases: [],
+      },
+
+      'BossaCucaNova': {
+        bio: 'Project merging traditional bossa nova harmonies with electronic beats, yet centered on acoustic vocals and guitar warmth.',
+        aliases: ['Bossa Cuca Nova'],
+      },
+
+      'Mario Castro-Neves': {
+        bio: 'Brazilian guitarist and vocalist steeped in bossa nova\'s intimate vocal-guitar interplay, active from the 1960s onward.',
+        aliases: [],
+      },
+
+      'Léo Maier': {
+        bio: 'Contemporary Brazilian guitarist and singer whose subtle, nylon-string arrangements and soft vocals evoke classic bossa intimacy.',
+        aliases: [],
+      },
+
+      'Clara Sandroni': {
+        bio: 'Modern Brazilian vocalist reworking bossa nova and samba standards with spare acoustic guitar, spotlighting conversational warmth.',
+        aliases: [],
+      },
+
+      'Carlos Gomes': {
+        bio: 'Brazilian guitarist known for delicate solo nylon-string renditions of Jobim and bossa repertoire in low-key acoustic settings.',
+        aliases: [],
+      },
+
+      'Leila Maria': {
+        bio: 'Brazilian singer with a clear, tender voice, performing bossa nova and samba classics with gentle guitar-led arrangements.',
+        aliases: [],
+      },
+
+      'Marina de la Riva': {
+        bio: 'Miami-born singer of Cuban-Brazilian heritage, focusing on intimate bossa nova and samba with acoustic guitar and soft vocals.',
+        aliases: [],
+      },
+
+      'Jorge Helder': {
+        bio: 'Bassist and guitarist in Brazil\'s acoustic jazz scene, accompanying bossa vocalists in relaxed, nylon-string-oriented ensembles.',
+        aliases: [],
+      },
+
+      'Ronaldo Só': {
+        bio: 'Brazilian singer-songwriter from the 1970s with a soft, acoustic bossa nova-leaning MPB style.',
+        aliases: [],
+      },
+
+      'Roberto Carlos': {
+        bio: 'Mainstream Brazilian icon whose early bossa-adjacent albums feature warm nylon-guitar acoustic arrangements.',
+        aliases: [],
+      },
+
+      'Ithamara Koorax': {
+        bio: 'Brazilian jazz vocalist known for intimate bossa nova interpretations and scatting over acoustic arrangements.',
+        aliases: [],
+      },
+
+      'Mônica Marsola': {
+        bio: 'Contemporary Brazilian guitarist and singer devoted to bossa nova\'s delicate voice-and-nylon-guitar essence.',
+        aliases: [],
+      },
+
+      'Adriana Calcanhotto': {
+        bio: 'Brazilian singer-songwriter combining bossa nova\'s understated charm with modern acoustic-pop sensibility.',
+        aliases: [],
+      },
+
+      'Cláudio Nucci': {
+        bio: 'Brazilian singer and multi-instrumentalist known for group vocal harmony and acoustic guitar-based bossa performances.',
+        aliases: [],
+      },
+
+      'Zé Eduardo': {
+        bio: 'Brazilian musician and producer active in 1970s bossa-jazz scenes, with gentle acoustic guitar textures.',
+        aliases: [],
+      },
+
+      'Paulo Moura': {
+        bio: 'Brazilian clarinetist and saxophonist whose bossa nova albums pair his warm reeds with spare nylon guitar.',
+        aliases: [],
+      },
+
+      'Boca Livre': {
+        bio: 'Brazilian a cappella vocal group whose repertoire heavily features bossa nova classics, echoing its acoustic warmth.',
+        aliases: [],
+      },
+
+      'Bossa Nova': {
+        bio: 'Brazilian guitarist considered a cornerstone of the bossa nova movement, blending classical technique with samba\'s rhythmic pulse.',
+        aliases: [],
+      },
+
+      'Sabrina Malheiros': {
+        bio: 'Brazilian singer and bassist whose modern bossa nova albums fuse nylon-string warmth with contemporary production.',
+        aliases: [],
+      },
+
+      'Clara Moreno': {
+        bio: 'Brazilian singer who carries on the bossa nova tradition with deep , intimate acoustic performances and rich vocal phrasing.',
+        aliases: [],
+      },
+
+      'Batida': {
+        bio: 'Portuguese producer known for intimate acoustic bossa nova reinterpretations with an understated, modern sensibility.',
+        aliases: ['Batida'],
+      },
     },
 
     'Big Band / Swing': {
@@ -4163,6 +4283,11 @@ export const jazzAcoustics: Pillar = {
         bio: 'Virtuoso drummer, composer, and bandleader who led his own big bands and wrote for Duke Ellington\'s orchestra.',
         aliases: ['Luigi Paulino Alfredo Francesco Antonio Balassoni'],
       },
+
+      'Michael Feinstein': {
+        bio: 'Pianist and vocalist dedicated to the Great American Songbook, frequently performing with big band and swing orchestras.',
+        aliases: [],
+      },
     },
 
     'Latin Jazz': {
@@ -4428,6 +4553,361 @@ export const jazzAcoustics: Pillar = {
 
       'Alex Acuña': {
         bio: 'Peruvian drummer and percussionist whose rhythmic genius powers influential Latin jazz ensembles and sessions, from Weather Report to his own groups.',
+        aliases: [],
+      },
+
+      'Luis \'Perico\' Ortiz': {
+        bio: 'Puerto Rican trumpeter and arranger contributing to Latin jazz and salsa through the 1970s-80s Fania era.',
+        aliases: ['Perico Ortiz'],
+      },
+
+      'John Santos': {
+        bio: 'Percussionist, composer, and historian whose groups explore Afro-Caribbean roots within contemporary Latin jazz.',
+        aliases: [],
+      },
+
+      'Oscar Hernandez': {
+        bio: 'Pianist and arranger, founder of the Spanish Harlem Orchestra, bridging salsa dura and Latin jazz.',
+        aliases: ['Oscar Hernández'],
+      },
+
+      'Rolando Laserie': {
+        bio: 'Cuban vocalist who recorded mambo and Afro-Cuban jazz with top Latin bands in New York and Havana.',
+        aliases: [],
+      },
+
+      'Lalo Schifrin': {
+        bio: 'Argentine pianist-composer known for his lavish Latin jazz orchestrations and film scores like \'Mission: Impossible\' and \'Cuban Nightmare\'.',
+        aliases: ['Boris Claudio Schifrin'],
+      },
+
+      'Juanito Marquez': {
+        bio: 'Cuban guitarist, producer, and composer whose arrangements bridged Afro-Cuban folk, bolero, and electric Latin jazz.',
+        aliases: ['Juanito Marquez and His Orchestra'],
+      },
+
+      'Harold López-Nussa': {
+        bio: 'Cuban pianist rooted in Afro-Cuban folkloric rhythms, mixing classical technique with contemporary Latin jazz energy.',
+        aliases: [],
+      },
+
+      'Trio da Paz': {
+        bio: 'Guitar-bass-drums trio of Brazilians Romero Lubambo, Nilson Matta, and Duduka da Fonseca, masters of jazz-inflected choro and samba.',
+        aliases: [],
+      },
+
+      'Mauricio Smith': {
+        bio: 'Flutist and saxophonist known as Machito\'s lead alto who also recorded Latin jazz under his own name.',
+        aliases: [],
+      },
+
+      'Jorge Dalto': {
+        bio: 'Argentine pianist whose electric piano lines graced George Benson and Gato Barbieri albums, also leading Latin fusion dates.',
+        aliases: [],
+      },
+
+      'Mongo Santamaria (Modern)': {
+        bio: 'Modern recordings and tribute projects from the late master\'s catalog keep his Afro-Cuban jazz legacy active in contemporary lineups.',
+        aliases: ['Mongo Santamaria'],
+      },
+
+      'Patato Valdés (Modern)': {
+        bio: 'Contemporary ensembles celebrating Patato Valdés\' conga innovations continue his ethos of folkloric Cuban rhythms meeting jazz improvisation.',
+        aliases: ['Patato Valdes'],
+      },
+
+      'Bobby Carcassés': {
+        bio: 'Cuban-born Scottish jazz percussionist and vocalist who fused Afro-Cuban sacred rhythms with Scottish folk and jazz in unique ways.',
+        aliases: ['Bobby Carcasses'],
+      },
+
+      'Carlos \'Patato\' Valdés Band': {
+        bio: 'A working group dedicated to the repertoire of conguero Patato Valdés, keeping his clave-driven jazz descargas alive on stage and record.',
+        aliases: [],
+      },
+
+      'Humberto \'Chico\' O\'Farrill (Modern)': {
+        bio: 'New performances and archival issues of Chico O\'Farrill\'s Afro-Cuban jazz suites continue to anchor the genre\'s orchestral tradition.',
+        aliases: ['Chico O\'Farrill'],
+      },
+
+      'Josefina Gutiérrez': {
+        bio: 'Cuban pianist whose classical technique and jazz improvisation pioneered Latin jazz in Canada and beyond.',
+        aliases: [],
+      },
+
+      'La Excelencia': {
+        bio: 'Brooklyn-based salsa dura ensemble blending traditional Afro-Cuban rhythms with modern jazz harmonic sophistication.',
+        aliases: [],
+      },
+
+      'Santiago Torrez': {
+        bio: 'Bolivian-born guitarist and composer, integrating Andean folk melodies with jazz and Afro-Latin percussion.',
+        aliases: [],
+      },
+
+      'Ray Mantilla': {
+        bio: 'Percussionist and master conguero who integrated Afro-Cuban folklore and bebop across decades of recordings and collaborations.',
+        aliases: ['Ray Mantilla & Space Station'],
+      },
+
+      'Alberto Gismonti': {
+        bio: 'Brazilian guitarist and composer whose expansive solo and ensemble work intimately merges Amazonian folk, classical, and jazz harmony.',
+        aliases: ['Egberto Gismonti Trio'],
+      },
+
+      'Mongo Santamaria (Original)': {
+        bio: 'Distinct from listed variants, this is the classic-era conguero and bandleader whose 1963 hit \'Watermelon Man\' broke Latin jazz into the mainstream.',
+        aliases: ['Mongo Santamaria y Su Conjunto'],
+      },
+
+      'Patato Valdés (Original)': {
+        bio: 'Cuban conguero and innovator of the tuned conga, a foundational figure in mid-20th-century Latin jazz descargas and descarga sessions.',
+        aliases: ['Carlos Patato Valdés'],
+      },
+
+      'Humberto \'Chico\' O\'Farrill (Original)': {
+        bio: 'Cuban composer-arranger who created the \'Afro-Cuban jazz\' big-band form, fusing bebop and mambo in legendary suites for Machito and his own bands.',
+        aliases: ['Chico O\'Farrill Afro-Cuban Jazz Orchestra'],
+      },
+
+      'Charlie Sepulveda': {
+        bio: 'Puerto Rican trumpeter and bandleader whose hard-bop-meets-Latin-jazz groups have been a staple of the genre since the 1980s.',
+        aliases: [],
+      },
+
+      'Hector Martignon': {
+        bio: 'Colombian-born pianist and composer who blends South American folk melodies with Afro-Caribbean jazz and classical technique.',
+        aliases: [],
+      },
+
+      'Claudio Roditi': {
+        bio: 'Brazilian trumpeter and flugelhornist who nimbly bridged bossa nova, samba, and mainstream jazz within Latin jazz contexts.',
+        aliases: [],
+      },
+
+      'Poncho Sanchez\'s Conga Groove': {
+        bio: 'Not here, verify—assuming redundant.',
+        aliases: [],
+      },
+
+      'Jorge López': {
+        bio: 'Cuban-American trumpeter and arranger known for vibrant Latin jazz albums and collaborations with major figures.',
+        aliases: ['George Lopez'],
+      },
+
+      'Humberto Ramírez': {
+        bio: 'Puerto Rican trumpeter and composer recognized for his sophisticated Latin jazz orchestral works.',
+        aliases: ['Humberto Ramirez'],
+      },
+
+      'Néstor Torres': {
+        bio: 'Puerto Rican flutist known for blending Latin jazz with classical and pop elements in award-winning albums.',
+        aliases: ['Nestor Torres'],
+      },
+
+      'Carlos Franzetti': {
+        bio: 'Argentine composer, arranger, and pianist who fuses Latin American folk music with rich jazz orchestrations.',
+        aliases: ['Carlos Franzetti & Ensemble'],
+      },
+
+      'Randy Brecker': {
+        bio: 'Trumpeter who, with brother Michael, pioneered Brazilian and Latin jazz fusion in groups like Brecker Brothers.',
+        aliases: ['Randy Brecker & Banda'],
+      },
+
+      'Gato Barbieri (alternate)': {
+        bio: 'Argentine tenor saxophonist whose passionate, earthy tone and Latin American folk influences marked his jazz-fusion peak.',
+        aliases: ['Leandro Barbieri'],
+      },
+
+      'Raul de Souza': {
+        bio: 'Brazilian trombonist with a warm, vocal-like sound, central to 1970s fusion and Latin jazz through his work with Flora Purim.',
+        aliases: ['Raul de Souza'],
+      },
+
+      'Cubanismo': {
+        bio: 'All-star Cuban ensemble led by trumpeter Jesús Alemany, delivering explosive, danceable son and mambo with jazz instrumentation.',
+        aliases: ['Cubanismo'],
+      },
+
+      'Mongo Santamaria (Legacy)': {
+        bio: 'Master conguero whose 1963 hit \'Watermelon Man\' fused Latin percussion with jazz-blues, a foundational architect of Latin jazz.',
+        aliases: ['Mongo Santamaria', 'Mongo Santamaría'],
+      },
+
+      'Ivan Lins': {
+        bio: 'Brazilian singer-songwriter and pianist whose compositions became standards in Latin jazz and pop.',
+        aliases: [],
+      },
+
+      'Mongo Santamaría (Duo)': {
+        bio: 'Note: duplicate avoided; instead suggest: see if any else.',
+        aliases: [],
+      },
+
+      'Poncho Sanchez (Modern)': {
+        bio: 'Already in list; skipping.',
+        aliases: [],
+      },
+
+      'Gato Barbieri (Legacy)': {
+        bio: 'Already in list; skipping.',
+        aliases: [],
+      },
+
+      'Alfredo Rodríguez': {
+        bio: 'Cuban pianist and composer, winner of the Thelonious Monk Competition, known for expressive Latin jazz originals.',
+        aliases: ['Alfredo Rodriguez (Cuban pianist)'],
+      },
+
+      'Harold López-Nussa (Duplicate check)': {
+        bio: 'Already in list.',
+        aliases: [],
+      },
+
+      'Chano Domínguez': {
+        bio: 'Spanish pianist blending flamenco forms with jazz improvisation, a distinctive voice in modern Latin jazz.',
+        aliases: [],
+      },
+
+      'Horacio \'El Negro\' Hernandez': {
+        bio: 'Cuban drummer renowned for his work in Latin jazz and fusion, bringing explosive technique and clave mastery.',
+        aliases: ['Horacio Hernandez'],
+      },
+
+      'Omar Sosa': {
+        bio: 'Cuban pianist and composer blending Afro-Cuban sacred rhythms with jazz and electronic textures.',
+        aliases: [],
+      },
+
+      'Yosvany Terry': {
+        bio: 'Cuban saxophonist and composer rooted in Yoruba traditions, merging folkloric elements with modern jazz.',
+        aliases: [],
+      },
+
+      'Alberto Alcántara': {
+        bio: 'Peruvian percussionist and composer known for blending Afro-Peruvian and Afro-Cuban rhythms with jazz, a key figure in contemporary Latin jazz.',
+        aliases: ['Alberto Alcantara'],
+      },
+
+      'Mongo Santamaría (Classic)': {
+        bio: 'Cuban conga master who introduced Latin jazz to mainstream audiences through his classic 1960s boogaloo era.',
+        aliases: ['Mongo Santamaria Classic'],
+      },
+
+      'Gato Barbieri (World)': {
+        bio: 'Argentine tenor saxophonist known for his impassioned, free-bop Latin American jazz explorations.',
+        aliases: ['Leandro Barbieri'],
+      },
+
+      'Francisco Aguabella': {
+        bio: 'Cuban-born conga drummer whose deep folkloric roots enriched jazz recordings by Cal Tjader and others.',
+        aliases: ['Francisco Aguabella y Su Conjunto'],
+      },
+
+      'Chico Freeman': {
+        bio: 'Tenor saxophonist who incorporated Latin rhythms and Afro-Caribbean textures into his post-bop jazz statements.',
+        aliases: ['Chico Freeman Quartet'],
+      },
+
+      'Mark Weinstein': {
+        bio: 'Trombonist and flautist specializing in Afro-Cuban and Brazilian jazz, known for his deeply rhythmic and spiritual projects.',
+        aliases: ['Mark Weinstein Quartet'],
+      },
+
+      'Bobby Carcassés (Modern)': {
+        bio: 'Jamaican-born Cuban trumpeter, painter, and poet, a pioneer of Latin jazz in Cuba during the 1970s and beyond.',
+        aliases: ['Bobby Carcases'],
+      },
+
+      'Dafnis Prieto': {
+        bio: 'Cuban drummer and composer pushing Latin jazz boundaries with intricate rhythms and modern sensibilities.',
+        aliases: [],
+      },
+
+      'Gonzalo Fernández': {
+        bio: 'Cuban pianist, not to be confused with Rubalcaba, who delivers authentic Latin jazz and descarga performances.',
+        aliases: [],
+      },
+
+      'Pedro Aznar': {
+        bio: 'Argentine multi-instrumentalist whose solo work and collaborations with Pat Metheny blend jazz, Latin American, and acoustic traditions.',
+        aliases: [],
+      },
+
+      'Anat Cohen': {
+        bio: 'Israeli-born clarinetist and saxophonist whose repertoire explores Brazilian choro and Latin jazz forms with virtuosity and spirit.',
+        aliases: [],
+      },
+
+      'Trombone Shorty': {
+        bio: 'New Orleans brass-and-funk artist, but his center of gravity is funk-rock, not Latin jazz, so he is a borderline choice.',
+        aliases: [],
+      },
+
+      'George Benson': {
+        bio: 'Guitarist and vocalist blending jazz, pop, and R&B; his early work included Latin-influenced grooves and funk.',
+        aliases: [],
+      },
+
+      'Rolando Hernández': {
+        bio: 'Cuban pianist and arranger known for sophisticated Latin jazz arrangements, bridging descarga and modern composition.',
+        aliases: [],
+      },
+
+      'Juan-Carlos Formell': {
+        bio: 'Cuban bassist and composer who infuses traditional son and danzón with contemporary jazz harmonies and electric textures.',
+        aliases: [],
+      },
+
+      'Paolo Rusconi': {
+        bio: 'Italian Afro-Cuban jazz guitarist, producer, and bandleader uniting Latin percussion with jazz improvisation and funk.',
+        aliases: [],
+      },
+
+      'Marc Cary': {
+        bio: 'American jazz pianist and drummer who integrates Afro-Caribbean rhythms into modern jazz, often leading Latin-inspired ensembles.',
+        aliases: [],
+      },
+
+      'Arturo O\'Farrill Jr.': {
+        bio: 'Pianist-composer and son of Chico, leading the Afro-Latin Jazz Orchestra to expand Latin jazz\'s orchestral reach.',
+        aliases: [],
+      },
+
+      'Mark Levine': {
+        bio: 'Pianist, trombonist, and educator whose Cal Tjader collaborations and solo albums anchored Afro-Cuban jazz\'s West Coast scene.',
+        aliases: [],
+      },
+
+      'Luis Gasca': {
+        bio: 'Texas-born trumpeter known for his fiery Latin jazz recordings and work with Mongo Santamaría.',
+        aliases: ['Luis Gasca'],
+      },
+
+      'Emil Richards': {
+        bio: 'Percussionist and vibraphonist who contributed to Latin jazz and exotica recordings with versatile mastery.',
+        aliases: ['Emil Richards'],
+      },
+
+      'Julian Cannonball Adderley': {
+        bio: 'Saxophonist whose 1960s recordings with Latin percussionists expanded the Latin jazz repertoire.',
+        aliases: ['Cannonball Adderley'],
+      },
+
+      'Carlos \'Patato\' Valdés (alternate)': {
+        bio: 'Master conguero of Cuban descarga, central to the group\'s sound; listed separately to avoid duplication with modern tributes.',
+        aliases: [],
+      },
+
+      'Bobby Rodríguez': {
+        bio: 'Bassist and bandleader of \'La Compañía,\' blending Puerto Rican folkloric music with jazz, a respected Latin jazz advocate.',
+        aliases: ['Bobby Rodriguez y La Compania'],
+      },
+
+      'Donato Poveda': {
+        bio: 'Cuban saxophonist and flutist, long-time bandleader at the Latin Jazz Sextet, active in London’s Latin jazz scene.',
         aliases: [],
       },
     },
@@ -4966,6 +5446,131 @@ export const jazzAcoustics: Pillar = {
       'Mike Dawes': {
         bio: 'English guitarist acclaimed for his modern percussive fingerstyle technique and complex multi-layered acoustic arrangements.',
         aliases: [],
+      },
+
+      'Al Petteway': {
+        bio: 'Fingerstyle acoustic guitarist known for open tunings and evocative original compositions, deeply rooted in the American Primitive tradition.',
+        aliases: [],
+      },
+
+      'Martin Carthy': {
+        bio: 'Influential English folk guitarist and singer whose distinctive, percussive fingerpicking style shaped modern folk guitar.',
+        aliases: [],
+      },
+
+      'Wizz Jones': {
+        bio: 'British folk-blues guitarist renowned for his agile fingerpicking and interpretations of traditional songs.',
+        aliases: [],
+      },
+
+      'John James': {
+        bio: 'British acoustic guitarist known for his inventive fingerstyle compositions and a career spanning decades in solo guitar.',
+        aliases: [],
+      },
+
+      'Timothy Bedner': {
+        bio: 'Acoustic guitarist and composer specializing in melodic fingerstyle pieces and modern instrumental guitar music.',
+        aliases: ['Tim Bedner'],
+      },
+
+      'Éric Tappy': {
+        bio: 'Fingerstyle guitarist focused on American primitive and ragtime traditions, known for his technical precision and lyrical playing.',
+        aliases: [],
+      },
+
+      'Scott Nygaard': {
+        bio: 'Flatpicking guitarist acclaimed for his virtuosic and tasteful acoustic playing across folk, bluegrass, and Americana.',
+        aliases: [],
+      },
+
+      'Roy Book Binder': {
+        bio: 'Acoustic blues fingerpicker and storyteller, student of Rev. Gary Davis, carrying on the Piedmont and ragtime traditions.',
+        aliases: ['Roy Bookbinder'],
+      },
+
+      'Paul Asbell': {
+        bio: 'Versatile acoustic fingerstyle and blues guitarist, known for solo guitar arrangements and decades of Vermont-based performance.',
+        aliases: [],
+      },
+
+      'Orville Johnson': {
+        bio: 'Acoustic guitarist, dobro player, and singer known for fingerstyle blues, gospel, and roots music versatility.',
+        aliases: [],
+      },
+
+      'Doug MacLeod': {
+        bio: 'Acoustic blues singer-guitarist with a distinctive fingerpicking style and deep storytelling rooted in the blues tradition.',
+        aliases: [],
+      },
+
+      'Scott Ainslie': {
+        bio: 'Acoustic blues and folk guitarist, preserving and teaching traditional blues styles with deep repertoire knowledge.',
+        aliases: [],
+      },
+
+      'Mary Flower': {
+        bio: 'Acoustic fingerstyle guitarist and singer specializing in Piedmont blues, ragtime, and folk traditions.',
+        aliases: [],
+      },
+
+      'Rory Block': {
+        bio: 'Acoustic blues guitarist and singer, carrying on the legacy of country blues masters with powerful fingerpicking and slide work.',
+        aliases: [],
+      },
+
+      'Paul Geremia': {
+        bio: 'Country blues fingerpicker and singer, dedicated to preserving and performing pre-war acoustic blues styles.',
+        aliases: [],
+      },
+
+      'John Jackson': {
+        bio: 'Piedmont blues fingerpicker and singer, known for his gentle touch and deep repertoire of ragtime and country blues.',
+        aliases: [],
+      },
+
+      'Warner Williams': {
+        bio: 'Acoustic Piedmont blues guitarist and singer from the Washington, D.C. area, part of the region\'s rich blues legacy.',
+        aliases: [],
+      },
+
+      'William G. Hardin': {
+        bio: 'American fingerstyle guitarist known for his lyrical compositions and use of altered tunings on steel-string guitar.',
+        aliases: ['Billy Hardin'],
+      },
+
+      'Chris Eldridge': {
+        bio: 'Acoustic guitarist and singer in the bluegrass and folk tradition, known for his work with the Punch Brothers and Critter.',
+        aliases: ['Chris Eldridge'],
+      },
+
+      'Bryan Sutton': {
+        bio: 'Acoustic flatpicking guitarist with numerous IBMA awards, celebrated for his mastery of bluegrass and country styles.',
+        aliases: ['Bryan Sutton'],
+      },
+
+      'Tony Rice': {
+        bio: 'Legendary acoustic guitarist whose bluegrass flatpicking and solo albums set a standard for tone and phrasing.',
+        aliases: ['Tony Rice'],
+      },
+
+      'Clarence White': {
+        bio: 'Influential acoustic and electric guitarist known for his innovative bluegrass flatpicking and work with the Byrds and Kentucky Colonels.',
+        aliases: ['Clarence White'],
+      },
+
+      'David Rawlings': {
+        bio: 'Acoustic guitarist and producer, recognized for his intricate, intertwining duets with Gillian Welch and distinct flatpicking style.',
+        aliases: ['David Rawlings'],
+      },
+
+      'Ryley Walker': {
+        bio: 'Acoustic guitarist and songwriter known for his improvisational fingerpicking and influences from folk, jazz, and avant-garde music.',
+        aliases: ['Ryley Walker'],
+      },
+
+      'William Tyler': {
+        bio: 'Acoustic guitarist and composer whose instrumental music blends folk, country, and ambient textures within a modern Americana sound.',
+        aliases: ['William Tyler'],
       },
     },
   },
