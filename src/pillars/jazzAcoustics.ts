@@ -436,6 +436,156 @@ export const jazzAcoustics: Pillar = {
         bio: 'Tenor saxophonist known for crisp, swinging hard‑bop work with Zoot Sims and on Prestige sessions.',
         aliases: [],
       },
+
+      'Frank Strozier': {
+        bio: 'Alto saxophonist known for crisp bebop phrasing on classic hard bop releases such as \'Long Night\' (Vee‑Jay).',
+        aliases: [],
+      },
+
+      'Eddie "Lockjaw" Davis': {
+        bio: 'Tenor sax player whose gritty tone defined many Prestige hard bop dates, e.g., \'The Eddie Davis Trio.\'',
+        aliases: ['Eddie Lockjaw Davis'],
+      },
+
+      'Ray Brown': {
+        bio: 'Bassist who anchored countless bebop and hard bop ensembles, from Charlie Parker’s quintet to Oscar Peterson’s trios.',
+        aliases: [],
+      },
+
+      'Jimmy Owens': {
+        bio: 'Trumpeter and flugelhornist recorded hard bop classics for Blue Note, including \'No Escaping It\' with Woody Shaw.',
+        aliases: [],
+      },
+
+      'Al Grey': {
+        bio: 'Trombonist famous for robust, blues‑inflected solos on hard bop recordings with Count Basie and Eddie \'Lockjaw\' Davis.',
+        aliases: [],
+      },
+
+      'John Jenkins': {
+        bio: 'Alto saxophonist contributed crisp bebop lines to hard bop sessions such as \'John Jenkins with Kenny Burrell.\'',
+        aliases: [],
+      },
+
+      'Billy Higgins': {
+        bio: 'Legendary drummer whose swinging, crisp rhythms powered countless Blue Note hard bop sessions from the late 1950s onward.',
+        aliases: [],
+      },
+
+      'Frank Morgan': {
+        bio: 'Alto saxophonist whose bebop fluency and soulful tone kept the Charlie Parker tradition alive through the 1960s hard bop era.',
+        aliases: [],
+      },
+
+      'Jimmy Knepper': {
+        bio: 'Trombonist who contributed gritty, swinging solos on hard bop sessions with Charles Mingus and others, bridging bebop and post‑bop.',
+        aliases: [],
+      },
+
+      'Kenny Washington': {
+        bio: 'Modern drummer devoted to preserving bebop and hard bop repertoire, performing regularly with legacy artists and leading educational workshops.',
+        aliases: ['Kenneth Washington'],
+      },
+
+      'Jimmy Cleveland': {
+        bio: 'Trombonist whose warm tone and agile lines graced numerous Blue Note hard bop sessions, bridging swing and bebop sensibilities.',
+        aliases: [],
+      },
+
+      'Gigi Gryce': {
+        bio: 'Alto saxophonist and composer whose complex hard‑bop arrangements defined the Blue Note sound of the late ’50s.',
+        aliases: [],
+      },
+
+      'David "Fathead" Newman': {
+        bio: 'Tenor saxophonist blending soulful blues tone with hard‑bop agility on Ray Charles’s band and Blue Note dates.',
+        aliases: ['David Fathead Newman'],
+      },
+
+      'Charlie Rouse': {
+        bio: 'Tenor saxophonist who anchored Thelonious Monk’s groups with swinging, bebop‑rooted solos and later led hard‑bop quartets.',
+        aliases: ['Charles Rouse'],
+      },
+
+      'Terry Gibbs': {
+        bio: 'Vibraphonist renowned for high‑energy bebop sessions, delivering rapid lines and vibrant swing on early Prestige dates.',
+        aliases: ['Terrence Gibbs'],
+      },
+
+      'Pat Martino': {
+        bio: 'Guitarist whose 1960s Blue Note dates pioneered jazz‑rock infused hard bop.',
+        aliases: ['Patrick Martino'],
+      },
+
+      'Frank Rosolino': {
+        bio: 'Trombonist celebrated for fiery bebop lines and hard bop ensemble work.',
+        aliases: [],
+      },
+
+      'Tommy Turrentine': {
+        bio: 'Trumpeter whose soulful tone defined hard bop sessions with his brother Stanley.',
+        aliases: ['Thomas Turrentine'],
+      },
+
+      'Frank Wess': {
+        bio: 'Saxophonist/flutist whose supple tone contributed to Count Basie’s hard bop era.',
+        aliases: ['Franklin Wess'],
+      },
+
+      'Buddy DeFranco': {
+        bio: 'Clarinetist who brought bebop’s rapid fire phrasing into hard bop, recording pivotal Blue Note sessions.',
+        aliases: ['Buddy De Franco'],
+      },
+
+      'Johnny Coles': {
+        bio: 'Trumpeter noted for lyrical yet punchy hard bop work on Blue Note’s mid‑60s releases.',
+        aliases: [],
+      },
+
+      'Jimmy McGriff': {
+        bio: 'Organist whose blues‑heavy grooves bridged soul‑jazz and hard bop on early Prestige recordings.',
+        aliases: [],
+      },
+
+      'Teddy Charles': {
+        bio: 'Vibraphonist/composer pioneering experimental hard bop textures, featuring on Blue Note’s late‑50s sessions.',
+        aliases: ['Theodore Charles'],
+      },
+
+      'Billy Mitchell': {
+        bio: 'Tenor saxophonist known for robust, swinging solos on Blue Note hard bop albums of the early 60s.',
+        aliases: [],
+      },
+
+      'Billy Taylor': {
+        bio: 'Pianist and educator whose swinging, bebop‑rooted trio recordings epitomize the era’s virtuosity.',
+        aliases: ['William Taylor'],
+      },
+
+      'Bob Brook meyer': {
+        bio: 'Valve trombonist and arranger whose cool‑hard bop blend defined many West Coast sessions in the 1950s.',
+        aliases: ['Robert Brookmeyer'],
+      },
+
+      'George Duvivier': {
+        bio: 'Versatile bassist whose steady, melodic lines powered countless bebop and hard‑bop recordings.',
+        aliases: [],
+      },
+
+      'Thad Jones': {
+        bio: 'Trumpeter and arranger whose crisp, swinging lines epitomized hard bop’s energetic sound.',
+        aliases: [],
+      },
+
+      'Kenny Barron': {
+        bio: 'Pianist renowned for virtuosic bebop improvisations and hard‑bop driven ensembles since the 1970s.',
+        aliases: [],
+      },
+
+      'Christian McBride': {
+        bio: 'Bassist leading hard‑bop groups that blend powerful swing with modern virtuosity.',
+        aliases: [],
+      },
     },
 
     'Cool / Modal': {
@@ -724,6 +874,326 @@ export const jazzAcoustics: Pillar = {
 
       'Claude Thornhill': {
         bio: 'Bandleader whose orchestral cool jazz arrangements emphasized lush, modal harmonies and subtle dynamics.',
+        aliases: [],
+      },
+
+      'John Taylor': {
+        bio: 'British pianist whose ECM recordings showcase refined, modal textures and a serene cool‑jazz approach.',
+        aliases: [],
+      },
+
+      'Wolfgang Muthspiel': {
+        bio: 'Austrian guitarist whose airy tone and modal compositions exemplify contemporary cool jazz on ECM.',
+        aliases: [],
+      },
+
+      'Don Friedman': {
+        bio: 'Pianist noted for subtle, lyrical improvisations and modal explorations within a cool‑jazz framework.',
+        aliases: [],
+      },
+
+      'Tigran Hamasyan': {
+        bio: 'Armenian pianist blending modal jazz with folk textures, creating introspective, atmospheric works on ECM and Nonesuch.',
+        aliases: [],
+      },
+
+      'Bobby Jaspar': {
+        bio: 'Belgian tenor saxophonist whose lyrical, laid‑back approach made him a key figure in 1950s cool jazz.',
+        aliases: ['Robert Jaspar'],
+      },
+
+      'Franco D\'Andrea': {
+        bio: 'Italian pianist celebrated for lyrical, spacious ECM recordings that explore modal harmony and cool ambience.',
+        aliases: ['Franco D Andrea'],
+      },
+
+      'Palle Mikkelborg': {
+        bio: 'Danish trumpeter known for ethereal, modal textures and his iconic atmospheric work on ECM.',
+        aliases: [],
+      },
+
+      'Eddie Gomez': {
+        bio: 'Bassist whose melodic, modal approach with Bill Evans and beyond epitomizes cool, introspective jazz.',
+        aliases: ['Edward Gomez'],
+      },
+
+      'June Christy': {
+        bio: 'Vocalist whose breezy, cool delivery and sophisticated arrangements made her a leading figure of the 1950s cool scene.',
+        aliases: [],
+      },
+
+      'Kurt Rosenwinkel': {
+        bio: 'Guitarist blending lyrical, ambient textures with modal harmony, creating spacious cool‑jazz soundscapes.',
+        aliases: [],
+      },
+
+      'Gary McFarland': {
+        bio: 'Composer/arranger whose breezy, lyrical orchestrations for jazz ensembles exemplify the cool, modal aesthetic of the 1960s.',
+        aliases: [],
+      },
+
+      'Lars Gullin': {
+        bio: 'Swedish baritone saxophonist whose cool, Nordic tone and modal harmonic language made him a key figure in 1950s European cool jazz.',
+        aliases: ['Lars Erik Gullin'],
+      },
+
+      'Karin Krog': {
+        bio: 'Norwegian vocalist renowned for ethereal, improvisational singing on ECM, merging cool jazz timbres with modal, avant‑garde textures.',
+        aliases: [],
+      },
+
+      'Steve Swallow': {
+        bio: 'Bass guitarist and composer noted for his melodic, lyrical lines and modal compositions that anchor many cool, ECM‑style ensembles.',
+        aliases: [],
+      },
+
+      'Jimmy Rowles': {
+        bio: 'Pianist known for his delicate touch and modal voicings, providing understated, late‑night accompaniment for cool jazz vocalists and instrumentalists.',
+        aliases: [],
+      },
+
+      'Jan Lundgren': {
+        bio: 'Swedish pianist on ECM delivering delicate, modal textures with a calm, reflective vibe.',
+        aliases: [],
+      },
+
+      'Gary Peacock': {
+        bio: 'Bassist celebrated for understated, modal ECM collaborations that emphasize spacious, introspective interplay.',
+        aliases: [],
+      },
+
+      'Bill Charlap': {
+        bio: 'Pianist renowned for elegant, lyrical interpretations of modal standards with subtle, low‑energy swing.',
+        aliases: [],
+      },
+
+      'Gábor Szabó': {
+        bio: 'Hungarian guitarist known for modal, atmospheric fusion of jazz with Eastern European folk and psychedelic textures.',
+        aliases: ['Gabor Szabo'],
+      },
+
+      'Paul Horn': {
+        bio: 'Flutist and composer pioneering cool, ambient jazz with modal improvisations, especially on his ECM‑era works.',
+        aliases: [],
+      },
+
+      'Dave Liebman': {
+        bio: 'Saxophonist and composer exploring modal frameworks since the 1970s, merging lyricism with expansive textures.',
+        aliases: [],
+      },
+
+      'Marcin Wasilewski': {
+        bio: 'Polish pianist leading a contemplative trio praised for spacious, ECM‑style modal jazz on albums like \'Ukraina\'.',
+        aliases: [],
+      },
+
+      'Jon Balke': {
+        bio: 'Norwegian pianist/composer merging Scandinavian lyricism with modal textures, notable on ECM releases like \'Silent Worship\'.',
+        aliases: [],
+      },
+
+      'Lars Danielsson': {
+        bio: 'Swedish bassist/composer whose lyrical, spacious playing defines cool ECM aesthetics on albums like \'Liberetto\'.',
+        aliases: [],
+      },
+
+      'David Friesen': {
+        bio: 'Acoustic bassist renowned for introspective, melodic approach, contributing to cool, modal settings with artists like Pat Metheny.',
+        aliases: [],
+      },
+
+      'Eddie Harris': {
+        bio: 'Saxophonist who blended modal harmonies with soulful grooves, exemplified by the cool‑toned classic ‘Exodus to Jazz’.',
+        aliases: [],
+      },
+
+      'Michel Petrucciani': {
+        bio: 'Virtuosic pianist whose lyrical, understated approach on albums like ‘Michel Petrucciani’ embodies cool, introspective modal jazz.',
+        aliases: [],
+      },
+
+      'Stefano Bollani': {
+        bio: 'Italian pianist celebrated for poetic, minimalist improvisations that merge cool jazz ambience with subtle modal shifts.',
+        aliases: [],
+      },
+
+      'John Pizzarelli': {
+        bio: 'Guitarist and vocalist known for smooth, swing‑laden cool jazz standards delivered with relaxed, modal phrasing.',
+        aliases: [],
+      },
+
+      'Lester Young': {
+        bio: 'Tenor sax legend whose relaxed, airy sound laid foundations for cool jazz and modal improvisation in the 1940s and ’50s.',
+        aliases: ['Lester "Prez" Young'],
+      },
+
+      'Mike Nock': {
+        bio: 'Australian‑New Zealand pianist known for his reflective, modal ECM releases like "The Opal Heart" that embody cool, contemplative moods.',
+        aliases: [],
+      },
+
+      'Bob Dorough': {
+        bio: 'Vocalist and pianist whose witty, laid‑back songs and understated arrangements exemplify cool jazz’s lyrical intimacy.',
+        aliases: [],
+      },
+
+      'Andy Sheppard': {
+        bio: 'British saxophonist known for spacious, contemplative compositions that echo cool‑jazz and modal traditions.',
+        aliases: [],
+      },
+
+      'George Cables': {
+        bio: 'Pianist whose elegant, modal‑inflected playing on *In My Soul* exemplifies cool, lyrical jazz.',
+        aliases: [],
+      },
+
+      'Joe Lovano': {
+        bio: 'Tenor saxophonist whose relaxed, modal explorations on *Quartets: Live at the Village Vanguard* embody cool‑jazz sensibility.',
+        aliases: [],
+      },
+
+      'Stan Gett': {
+        bio: 'Smooth tenor saxophonist whose lyrical tone and relaxed phrasing epitomize West Coast cool jazz.',
+        aliases: ['Stan Getz', 'Stanley Getz'],
+      },
+
+      'Joachim Kühn': {
+        bio: 'German pianist known for lyrical, ECM‑style albums that fuse cool jazz tonality with modal exploration.',
+        aliases: ['Joachim Kuhn'],
+      },
+
+      'Niels‑Henning Ørsted Pedersen': {
+        bio: 'Danish bassist whose warm tone and understated swing anchor many cool‑jazz sessions.',
+        aliases: ['NHØP', 'Niels-Henning Oersted Pedersen'],
+      },
+
+      'Ryo Fukui': {
+        bio: 'Japanese pianist known for introspective, modal trio work exemplified by the cult classic \'Scenery\'.',
+        aliases: [],
+      },
+
+      'George Mraz': {
+        bio: 'Czech‑born bassist renowned for his warm, melodic support in cool‑jazz settings with Oscar Peterson and Paul Motian.',
+        aliases: ['Jiri Mraz'],
+      },
+
+      'Gordon Beck': {
+        bio: 'British pianist noted for his lyrical, ECM‑style cool jazz work, blending modal harmony with subtle dynamics.',
+        aliases: [],
+      },
+
+      'Esbjörn Svensson': {
+        bio: 'Swedish pianist whose trio created spacious, lyrical modern cool jazz with subtle electronic textures.',
+        aliases: ['Esbjorn Svensson'],
+      },
+
+      'Nils Petter Molvær': {
+        bio: 'Norwegian trumpeter blending ambient soundscapes with modal jazz improvisation.',
+        aliases: ['Nils Petter Molvaer'],
+      },
+
+      'John Scofield': {
+        bio: 'Guitarist whose lyrical, understated albums explore modal textures within a cool‑jazz framework.',
+        aliases: [],
+      },
+
+      'Erik Truffaz': {
+        bio: 'French trumpeter merging cool, modal ECM sounds with subtle electronic hues.',
+        aliases: [],
+      },
+
+      'Chris Potter': {
+        bio: 'Saxophonist whose lyrical, restrained approach highlights modern cool‑modal sensibilities.',
+        aliases: [],
+      },
+
+      'Ethan Iverson': {
+        bio: 'Pianist/composer whose understated, melodic style aligns with contemporary cool jazz.',
+        aliases: [],
+      },
+
+      'Warne Marsh': {
+        bio: 'Tenor saxophonist renowned for linear, cool improvisations within the Tristano/Marsh modal framework.',
+        aliases: [],
+      },
+
+      'Bob Cooper': {
+        bio: 'Tenor saxophonist and arranger whose mellow tone shaped the cool West Coast sound of the 1950s.',
+        aliases: [],
+      },
+
+      'Denny Zeitlin': {
+        bio: 'Pianist/composer whose spacious, modal compositions and understated improvisations define modern cool jazz.',
+        aliases: ['Dennis Zeitlin'],
+      },
+
+      'Arve Henriksen': {
+        bio: 'Norwegian trumpeter whose breathy, ambient tone and modal harmonies embody cool, spacious jazz on ECM.',
+        aliases: [],
+      },
+
+      'Jacky Terrasson': {
+        bio: 'Pianist known for lyrical, understated interpretations that blend cool jazz subtlety with modal nuance.',
+        aliases: [],
+      },
+
+      'Scott Hamilton': {
+        bio: 'Tenor saxophonist whose warm tone and relaxed swing embody the lyrical, low‑energy aesthetics of cool jazz.',
+        aliases: [],
+      },
+
+      'Aaron Parks': {
+        bio: 'Pianist on ECM delivering introspective, lyrical improvisations rooted in modal harmony.',
+        aliases: [],
+      },
+
+      'Mark Feldman': {
+        bio: 'Violinist whose ECM releases feature delicate, modal improvisations with a calm, nocturnal mood.',
+        aliases: [],
+      },
+
+      'Jack DeJohnette': {
+        bio: 'Drummer and bandleader whose understated, spacious approach on many ECM sessions embodies cool, modal jazz.',
+        aliases: [],
+      },
+
+      'Red Mitchell': {
+        bio: 'Bassist whose resonant, melodic approach underpins cool jazz settings and modal dialogues, notably on “One Long String”.',
+        aliases: ['Robert Mitchell'],
+      },
+
+      'Geri Allen': {
+        bio: 'Pianist merging lyrical improvisation with modal harmonies, exemplified by her introspective work on “The Life of a Song”.',
+        aliases: ['Geraldine Allen'],
+      },
+
+      'Sadao Watanabe': {
+        bio: 'Alto saxophonist whose ECM‑style recordings showcase delicate, modal improvisations and a relaxed, lyrical ambience.',
+        aliases: [],
+      },
+
+      'Mike Mainieri': {
+        bio: 'Vibraphonist whose airy, groove‑light projects emphasize modal textures and spacious, low‑energy jazz explorations.',
+        aliases: [],
+      },
+
+      'John Pål Inderberg': {
+        bio: 'Norwegian baritone saxophonist whose spacious, melodic tone defines modern European cool and modal jazz.',
+        aliases: ['John Pal Inderberg'],
+      },
+
+      'Mats Eilertsen': {
+        bio: 'Bassist and composer on ECM releases, creating spacious, contemplative soundscapes rooted in cool and modal aesthetics.',
+        aliases: [],
+      },
+
+      'Stanley Cowell': {
+        bio: 'Pianist known for reflective, modal compositions and elegant touch within the cool jazz tradition.',
+        aliases: [],
+      },
+
+      'Chico Hamilton': {
+        bio: 'Chico Hamilton, West Coast drummer and bandleader, pioneered cool, spacious jazz with modal textures in groups like the Chico Hamilton Quintet.',
         aliases: [],
       },
     },
