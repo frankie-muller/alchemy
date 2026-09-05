@@ -686,6 +686,46 @@ export const jazzAcoustics: Pillar = {
         bio: 'Tenor saxophonist whose intricate, modal voicings and cool tone place him squarely in modern cool jazz.',
         aliases: [],
       },
+
+      'John Lewis': {
+        bio: 'Pianist and musical director of the Modern Jazz Quartet, shaping the understated elegance of cool and modal jazz.',
+        aliases: [],
+      },
+
+      'Terje Rypdal': {
+        bio: 'Norwegian guitarist whose ethereal, modal soundscapes epitomize ECM’s introspective cool jazz aesthetic.',
+        aliases: [],
+      },
+
+      'Arild Andersen': {
+        bio: 'Bassist leading melodic, spacious ECM ensembles that explore modal harmonies with cool restraint.',
+        aliases: [],
+      },
+
+      'John Surman': {
+        bio: 'Saxophonist/clarinetist crafting minimalist, modal textures that embody the cool, atmospheric ECM tradition.',
+        aliases: [],
+      },
+
+      'Anouar Brahem': {
+        bio: 'Oud virtuoso blending modal Middle Eastern motifs with spacious, cool jazz improvisations.',
+        aliases: [],
+      },
+
+      'Paolo Fresu': {
+        bio: 'Italian trumpeter delivering lyrical, modal lines within cool, ECM-inspired settings.',
+        aliases: [],
+      },
+
+      'Dave Pike': {
+        bio: 'Vibraphonist known for airy, modal explorations that align with cool jazz’s contemplative mood.',
+        aliases: ['David Pike'],
+      },
+
+      'Claude Thornhill': {
+        bio: 'Bandleader whose orchestral cool jazz arrangements emphasized lush, modal harmonies and subtle dynamics.',
+        aliases: [],
+      },
     },
 
     'Free / Avant-Garde': {

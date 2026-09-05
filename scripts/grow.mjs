@@ -68,7 +68,7 @@ const PROVIDERS = {
         'x-api-key': key,
         'anthropic-version': '2023-06-01',
       },
-      body: { model, max_tokens: 4096, messages: [{ role: 'user', content: prompt }] },
+      body: { model, max_tokens: 8192, messages: [{ role: 'user', content: prompt }] },
     }),
     extract: (json) => json?.content?.[0]?.text,
   },
@@ -77,7 +77,7 @@ const PROVIDERS = {
     request: (model, prompt, key) => ({
       url: 'https://api.openai.com/v1/chat/completions',
       headers: { 'content-type': 'application/json', authorization: `Bearer ${key}` },
-      body: { model, messages: [{ role: 'user', content: prompt }] },
+      body: { model, max_tokens: 8192, messages: [{ role: 'user', content: prompt }] },
     }),
     extract: (json) => json?.choices?.[0]?.message?.content,
   },
@@ -86,7 +86,7 @@ const PROVIDERS = {
     request: (model, prompt, key) => ({
       url: `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`,
       headers: { 'content-type': 'application/json', 'x-goog-api-key': key },
-      body: { contents: [{ parts: [{ text: prompt }] }] },
+      body: { contents: [{ parts: [{ text: prompt }] }], generationConfig: { maxOutputTokens: 8192 } },
     }),
     extract: (json) => json?.candidates?.[0]?.content?.parts?.[0]?.text,
   },
@@ -101,7 +101,7 @@ const PROVIDERS = {
     request: (model, prompt, key) => ({
       url: 'https://api.x.ai/v1/chat/completions',
       headers: { 'content-type': 'application/json', authorization: `Bearer ${key}` },
-      body: { model, messages: [{ role: 'user', content: prompt }] },
+      body: { model, max_tokens: 8192, messages: [{ role: 'user', content: prompt }] },
     }),
     extract: (json) => json?.choices?.[0]?.message?.content,
   },
@@ -114,7 +114,7 @@ const PROVIDERS = {
       return {
         url,
         headers: { 'content-type': 'application/json', authorization: `Bearer ${key}` },
-        body: { model, messages: [{ role: 'user', content: prompt }] },
+        body: { model, max_tokens: 8192, messages: [{ role: 'user', content: prompt }] },
       };
     },
     extract: (json) => json?.choices?.[0]?.message?.content,
