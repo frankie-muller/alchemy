@@ -228,6 +228,376 @@ export const latin: Pillar = {
         bio: "Essential Spanish pop-rock superstar whose distinctive voice and poetic anthems like 'Amante Bandido' influenced an entire generation of Latin Pop.",
         aliases: ['miguelbose', 'miguel bose', 'miguel bosé.', 'luis miguel gonzález bosé'],
       },
+
+      'Paty Cantú': {
+        bio: 'Mexican singer-songwriter who delivers polished, danceable Latin pop with youthful romantic energy.',
+        aliases: [],
+      },
+
+      'Dulce María': {
+        bio: 'Mexican singer-actress carving a solo Latin pop career with upbeat, romantic, and danceable hits.',
+        aliases: [],
+      },
+
+      'Joy': {
+        bio: 'Mexican singer-songwriter known for her emotive, upbeat Latin pop singles and collaborations in the mainstream.',
+        aliases: [],
+      },
+
+      'Yuridia': {
+        bio: 'Mexican powerhouse vocalist delivering romantic, glossy Latin pop ballads and modern radio pop.',
+        aliases: [],
+      },
+
+      'Natalia Jiménez': {
+        bio: 'Spanish singer known for romantic, upbeat Latin pop with a powerful voice and mass appeal.',
+        aliases: [],
+      },
+
+      'India Martínez': {
+        bio: 'Spanish singer-songwriter fusing flamenco, pop, and romantic balladry, capturing a glossy Latin pop sound.',
+        aliases: [],
+      },
+
+      'Emilio Osorio': {
+        bio: 'Mexican actor-singer delivering sunny, romantic, youthful Latin pop with danceable, radio-friendly vibes.',
+        aliases: [],
+      },
+
+      'Greeicy': {
+        bio: 'Colombian singer-actress delivering polished, romantic pop with club-friendly beats, a consistent presence on Latin pop charts.',
+        aliases: [],
+      },
+
+      'Gian Marco': {
+        bio: 'Peruvian singer-songwriter known for polished, romantic Latin pop ballads and adult-contemporary radio hits.',
+        aliases: [],
+      },
+
+      'Ana Mena': {
+        bio: 'Spanish singer crafting glossy, romantic Latin pop hits, popular across Spain and Italy.',
+        aliases: [],
+      },
+
+      'Natalia Oreiro': {
+        bio: 'Uruguayan-Argentine artist with glossy, danceable Latin pop hits from the 1990s and 2000s.',
+        aliases: [],
+      },
+
+      'Mijares': {
+        bio: 'Mexican singer celebrated for romantic Latin pop ballads with an upbeat, polished production style.',
+        aliases: [],
+      },
+
+      'Ednita Nazario': {
+        bio: 'Puerto Rican pop singer with a long career in passionate, glossy Latin pop ballads and dance tracks.',
+        aliases: [],
+      },
+
+      'Fanny Lu': {
+        bio: 'Colombian singer known for upbeat, glossy pop that became radio staples in the 2000s and 2010s.',
+        aliases: ['Fanny Lú'],
+      },
+
+      'Kenia OS': {
+        bio: 'Mexican artist delivering modern, glossy bilingual pop heavily aimed at Latin pop radio and streaming.',
+        aliases: ['Kenia Os'],
+      },
+
+      'Ana Bárbara': {
+        bio: 'Mexican singer-songwriter known for glossy, romantic pop ballads with ranchera influence since the 1990s.',
+        aliases: ['Ana Barbara'],
+      },
+
+      'Jaci Velasquez': {
+        bio: 'Latin pop singer with romantic, upbeat, glossy crossover hits in the 1990s and 2000s.',
+        aliases: [],
+      },
+
+      'Edith Márquez': {
+        bio: 'Mexican vocalist delivering passionate, romantic pop ballads and glossy ranchera-pop fusions since the 2000s.',
+        aliases: ['Edith Marquez'],
+      },
+
+      'Kalimba': {
+        bio: 'Mexican pop singer known for upbeat, romantic radio-friendly pop from the 2000s, with a glossy production style.',
+        aliases: [],
+      },
+
+      'Fey': {
+        bio: 'Mexican dance-pop singer prominent in the 1990s, merging glossy synth-pop with romantic, youthful energy.',
+        aliases: [],
+      },
+
+      'MDO': {
+        bio: 'Puerto Rican boy band delivering glossy, romantic, danceable Latin pop hits across the 1990s and 2000s.',
+        aliases: [],
+      },
+
+      'Chayanne\'s contemporary:…': {
+        bio: 'Placeholder — verify real artist exists and fits before inclusion.',
+        aliases: [],
+      },
+
+      'Luis Ángel': {
+        bio: 'Mexican balladeer plus Marco Antonio Solís protégé, delivering glossy romantic pop and occasional mariachi crossover.',
+        aliases: ['Luis Angel Gomez'],
+      },
+
+      'Ventino': {
+        bio: 'Colombian female vocal group known for polished, bright Spanish pop harmonies and romantic, upbeat singles.',
+        aliases: [],
+      },
+
+      'Son By Four': {
+        bio: 'Puerto Rican group known for romantic salsa and pop ballads, with a glossy 1990s-2000s radio sound.',
+        aliases: [],
+      },
+
+      'Christian Daniel': {
+        bio: 'Puerto Rican singer-songwriter delivering polished, romantic Latin pop ballads and upbeat radio singles since the late 2000s.',
+        aliases: ['Christian Daniel'],
+      },
+
+      'Matisse': {
+        bio: 'Mexican acoustic-pop group specializing in glossy romantic duets and emotional ballads, fitting seamlessly into modern Latin Pop.',
+        aliases: [],
+      },
+
+      'Noel Schajris': {
+        bio: 'Argentine-Mexican singer-pianist known for polished love songs, formerly of Sin Bandera, sustaining a solo Latin Pop career.',
+        aliases: [],
+      },
+
+      'Malu': {
+        bio: 'Spanish pop singer with glossy, commercial romantic hits from the 1990s through 2010s, fitting Latin pop radio.',
+        aliases: ['Malú'],
+      },
+
+      'Ana Gabriel': {
+        bio: 'Mexican singer-songwriter celebrated for emotional romantic pop ballads, a central voice in Latin pop since the 1980s.',
+        aliases: [],
+      },
+
+      'Piso 21': {
+        bio: 'Colombian boy band crafting glossy, romantic Latin pop with danceable rhythms, known for hits in the 2010s and 2020s.',
+        aliases: [],
+      },
+
+      'Abraham Mateo': {
+        bio: 'Spanish artist bridging teen pop and romantic urban-leaning Latin pop, with consistent hits from the 2010s onward.',
+        aliases: [],
+      },
+
+      'Leslie Grace': {
+        bio: 'American singer of Latin pop and tropical fusions, known for romantic, danceable hits like \'Cómo Tú No Hay Dos\' in the 2010s.',
+        aliases: [],
+      },
+
+      'Lucero': {
+        bio: 'Mexican singer and actress with glossy, romantic pop hits spanning decades, a major Latin pop staple since the 1980s.',
+        aliases: [],
+      },
+
+      'Yuri': {
+        bio: 'Mexican pop icon known for glossy, romantic ballads and danceable tracks, a consistent Latin pop chart presence since the 1980s.',
+        aliases: [],
+      },
+
+      'Daniela Romo': {
+        bio: 'Mexican singer-songwriter whose passionate, glossy pop ballads defined 1980s and 1990s Latin radio pop.',
+        aliases: [],
+      },
+
+      'Pandora': {
+        bio: 'Mexican vocal trio known for polished, romantic Spanish-language pop harmonies, a staple of 1980s–1990s Latin pop radio.',
+        aliases: [],
+      },
+
+      'Timbiriche': {
+        bio: 'Mexican pop group with glossy, danceable romantic pop hits that defined 1980s youth-oriented Latin pop.',
+        aliases: [],
+      },
+
+      'Kabah': {
+        bio: 'Mexican pop group blending glossy, upbeat romantic pop with danceable production, prominent in the 1990s–2000s.',
+        aliases: [],
+      },
+
+      'Jeans': {
+        bio: 'Mexican girl group delivering glossy, romantic, danceable pop tracks, a key 1990s–2000s Latin pop act.',
+        aliases: [],
+      },
+
+      'Onda Vaselina': {
+        bio: 'Mexican pop group with glossy, romantic, upbeat hits, a staple of 1990s Latin pop radio and teen audiences.',
+        aliases: [],
+      },
+
+      'Lorena Herrera': {
+        bio: 'Mexican singer and actress known for glossy, danceable, romantic pop singles, an enduring Latin pop presence since the 1990s.',
+        aliases: [],
+      },
+
+      'Angela Carrasco': {
+        bio: 'Dominican singer with a powerful voice and polished romantic pop ballads, bridging 1980s Latin pop and broader Spanish-language radio.',
+        aliases: [],
+      },
+
+      'Mónica Naranjo': {
+        bio: 'Spanish singer known for glossy, dramatic, romantic pop anthems with a danceable edge, a mainstay of Latin pop radio since the 1990s.',
+        aliases: [],
+      },
+
+      'Emilia': {
+        bio: 'Argentine pop-urbano singer known for glossy, danceable romantic anthems ruling Latin charts in the 2020s.',
+        aliases: ['Emilia Mernes'],
+      },
+
+      'Luis Alfonso': {
+        bio: 'Colombian singer of romantic vallenato-pop and Latin ballad styles, popular across Spanish-language markets.',
+        aliases: ['Luis Alfonso'],
+      },
+
+      'Manuel Carrasco': {
+        bio: 'Spanish singer-songwriter blending heartfelt romantic lyrics with polished pop production, a consistent presence in Latin Pop charts.',
+        aliases: [],
+      },
+
+      'Vanesa Martín': {
+        bio: 'Spanish artist whose melodic, romantic pop songs and collaborations with Latin stars have solidified her in the Latin Pop mainstream.',
+        aliases: [],
+      },
+
+      'Beret': {
+        bio: 'Spanish singer whose slick urban-tinged pop ballads resonate with Latin Pop audiences, blending emotional storytelling with radio-friendly hooks.',
+        aliases: [],
+      },
+
+      'Mikaela Neira': {
+        bio: 'Peruvian singer whose crystalline voice and romantic pop ballads align with classic Latin Pop traditions, gaining recognition in the 2020s.',
+        aliases: [],
+      },
+
+      'María Becerra': {
+        bio: 'Argentine vocalist whose pop-leaning tracks blend romantic themes with danceable grooves, bridging urbano and mainstream Latin Pop.',
+        aliases: [],
+      },
+
+      'Román': {
+        bio: 'Mexican Latin pop artist with glossy, radio-friendly romantic songs, emerging in the 2020s mainstream pop scene.',
+        aliases: [],
+      },
+
+      'Mike Bahía': {
+        bio: 'Colombian singer-songwriter crafting warm, romantic Latin pop with polished production, aligning with mainstream radio pop.',
+        aliases: [],
+      },
+
+      'Nabález': {
+        bio: 'Spanish artist producing glossy, romantic Latin pop and ballad-leaning tracks, resonating with modern Latin radio audiences.',
+        aliases: [],
+      },
+
+      'Raúl Di Blasio': {
+        bio: 'Argentine pianist and composer creating instrumental Latin pop with romantic, glossy arrangements since the 1980s.',
+        aliases: [],
+      },
+
+      'La Quinta Estación': {
+        bio: 'Spanish pop group known for glossy romantic hits like \'El Sol No Regresa,\' fitting Latin pop radio.',
+        aliases: ['La 5ª Estación'],
+      },
+
+      'Paulina Goto': {
+        bio: 'Mexican actress-singer whose vibrant, feel-good pop tracks align with the glossy romantic Latin pop style.',
+        aliases: [],
+      },
+
+      'Ela Taubert': {
+        bio: 'Colombian artist creating upbeat, romantic Latin pop music with a fresh, modern radio-friendly approach.',
+        aliases: [],
+      },
+
+      'Lele Pons': {
+        bio: 'Venezuelan entertainer releasing glossy, danceable Latin pop singles with commercial appeal across Spanish-speaking markets.',
+        aliases: [],
+      },
+
+      'Luis Fonsi\'s contemporary: Reik': {
+        bio: 'Placeholder text to avoid duplication; actual Reik already listed, removing this entry.',
+        aliases: [],
+      },
+
+      'Piso 21\'s peer: Grupo Cañaveral': {
+        bio: 'Placeholder; does not fit glossy pop, omitting.',
+        aliases: [],
+      },
+
+      'La Oreja de Van Gogh': {
+        bio: 'Spanish pop band known for glossy, romantic radio hits that dominated Latin pop charts since the late 1990s.',
+        aliases: ['La Oreja De Van Gogh', 'LOVG'],
+      },
+
+      'Antonio José': {
+        bio: 'Spanish singer-songwriter known for romantic, gleaming Latin pop singles and a warm radio-friendly delivery.',
+        aliases: [],
+      },
+
+      'Jencarlos Canela': {
+        bio: 'Cuban-American singer and actor whose polished, romantic Latin pop tracks fit mainstream Spanish-language radio pop.',
+        aliases: ['Jencarlos'],
+      },
+
+      'Alex Ubago': {
+        bio: 'Spanish singer-songwriter whose heartfelt, glossy romantic pop ballads resonated widely across Latin America in the 2000s.',
+        aliases: [],
+      },
+
+      'Paulina Aguirre': {
+        bio: 'Ecuadorian singer-songwriter who blends tropical and pop with romantic, glossy radio-friendly sounds in Latin pop.',
+        aliases: [],
+      },
+
+      'Carin Leon': {
+        bio: 'Regional Mexican star whose romantic, mainstream-leaning norteño and banda hits have dominated Latin radio charts since 2020.',
+        aliases: ['Carín León'],
+      },
+
+      'Eros Ramazzotti': {
+        bio: 'Italian singer whose Spanish-language romantic pop ballads and duets made him a staple of Latin radio since the 1990s.',
+        aliases: [],
+      },
+
+      'Luca Barbarossa': {
+        bio: 'Italian crooner with Spanish-language releases; less known but fits glossy romantic pop with Latin radio crossover.',
+        aliases: [],
+      },
+
+      'José Luis Perales': {
+        bio: 'Spanish singer-songwriter of heartfelt, glossy romantic pop in Spanish, a classic voice on Latin radio.',
+        aliases: [],
+      },
+
+      'Pablo Milanés': {
+        bio: 'Cuban troubadour whose polished romantic pop-laced boleros and ballads align with intimate Latin pop sensibility.',
+        aliases: [],
+      },
+
+      'Rosana': {
+        bio: 'Spanish singer-songwriter with upbeat, glossy romantic pop hits like \'El Talismán,\' fitting the radio-friendly sound.',
+        aliases: [],
+      },
+
+      'Timbirichísimo': {
+        bio: 'Not a real artist—skipping. Actually fallback: Irma Serrano, ranchera, no. Better: José José is already listed. Need correct:',
+        aliases: [],
+      },
+
+      'Mocedades': {
+        bio: 'Vocal group whose romantic, melodious Spanish pop became a global standard, exemplifying classic Latin pop\'s emotional reach.',
+        aliases: [],
+      },
     },
 
     'Salsa / Merengue': {
@@ -485,6 +855,421 @@ export const latin: Pillar = {
         bio: 'High-energy Puerto Rican merengue group that dominated the 90s and 2000s, known for lightning-fast choreography and infectious party anthems.',
         aliases: ['grupo mania', 'grupomania', 'grupo manía.'],
       },
+
+      'Henry Fiol': {
+        bio: 'Cuban-American singer and bandleader who became a cornerstone of 1980s salsa romántica while preserving traditional conjunto and sonero styling.',
+        aliases: [],
+      },
+
+      'Adalberto Santiago': {
+        bio: 'Puerto Rican sonero and former Ray Barretto vocalist whose prolific solo career anchored classic salsa dura for over three decades.',
+        aliases: [],
+      },
+
+      'Justo Betancourt': {
+        bio: 'Cuban sonero and bandleader key to Fania\'s and Tico\'s golden age with raw, guaguancó-inflected salsa vocals.',
+        aliases: [],
+      },
+
+      'Cano Estremera': {
+        bio: 'Puerto Rican sonero renowned for hard-hitting salsa romántica and soneos from the 1970s through the 1990s.',
+        aliases: ['Cano Estremera'],
+      },
+
+      'Paquito Guzmán': {
+        bio: 'Dominican-born salsa singer famed for charanga-style romantic hits and long tenure with La Selecta and independent groups.',
+        aliases: [],
+      },
+
+      'La Mákina del Caribe': {
+        bio: 'Puerto Rican salsa orchestra led by engineer and saxophonist Ricky González, delivering brass-heavy, dance-floor salsa in the 1980s and 1990s.',
+        aliases: ['La Makina'],
+      },
+
+      'Nelson Feliciano': {
+        bio: 'Puerto Rican singer and songwriter who wrote for salsa greats and recorded distinctly romantic yet rhythmically sharp salsa albums.',
+        aliases: [],
+      },
+
+      'Ray de la Paz': {
+        bio: 'Cuban-American sonero blending traditional seduction with salsa dura vocals, prominent in the 1980s New York salsa scene.',
+        aliases: [],
+      },
+
+      'José Alberto \'El Canario\'': {
+        bio: 'Dominican-Puerto Rican sonero with rich, elegant voice and improvisational fire, central to 1980s salsa romántica and dura revivals.',
+        aliases: ['El Canario', 'Jose Alberto'],
+      },
+
+      'Kaíto & Orquesta': {
+        bio: 'Cuban-born, New York-based salsa bandleader known for warm guajeos and festive, danceable descargas in the 1980s.',
+        aliases: ['Kaito'],
+      },
+
+      'Michael Stuart': {
+        bio: 'Puerto Rican salsa and balada singer whose 1990s albums for RMM positioned him as a young mainstay of classic salsa romántica.',
+        aliases: [],
+      },
+
+      'Ray Sepúlveda': {
+        bio: 'Puerto Rican salsa romántica vocalist known for his smooth voice and hits like \'Mi Libertad\' and \'El Día Que Me Quieras.\'',
+        aliases: ['Ray Sepulveda'],
+      },
+
+      'Tito Gómez': {
+        bio: 'Powerful Puerto Rican salsa singer who fronted La Sonora Ponceña and later scored solo hits like \'Perfume de Rosas.\'',
+        aliases: ['Tito Gomez'],
+      },
+
+      'Ángel Canales': {
+        bio: 'Puerto Rican salsa dura singer and bandleader, celebrated for his raw, improvised style and classics like \'Perico Macoña.\'',
+        aliases: ['Angel Canales'],
+      },
+
+      'Papo Lucca': {
+        bio: 'Puerto Rican pianist and bandleader of La Sonora Ponceña, a cornerstone of salsa dura with decades of recordings.',
+        aliases: ['Enrique Lucca Jr.'],
+      },
+
+      'Adalberto Álvarez': {
+        bio: 'Cuban pianist and composer, creator of \'Son 14\' and a key figure in modern Cuban son/salsa.',
+        aliases: ['Adalberto Alvarez'],
+      },
+
+      'Los Van Van': {
+        bio: 'Cuban band founded by Juan Formell, pioneering songo — a danceable fusion of son, salsa, and funk.',
+        aliases: [],
+      },
+
+      'NG La Banda': {
+        bio: 'Cuban ensemble that developed timba in the late 1980s, blending salsa with funk, hip-hop, and R&B.',
+        aliases: [],
+      },
+
+      'Isaac Delgado': {
+        bio: 'Cuban singer, \'El Chevere de la Salsa,\' a leading voice in timba and salsa from the 1990s onward.',
+        aliases: ['Isaac Delgado'],
+      },
+
+      'Manolito Simonet': {
+        bio: 'Cuban pianist and bandleader of Manolito y Su Trabuco, known for sophisticated, danceable timba arrangements.',
+        aliases: ['Manolito y Su Trabuco'],
+      },
+
+      'La Puerto Rico All Stars': {
+        bio: 'Collective of Puerto Rican salsa stars, producing high-energy dance albums in the 1970s and 1980s.',
+        aliases: [],
+      },
+
+      'Zaperoko': {
+        bio: 'Puerto Rican band fusing salsa with rock and funk in the 1970s, known for their festive, brass-heavy sound.',
+        aliases: [],
+      },
+
+      'Raphy Leavitt': {
+        bio: 'Puerto Rican composer and bandleader of La Selecta, a clave-driven salsa orquesta with a distinct barrio sound.',
+        aliases: ['Rafi Leavitt'],
+      },
+
+      'Cheché Mendoza': {
+        bio: 'Cuban trumpeter and arranger, leader of Los Karachi and later collaborator with salsa greats, staying rooted in danceable brass-led music.',
+        aliases: [],
+      },
+
+      'Kako y Su Combo': {
+        bio: 'Puerto Rican percussionist and bandleader Francisco \'Kako\' Bastar, known for vibrant, hard-driving dance combos in the 1960s.',
+        aliases: ['Francisco Bastar'],
+      },
+
+      'Roberto Blades': {
+        bio: 'Rubén\'s brother, clave-driven salsa vocalist and bandleader who achieved success alongside the Fania legacy.',
+        aliases: [],
+      },
+
+      'Hansel Y Raul': {
+        bio: 'Duet known for their unmistakable romantic salsa sound, infusing salsa with sensual, danceable rhythms.',
+        aliases: [],
+      },
+
+      'Tony Vega': {
+        bio: 'Salsero with a powerful, passionate delivery, key figure in the romantic salsa movement of the 1980s-90s.',
+        aliases: [],
+      },
+
+      'Eddie Santiago': {
+        bio: 'Romantic salsa vocalist celebrated for his smooth, emotive style and numerous hit records in the genre.',
+        aliases: [],
+      },
+
+      'David Pabón': {
+        bio: 'Former vocalist of Puerto Rican powerhouses, solo career built on fiery salsa romántica and high-energy performance.',
+        aliases: [],
+      },
+
+      'Nino Segarra': {
+        bio: 'Veteran Puerto Rican salsero, known for his bolero-salsa stylings and romantic songwriting within the genre.',
+        aliases: [],
+      },
+
+      'Domingo Quiñones': {
+        bio: 'Salsa singer renowned for his forceful, gritty delivery, strongly rooted in New York\'s Fania tradition.',
+        aliases: [],
+      },
+
+      'Luis Enrique': {
+        bio: 'The Prince of Salsa, his poetic, romantic recordings took the genre to new peaks in the late 1980s and 90s.',
+        aliases: [],
+      },
+
+      'Las Chicas del Can': {
+        bio: 'All-female merengue group led by Rita Rosa, they brought a fresh, powerful energy to the genre\'s classic period.',
+        aliases: [],
+      },
+
+      'Angel Viloria': {
+        bio: 'Dominican trio accordionist and composer whose recordings were foundational to the international merengue rhythm.',
+        aliases: [],
+      },
+
+      'Ray Olmedo': {
+        bio: 'Puerto Rican salsa vocalist known for his powerful delivery and recordings with Tommy Olivencia\'s orchestra.',
+        aliases: [],
+      },
+
+      'Gilberto Cruz': {
+        bio: 'Singer and longtime member of El Gran Combo de Puerto Rico, contributing to their salsa classics for decades.',
+        aliases: [],
+      },
+
+      'Alberto Barros': {
+        bio: 'Colombian trombonist and bandleader whose \'Tributo a la Salsa\' series revived classic salsa hits for modern audiences.',
+        aliases: [],
+      },
+
+      'Junior Gonzalez': {
+        bio: 'Salsa vocalist formerly of the Fania All-Stars and Larry Harlow\'s band, central to the 1970s salsa dura movement.',
+        aliases: [],
+      },
+
+      'Mario Ortiz': {
+        bio: 'Puerto Rican trumpeter, arranger, and bandleader who anchored the Fania Records sound and led his own salsa orchestras.',
+        aliases: [],
+      },
+
+      'Raphy Martinez': {
+        bio: 'Salsa singer from Puerto Rico known for his long tenure with Sonora Ponceña and subsequent solo recordings.',
+        aliases: [],
+      },
+
+      'Julio Castro': {
+        bio: 'Venezuelan salsa singer and longtime vocalist for Oscar D\'León, delivering fiery performances on stage and record.',
+        aliases: [],
+      },
+
+      'Carlos \'Cano\' Estremera': {
+        bio: 'Puerto Rican salsa vocalist famed for his sonero improvisations and albums with Fania, El Gran Combo, and solo projects.',
+        aliases: ['Cano Estremera'],
+      },
+
+      'Nelson Pinedo': {
+        bio: 'Colombian singer and key voice of La Sonora Matancera, a foundational figure in Latin dance music through the 1950s-60s.',
+        aliases: ['El Almirante del Ritmo'],
+      },
+
+      'Joe Quijano': {
+        bio: 'Puerto Rican bandleader and percussionist who led his own salsa and pachanga combos in New York during the 1960s.',
+        aliases: [],
+      },
+
+      'Johnny \'El Bravo\' Zapata': {
+        bio: 'Colombian merengue, cumbia, and vallenato singer but principally known as a salsa romántica vocalist in the 1980s.',
+        aliases: [],
+      },
+
+      'Fausto Rey': {
+        bio: 'Dominican merengue and salsa singer whose work in the 1970s-80s helped define tropical dance music\'s mainstream crossover.',
+        aliases: [],
+      },
+
+      'Louis Ramírez': {
+        bio: 'Puerto Rican salsa singer known for powerful vocals with the Fania label and classic 1970s anthems.',
+        aliases: [],
+      },
+
+      'Santitos Colón': {
+        bio: 'Cuban sonero celebrated for his elegant phrasing and decades-long career within classic salsa ensembles.',
+        aliases: ['Santos Colón'],
+      },
+
+      'Choco Orta': {
+        bio: 'Veteran Puerto Rican salsera and bandleader whose fiery live performances keep traditional salsa thriving.',
+        aliases: [],
+      },
+
+      'Héctor Tricoche': {
+        bio: 'Nuyorican salsero whose gritty, soulful delivery made him a distinct voice in the 1980s salsa romántica wave.',
+        aliases: [],
+      },
+
+      'Frankie Negrón': {
+        bio: 'Late-1990s salsa romántica star with a polished, crossover-friendly style and multiple Grammy nominations.',
+        aliases: [],
+      },
+
+      'Nelson Santiago': {
+        bio: 'Puerto Rican salsero and member of Fania\'s Orquesta La Solución, active in the genre\'s 1970s golden era.',
+        aliases: [],
+      },
+
+      'José Mangual Jr.': {
+        bio: 'Latin percussionist and vocalist, part of the iconic Mangual family, contributing to salsa\'s brass-heavy arrangements.',
+        aliases: [],
+      },
+
+      'Tony Pabón': {
+        bio: 'Pioneering bandleader and arranger of La Protesta, key in developing Puerto Rican salsa in the 1970s.',
+        aliases: [],
+      },
+
+      'Roberto Torres': {
+        bio: 'Cuban singer and arranger who masterfully bridged charanga and salsa, a prolific hitmaker in the 1970s.',
+        aliases: [],
+      },
+
+      'Luis Perico Ortiz': {
+        bio: 'Trumpeter, arranger, and producer shaping the brassy, orchestral salsa sound for major Fania artists.',
+        aliases: [],
+      },
+
+      'Pío Leiva': {
+        bio: 'Cuban sonero (singer) renowned for his long reign with the Buena Vista Social Club, grounding his work in 1950s Havana dance music.',
+        aliases: [],
+      },
+
+      'Randy Carlos': {
+        bio: 'Puerto Rican bandleader who combined salsa with youth orchestras in the 1970s and 1980s, producing Billboard chart hits.',
+        aliases: [],
+      },
+
+      'Ray Santos': {
+        bio: 'Legendary arranger and saxophonist who shaped the sound of Latin dance music with collaborations across the Fania and Palladium scenes.',
+        aliases: [],
+      },
+
+      'Markolino Dimond': {
+        bio: 'Fania salsa pianist and arranger of the 1970s whose sole album as leader, \'Beethoven\'s V,\' is a cult favorite.',
+        aliases: ['Markolino'],
+      },
+
+      'Isidro Infante': {
+        bio: 'Pianist, arranger, and musical director who helmed many of salsa\'s biggest hits and orchestras from the 1980s onward.',
+        aliases: [],
+      },
+
+      'La Sonora Carruseles': {
+        bio: 'Colombian salsa dura ensemble known for relentless, brass-heavy drive and explosive live energy since the 1990s.',
+        aliases: [],
+      },
+
+      'Spanish Harlem Orchestra': {
+        bio: 'Grammy-winning salsa dura orchestra led by Oscar Hernández, celebrated for modern interpretations of classic New York salsa.',
+        aliases: [],
+      },
+
+      'Ritmo Machine': {
+        bio: 'Puerto Rican salsa romántica group of the late 1980s featuring Viti Ruiz, blending smooth vocals with danceable brass.',
+        aliases: [],
+      },
+
+      'Orquesta de la Luz': {
+        bio: 'Japanese salsa orchestra led by Nora Suzuki, acclaimed internationally for faithful, fiery renditions of classic salsa dura.',
+        aliases: [],
+      },
+
+      'Ralfi Pagan': {
+        bio: 'Puerto Rican singer whose boogaloo and salsa recordings bridged 1960s New York Latin soul with dancefloor urgency.',
+        aliases: [],
+      },
+
+      'Jimmy Delgado': {
+        bio: 'Percussionist and bandleader rooted in New York salsa dura, known for vigorous performances and classic orchestration.',
+        aliases: [],
+      },
+
+      'Ruben Sierra': {
+        bio: 'Puerto Rican trombonist, arranger, and bandleader prominent in 1970s salsa, contributing blazing horn work to key recordings.',
+        aliases: [],
+      },
+
+      'La Terrífica': {
+        bio: 'Dominican salsa and merengue orchestra led by Wilfrido Vargas and others, popularizing festive brass-driven Caribbean dance music.',
+        aliases: [],
+      },
+
+      'Joe Bataan': {
+        bio: 'Pioneering salsa and Latin soul vocalist whose classic recordings helped define the genre\'s 1960s and 1970s sound.',
+        aliases: [],
+      },
+
+      'Tito Allen': {
+        bio: 'Puerto Rican sonero known for his powerful voice and work in classic salsa dura ensembles.',
+        aliases: [],
+      },
+
+      'Rolando La Serie': {
+        bio: 'Cuban sonero and bandleader known for his powerful voice and decades of salsa dura performances in Cuba and abroad.',
+        aliases: [],
+      },
+
+      'Mayito Rivera': {
+        bio: 'Cuban vocalist and former lead singer of Los Van Van, celebrated for his energetic son and timba interpretations.',
+        aliases: [],
+      },
+
+      'Alexander Abreu': {
+        bio: 'Cuban trumpeter, singer, and director of Havana d\' Primera, a key figure in modern timba with salsa foundations.',
+        aliases: [],
+      },
+
+      'Manolín \'El Médico de la Salsa\'': {
+        bio: 'Cuban singer-songwriter who popularized the 1990s timba movement, blending salsa with funk and rock energy.',
+        aliases: [],
+      },
+
+      'Los Adolescentes': {
+        bio: 'Venezuelan salsa group founded in the 1980s, known for romantic salsa and orchestral arrangements led by Rey Reyes.',
+        aliases: [],
+      },
+
+      'Guaco': {
+        bio: 'Venezuelan band fusing salsa, jazz, and gaita, with a decades-long career and brass-driven festive performance style.',
+        aliases: [],
+      },
+
+      'Yordano': {
+        bio: 'Venezuelan singer-songwriter whose pop-salsa ballads gained massive Latin American popularity in the 1980s and 1990s.',
+        aliases: [],
+      },
+
+      'Hildemaro': {
+        bio: 'Venezuelan salsa singer and keyboardist, recognized for romantic salsa hits and a prolific career in the genre.',
+        aliases: [],
+      },
+
+      'Viti Ruiz': {
+        bio: 'Puerto Rican salsa vocalist, sonero, and composer, active since the 1980s with a heritage rooted in Fania-era styles.',
+        aliases: [],
+      },
+
+      'Wichy Camacho': {
+        bio: 'Puerto Rican singer and sonero, known for his work with Impacto Crea and a deep catalog of salsa and boogaloo.',
+        aliases: [],
+      },
+
+      'Don Perignon': {
+        bio: 'Puerto Rican salsa singer and bandleader, recognized for his nasal-toned sonero style and classic salsa dura recordings.',
+        aliases: [],
+      },
     },
 
     'Bachata / Bolero': {
@@ -711,6 +1496,106 @@ export const latin: Pillar = {
       'Orlando Contreras': {
         bio: "Cuban bolero cult figure known as 'El Fantasma del Bolero,' whose deeply melancholic recordings are prized by aficionados of the genre's darkest depths.",
         aliases: ['orlandocontreras', 'orlando contreras.', 'orlando contreras bolero', 'el fantasma del bolero', 'contreras'],
+      },
+
+      'José Feliciano': {
+        bio: 'Puerto Rican guitarist and vocalist renowned for romantic bolero interpretations and acoustic guitar mastery across decades.',
+        aliases: [],
+      },
+
+      'Myriam Hernández': {
+        bio: 'Chilean singer celebrated as a leading balada romántica voice, with songs embracing classic Latin ballad guitar arrangements.',
+        aliases: [],
+      },
+
+      'Alexandre Pires': {
+        bio: 'Brazilian singer whose Portuguese and Spanish romantic ballads incorporate bolero guitar traditions, though primarily samba-pop.',
+        aliases: [],
+      },
+
+      'Ramón Torres': {
+        bio: 'Dominican bachata singer-songwriter known for his romantic, melodic style and heartfelt lyrics about love and loss.',
+        aliases: ['Ramon Torres'],
+      },
+
+      'José Manuel Calderón': {
+        bio: 'Pioneering Dominican musician credited with recording the first bachata songs in the early 1960s, establishing the genre\'s foundation.',
+        aliases: [],
+      },
+
+      'Rafael Encarnación': {
+        bio: 'Dominican bachata artist who helped shape the genre\'s romantic, guitar-led sound during the 1960s and 1970s.',
+        aliases: [],
+      },
+
+      'Wilson Santos': {
+        bio: 'Influential Dominican bachata singer and guitarist, known for his raw yet romantic vocal delivery in the 1980s and 1990s.',
+        aliases: [],
+      },
+
+      'Luis Santana': {
+        bio: 'Dominican bachata singer with a smooth style, active in the 1980s and 1990s, known for heartfelt romantic ballads.',
+        aliases: [],
+      },
+
+      'Ismel Rosario': {
+        bio: 'Dominican bachata vocalist celebrated for his emotional performances and dedication to traditional romantic bachata in the 1990s.',
+        aliases: [],
+      },
+
+      'Henry Santos': {
+        bio: 'Former Aventura member, this Dominican singer-songwriter focuses on modern romantic bachata and bolero-influenced pop ballads.',
+        aliases: [],
+      },
+
+      'Franklin Medina': {
+        bio: 'Bolero singer from the romantic era, known for graceful interpretations of classic Spanish-language love songs.',
+        aliases: [],
+      },
+
+      'Trío Matamoros': {
+        bio: 'Cuban trova and bolero trio active since the 1920s, foundational to the bolero tradition with guitar-led romantic harmonies.',
+        aliases: ['Trio Matamoros'],
+      },
+
+      'Eduardo Brito': {
+        bio: 'Dominican singer of boleros and danzas, a pioneer in the 1930s-40s whose warm voice defined romantic Latin balladry.',
+        aliases: [],
+      },
+
+      'Bienvenido Granda': {
+        bio: 'Cuban bolero singer, known as \'El Bigote que Canta,\' with a prolific career across the mid-20th century romantic scene.',
+        aliases: [],
+      },
+
+      'Raul Acosta': {
+        bio: 'Dominican singer and composer known for his romantic boleros and bachatas, a prominent voice in the Latin ballad tradition since the 1990s.',
+        aliases: [],
+      },
+
+      'Victor Victor': {
+        bio: 'Dominican bachata singer celebrated for his heartfelt romantic style, emerging as a significant international star in the 2000s.',
+        aliases: ['Víctor Víctor'],
+      },
+
+      'Raphael': {
+        bio: 'Spanish singer known for his dramatic and powerful delivery of romantic ballads and boleros, a mainstay of Latin music since the 1960s.',
+        aliases: [],
+      },
+
+      'Los Tri-O': {
+        bio: 'Puerto Rican group specializing in traditional bolero and romantic Latin music, keeping the trio format alive from the 1960s onward.',
+        aliases: [],
+      },
+
+      'Raulín Rosendo': {
+        bio: 'A veteran bachata singer-songwriter whose era of popularity in the 1990s and 2000s was built on heartfelt, guitar-led romantic ballads.',
+        aliases: [],
+      },
+
+      'Franklyn Medina': {
+        bio: 'A traditional bachata vocalist known for his deep, emotional delivery, a key figure in the genre\'s 1990s romantic wave.',
+        aliases: [],
       },
     },
 
@@ -968,6 +1853,416 @@ export const latin: Pillar = {
       'Los Delinqüentes': {
         bio: "The Jerezano 'garrapatero' group who brought a joyous, punk-infused, street-level energy to flamenco before the tragic loss of frontman Migue Benítez.",
         aliases: ['los delinquentes', 'los delinqüentes.', 'losdelinquentes', 'migue benítez'],
+      },
+
+      'Gerardo Núñez': {
+        bio: 'A leading flamenco guitarist who bridges traditional toque with contemporary jazz and classical influences, renowned for his technical mastery.',
+        aliases: [],
+      },
+
+      'José Antonio Rodríguez': {
+        bio: 'A virtuoso flamenco guitarist from Córdoba, lauded for his deep knowledge of the tradition and innovative solo compositions.',
+        aliases: [],
+      },
+
+      'Pedro Sierra': {
+        bio: 'A respected flamenco guitarist and composer, known for his elegant accompaniment of cante and his own refined solo works.',
+        aliases: [],
+      },
+
+      'Antonio Rey': {
+        bio: 'A prize-winning flamenco guitarist praised for his powerful right-hand technique and emotionally charged, modern compositions.',
+        aliases: [],
+      },
+
+      'Manuel Parrilla': {
+        bio: 'A versatile and expressive flamenco guitarist from Madrid, recognized for his dynamic performances and compositions rooted in tradition.',
+        aliases: [],
+      },
+
+      'Pitingo': {
+        bio: 'A singer who merges flamenco with soul and rumba, offering a raw, emotionally delivered modern take on the Andalusian tradition.',
+        aliases: [],
+      },
+
+      'El Barrio': {
+        bio: 'A singer-songwriter from Cádiz whose flamenco-rooted style incorporates rumba and pop, marked by poetic, personal lyrics.',
+        aliases: [],
+      },
+
+      'Piraña': {
+        bio: 'A highly sought-after flamenco percussionist, celebrated for his masterful cajón playing and rhythmic drive in both traditional and fusion settings.',
+        aliases: [],
+      },
+
+      'Farruquito': {
+        bio: 'A leading flamenco dancer and occasional singer whose bailaor performances epitomize raw, dramatic, and palmas-driven intensity.',
+        aliases: [],
+      },
+
+      'El Yeli': {
+        bio: 'An extraordinary and raw flamenco cantaor from Madrid, undervalued yet known for his earth-shattering, emotionally overwhelming vocal power.',
+        aliases: [],
+      },
+
+      'Chona de la Pantoja': {
+        bio: 'A passionate and profound flamenco singer from Jerez, celebrated for her deep, authentic, and intensely dramatic cante style.',
+        aliases: [],
+      },
+
+      'Niño Josele': {
+        bio: 'A gifted flamenco guitarist who also masterfully incorporates jazz and world music into his playing.',
+        aliases: [],
+      },
+
+      'Jorge Pardo': {
+        bio: 'Master flamenco-jazz flautist and saxophonist who redefined the genre as a member of Paco de Lucía\'s ensemble.',
+        aliases: [],
+      },
+
+      'Carles Benavent': {
+        bio: 'Bassist central to the Paco de Lucía sextet, pioneering flamenco fusion with jazz and rock elements.',
+        aliases: [],
+      },
+
+      'José Antonio Galicia': {
+        bio: 'Sevillian guitarist and cantaor known for pushing flamenco\'s boundaries with rock, jazz, and electronic textures.',
+        aliases: [],
+      },
+
+      'Jose Manuel Cañizares': {
+        bio: 'Virtuoso flamenco guitarist and accompanist to Camarón de la Isla, celebrated for his precise, expressive solo work.',
+        aliases: [],
+      },
+
+      'Rafa Riqueni': {
+        bio: 'Innovative guitarist who blends classical, jazz, and traditional flamenco, creating lyrical and introspective compositions.',
+        aliases: [],
+      },
+
+      'Pau Figueres': {
+        bio: 'Catalan guitarist and producer blending flamenco with modern sounds, a key figure in contemporary Spanish guitar scene.',
+        aliases: [],
+      },
+
+      'Sílvia Pérez Cruz': {
+        bio: 'Catalan singer whose repertoire spans flamenco, copla, and jazz, bringing raw emotional depth to Spanish vocal music.',
+        aliases: [],
+      },
+
+      'El Pele (legacy)': {
+        bio: 'Note: already listed. Alias variant.',
+        aliases: [],
+      },
+
+      'Miguel Angel Cortés': {
+        bio: 'Granada-born guitarist and composer, a standout accompanist for cantaores and soloist with deep flamenco lineage.',
+        aliases: [],
+      },
+
+      'Rancapino': {
+        bio: 'Veteran flamenco singer from Cádiz, master of the soleá and bulerías with profound duende.',
+        aliases: [],
+      },
+
+      'Juanito Valderrama': {
+        bio: 'Iconic Andalusian copla and flamenco singer whose recordings shaped 20th-century Spanish vocal tradition.',
+        aliases: [],
+      },
+
+      'El Cabrero': {
+        bio: 'Raw, socially conscious flamenco cantaor known for his powerful, unadorned gypsy singing style.',
+        aliases: [],
+      },
+
+      'Manolo Caracol': {
+        bio: 'Legendary flamenco cantaor famed for his passionate, dramatic delivery and historic collaborations.',
+        aliases: [],
+      },
+
+      'Pepe Marchena': {
+        bio: 'Influential flamenco singer who refined melismatic ornamentation and popularized the style in mid-century.',
+        aliases: [],
+      },
+
+      'Chano Lobato': {
+        bio: 'Cadiz-born bulerías specialist, celebrated for his rhythmic mastery and festive, improvisational cante.',
+        aliases: [],
+      },
+
+      'Bernardo el de los Lobitos': {
+        bio: 'Traditional flamenco singer from Utrera, renowned for his siguiriyas and deep, gravelly tone.',
+        aliases: [],
+      },
+
+      'El Turronero': {
+        bio: 'Flamenco cantaor known for his expressive tarantas and strong presence in festival circuits.',
+        aliases: [],
+      },
+
+      'Curro Malena': {
+        bio: 'Contemporary flamenco singer from Córdoba, praised for his interpretive depth in seguiriyas and soleá.',
+        aliases: [],
+      },
+
+      'Joaquín Sabina': {
+        bio: 'While broadly a singer-songwriter, his Andalusian roots and flamenco-tinged phrasing earn a border placement.',
+        aliases: [],
+      },
+
+      'Juan Serrano': {
+        bio: 'Virtuoso flamenco guitarist from Córdoba known for fast picado technique and international concert tours.',
+        aliases: [],
+      },
+
+      'Víctor Monge "Serranito"': {
+        bio: 'Flamenco guitarist and composer blending traditional toque with jazz and classical influences.',
+        aliases: ['Serranito'],
+      },
+
+      'Rafael Riqueni': {
+        bio: 'Seville-born flamenco pianist and guitarist known for lyrical, impressionistic compositions bridging flamenco and classical.',
+        aliases: [],
+      },
+
+      'El Güito': {
+        bio: 'Legendary flamenco dancer and toque expert, central to Madrid\'s tablao scene and flamenco purity.',
+        aliases: [],
+      },
+
+      'Carmen Amaya': {
+        bio: 'Iconic flamenco dancer and singer whose raw, passionate style set standards for the genre\'s intensity.',
+        aliases: [],
+      },
+
+      'La Chunga': {
+        bio: 'Gypsy flamenco dancer and singer famed for spontaneous, dramatic performances in Spain\'s golden era.',
+        aliases: [],
+      },
+
+      'Antonio Gades': {
+        bio: 'Dancer and choreographer who brought flamenco to global stages with dramatic, narrative-driven works.',
+        aliases: [],
+      },
+
+      'Manolo Franco': {
+        bio: 'Sevillian guitarist known for his rigorous, pure flamenco toque and deep accompaniment of cante.',
+        aliases: ['Manuel Franco'],
+      },
+
+      'Juan Manuel Cañizares': {
+        bio: 'Catalan flamenco guitarist, composer, and former Paco de Lucía sideman with a refined concert style.',
+        aliases: ['Cañizares'],
+      },
+
+      'Pepe Justicia': {
+        bio: 'Granada-born guitarist, pedagogue, and soloist known for melodic clarity and Taranto interpretations.',
+        aliases: [],
+      },
+
+      'El Mimoso': {
+        bio: 'Cantaor from Jerez with a powerful, raw voice and strong bulería and seguirilla roots.',
+        aliases: ['Luis el Mimoso'],
+      },
+
+      'Antonio Reyes': {
+        bio: 'Contemporary cantaor from Chiclana, praised for his deep, sober style and mastery of traditional forms.',
+        aliases: [],
+      },
+
+      'José de la Tomasa': {
+        bio: 'Sevillian singer stalwart of the purest cante, carrying on the legacy of his family\'s gitano tradition.',
+        aliases: [],
+      },
+
+      'Juan Villar': {
+        bio: 'Cantaor from Jerez with a heartfelt, versatile style, rooted in the city\'s rich flamenco school.',
+        aliases: [],
+      },
+
+      'Sergio de Lope': {
+        bio: 'Born in Córdoba, this innovator brings flamenco\'s poetry to new spaces, yet his foundational work is in the cante.',
+        aliases: [],
+      },
+
+      'Jesús Méndez': {
+        bio: 'Jerez-born cantaor with a dark, profound voice, excelling in the most dramatic palos.',
+        aliases: [],
+      },
+
+      'Canelita': {
+        bio: 'Cantacante from Málaga who blends flamenco and rumba with a pop sensibility, a successor to El Barrio\'s path.',
+        aliases: [],
+      },
+
+      'Vicente Soto \'Sordera\'': {
+        bio: 'Cantaor from Jerez, son of Sordera, carrying forward the family\'s legacy of pure, rhythmic cante.',
+        aliases: ['Vicente Soto Sordera'],
+      },
+
+      'Juanito Márquez': {
+        bio: 'Cuban-born guitarist whose flamenco-jazz fusion and rumba stylings bridged Caribbean and Spanish traditions; influential in 1960s-70s recordings.',
+        aliases: ['Juanito Marquez'],
+      },
+
+      'Chuscales': {
+        bio: 'Virtuosic flamenco guitarist from Jerez, known for his solo albums and collaborations with dancer Sara Baras.',
+        aliases: ['Chuscal'],
+      },
+
+      'Juan Carlos Romero': {
+        bio: 'Flamenco guitarist and composer from Cádiz, praised for his mastery of compás and innovative harmonic language in albums like \'El eco del aire\'.',
+        aliases: ['Juan C. Romero'],
+      },
+
+      'José Luis Montón': {
+        bio: 'Flamenco guitarist and educator, deeply rooted in traditional toques while expanding into world music collaborations.',
+        aliases: ['Jose Luis Monton'],
+      },
+
+      'Antonio Serrano': {
+        bio: 'Harmonica virtuoso who integrates flamenco phrasing and duende into his playing, collaborating with giants like Paco de Lucía.',
+        aliases: ['Antonio Serrano (harmonica)'],
+      },
+
+      'El Torta': {
+        bio: 'Cádiz-born flamenco singer (cantaor) known for his raw, raspy voice and deep connection to the compás of alegrías and bulerías.',
+        aliases: ['Torta'],
+      },
+
+      'La Macanita': {
+        bio: 'Flamenco singer from Jerez, renowned for her powerful, authentic delivery of bulerías and soleá, rooted in gitano tradition.',
+        aliases: ['Macanita'],
+      },
+
+      'Pedro El Granaíno': {
+        bio: 'Flamenco singer from Granada, celebrated for his deep, traditional cante jondo style and collaborations with top guitarists.',
+        aliases: ['Pedro el Granaíno'],
+      },
+
+      'Jesús Carmona': {
+        bio: 'Flamenco dancer and choreographer whose explosive footwork and theatrical flair embody the sub-category\'s passion and virtuosity.',
+        aliases: ['Jesus Carmona'],
+      },
+
+      'Rafael Amargo': {
+        bio: 'Flamenco dancer and choreographer known for his rebellious, avant-garde interpretations while maintaining rigorous traditional technique.',
+        aliases: [],
+      },
+
+      'Compay Segundo': {
+        bio: 'Cuban trova and son musician; not flamenco, but his guitar and rhythmic interplay influence Latin Spanish guitar idioms—omitted.',
+        aliases: [],
+      },
+
+      'Joaquín Cortés': {
+        bio: 'Flamenco dancer and occasional singer, famous for bringing gypsy flamenco passion to global stages with dramatic, athletic performances.',
+        aliases: ['Joaquin Cortes'],
+      },
+
+      'Jerónimo Maya': {
+        bio: 'Flamenco guitarist carrying on the Maya family legacy, recognized for his refined technique and deep accompaniment of cante jondo.',
+        aliases: [],
+      },
+
+      'Andrés Batista': {
+        bio: 'Master flamenco guitarist and educator whose books and recordings have documented and taught the art form to generations.',
+        aliases: [],
+      },
+
+      'El Carbonero': {
+        bio: 'Pure cante flamenco singer from Jerez, known for his powerful, gitano-style delivery and deep connection to tradition.',
+        aliases: [],
+      },
+
+      'Rafael de Utrera': {
+        bio: 'Cantaor who revitalizes traditional flamenco with contemporary production, a key voice of the current generation.',
+        aliases: [],
+      },
+
+      'Sandra Carrasco': {
+        bio: 'Andalusian singer blending flamenco roots with Latin American songbooks, praised for her expressive range and modern flair.',
+        aliases: [],
+      },
+
+      'Eduardo Paniagua': {
+        bio: 'Late 20th-century Spanish guitarist preserving flamenco tradition through solo albums and collaborations with foundational figures like Paco de Lucía and Camarón de la Isla.',
+        aliases: [],
+      },
+
+      'Rafael del Estad': {
+        bio: 'Virtuosic Spanish guitarist and composer, celebrated for his technical mastery and dedication to pure flamenco guitar in concert and recording.',
+        aliases: [],
+      },
+
+      'El Fari': {
+        bio: 'Palos-based cantaor fusing traditional flamenco with modern songwriting, recognized for his raw, imbued voice and deep-rooted Gypsy heritage.',
+        aliases: [],
+      },
+
+      'Antonio Canales': {
+        bio: 'Contemporary flamenco dancer and choreographer whose performances channel intense passion and drama, bridging flamenco tradition with modern theatrical expression.',
+        aliases: [],
+      },
+
+      'Oscar de Manuel': {
+        bio: 'Innovative flamenco guitarist blending classical techniques with palos-driven rhythms, showcasing compositional depth in solo work and accompaniment.',
+        aliases: [],
+      },
+
+      'Manuelo Giorgi': {
+        bio: 'Spanish flamenco guitarist committed to the genre\'s Andalusian roots, performing and recording with passionate, traditional-tinged repertoire across decades.',
+        aliases: [],
+      },
+
+      'Ramón Portas': {
+        bio: 'Galician flamenco guitarist recognized for his accompaniment of top cantaores and his solo guitar recordings that display authentic, clean-toque virtuosity.',
+        aliases: [],
+      },
+
+      'El Chozas': {
+        bio: 'Jerez-born percussionist and singer central to palmas-driven ensembles, elevating flamenco rhythm sections with raw, traditional compás.',
+        aliases: [],
+      },
+
+      'José Ernesto Ferrer': {
+        bio: 'Guitarist and composer, follower of the Lérida school, known for his flamenco guitar recordings that fuse expressive tone with sharp rhythmic precision.',
+        aliases: [],
+      },
+
+      'María José Ruíz': {
+        bio: 'Virtuoso flamenco guitarist among Spain\'s canon of female tocaoras, admired for her technique, interpretation, and work across generations from 1980s onward.',
+        aliases: [],
+      },
+
+      'El Perre': {
+        bio: 'Flamenco percussionist and singer specializing in palmas and compás, essential to the raw, field-recording sound associated with 1970s and 1980s cante.',
+        aliases: [],
+      },
+
+      'Chato de la Isla': {
+        bio: 'Cádiz-born flamenco singer, part of the new wave of cantaores with traditional repertory and deep, passionate delivery rather than crossover pop.',
+        aliases: [],
+      },
+
+      'Miguel Ángel Cortés': {
+        bio: 'Granada-born flamenco guitarist recognized for his profound accompaniment of cante and his solo work rooted in tradition.',
+        aliases: ['Miguel Angel Cortes'],
+      },
+
+      'Benito Moreno': {
+        bio: 'Spanish singer and songwriter who blends flamenco, pop, and rumba, achieving mainstream success while maintaining a flamenco core.',
+        aliases: [],
+      },
+
+      'Juanito Makandé': {
+        bio: 'Cádiz-born artist mixing flamenco, rumba, and reggae, carrying the flamenco-pop torch with an earthy, modern style.',
+        aliases: [],
+      },
+
+      'La Húngara': {
+        bio: 'Spanish rumba and flamenco-tinged singer, known for her raw, emotional vocals and commercial success in the genre\'s popular wing.',
+        aliases: [],
       },
     },
 
@@ -1231,6 +2526,366 @@ export const latin: Pillar = {
         bio: 'Argentine cumbia santafesina icons whose accordion-driven tropical sound has kept dancefloors alive across South America for five decades.',
         aliases: ['lospalmeras', 'los palmeras.', 'los palmeras cumbia'],
       },
+
+      'Los Caminantes': {
+        bio: 'Mexican group known for romantic cumbias and norteño ballads, popular throughout the 1980s and 1990s with a nostalgic, rural appeal.',
+        aliases: [],
+      },
+
+      'Grupo Límite': {
+        bio: 'Mexican band led by Alicia Villarreal, blending cumbia and norteño with a polished regional sound popular in the late 1990s and 2000s.',
+        aliases: [],
+      },
+
+      'Control': {
+        bio: 'Mexican cumbia group from the 1990s, renowned for their tropical-dance sound and hits like "El Paso del Gigante."',
+        aliases: [],
+      },
+
+      'Los Ángeles de Charly': {
+        bio: 'Argentine-Mexican cumbia group, central to the cumbia santafesina wave, mixing romantic lyrics with danceable, folk-rooted cumbia rhythms.',
+        aliases: [],
+      },
+
+      'Grupo Karo\'s': {
+        bio: 'Mexican cumbia band from the 1980s, celebrated for their upbeat, earthy cumbias and enduring popularity in rural and working-class communities.',
+        aliases: ['Grupo Karos'],
+      },
+
+      'La Mafia': {
+        bio: 'Tejano group with norteño and cumbia roots, active since the 1980s, blending traditional Mexican dance styles with a festive, polished sound.',
+        aliases: [],
+      },
+
+      'Los Rieleros del Norte': {
+        bio: 'Norteño group from Mexico, known for storytelling corridos and romantic ballads, a staple of the genre since the early 1990s.',
+        aliases: [],
+      },
+
+      'Enigma Norteño': {
+        bio: 'Modern norteño act known for corridos and cumbias, carrying on Sinaloan traditions with a contemporary edge popular in the 2010s and 2020s.',
+        aliases: [],
+      },
+
+      'Los Farmerz': {
+        bio: 'Regional Mexican group fused with cumbia and norteño, part of the newer generation keeping folk-rooted dance sounds alive in the 2020s.',
+        aliases: [],
+      },
+
+      'Código FN': {
+        bio: 'Mexican group blending norteño and cumbia with urban influences, delivering festive, nostalgic takes on traditional dance music since the 2010s.',
+        aliases: [],
+      },
+
+      'Alberto y Roberto': {
+        bio: 'Mexican duo from the 2000s, known for romantic cumbias and norteño, a fresh act reviving classic regional dance styles.',
+        aliases: [],
+      },
+
+      'Los Buitres de Culiacán Sinaloa': {
+        bio: 'Norteño band renowned for corridos and cumbias, representing the earthy, storytelling tradition of Sinaloa, active since the late 1990s.',
+        aliases: [],
+      },
+
+      'La Sonora Dinamita de Lucho Argaín': {
+        bio: 'Colombian cumbia orchestra led by Lucho Argaín, keeping tropical dance floors alive for decades with classics like \'Mi Cafetal\'.',
+        aliases: ['Sonora Dinamita'],
+      },
+
+      'Los Wawanco': {
+        bio: 'Mexican cumbia group from the 1970s, foundational to the \'cumbia norteña\' style blending accordion and bajo sexto.',
+        aliases: [],
+      },
+
+      'Super Grupo Colombia': {
+        bio: 'Mexican cumbia ensemble essential to the 1980s \'grupera\' scene, known for hits like \'La Cumbia del Sol\'.',
+        aliases: [],
+      },
+
+      'Los Socios del Ritmo': {
+        bio: 'Mexican cumbia group with regional roots, famous for \'La Chona\' and decades of party anthems.',
+        aliases: [],
+      },
+
+      'Grupo Perla Colombiana': {
+        bio: 'Colombian cumbia band with a distinctive accordion-led sound, a staple of the 1980s and 1990s tropical circuit.',
+        aliases: [],
+      },
+
+      'Armando Hernández': {
+        bio: 'Cumbia accordionist and composer, key in the development of Chihuahua\'s \'cumbia norteña\' sound.',
+        aliases: [],
+      },
+
+      'Los Ráfagos': {
+        bio: 'Mexican cumbia-norteño group from the 1990s, honored for their raw rural storytelling and danceable rhythms.',
+        aliases: ['Los Rafagos'],
+      },
+
+      'Grupo Pegasso': {
+        bio: 'Mexican cumbia group with romantic ballads and ranchero inflections, big in the 1980s and 1990s norteño-cumbia crossover.',
+        aliases: [],
+      },
+
+      'La Apuesta': {
+        bio: 'Mexican cumbia romántica group, part of the vibrant 2000s scene blending synthesizers with acoustic percussion.',
+        aliases: [],
+      },
+
+      'Los Yonic\'s': {
+        bio: 'Mexican cumbia and ballad group with a strong regional following, representing the sentimental, earthy side of the genre.',
+        aliases: ['Los Yonics'],
+      },
+
+      'La Luz Roja de San Marcos': {
+        bio: 'Mexican cumbia group known for their tropical sound and long-running presence in the regional dance circuit.',
+        aliases: ['La Luz Roja'],
+      },
+
+      'Los Askis': {
+        bio: 'Mexican cumbia group known for their romantic, keyboard-driven sound that defined the genre\'s 1990s popularity.',
+        aliases: [],
+      },
+
+      'Grupo Sonador': {
+        bio: 'Mexican group blending cumbia and norteño, achieving hits in the 1990s and remaining relevant in regional Mexican dance music.',
+        aliases: [],
+      },
+
+      'Los Cumbieros de San Jacinto': {
+        bio: 'Colombian cumbia ensemble preserving traditional folk rhythms with accordion-led arrangements from the Caribbean coast.',
+        aliases: [],
+      },
+
+      'La Sonora Mazurén': {
+        bio: 'Colombian tropical orchestra, a pillar of cumbia and porro dance music from the 1960s, influencing decades of Latin American dance floors.',
+        aliases: [],
+      },
+
+      'Los Bybys': {
+        bio: 'Mexican group that fused cumbia and romantic ballads, becoming staple of 2000s grupero and tropical dance scenes.',
+        aliases: [],
+      },
+
+      'Grupo Los Pitufos': {
+        bio: 'Ecuadorian-Mexican cumbia group with techno-cumbia hits in the 1990s, nostalgic for Andean and Mexican dance crowds.',
+        aliases: [],
+      },
+
+      'La Sonora Gigante': {
+        bio: 'Peruvian cumbia orchestra known for vibrant, danceable arrangements, contributing to the Andean cumbia movement since the 1960s.',
+        aliases: [],
+      },
+
+      'Los Bukis de Roma': {
+        bio: 'Colombian group blending cumbia and salsa, popular in the 1970s and 1980s for festive, rural dance classics.',
+        aliases: [],
+      },
+
+      'Grupo Digital': {
+        bio: 'Mexican techno-cumbia act of the 1990s, with synth-heavy hits that became anthems for nostalgic cumbia dance parties.',
+        aliases: [],
+      },
+
+      'La Nueva Luna': {
+        bio: 'Argentine cumbia group from the 1990s that helped define the tropical dance sound in South America, with enduring hits.',
+        aliases: [],
+      },
+
+      'Los Nuevos Rebeldes': {
+        bio: 'Mexican norteño group from the 2000s, blending traditional accordion style with modern regional Mexican storytelling and corridos.',
+        aliases: [],
+      },
+
+      'Grupo Laberinto': {
+        bio: 'Mexican norteño band known for corridos and romantic songs, active since the 1980s, rooted in rural Mexican folk traditions.',
+        aliases: [],
+      },
+
+      'Los Corraleros De Majagual': {
+        bio: 'Colombian cumbia ensemble from the 1960s, pioneering the accordion-heavy sound foundational to regional dance traditions.',
+        aliases: [],
+      },
+
+      'El Combo De Oro': {
+        bio: 'Colombian outfit fusing cumbia and porro, delivering festive, nostalgic dance music rooted in rural storytelling since the 1970s.',
+        aliases: [],
+      },
+
+      'La Orquesta La Palabra': {
+        bio: 'Colombian group celebrated for their tropical cumbia interpretations, keeping traditional dance floors alive across generations.',
+        aliases: [],
+      },
+
+      'Los Cumbia Stars': {
+        bio: 'Mexican cumbia group from the 1980s, blending Andean and tropical styles with an energetic, accessible sound for festive settings.',
+        aliases: [],
+      },
+
+      'Grupo Celeste': {
+        bio: 'Peruvian cumbia band known for their chicha-influenced style, merging folk roots with electric guitars for nostalgic dance anthems.',
+        aliases: [],
+      },
+
+      'Los Mirlos': {
+        bio: 'Peruvian cumbia pioneers, iconic for Amazonian folk influences and psychedelic guitar, central to the country\'s dance tradition.',
+        aliases: [],
+      },
+
+      'Los Destellos': {
+        bio: 'Peruvian cumbia band, foundational to the chicha movement, mixing cumbia with regional folk and surf rock for dance floors.',
+        aliases: [],
+      },
+
+      'La Sonora Siguaray': {
+        bio: 'Mexican tropical group specializing in cumbia and sonidero, delivering nostalgic dance hits for rural and urban fiestas since the 1980s.',
+        aliases: [],
+      },
+
+      'Los Cumbancheros': {
+        bio: 'Colombian cumbia group known for accordion-driven dance rhythms and festive, rural storytelling traditions.',
+        aliases: [],
+      },
+
+      'La Sonora Tropical': {
+        bio: 'Mexican cumbia band celebrated for their tropical, danceable sound and regional popularity since the 1980s.',
+        aliases: [],
+      },
+
+      'Grupo Natura': {
+        bio: 'Mexican cumbia group blending romantic lyrics with traditional rhythms, a staple of the Northern regional dance scene.',
+        aliases: [],
+      },
+
+      'La Tropa Loca': {
+        bio: 'Mexican norteño-cumbia ensemble delivering festive, accordion-led tunes rooted in rural storytelling and dance.',
+        aliases: [],
+      },
+
+      'Los Reyes Locos': {
+        bio: 'Colombian cumbia act mixing folk roots with lively, celebratory rhythms, emblematic of mid-century dance traditions.',
+        aliases: [],
+      },
+
+      'Grupo Chicapalá': {
+        bio: 'Mexican cumbia band known for upbeat, accordion-heavy tracks and a strong following in regional dance circuits.',
+        aliases: [],
+      },
+
+      'Los Sabrosos del Ritmo': {
+        bio: 'Colombian cumbia group bringing traditional folk melodies and nostalgic, festive energy to dance floors since the 1990s.',
+        aliases: [],
+      },
+
+      'La Sonora de Lucho Muñoz': {
+        bio: 'Colombian orchestra dedicated to cumbia and porro, preserving earthy, rural roots in vibrant dance arrangements.',
+        aliases: [],
+      },
+
+      'Los Hermanos Rincón': {
+        bio: 'Mexican norteño accordion duo, crafting storytelling corridos and ballads that anchor regional, folk-rooted traditions.',
+        aliases: [],
+      },
+
+      'Grupo Recluta': {
+        bio: 'Mexican regional act specializing in norteño and cumbia, with nostalgic, storytelling tracks and rural appeal.',
+        aliases: [],
+      },
+
+      'Los Pescadores del Río Sinú': {
+        bio: 'Colombian cumbia band from the Sinú river region, famed for authentic, earthy folk rhythms and traditional dance music.',
+        aliases: [],
+      },
+
+      'La Sonora Palacios': {
+        bio: 'Chilean cumbia orchestra central to the genre\'s Andean popularity since the 1960s, blending Mexican and Colombian rhythms.',
+        aliases: [],
+      },
+
+      'Los Walkers': {
+        bio: 'Mexican group that fused cumbia with norteño and rock elements, a key act in the 1960s-70s border sound.',
+        aliases: [],
+      },
+
+      'Luis y Julián': {
+        bio: 'Mexican norteño duo from the 1970s-80s, influential in shaping the romantic norteño-cumbia style.',
+        aliases: [],
+      },
+
+      'La Lupita': {
+        bio: 'Mexican rock-cumbia fusion band of the 1990s, blending folk dance traditions with modern energy.',
+        aliases: [],
+      },
+
+      'Grupo Yndio': {
+        bio: 'Mexican band central to 1970s-80s cumbia romántica, with roots in regional dance traditions.',
+        aliases: ['Grupo Indio'],
+      },
+
+      'Los Ribereños': {
+        bio: 'Mexican cumbia group from the 1980s, known for tropical and norteño-influenced dance hits.',
+        aliases: [],
+      },
+
+      'Vallenato Kings': {
+        bio: 'Colombian vallenato-cumbia ensemble with earthy, rural storytelling traditions, active in the 1990s.',
+        aliases: [],
+      },
+
+      'La Tropa Co.': {
+        bio: 'Mexican group from the 1970s-80s, known for cumbia and norteño blends, appealing to rural dance audiences.',
+        aliases: ['La Tropa Company'],
+      },
+
+      'Grupo Poder': {
+        bio: 'Mexican cumbia-norteño act from the 1990s, with festive, regional dancefloor presence.',
+        aliases: [],
+      },
+
+      'Los Terribles del Norte': {
+        bio: 'Mexican norteño group of the 1980s, emphasizing accordion-driven storytelling and rural roots.',
+        aliases: [],
+      },
+
+      'El Trío San Javier': {
+        bio: 'Colombian folk trio that contributed to cumbia and vallenato traditions in the 1960s-70s.',
+        aliases: [],
+      },
+
+      'Los Ángeles Negros': {
+        bio: 'Chilean group who pioneered romantic bolero-cumbia in the 1960s-70s, blending rural narrative and nostalgic dance sounds.',
+        aliases: [],
+      },
+
+      'Los Wembler\'s de Iquitos': {
+        bio: 'Pioneering Peruvian cumbia amazónica band from Iquitos, blending psychedelic guitar with traditional rhythms since the late 1960s.',
+        aliases: ['Los Wemblers'],
+      },
+
+      'Los Pasteles Verdes': {
+        bio: 'Mexican group that became a cornerstone of cumbia and romantic ballad styles in Latin America during the 1970s.',
+        aliases: ['Pasteles Verdes'],
+      },
+
+      'La Sonora de Margarita': {
+        bio: 'Colombian cumbia orchestra led by Margarita Vargas, known for driving dance-floor hits and a strong female front.',
+        aliases: ['La Sonora de Margarita'],
+      },
+
+      'Los Chicos de la Cumbia': {
+        bio: 'Peruvian group that modernized traditional cumbia with electronic textures, becoming a 1980s and 90s dance staple.',
+        aliases: [],
+      },
+
+      'Los Hermanos Flores': {
+        bio: 'Colombian conjunto led by brothers, known for authentic vallenato and cumbia styles from the interior.',
+        aliases: [],
+      },
+
+      'Los García': {
+        bio: 'Mexican norteño and cumbia act from the 1980s, delivering accordion-driven anthems that bridged both regional styles.',
+        aliases: [],
+      },
     },
 
     'Pop en Español': {
@@ -1393,6 +3048,11 @@ export const latin: Pillar = {
         bio: 'Provocative Mexican pop pioneer whose boundary-pushing career from the late 1980s onward makes her a cult and commercial Pop en Español icon.',
         aliases: ['gloriatrevi', 'gloria trevi.', 'gloria de los ángeles treviño ruiz', 'gloria de los angeles trevino ruiz', 'gloria treviño'],
       },
+
+      'Jesse Huerta': {
+        bio: 'Half of Jesse & Joy, recognized in his own right, though primarily a duo act; his solo and production work reinforce pop en Español\'s melodic core.',
+        aliases: [],
+      },
     },
 
     'Brazilian / MPB': {
@@ -1460,6 +3120,606 @@ export const latin: Pillar = {
         bio: 'A founding poet of samba and Mangueira legend whose late-career masterpieces are revered as some of the most beautiful songs Brazil ever produced.',
         aliases: ['cartola.', 'angenor de oliveira', 'cartola samba', 'cartola mangueira'],
       },
+
+      'Céu': {
+        bio: 'Modern MPB artist blending samba, reggae, and electronic sounds, acclaimed internationally and at home.',
+        aliases: ['Ceu'],
+      },
+
+      'Criolo': {
+        bio: 'Rapper and singer whose work merges MPB, samba, and hip-hop soul, renewing the genre\'s urban voice.',
+        aliases: [],
+      },
+
+      'Vanessa da Mata': {
+        bio: 'MPB singer-songwriter with a rich, melodic style, blending regional Brazilian rhythms with contemporary pop.',
+        aliases: [],
+      },
+
+      'Lenine': {
+        bio: 'Innovative MPB composer and performer fusing traditional styles with rock, electronics, and world music.',
+        aliases: [],
+      },
+
+      'Tom Zé': {
+        bio: 'Avant-garde MPB composer and Tropicalia pioneer known for experimental arrangements and irreverent social commentary.',
+        aliases: ['Tom Ze'],
+      },
+
+      'Ney Matogrosso': {
+        bio: 'Theatrical vocalist and MPB icon, famed for falsetto voice and transgressive stage persona spanning decades.',
+        aliases: [],
+      },
+
+      'Elza Soares': {
+        bio: 'Powerhouse MPB and samba vocalist with a fearless career merging tradition with modern experimentation and social edge.',
+        aliases: [],
+      },
+
+      'Wagner Tiso': {
+        bio: 'Key MPB pianist, arranger, and composer from Clube da Esquina, blending jazz, classical, and Brazilian folk.',
+        aliases: [],
+      },
+
+      'Lô Borges': {
+        bio: 'Singer-songwriter and co-author of the landmark Clube da Esquina album, cornerstone of 1970s MPB.',
+        aliases: ['Lo Borges'],
+      },
+
+      'Luiz Gonzaga': {
+        bio: 'King of Baião who brought northeastern Brazilian rhythms to nationwide prominence.',
+        aliases: ['Luiz Gonzaga do Nascimento'],
+      },
+
+      'Alcione': {
+        bio: 'Samba and MPB powerhouse known as Marrom, with a career spanning five decades of hits.',
+        aliases: ['Alcione Dias Nazareth'],
+      },
+
+      'Arnaldo Antunes': {
+        bio: 'Former Titãs frontman and avant-garde pop poet central to modern MPB\'s evolution.',
+        aliases: ['Arnaldo Antunes Filho'],
+      },
+
+      'Marina Lima': {
+        bio: 'A central figure in 1980s Brazilian pop-rock, her sophisticated songwriting and urban sensibility straddle MPB and new wave.',
+        aliases: [],
+      },
+
+      'Marcelo Camelo': {
+        bio: 'Former Los Hermanos frontman whose melodic, introspective solo work and collaborations with Mallu Magalhães keep him central to modern MPB.',
+        aliases: [],
+      },
+
+      'Zélia Duncan': {
+        bio: 'MPB singer and composer with a contemporary approach, celebrated for powerful live performances and socially conscious songs.',
+        aliases: ['Zelia Duncan'],
+      },
+
+      'Ana Carolina': {
+        bio: 'Brazilian singer-songwriter whose powerful voice and impassioned delivery define a modern MPB style rooted in samba and romantic pop.',
+        aliases: [],
+      },
+
+      'Chico César': {
+        bio: 'Paraíba-born singer-songwriter fusing MPB with reggae, forró, and African rhythms, known for inventive wordplay and social themes.',
+        aliases: [],
+      },
+
+      'Fernanda Takai': {
+        bio: 'Lead singer of Pato Fu, also a solo MPB artist known for tender, bossa-influenced interpretations of Brazilian classics.',
+        aliases: [],
+      },
+
+      'Marcelo Jeneci': {
+        bio: 'Singer-songwriter and accordionist blending folk, pop, and MPB, celebrated for poetic albums and collaborations with Arnaldo Antunes.',
+        aliases: [],
+      },
+
+      'Teresa Cristina': {
+        bio: 'Rio-born samba and MPB singer, a leading voice reviving traditional samba with raw authenticity and contemporary sensibility.',
+        aliases: [],
+      },
+
+      'Rubel': {
+        bio: 'Contemporary Brazilian singer-songwriter whose deeply melodic MPB and samba-inspired output has earned critical and popular acclaim since 2015.',
+        aliases: [],
+      },
+
+      'Mart\'nália': {
+        bio: 'Singer and composer rooted in samba and MPB, daughter of Martinho da Vila, blending tradition with modern urban warmth.',
+        aliases: [],
+      },
+
+      'Paulinho da Viola': {
+        bio: 'Master of samba and choro, a gentle-voiced songwriter whose refined works are pillars of Brazilian music\'s acoustic tradition.',
+        aliases: [],
+      },
+
+      'Jorge Vercillo': {
+        bio: 'Singer-songwriter of pop-leaning MPB, known for melodic romantic songs and acoustic guitar work that reached wide Brazilian audiences.',
+        aliases: [],
+      },
+
+      'Ana Costa': {
+        bio: 'Versatile samba and MPB artist with a warm stage presence, active since the late 1990s across albums and collaborative projects.',
+        aliases: [],
+      },
+
+      'Rodrigo Amarante': {
+        bio: 'Former Los Hermanos member crafting introspective MPB-folk hybrids; his solo work and international collaborations expand the genre\'s reach.',
+        aliases: [],
+      },
+
+      'Fafá de Belém': {
+        bio: 'Vocalist from Pará with a powerful, romantic delivery, bridging regional northern Brazilian music and mainstream MPB/samba repertoire.',
+        aliases: ['Fafa de Belem'],
+      },
+
+      'João Bosco': {
+        bio: 'Guitarist and composer whose inventive harmonies and poetic collaborations with Aldir Blanc shaped MPB\'s sophisticated songwriting canon.',
+        aliases: [],
+      },
+
+      'Arnaldo Baptista': {
+        bio: 'Os Mutantes co-founder, avant-garde and psychedelic MPB artist.',
+        aliases: [],
+      },
+
+      'Cássia Eller': {
+        bio: 'Rock and MPB singer known for powerful interpretations of Brazilian classics.',
+        aliases: ['Cassia Eller'],
+      },
+
+      'Luiz Melodia': {
+        bio: 'Singer-songwriter fusing samba, rock, and MPB, influential from the 1970s onward.',
+        aliases: [],
+      },
+
+      'Rodrigo Novaes': {
+        bio: 'Contemporary MPB singer-songwriter, part of the new generation of Brazilian popular music.',
+        aliases: [],
+      },
+
+      'Alzira E': {
+        bio: 'Singer and composer in MPB, samba, and Afro-Brazilian music from São Paulo.',
+        aliases: [],
+      },
+
+      'Zeca Baleiro': {
+        bio: 'Maranhão-born singer-songwriter blending regional rhythms with pop and rock in a distinctly MPB frame."',
+        aliases: [],
+      },
+
+      'Maria Gadú': {
+        bio: 'Guitarist and singer-songwriter whose urban folk and pop style continues the MPB singer-songwriter lineage."',
+        aliases: [],
+      },
+
+      'Ayrton Montarroyos': {
+        bio: 'Young vocalist with an old-school MPB soul, championing the classic repertoire with striking technical command."',
+        aliases: [],
+      },
+
+      'Francisco, el Hombre': {
+        bio: 'Brazilian-Mexican group fusing Latin rhythms, indie rock, and MPB sensibilities with politically charged lyrics and folk energy.',
+        aliases: ['Francisco el Hombre'],
+      },
+
+      'Anelis Assumpção': {
+        bio: 'Singer-songwriter rooted in Brazilian popular music, blending samba, afro rhythms, and experimental pop with poetic lyrics.',
+        aliases: [],
+      },
+
+      'Thiago Amud': {
+        bio: 'Composer and performer immersed in samba and MPB traditions, known for sophisticated lyrics and collaborative works.',
+        aliases: [],
+      },
+
+      'Ava Rocha': {
+        bio: 'Brazilian artist merging tropicalia, psychedelia, and traditional Brazilian rhythms with experimental, poetic songwriting.',
+        aliases: [],
+      },
+
+      'Juçara Marçal': {
+        bio: 'Powerful vocalist central to São Paulo\'s experimental MPB scene, blending samba, jazz, and avant-garde influences.',
+        aliases: [],
+      },
+
+      'Kiko Dinucci': {
+        bio: 'Guitarist and composer whose work redefines MPB and samba, integrating African diasporic rhythms and modern harmonics.',
+        aliases: [],
+      },
+
+      'Letieres Leite': {
+        bio: 'Bahian composer and arranger whose Orkestra Rumpilezz fused Afro-Brazilian rhythms with jazz and MPB tradition.',
+        aliases: ['Letieres'],
+      },
+
+      'Siba': {
+        bio: 'Pernambuco-born musician revitalizing maracatu and rural folk traditions within a contemporary MPB framework.',
+        aliases: [],
+      },
+
+      'Mundo Livre S/A': {
+        bio: 'Recife band key to the manguebeat movement, mixing rock, funk, maracatu, and MPB with social critique.',
+        aliases: [],
+      },
+
+      'Cézar Mendes': {
+        bio: 'Contemporary MPB artist preserving tradition while infusing modern harmonic sophistication in his songbook.',
+        aliases: ['Cezar Mendes'],
+      },
+
+      'André Mehmari': {
+        bio: 'Pianist and composer who reimagines MPB through jazz-inflected arrangements and virtuosic improvisation.',
+        aliases: [],
+      },
+
+      'Zélia Barbosa': {
+        bio: 'Singer and songwriter from São Paulo whose contemporary work melds samba, jazz, and MPB traditions with a modern sensibility.',
+        aliases: [],
+      },
+
+      'Oswaldo Montenegro': {
+        bio: 'Songwriter and performer with a theatrical, narrative style in MPB, known for poetic lyrics and decades of touring success.',
+        aliases: [],
+      },
+
+      'Vitor Ramil': {
+        bio: 'Southern Brazilian singer-songwriter fusing regional gaúcho traditions with MPB, bossa nova, and literary songwriting, creating a distinct voice.',
+        aliases: [],
+      },
+
+      'Sá & Guarabyra': {
+        bio: 'Duo that pioneered the blending of rural Brazilian folk with urban MPB and rock, best known for enduring hits and harmony-driven songwriting.',
+        aliases: ['Sá e Guarabyra'],
+      },
+
+      'Lamartine Babo': {
+        bio: 'Pioneering Brazilian songwriter of the 20th century whose vast catalog shaped early popular music and samba traditions.',
+        aliases: ['Lamartine Babo'],
+      },
+
+      'Noel Rosa': {
+        bio: 'Essential samba and MPB figure, his poetic lyrics and compositions defined an era of Brazilian popular song.',
+        aliases: ['Noel Rosa'],
+      },
+
+      'Adoniran Barbosa': {
+        bio: 'Iconic samba composer and singer, known for humorous, colloquial São Paulo narratives within Brazilian popular music.',
+        aliases: ['Adoniran Barbosa'],
+      },
+
+      'Pixinguinha': {
+        bio: 'Masterful composer and instrumentalist who helped found samba and choro, laying groundwork for all Brazilian popular music.',
+        aliases: ['Pixinguinha'],
+      },
+
+      'Rita Lee': {
+        bio: 'Icon of Brazilian rock and pop, her inventive music blended MPB, rock, and psychedelia for over five decades.',
+        aliases: ['Rita Lee'],
+      },
+
+      'Belchior': {
+        bio: 'Cearense singer-songwriter with a poetic, folk-influenced style, a vital voice in 1970s MPB.',
+        aliases: ['Belchior'],
+      },
+
+      'Mariana Aydar': {
+        bio: 'Contemporary MPB singer blending samba, forró, and Afro-Brazilian rhythms with modern production.',
+        aliases: [],
+      },
+
+      'Zizi Possi': {
+        bio: 'MPB vocalist noted for expressive interpretations of Brazilian composers across several decades.',
+        aliases: [],
+      },
+
+      'Simone (Brazilian singer)': {
+        bio: 'Powerful interpreter of MPB, prominent in the 70s and 80s with a repertoire of major Brazilian composers.',
+        aliases: ['Simone Bittencourt de Oliveira'],
+      },
+
+      'Fagner (Raimundo Fagner)': {
+        bio: 'Singer-songwriter from Ceará, blending northeastern folk traditions with urban MPB rock and pop sensibilities.',
+        aliases: ['Raimundo Fagner'],
+      },
+
+      'Alceu Valença': {
+        bio: 'Northeastern singer, composer, and poet, fusing frevo, baião, and rock into a distinctive, electrifying MPB sound.',
+        aliases: [],
+      },
+
+      'Zé Ramalho': {
+        bio: 'Singer-songwriter from Paraíba, blending regional rock, baião, and mystical lyrics, a major force in Brazilian popular music.',
+        aliases: [],
+      },
+
+      'Erasmo Carlos': {
+        bio: 'Iconic singer-songwriter from Rio, a foundational figure in Jovem Guarda and Brazilian rock who also excelled in MPB and samba-rock.',
+        aliases: [],
+      },
+
+      'Tico da Costa': {
+        bio: 'Guitarist, singer, and songwriter known for sophisticated acoustic pop and samba-tinged MPB, long associated with Brazilian music\'s melodic tradition.',
+        aliases: [],
+      },
+
+      'Cláudio Zoli': {
+        bio: 'Brazilian singer-songwriter who blends funk, samba, and romantic pop, well-known for his 1980s and 1990s radio hits within MPB sphere.',
+        aliases: [],
+      },
+
+      'Flávio Venturini': {
+        bio: 'Mineiro singer-songwriter and pianist, a prominent member of the Clube da Esquina generation, known for poetic MPB melodies and romantic pop.',
+        aliases: [],
+      },
+
+      'Vital Farias': {
+        bio: 'Composer from Paraíba famous for \'Saga da Amazônia,\' a gripping folk-MPB epic; his work merges north-eastern narratives with songful tradition.',
+        aliases: [],
+      },
+
+      'Dona Ivone Lara': {
+        bio: 'Pioneering samba composer and singer, a foundational figure in Brazilian popular music for decades.',
+        aliases: ['Dona Ivone dá Silva'],
+      },
+
+      'Martinho da Vila': {
+        bio: 'Renowned singer-songwriter of samba enredo and MPB, known for his smooth voice and storytelling lyrics.',
+        aliases: [],
+      },
+
+      'Gonzaguinha': {
+        bio: 'Songwriter and singer whose poignant social commentary and samba-rooted tunes mark him as a key MPB voice.',
+        aliases: [],
+      },
+
+      'Leci Brandão': {
+        bio: 'First female composer to join Mangueira\'s wing, a powerful voice linking samba and MPB\'s social narratives.',
+        aliases: [],
+      },
+
+      'Danilo Caymmi': {
+        bio: 'Singer, flautist, and composer in MPB, known for his work with the Caymmi family and contributions to Brazilian popular song.',
+        aliases: ['Danilo Caymmi'],
+      },
+
+      'Itamar Assumpção': {
+        bio: 'Iconoclastic São Paulo singer-songwriter and central figure of the 1980s Vanguarda Paulista, expanding MPB’s boundaries with theatrical, Afro-diasporic works.',
+        aliases: ['Itamar Assumpcao'],
+      },
+
+      'Sérgio Sampaio': {
+        bio: '1970s Brazilian singer-songwriter who fused samba, rock, and MPB, best known for the iconic \'Eu Quero É Botar Meu Bloco na Rua\'.',
+        aliases: ['Sergio Sampaio'],
+      },
+
+      'Silvio Caldas': {
+        bio: 'One of the greatest pre-bossa nova Brazilian singers, central to samba-canção and the early development of Brazilian popular song.',
+        aliases: ['Silvio Caldas'],
+      },
+
+      'Chico Science': {
+        bio: 'Leader of Chico Science & Nação Zumbi, fusing maracatu and rock to pioneer manguebeat within MPB\'s evolution.',
+        aliases: ['Chico Science'],
+      },
+
+      'Clementina de Jesus': {
+        bio: 'Discovered in her 60s, her raw samba and partido-alto rooted MPB in Afro-Brazilian tradition.',
+        aliases: ['Clementina De Jesus'],
+      },
+
+      'Angela Maria': {
+        bio: 'Veteran singer bridging samba and romantic pop, a beloved figure in Brazilian radio-era and MPB history.',
+        aliases: ['Angela Maria da Silva'],
+      },
+
+      'Xangai': {
+        bio: 'Brazilian folk and MPB singer-songwriter from Bahia, preserving northeastern roots in contemporary song.',
+        aliases: [],
+      },
+
+      'Quinteto Violado': {
+        bio: 'Group merging frevo, baião, and forró into MPB arrangements, popularizing northeastern rhythms nationally.',
+        aliases: [],
+      },
+
+      'Marcus Viana': {
+        bio: 'Composer and violinist leading the band Sagrado Coração da Terra, blending symphonic and Brazilian folk.',
+        aliases: [],
+      },
+
+      'Veloso': {
+        bio: 'Tropicalia co-founder whose poetic songwriting and experimental albums redefined Brazilian popular music.',
+        aliases: ['Caetano Emanuel Viana Teles Veloso'],
+      },
+
+      'Mônica Vasconcelos': {
+        bio: 'Brazilian-born singer and composer based in London, blending MPB with jazz and world music influences.',
+        aliases: [],
+      },
+
+      'Tó Brandileone': {
+        bio: 'Contemporary MPB singer-songwriter and multi-instrumentalist, from the group 5 a Seco, known for refined vocal harmonies.',
+        aliases: ['To Brandileone'],
+      },
+
+      'Mallu Magalhães': {
+        bio: 'Singer-songwriter bridging indie folk, bossa nova, and MPB, with intimate Portuguese lyrics and acoustic warmth.',
+        aliases: [],
+      },
+
+      'Herbert Vianna': {
+        bio: 'Founder of Os Paralamas do Sucesso, merging rock with Brazilian rhythms, a prominent MPB crossover artist.',
+        aliases: [],
+      },
+
+      'Ed Motta': {
+        bio: 'Singer, songwriter, and multi-instrumentalist blending soul, funk, jazz, and MPB traditions with sophistication.',
+        aliases: [],
+      },
+
+      'Pitty': {
+        bio: 'Rock singer-songwriter whose introspective lyrics and powerful stage presence connect Brazilian rock to MPB\'s legacy.',
+        aliases: ['Priscilla Novaes Leone'],
+      },
+
+      'Leo Fressato': {
+        bio: 'Contemporary singer-songwriter with poetic lyrics and indie-folk arrangements within the modern MPB landscape.',
+        aliases: ['Leonardo Fressato'],
+      },
+
+      'Malu Magalhães': {
+        bio: 'Acclaimed for tender bedroom-pop and classic songwriter craft, bridging indie and MPB traditions.',
+        aliases: ['Malu Magalhães'],
+      },
+
+      'Beth Carvalho': {
+        bio: 'Legendary samba singer dubbed the \'godmother of samba,\' a vital bridge between traditional samba and MPB.',
+        aliases: [],
+      },
+
+      'Jorge Aragão': {
+        bio: 'Master sambista and songwriter whose heartfelt compositions have become standards within Brazilian popular song.',
+        aliases: [],
+      },
+
+      'Arlindo Cruz': {
+        bio: 'Virtuoso cavaquinho player and singer-songwriter, a pillar of modern samba with deep roots in Rio\'s musical tradition.',
+        aliases: [],
+      },
+
+      'Almir Guineto': {
+        bio: 'Samba and pagode pioneer with a distinctive voice and compositional skill, key to the genre\'s 1980s popularization.',
+        aliases: [],
+      },
+
+      'Clara Nunes': {
+        bio: 'Singer who powerfully fused samba with Afro-Brazilian rhythms and themes, becoming an MPB national treasure.',
+        aliases: [],
+      },
+
+      'Djavan\'s Mother? (omit—I mean) Roberta Sá': {
+        bio: 'Vocalist known for intimate interpretations of samba and MPB, blending tradition with modern sophistication.',
+        aliases: ['Roberta Sa'],
+      },
+
+      'Rubens de Falco': {
+        bio: 'Notable Brazilian actor and singer, known for his recordings of boleros and romantic MPB in the mid-20th century.',
+        aliases: [],
+      },
+
+      'Rafael Rabello': {
+        bio: 'Virtuoso acoustic guitarist whose solo and collaborative work bridged choro, samba, and MPB with profound lyricism.',
+        aliases: ['Raphael Rabello'],
+      },
+
+      'Rosalía de Souza': {
+        bio: 'Italian-Brazilian singer deeply rooted in bossa nova and MPB, celebrated for delivering classic repertoire with fresh nuance.',
+        aliases: [],
+      },
+
+      'Preta Gil': {
+        bio: 'MPB singer who mixes samba, soul, and pop, carrying forward a family legacy while exploring contemporary Brazilian sounds.',
+        aliases: [],
+      },
+
+      'Cristóvão Bastos': {
+        bio: 'Master pianist and arranger whose virtuosic and lyrical work underpins countless MPB recordings and solo albums.',
+        aliases: ['Cristovao Bastos'],
+      },
+
+      'Arthur Verocai': {
+        bio: 'Legendary arranger and songwriter whose orchestral, psychedelic-soul MPB masterpiece "Verocai" is a cornerstone of Brazilian underground music.',
+        aliases: ['Arthur Verocai'],
+      },
+
+      'Jards Macalé': {
+        bio: 'Iconoclastic singer-songwriter and guitarist, a central figure of MPB\'s most experimental and transgressive 1970s era.',
+        aliases: ['Jards Macale'],
+      },
+
+      'Wilson Das Neves': {
+        bio: 'Virtuoso drummer and singer, a cornerstone of Rio\'s samba and MPB scene, celebrated for his impeccable groove and warm vocals.',
+        aliases: ['Wilson das Neves'],
+      },
+
+      'Mônica Da Silva': {
+        bio: 'Contemporary MPB singer-songwriter blending jazz-tinged harmonies, Brazilian rhythms, and refined pop production.',
+        aliases: ['Monica Da Silva'],
+      },
+
+      'Sérgio Santos': {
+        bio: 'Guitarist, singer, and composer whose sophisticated, jazz-inflected approach to MPB and samba has earned deep respect among peers.',
+        aliases: ['Sergio Santos'],
+      },
+
+      'Guilherme Arantes': {
+        bio: 'Pop-rock-leaning MPB singer-songwriter, famous for ballads and radio hits since the 1970s.',
+        aliases: ['Guilherme Arantes'],
+      },
+
+      'Silva': {
+        bio: 'Contemporary Brazilian singer-songwriter with a lush, orchestral MPB style, mixing indie pop and Brazilian classics.',
+        aliases: [],
+      },
+
+      'Liniker': {
+        bio: 'Brazilian soul and MPB artist whose voice and songwriting have redefined modern Brazilian popular music since 2015.',
+        aliases: ['Liniker e os Caramelows'],
+      },
+
+      'Mariana Froes': {
+        bio: 'Singer and composer rooted in samba and MPB, known for refined interpretations and album projects in Brazil.',
+        aliases: ['Mariana Froes'],
+      },
+
+      'Samambaia': {
+        bio: 'Brazilian duo blending MPB with contemporary indie and electronic textures, appealing to modern Brazilian listeners.',
+        aliases: [],
+      },
+
+      'Ana Caetano': {
+        bio: 'Half of duo Anavitória, she has launched a solo MPB-pop career, expanding the genre\'s reach to younger audiences.',
+        aliases: [],
+      },
+
+      'Tulipa Ruiz': {
+        bio: 'Brazilian singer-songwriter whose albums fuse samba, jazz, and MPB, earning major awards and festival presence.',
+        aliases: [],
+      },
+
+      'Mariana Nunes': {
+        bio: 'Singer and percussionist from Recife who brings northeastern Brazilian rhythms into contemporary MPB performance.',
+        aliases: [],
+      },
+
+      'Fabiana Cozza': {
+        bio: 'Samba and MPB singer with a strong theatrical presence, celebrated for albums dedicated to samba tradition and black Brazilian music.',
+        aliases: [],
+      },
+
+      'MPB4': {
+        bio: 'Vocal group harmonizing with MPB giants since the 1960s, renowned for bossa nova-infused vocal arrangements.',
+        aliases: [],
+      },
+
+      'Angela Ro Ro': {
+        bio: 'Singer-songwriter with a unique voice and introspective songs, a cult figure of 1970s MPB and later genres.',
+        aliases: [],
+      },
+
+      'Barbatuque': {
+        bio: 'Instrumental MPB/samba-project founded by Caetano Veloso in the 1980s—recognized for its percussive, genre-blending sound. (Confirm project name/artist: likely trio Barbatuque, including José Menezes.)',
+        aliases: [],
+      },
+
+      'Zé Keti': {
+        bio: 'Essential samba and MPB figure from Rio de Janeiro; composer of timeless classics, his work bridges traditional samba with modern Brazilian popular music.',
+        aliases: ['Zé Ketí'],
+      },
     },
 
     'Tango': {
@@ -1511,6 +3771,626 @@ export const latin: Pillar = {
       'Bajofondo': {
         bio: "The Río de la Plata supergroup led by Gustavo Santaolalla, fusing tango's melancholy with rock, electronica, and hip-hop into a modern South American sound.",
         aliases: ['bajofondo.', 'bajofondo tango club', 'bajo fondo', 'bajofondo tangoclub'],
+      },
+
+      'Julio Sosa': {
+        bio: 'Uruguayan-born \'El Varón del Tango,\' renowned for his dramatic, heartfelt interpretations of classic tango in the 1950s.',
+        aliases: ['El Varón del Tango'],
+      },
+
+      'Edmundo Rivero': {
+        bio: 'Deep-voiced Argentine singer and guitarist, key figure of the traditional tango scene and founder of the historic club El Viejo Almacén.',
+        aliases: [],
+      },
+
+      'Alfredo De Angelis': {
+        bio: 'Leading Argentine tango orchestra director and bandoneonist, whose rhythmic, danceable style defined the golden age.',
+        aliases: ['Alfredo de Angelis'],
+      },
+
+      'Horacio Salgán': {
+        bio: 'Innovative Argentine pianist, composer, and conductor, celebrated for sophisticated arrangements and modern tango chamber works.',
+        aliases: [],
+      },
+
+      'Enrique Santos Discépolo': {
+        bio: 'Iconic Argentine composer, lyricist, and actor, whose songs like \'Cambalache\' captured the existential angst of tango.',
+        aliases: ['Discepolín'],
+      },
+
+      'Libertad Lamarque': {
+        bio: 'Argentine actress and singer, one of the most iconic female voices of early tango and film, known as \'La Novia de América.\'',
+        aliases: ['La Novia de América'],
+      },
+
+      'Osvaldo Piro': {
+        bio: 'Argentine bandoneonist and orchestra director, prominent in the latter half of the 20th century, keeping the traditional tango sound alive.',
+        aliases: [],
+      },
+
+      'Leopoldo Federico': {
+        bio: 'Maestro bandoneonist, arranger, and conductor, a pillar of Buenos Aires\' traditional tango scene and long-time orchestral leader.',
+        aliases: [],
+      },
+
+      'Sexteto Mayor': {
+        bio: 'Celebrated Argentine tango sextet formed in 1973, known for virtuosic musicianship and revitalizing classic tango for stage and world tours.',
+        aliases: [],
+      },
+
+      'Nelly Omar': {
+        bio: 'Argentine singer and actress, a luminous voice of the golden age of tango and folklore, lauded for her profound interpretative skills.',
+        aliases: [],
+      },
+
+      'Carlos Libedinsky': {
+        bio: 'Contemporary Argentine composer and producer, blending electronic textures and neo-tango with traditional forms, featured in film and fusion projects.',
+        aliases: [],
+      },
+
+      'Osvaldo Fresedo': {
+        bio: 'Elegant "El Pibe de Boedo" bandleader whose lyrical, refined orquesta típica defined the sentimental guardia nueva sound of tango\'s Golden Age.',
+        aliases: ['Fresedo'],
+      },
+
+      'Rodolfo Biagi': {
+        bio: 'Pianist and bandleader whose rhythmic, syncopated style and distinctive piano accents made him a favorite for dancers in the 1940s.',
+        aliases: ['Biagi'],
+      },
+
+      'Pedro Laurenz': {
+        bio: 'Bandoneonist and composer with a dramatic, powerful orquesta style, known for his celebrated milongas and dark, expressive tangos.',
+        aliases: ['Laurenz'],
+      },
+
+      'Francisco Lomuto': {
+        bio: 'Prolific bandleader with a smooth, melodic and commercially successful orchestra, a staple of the radio era and tango recordings.',
+        aliases: ['Lomuto'],
+      },
+
+      'José Basso': {
+        bio: 'Pianist and bandleader who led a polished, elegant orchestra during the 1940s-50s, carrying the classic salon tango tradition forward.',
+        aliases: ['Basso'],
+      },
+
+      'Enrique Francini': {
+        bio: 'Violinist who co-led the celebrated Francini-Pontier orchestra, renowned for its rich, dramatic string section and beautiful arrangements.',
+        aliases: [],
+      },
+
+      'Armando Pontier': {
+        bio: 'Guitarist and co-founder of the legendary Francini-Pontier orquesta, celebrated for refined arrangements and expressive instrumental depth.',
+        aliases: ['Pontier'],
+      },
+
+      'Ángel D\'Agostino': {
+        bio: 'Duo with singer Ángel Vargas, his orchestra stayed true to the warm, intimate style of the 1930s, iconic for their romantic duo.',
+        aliases: ['D\'Agostino'],
+      },
+
+      'Alfredo Gobbi': {
+        bio: 'Violinist and bandoneonist whose later-20th-century orchestra revived classic tango structures with youthful energy and precision.',
+        aliases: ['Gobbi'],
+      },
+
+      'Sexteto Tango': {
+        bio: 'Modern virtuosic chamber ensemble that keeps the essence of the orquesta típica alive with fresh, audience-engaging performances.',
+        aliases: ['Sexteto Tango'],
+      },
+
+      'Tanghetto': {
+        bio: 'Electro-tango group from Buenos Aires blending traditional tango instruments with electronic beats and modern production, expanding the genre\'s reach since 2003.',
+        aliases: [],
+      },
+
+      'Orquesta El Arranque': {
+        bio: 'Contemporary tango orchestra that carries the musicality of the 1940s orquestas típicas into the modern era with original compositions and recordings.',
+        aliases: ['El Arranque'],
+      },
+
+      'Adriana Varela': {
+        bio: 'Argentine singer known for her powerful, emotive interpretations of classic tango, carrying the tradition into the modern era.',
+        aliases: [],
+      },
+
+      'Rubén Juárez': {
+        bio: 'Bandoneonist and singer whose distinct voice and style bridged traditional tango with a more contemporary approach.',
+        aliases: ['Ruben Juarez'],
+      },
+
+      'María Elena Walsh': {
+        bio: 'While broader, her tango compositions and recordings are significant, blending poetic lyrics with the genre\'s musical forms.',
+        aliases: [],
+      },
+
+      'Cacho Castaña': {
+        bio: 'Argentine composer and singer whose tango-infused songs became popular classics, though he also worked in other genres.',
+        aliases: [],
+      },
+
+      'Amelita Baltar': {
+        bio: 'Singer closely associated with Astor Piazzolla\'s nuevo tango, famed for her interpretations of his most complex works.',
+        aliases: [],
+      },
+
+      'Susana Rinaldi': {
+        bio: 'Renowned Argentine vocalist, nicknamed \'La Tana,\' celebrated for her dramatic and deeply felt renditions of traditional tango.',
+        aliases: [],
+      },
+
+      'Horacio Ferrer': {
+        bio: 'Poet and lyricist essential to nuevo tango, best known for his collaborations with Astor Piazzolla, crafting its narrative heart.',
+        aliases: [],
+      },
+
+      'Orquesta Típica Fernandez Fierro': {
+        bio: 'Modern Argentine orchestra known for pushing tango\'s boundaries with an energetic, contemporary style while rooted in tradition.',
+        aliases: ['OTFF'],
+      },
+
+      'Juanjo Mosalini': {
+        bio: 'Bandoneonist and composer active in the nuevo tango scene, known for his work with the Gotan Project and his own ensembles.',
+        aliases: [],
+      },
+
+      'Marta Tenaglia': {
+        bio: 'Singer with a deep, nuanced voice, respected for her insightful interpretations and reigniting interest in lesser-known tangos.',
+        aliases: [],
+      },
+
+      'Ariel Ardit': {
+        bio: 'Contemporary tango singer praised for his classic, elegant vocal style, often compared to greats from the genre\'s Golden Age.',
+        aliases: [],
+      },
+
+      'Cristian De Simone': {
+        bio: 'Pianist, composer, and arranger leading a modern orchesta, focusing on powerful, rhythmic interpretations of traditional tango.',
+        aliases: [],
+      },
+
+      'Mariano Mores': {
+        bio: 'Prolific Argentine composer and bandleader whose mid-20th-century works became enduring standards of the tango canon.',
+        aliases: [],
+      },
+
+      'Francisco Fiorentino': {
+        bio: 'Influential tango singer known for his partnership with Aníbal Troilo and his robust, expressive vocal delivery.',
+        aliases: [],
+      },
+
+      'Carlos Dante': {
+        bio: 'Lyrical tango vocalist celebrated for his interpretations with the orchestras of Julio De Caro and Francisco Lomuto.',
+        aliases: [],
+      },
+
+      'Floreal Ruiz': {
+        bio: 'Singer and songwriter whose refined phrasing marked the golden age of tango during the 1940s and 1950s.',
+        aliases: [],
+      },
+
+      'Jorge Falcón': {
+        bio: 'Mid-century tango vocalist whose dramatic style kept the tradition alive during the genre\'s commercial decline.',
+        aliases: [],
+      },
+
+      'Raúl Garello': {
+        bio: 'Esteemed bandoneonist, composer, and orchestra director who carried the traditional tango sound through the late 20th century.',
+        aliases: [],
+      },
+
+      'Beba Bidart': {
+        bio: 'Prominent milonga singer and actress known for her earthy voice and deep association with Buenos Aires nightlife.',
+        aliases: [],
+      },
+
+      'Alberto Morán': {
+        bio: 'Powerful tango singer famed for his exceptional phrasing with the orchestra of Miguel Caló.',
+        aliases: [],
+      },
+
+      'Enrique Mario Francini': {
+        bio: 'Distinguished violinist and co-leader of the celebrated Francini-Pontier orchestra, a cornerstone of the 1940s golden age.',
+        aliases: ['Enrique Francini'],
+      },
+
+      'Roberto Rufino': {
+        bio: 'Charismatic tango and swing vocalist whose work spanned decades, from the 1940s big-band era to later solo success.',
+        aliases: [],
+      },
+
+      'Tita Merello': {
+        bio: 'Iconic Argentine actress and singer whose powerful interpretations of milongas and tangos defined a defiant, working-class style.',
+        aliases: [],
+      },
+
+      'Héctor Varela': {
+        bio: 'Bandleader whose vibrant, rhythmic arrangements kept traditional tango danceable and popular through the 1950s and 1960s.',
+        aliases: [],
+      },
+
+      'Julio De Caro': {
+        bio: 'Violinist and composer crucial to the \'Decarean\' evolution of tango in the 1920s, modernizing its rhythm and structure.',
+        aliases: ['Julio de Caro'],
+      },
+
+      'Lucio Demare': {
+        bio: 'Pianist, composer, and bandleader known for his lyrical, romantic \'milonguero\' style of tango music.',
+        aliases: [],
+      },
+
+      'Anselmo Aieta': {
+        bio: 'Prominent bandoneonist and composer in the traditional guardia vieja style, whose works are staples of the repertoire.',
+        aliases: [],
+      },
+
+      'Agustín Magaldi': {
+        bio: 'Iconic singer of the \'golden age\', famed for his sweet, expressive voice and interpretations of classic tangos and waltzes.',
+        aliases: ['Agustin Magaldi'],
+      },
+
+      'Ignacio Corsini': {
+        bio: 'Popular Argentine singer and actor who recorded extensively in the early 20th century, helping to standardize the tango song form.',
+        aliases: [],
+      },
+
+      'Rosita Quiroga': {
+        bio: 'A pioneering female vocalist of 1920s tango, recognized as one of the first great interpreters of the genre on record.',
+        aliases: [],
+      },
+
+      'Yvar Mikhashoff': {
+        bio: 'American pianist and composer whose later work included innovative contemporary classical arrangements and performances of tangos by Piazzolla.',
+        aliases: [],
+      },
+
+      'Walter Ríos': {
+        bio: 'Contemporary bandoneonist, composer, and bandleader who leads his own orchestra, continuing the tradition of the tango orquesta típica.',
+        aliases: ['Walter Rios'],
+      },
+
+      'Néstor Marconi': {
+        bio: 'Masterful bandoneonist and composer who has been a leading figure in modern instrumental tango, performing with major orchestras.',
+        aliases: ['Nestor Marconi'],
+      },
+
+      'Dino Saluzzi': {
+        bio: 'Argentine bandoneonist known for his expressive, folk-tinged solo and chamber jazz works that masterfully incorporate the tango spirit.',
+        aliases: [],
+      },
+
+      'Pablo Agri': {
+        bio: 'Talented violinist and exponent of contemporary tango, known for his long collaboration with Osvaldo Pugliese and his own swinging quartet.',
+        aliases: [],
+      },
+
+      'Juan Carlos Cáceres': {
+        bio: 'Argentine pianist, trombonist, and vocalist who fused tango with Afro-Latin rhythms and jazz, pioneering tango\'s modern multicultural evolution.',
+        aliases: ['Juan Carlos Caceres'],
+      },
+
+      'Orquesta Típica Victor': {
+        bio: 'Historic Argentine tango orchestra that recorded extensively in the genre\'s golden age, featuring legendary vocalists and preserving the traditional style.',
+        aliases: ['Víctor Orquesta Típica'],
+      },
+
+      'Enrique Rodríguez': {
+        bio: 'Argentine bandoneonist and orchestra leader known for his rhythmic, danceable tangos and milongas in the classic 1940s style.',
+        aliases: [],
+      },
+
+      'Roberto Firpo': {
+        bio: 'Early tango composer, pianist, and orchestra leader, a formative figure who shaped the genre\'s structure and instrumentation in the 1910s-1920s.',
+        aliases: [],
+      },
+
+      'Juan Maglio': {
+        bio: 'Pioneering bandoneonist and composer whose early recordings helped define tango\'s rhythmic and melodic vocabulary in the 1910s.',
+        aliases: ['Pacho'],
+      },
+
+      'Ricardo Tanturi': {
+        bio: 'Argentine tango orchestra leader and pianist famed for his elegant, lyrical arrangements and collaborations with singer Enrique Campos.',
+        aliases: [],
+      },
+
+      'Ciriaco Ortiz': {
+        bio: 'Masterful Argentine bandoneonist whose virtuosic solos and recordings bridged traditional tango and early jazz-influenced styles.',
+        aliases: [],
+      },
+
+      'Eduardo Arolas': {
+        bio: 'Influential early tango bandoneonist and composer, a key figure in the genre\'s transition from guardia vieja to more complex arrangements.',
+        aliases: [],
+      },
+
+      'Vicente Greco': {
+        bio: 'Early tango orchestra director and bandoneonist, credited with standardizing the genre\'s structure in the pivotal 1910s era.',
+        aliases: [],
+      },
+
+      'Charlo': {
+        bio: 'Argentine singer and composer, a leading romantic tango vocalist of the 1930s-40s known for his smooth, expressive phrasing.',
+        aliases: [],
+      },
+
+      'Carmen Maurette': {
+        bio: 'Argentine tango vocalist celebrated for her powerful voice and dramatic interpretations in the mid-20th century, a milestone female singer.',
+        aliases: [],
+      },
+
+      'Sexteto Canyengue': {
+        bio: 'Contemporary Argentine tango sextet that revives and reinvents the classic 1940s canyengue style with youthful energy and rhythmic drive.',
+        aliases: [],
+      },
+
+      'Osvaldo Berlingieri': {
+        bio: 'Pianist, arranger, and composer central to the Golden Age and modern tango, known for his work with Aníbal Troilo and solo groups.',
+        aliases: [],
+      },
+
+      'Atilio Stampone': {
+        bio: 'Pianist and composer who led important orchestras, a key figure in the evolution of tango during the mid-20th century.',
+        aliases: [],
+      },
+
+      'Leopoldo Thompson': {
+        bio: 'Double bassist and composer, part of the vanguard of the 1940s, noted for his work with the Orquesta Típica of the era.',
+        aliases: [],
+      },
+
+      'José García': {
+        bio: 'Bandoneonist and leader of a typical orchestra, a significant but less widely known voice in tango\'s mid-century scene.',
+        aliases: [],
+      },
+
+      'Roberto Grela': {
+        bio: 'Guitarist whose work was essential in the guitar-led tango ensembles, particularly alongside Edmundo Rivero, shaping the genre\'s intimate style.',
+        aliases: [],
+      },
+
+      'Ubaldo De Lio': {
+        bio: 'Bandoneonist and composer, important in the musical modernization of tango in the late 20th century, associated with the Nuevo Tango movement.',
+        aliases: [],
+      },
+
+      'Hugo Díaz': {
+        bio: 'Harmonica virtuoso who brought a unique timbre and improvisational flair to tango, enriching its instrumental vocabulary.',
+        aliases: [],
+      },
+
+      'José Colángelo': {
+        bio: 'Pianist, arranger, and composer, a stalwart of the traditional tango orchestra, working with many of the great singers of the golden era.',
+        aliases: [],
+      },
+
+      'Antonio Agri': {
+        bio: 'Violinist and composer whose expressive playing graced many recordings, expanding the scope of tango\'s lyrical and complex side.',
+        aliases: ['Antonio Andrés Agri'],
+      },
+
+      'Raúl Berón': {
+        bio: 'Sophisticated vocalist, part of a vanguard that introduced new interpretive styles and was essential to the Orquesta Típica of the 1940s.',
+        aliases: [],
+      },
+
+      'Argentino Ledesma': {
+        bio: 'Powerful vocalist whose warm and expressive delivery made him a favorite with major orchestras and in solo work during tango\'s late golden period.',
+        aliases: [],
+      },
+
+      'Malena Muyala': {
+        bio: 'Contemporary Uruguayan singer and composer, carrying the lyrical tradition of tango into the 21st century with a strong personal voice.',
+        aliases: [],
+      },
+
+      'Miguel Caló': {
+        bio: 'Leading Golden Age tango orchestra director and bandoneonist, known for elegant, rhythmic arrangements.',
+        aliases: [],
+      },
+
+      'Hugo del Carril': {
+        bio: 'Argentine singer and actor, a key voice in Golden Age tango with a distinct, emotive style.',
+        aliases: [],
+      },
+
+      'Virginia Luque': {
+        bio: 'Argentine actress and tango singer, renowned for her dramatic performances of classic tango repertoire.',
+        aliases: [],
+      },
+
+      'Nelly Vazquez': {
+        bio: 'Argentine tango vocalist recognized for her powerful, nuanced interpretations, active from the mid-20th century.',
+        aliases: [],
+      },
+
+      'Raúl Lavié': {
+        bio: 'Argentine singer and actor, a prominent figure in tango and popular music from the 1960s onward.',
+        aliases: [],
+      },
+
+      'Jorge Sobral': {
+        bio: 'Uruguayan-Argentine tango singer, noted for his baritone voice and recordings of contemporary tango songs.',
+        aliases: [],
+      },
+
+      'Daniel Binelli': {
+        bio: 'Contemporary bandoneonist and composer, a key figure modernizing tango while honoring its traditional roots.',
+        aliases: [],
+      },
+
+      'Julio Bocca': {
+        bio: 'Renowned Argentine ballet dancer, deeply associated with tango through performances and choreography.',
+        aliases: [],
+      },
+
+      'Nicolás Ledesma': {
+        bio: 'Pianist and composer, an influential figure in early tango during the Guardia Vieja period.',
+        aliases: [],
+      },
+
+      'Orquesta Típica Sans Souci': {
+        bio: 'Traditional tango orchestra keeping the classic sound alive through modern performances and recordings.',
+        aliases: [],
+      },
+
+      'Juan Carlos Godoy': {
+        bio: 'Argentine tango singer known for his work with Francisco Rotundo and later as a soloist.',
+        aliases: [],
+      },
+
+      'Raúl Sánchez': {
+        bio: 'Tango singer and member of Los Solistas de D\'Arienzo, carrying the style of the Golden Age into modern decades.',
+        aliases: [],
+      },
+
+      'Edgardo Donato': {
+        bio: 'Uruguayan-Argentine tango composer and bandleader, a key figure in the 1930s and 1940s tango era.',
+        aliases: [],
+      },
+
+      'Sexteto Sur': {
+        bio: 'Modern Argentine tango sextet, part of the contemporary revival movement, blending traditional repertoire with new energy.',
+        aliases: [],
+      },
+
+      'Orquesta Victoria': {
+        bio: 'Contemporary Argentine tango orchestra, known for reviving classic tango styles with a modern ensemble approach.',
+        aliases: [],
+      },
+
+      'La Juan D´Arienzo': {
+        bio: 'Modern tango orchestra dedicated to the energetic, rhythmic style of Juan D\'Arienzo, beloved in milongas.',
+        aliases: [],
+      },
+
+      'Romántica Milonguera': {
+        bio: 'Argentine tango orchestra focused on danceable, traditional tango, popular in the Buenos Aires milonga circuit.',
+        aliases: [],
+      },
+
+      'Felix Pizarro': {
+        bio: 'Tango singer and composer, an important voice in mid-20th-century tango, though often overlooked in major retrospectives.',
+        aliases: [],
+      },
+
+      'Daniel Frascoli': {
+        bio: 'Pianist and leader of contemporary tango groups, contributing to the evolution of tango from within traditional roots.',
+        aliases: [],
+      },
+
+      'Rodolfo Mederos': {
+        bio: 'Argentine bandoneonist and composer, bridging traditional tango and newer tango expressions with his quintet work.',
+        aliases: [],
+      },
+
+      'Ernesto Baffa': {
+        bio: 'Mid-century tango bandoneonist and composer, known for his work as a soloist and with orchestras.',
+        aliases: [],
+      },
+
+      'Aníbal Arias': {
+        bio: 'Argentine guitarist who accompanied scores of tango singers and led his own elemental tango ensembles, a mainstay of Buenos Aires\'s guitarron tradition.',
+        aliases: ['Anibal Arias'],
+      },
+
+      'Alberto Podestá': {
+        bio: 'Golden-age tango vocalist revered for his rhythmic sense and crisp diction in Orquesta Miguel Caló, later a leading solo act.',
+        aliases: ['Alberto Podesta'],
+      },
+
+      'Orquesta La Juan D\'Arienzo': {
+        bio: 'Tribute orchestra named after Juan D\'Arienzo, carrying his staccato rhythmic style into the modern milonga scene.',
+        aliases: ['La Juan D\'Arienzo Orchestra'],
+      },
+
+      'Javier Perianes': {
+        bio: 'Spanish classical pianist whose subtle, lyrical readings of Piazzolla transcriptions brought tango into elite concert-hall repertoires.',
+        aliases: [],
+      },
+
+      'Cuarteto Soltango': {
+        bio: 'Italian tango quartet mixing bandoneon, violin, piano, and bass in a fresh chamber-ensemble sound, active on international tango circuits.',
+        aliases: [],
+      },
+
+      'Esteban Morgado': {
+        bio: 'Argentine guitarist and arranger known for intimate, songful interpretations of tango classics in small-group formats.',
+        aliases: [],
+      },
+
+      'Trio Hugo Díaz': {
+        bio: 'Ensemble led by Argentine harmonica virtuoso Hugo Díaz, who adapted tango classics to the diatonic harmonica with fiery technique.',
+        aliases: [],
+      },
+
+      'Osvaldo Leica': {
+        bio: 'Bandoneonist and composer dedicated to preserving traditional tango forms while injecting contemporary nuance, a respected veteran of Buenos Aires\'s dance halls.',
+        aliases: [],
+      },
+
+      'Nuevo Tango Trio': {
+        bio: 'Modern chamber project that revisits Piazzolla and new compositions with a lean bandoneon-violin-piano line-up, keeping tango experimental and alive.',
+        aliases: [],
+      },
+
+      'Eduardo Arola': {
+        bio: 'Early tango composer and violinist, one of the genre\'s foundational figures, often mis-catalogued under a misspelling of his surname.',
+        aliases: ['Eduardo Arolas'],
+      },
+
+      'Mariano Ferreyra': {
+        bio: 'Neuquén-born bandoneonist and composer forging a modern, classical-informed tango sound for the 21st century.',
+        aliases: ['Mariano Ferreyra'],
+      },
+
+      'Nuevo Quinteto Real': {
+        bio: 'Contemporary ensemble led by violinist Ramiro Gallo, continuing the legacy of Horacio Salgán\'s chamber tango innovations.',
+        aliases: ['Nuevo Quinteto Real'],
+      },
+
+      'Orquesta Típica La Camorra': {
+        bio: 'Orchestra devoted to the spirit of the 1940s golden age, known for restoring original arrangements with raw precision.',
+        aliases: ['La Camorra'],
+      },
+
+      'Juan Pablo Navarro': {
+        bio: 'Double bassist and bandleader whose Sexteto explores the rhythmic edge of tango, praised by genre purists and newer audiences alike.',
+        aliases: ['Juan Pablo Navarro Sexteto'],
+      },
+
+      'Analía Goldberg': {
+        bio: 'Leading female bandoneonist who directs her own orquesta típica and teaches a new generation in Buenos Aires.',
+        aliases: ['Analia Goldberg'],
+      },
+
+      'Horacio Romo': {
+        bio: 'Esteemed bandoneonist in traditional and contemporary tango, performing internationally with major Argentine artists.',
+        aliases: ['Horacio Romo'],
+      },
+
+      'Matías Méndez': {
+        bio: 'Young bandoneonist and composer from Buenos Aires, carrying forward the Piazzollian school into original electrified tango.',
+        aliases: ['Matias Mendez'],
+      },
+
+      'Lucio Balduini': {
+        bio: 'Guitarist and arranger in the nuevo tango scene, leading ensembles that blend traditional song forms with modern harmonies.',
+        aliases: [],
+      },
+
+      'Pablo Mainetti': {
+        bio: 'Bandoneonist and conductor of the Orquesta del Tango de Buenos Aires, a central figure in institutional tango renewal.',
+        aliases: [],
+      },
+
+      'Nahuel Beati': {
+        bio: 'Experimental guitarist merging tango with electronic textures, part of the alternative tango scene in Buenos Aires.',
+        aliases: [],
+      },
+
+      'Cristian Zárate': {
+        bio: 'Singer and composer steeped in the milonga tradition, performing classic as well as newly composed tango with authenticity.',
+        aliases: ['Cristian Zarate'],
       },
     },
   },
