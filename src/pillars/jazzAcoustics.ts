@@ -336,6 +336,106 @@ export const jazzAcoustics: Pillar = {
         bio: 'A defining voice of West Coast and hard-bop guitar whose blistering swing and deep chordal knowledge anchored countless mid-century studio dates.',
         aliases: ['b. kessel', 'kessel', 'barney kessel trio', 'barney kessel guitar', 'barny kessel', 'barney kesel'],
       },
+
+      'Jimmy Heath': {
+        bio: 'Tenor saxophonist, composer and arranger whose 1950s–70s recordings epitomize hard bop’s sophisticated, blues‑inflected swing.',
+        aliases: [],
+      },
+
+      'James Moody': {
+        bio: 'Alto and tenor saxophonist famed for bebop and hard bop classics like “Moody’s Mood” and prolific 1960s Blue Note sessions.',
+        aliases: [],
+      },
+
+      'Eric Alexander': {
+        bio: 'Contemporary tenor saxophonist dedicated to hard‑bop language, releasing over a dozen Blue Note albums since 2000.',
+        aliases: [],
+      },
+
+      'Harold Mabern': {
+        bio: 'Pianist who anchored hard bop ensembles from the 1970s onward, noted for driving rhythmic comping and soulful solos.',
+        aliases: [],
+      },
+
+      'Frank Foster': {
+        bio: 'Tenor saxophonist and arranger known for hard‑bop classics like "Shiny Stockings" and pivotal work with Count Basie.',
+        aliases: [],
+      },
+
+      'Al Haig': {
+        bio: 'Pianist who backed Charlie Parker and pioneered bebop piano, delivering rapid, melodic improvisations.',
+        aliases: [],
+      },
+
+      'Howard McGhee': {
+        bio: 'Trumpeter who helped launch bebop, collaborating with Dizzy Gillespie and delivering fiery, virtuosic lines.',
+        aliases: [],
+      },
+
+      'Hank Jones': {
+        bio: 'Elegant pianist bridging swing and bebop, recording numerous hard bop sessions for Prestige and Blue Note.',
+        aliases: [],
+      },
+
+      'Art Taylor': {
+        bio: 'Drummer whose driving, crisp ride patterns powered countless hard bop recordings, notably with Miles Davis and John Coltrane.',
+        aliases: [],
+      },
+
+      'Sam Jones': {
+        bio: 'Bassist whose solid swing and blues feel anchored classic hard bop groups, especially the Cannonball Adderley Quintet.',
+        aliases: [],
+      },
+
+      'Red Rodney': {
+        bio: 'Trumpeter who merged bebop fluency with hard‑edge intensity, recording extensively for Muse and SteepleChase.',
+        aliases: [],
+      },
+
+      'Kenny Drew': {
+        bio: 'Pianist known for lyrical bebop lines and hard bop contributions on Blue Note recordings with Dexter Gordon.',
+        aliases: [],
+      },
+
+      'Joe Gordon': {
+        bio: 'Trumpeter whose concise, fiery bebop phrasing appeared on key hard bop sessions with Charlie Parker and Dexter Gordon.',
+        aliases: [],
+      },
+
+      'Jimmy Cobb': {
+        bio: 'Drummer whose swinging, crisp ride defined Miles Davis\' Kind of Blue and hard bop sessions with Cannonball and Wes Montgomery.',
+        aliases: [],
+      },
+
+      'Bill Hardman': {
+        bio: 'Trumpeter and Blue Note regular, noted for muscular, blues‑driven solos on Art Blakey’s Jazz Messengers.',
+        aliases: [],
+      },
+
+      'Jimmy Raney': {
+        bio: 'Guitarist celebrated for fluid bebop lines and hard‑bop recordings with Stan Getz and his own Blue Note sessions.',
+        aliases: [],
+      },
+
+      'Cecil Payne': {
+        bio: 'Baritone saxophonist whose robust tone powered hard‑bop dates with Dizzy Gillespie and the Jazz Messengers.',
+        aliases: [],
+      },
+
+      'Doug Watkins': {
+        bio: 'Bassist whose solid swing anchored Art Blakey’s early Messengers and countless hard‑bop recordings.',
+        aliases: [],
+      },
+
+      'Nat Adderley': {
+        bio: 'Cornetist whose soulful, blues‑inflected playing anchored Cannonball’s groups and his own hard‑bop ventures.',
+        aliases: ['Nathaniel Adderley'],
+      },
+
+      'Al Cohn': {
+        bio: 'Tenor saxophonist known for crisp, swinging hard‑bop work with Zoot Sims and on Prestige sessions.',
+        aliases: [],
+      },
     },
 
     'Cool / Modal': {
@@ -510,6 +610,81 @@ export const jazzAcoustics: Pillar = {
       'Lyle Mays': {
         bio: 'The sonic architect behind the Pat Metheny Group, whose sweeping synthesizer orchestrations and brilliant acoustic piano elevated fusion into modern classical territory.',
         aliases: ['l. mays', 'mays', 'lyle david mays', 'lyle mays quartet', 'lyle mayes'],
+      },
+
+      'Charlie Haden': {
+        bio: 'Bass virtuoso celebrated for melodic, introspective work in modal contexts, especially with his Liberation Music Orchestra.',
+        aliases: ['Charles Haden'],
+      },
+
+      'Tord Gustavsen': {
+        bio: 'Norwegian pianist whose minimalist, contemplative compositions embody modern cool jazz and modal harmonies.',
+        aliases: [],
+      },
+
+      'Jan Johansson': {
+        bio: 'Swedish pianist famed for folk‑infused, cool jazz trio recordings with modal textures.',
+        aliases: [],
+      },
+
+      'Gary Burton': {
+        bio: 'Vibraphonist noted for lyrical, spacious playing bridging cool jazz and modal exploration.',
+        aliases: [],
+      },
+
+      'Bill Frisell': {
+        bio: 'Guitarist blending ambient soundscapes with cool, modal jazz phrasing.',
+        aliases: ['William Frisell'],
+      },
+
+      'Zoot Sims': {
+        bio: 'Tenor saxophonist whose smooth, cool style incorporated modal approaches in the 1950s.',
+        aliases: ['John Haley Sims'],
+      },
+
+      'Paul Motian': {
+        bio: 'Drummer/composer known for spacious, understated rhythms supporting modal and cool jazz ensembles.',
+        aliases: [],
+      },
+
+      'Bob Brookmeyer': {
+        bio: 'Valve trombonist and arranger merging cool tonal colors with modal structures in 1950s-60s West Coast jazz.',
+        aliases: ['Robert Brookmeyer'],
+      },
+
+      'Ralph Towner': {
+        bio: 'Multi-instrumentalist on ECM whose acoustic guitar and piano compositions explore spacious, modal landscapes.',
+        aliases: [],
+      },
+
+      'John Abercrombie': {
+        bio: 'ECM guitarist celebrated for atmospheric, modal improvisations and understated cool textures.',
+        aliases: [],
+      },
+
+      'George Shearing': {
+        bio: 'Pianist whose elegant block chords and smooth voicings became a hallmark of cool jazz sophistication.',
+        aliases: [],
+      },
+
+      'Eddie Daniels': {
+        bio: 'Clarinetist and saxophonist blending cool tonal purity with modal improvisation across jazz and classical realms.',
+        aliases: ['Edward Daniels'],
+      },
+
+      'Steve Kuhn': {
+        bio: 'Pianist whose lyrical, modal compositions and delicate touch embody the introspective side of cool jazz.',
+        aliases: ['Stephen Kuhn'],
+      },
+
+      'Kenny Werner': {
+        bio: 'Pianist/composer focused on lyrical, modal improvisation and mindful cool aesthetics in contemporary jazz.',
+        aliases: ['Kenneth Werner'],
+      },
+
+      'Mark Turner': {
+        bio: 'Tenor saxophonist whose intricate, modal voicings and cool tone place him squarely in modern cool jazz.',
+        aliases: [],
       },
     },
 
@@ -729,6 +904,196 @@ export const jazzAcoustics: Pillar = {
       'Craig Taborn': {
         bio: 'An unparalleled piano intellect whose pointillist improvisations build massive, churning architectures out of microscopic rhythmic fragments.',
         aliases: ['c. taborn', 'taborn', 'craig taborn trio', 'craig taborn solo', 'craig tabern', 'craig taborne'],
+      },
+
+      'Marilyn Crispell': {
+        bio: 'Piano virtuoso known for intense, spiritual free‑jazz performances and collaborations with Cecil Taylor and Anthony Braxton.',
+        aliases: [],
+      },
+
+      'Joëlle Léandre': {
+        bio: 'French double‑bass/viola improviser celebrated for boundary‑pushing free‑jazz ensembles worldwide.',
+        aliases: ['Jolee Leandre'],
+      },
+
+      'Tony Oxley': {
+        bio: 'British drummer whose abstract, high‑energy improvisations define European free‑jazz percussion.',
+        aliases: [],
+      },
+
+      'David S. Ware': {
+        bio: 'Tenor saxophonist delivering powerful, spiritually charged free‑jazz that bridges avant‑garde intensity with soulful expression.',
+        aliases: ['David Ware'],
+      },
+
+      'Fred Anderson': {
+        bio: 'Chicago tenor sax legend, central to the AACM and renowned for relentless free‑jazz improvisations.',
+        aliases: [],
+      },
+
+      'John Carter': {
+        bio: 'Clarinetist/composer whose avant‑garde work with the Clarinet Trio reshaped free‑jazz structures.',
+        aliases: [],
+      },
+
+      'Mats Gustafsson': {
+        bio: 'Swedish saxophonist and noise‑jazz pioneer noted for ultra‑intense free improvisations.',
+        aliases: [],
+      },
+
+      'Billy Bang': {
+        bio: 'Violinist whose raw, expressive free‑jazz performances expanded the instrument’s improvisational role.',
+        aliases: [],
+      },
+
+      'George E. Lewis': {
+        bio: 'Trombonist and composer whose experimental improvisations anchor the avant‑garde jazz scene.',
+        aliases: ['George Lewis'],
+      },
+
+      'Barre Phillips': {
+        bio: 'Bassist renowned for pioneering solo free‑improvisation and collaborative avant‑garde projects.',
+        aliases: [],
+      },
+
+      'Gunter Hampel': {
+        bio: 'German vibraphonist and multi‑instrumentalist leading groundbreaking free‑improvisation ensembles since the 1960s.',
+        aliases: ['Günter Hampel'],
+      },
+
+      'Peter Kowald': {
+        bio: 'German double bassist renowned for his pioneering low‑frequency improvisations and collaborations with European free‑jazz collectives.',
+        aliases: [],
+      },
+
+      'Charles Tyler': {
+        bio: 'American alto saxophonist who pushed avant‑garde boundaries with fiery, atonal improvisations from the 1970s onward.',
+        aliases: [],
+      },
+
+      'Frank Lowe': {
+        bio: 'Tenor saxophonist blending spiritual jazz with intense free‑form explorations, pivotal in 1970s loft scene.',
+        aliases: [],
+      },
+
+      'Henry Grimes': {
+        bio: 'Bass virtuoso who re‑emerged in the 2000s, championing free improvisation worldwide.',
+        aliases: [],
+      },
+
+      'Nicole Mitchell': {
+        bio: 'Flutist and composer leading AACM‑rooted avant‑garde projects, merging cosmic themes with free improvisation.',
+        aliases: [],
+      },
+
+      'Lotte Anker': {
+        bio: 'Danish saxophonist known for lyrical, exploratory free improvisations with European collectives.',
+        aliases: [],
+      },
+
+      'Paul Rutherford': {
+        bio: 'British trombonist pioneering extended techniques and large‑ensemble free jazz improvisations.',
+        aliases: [],
+      },
+
+      'John Butcher': {
+        bio: 'British saxophonist celebrated for high‑energy, texture‑focused free improvisations and solo electronics.',
+        aliases: [],
+      },
+
+      'Roswell Rudd': {
+        bio: 'Trombonist renowned for his raw, exploratory sound and collaborations with avant‑garde icons like Archie Shepp and Albert Ayler.',
+        aliases: [],
+      },
+
+      'Giuseppi Logan': {
+        bio: 'Alto saxophonist and flautist whose early 60s recordings epitomize chaotic, high‑energy free jazz.',
+        aliases: [],
+      },
+
+      'Ingrid Laubrock': {
+        bio: 'German saxophonist leading intensely spontaneous ensembles that blend European free improvisation with modern jazz structures.',
+        aliases: [],
+      },
+
+      'Kris Davis': {
+        bio: 'Pianist and composer whose angular, collective improvisations place her at the heart of contemporary free jazz.',
+        aliases: [],
+      },
+
+      'Louis Moholo‑Moholo': {
+        bio: 'South African drummer whose kinetic, polyrhythmic style drives the European free‑jazz scene.',
+        aliases: ['Louis Moholo'],
+      },
+
+      'Ivo Perelman': {
+        bio: 'Brazilian tenor saxophonist known for relentless, high‑intensity free improvisations worldwide.',
+        aliases: [],
+      },
+
+      'Paul Lytton': {
+        bio: 'British percussionist central to the free improvisation movement, co‑founder of AMM.',
+        aliases: [],
+      },
+
+      'Joe Morris': {
+        bio: 'Guitarist whose angular, rapid‑fire improvisations define modern avant‑garde jazz guitar.',
+        aliases: [],
+      },
+
+      'James Blood Ulmer': {
+        bio: 'Guitarist merging harmolodic Ornette concepts with blues, creating a raw, free‑jazz guitar language.',
+        aliases: ['James Ulmer'],
+      },
+
+      'Jemeel Moondoc': {
+        bio: 'Alto saxophonist leading the Muntu collective, noted for high‑energy free improvisations since the 1970s.',
+        aliases: [],
+      },
+
+      'Ahmed Abdullah': {
+        bio: 'Trumpeter from Sun Ra’s Arkestra who continues free‑jazz explorations with his Own Sound ensemble.',
+        aliases: [],
+      },
+
+      'Andrew Cyrille': {
+        bio: 'Percussionist renowned for pioneering free rhythmic interaction with Cecil Taylor and as a solo avant‑garde improviser.',
+        aliases: [],
+      },
+
+      'Matana Roberts': {
+        bio: 'Vocalist/composer whose \'Coincidence\' series blends narrative storytelling with expansive free‑jazz improvisation.',
+        aliases: [],
+      },
+
+      'Rob Mazurek': {
+        bio: 'Cornetist and founder of the Chicago Underground, merging free improvisation with electronic textures.',
+        aliases: ['Robert Mazurek'],
+      },
+
+      'William Hooker': {
+        bio: 'Drummer whose relentless, noise‑laden approach pushes free jazz into avant‑rock territories.',
+        aliases: [],
+      },
+
+      'Daniel Carter': {
+        bio: 'Multi‑instrumentalist (sax, trumpet, flute) central to New York’s free‑jazz scene, collaborating with many avant‑garde ensembles.',
+        aliases: [],
+      },
+
+      'Peter Evans': {
+        bio: 'Trumpeter known for high‑energy, extended‑technique free improvisations and collaborations with avant‑garde orchestras.',
+        aliases: [],
+      },
+
+      'Sabir Mateen': {
+        bio: 'Saxophonist and multi‑instrumentalist whose intense free‑jazz performances span decades, often blending spiritual themes.',
+        aliases: [],
+      },
+
+      'Gerry Hemingway': {
+        bio: 'Drummer and composer integrating free improvisation with complex compositional structures, active in avant‑garde circles.',
+        aliases: [],
       },
     },
 
