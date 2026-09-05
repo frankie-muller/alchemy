@@ -8,9 +8,10 @@
 //
 //   ALCHEMY_API_KEY=sk-... node scripts/grow.mjs --pillar Electronic --sub "Acid House"
 //   ALCHEMY_PROVIDER=gemini ALCHEMY_API_KEY=... node scripts/grow.mjs --pillar Latin --sub Tango -n 15
+//   ALCHEMY_PROVIDER=grok ALCHEMY_API_KEY=xai-... node scripts/grow.mjs --pillar Rock --sub "Krautrock"
 //
 // ENV
-//   ALCHEMY_PROVIDER  anthropic (default) | openai | gemini | custom
+//   ALCHEMY_PROVIDER  anthropic (default) | openai | gemini | grok | custom
 //   ALCHEMY_API_KEY   required
 //   ALCHEMY_MODEL     overrides the per-provider default
 //   ALCHEMY_API_URL   required for `custom` — any OpenAI-compatible /chat/completions
@@ -84,6 +85,21 @@ const PROVIDERS = {
       body: { contents: [{ parts: [{ text: prompt }] }] },
     }),
     extract: (json) => json?.candidates?.[0]?.content?.parts?.[0]?.text,
+  },
+  // xAI's API is OpenAI-compatible (same request/response shape, just a
+  // different base URL) — grok-4.3 is xAI's cheapest general-purpose text
+  // model as of writing ($1.25/$2.50 per M tokens in/out, 1M context).
+  // Cheaper tiers exist (grok-build-0.1, coding-specialized) but aren't a
+  // better fit for short factual JSON like this. Override with
+  // ALCHEMY_MODEL if xAI's lineup or pricing has moved since.
+  grok: {
+    defaultModel: 'grok-4.3',
+    request: (model, prompt, key) => ({
+      url: 'https://api.x.ai/v1/chat/completions',
+      headers: { 'content-type': 'application/json', authorization: `Bearer ${key}` },
+      body: { model, messages: [{ role: 'user', content: prompt }] },
+    }),
+    extract: (json) => json?.choices?.[0]?.message?.content,
   },
   // Any OpenAI-compatible endpoint, including a local model with a dummy key.
   custom: {

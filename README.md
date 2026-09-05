@@ -172,7 +172,7 @@ ALCHEMY_API_KEY=sk-... node scripts/grow.mjs --pillar Electronic --sub "Acid Hou
 ```
 
 ```
-ALCHEMY_PROVIDER   anthropic (default) · openai · gemini · custom
+ALCHEMY_PROVIDER   anthropic (default) · openai · gemini · grok · custom
 ALCHEMY_API_KEY    your key
 ALCHEMY_MODEL      overrides the per-provider default
 ALCHEMY_API_URL    for `custom` — any OpenAI-compatible endpoint
