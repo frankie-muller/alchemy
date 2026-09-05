@@ -3990,6 +3990,51 @@ export const classical: Pillar = {
         bio: 'Sébastien Daucé\'s group, celebrated for sharp, scholarly yet vibrant records of French sacred Baroque repertoire with period forces.',
         aliases: ['Correspondances'],
       },
+
+      'Bruno Cocset': {
+        bio: 'French cellist and gambist specializing in Baroque repertoire, founding the ensemble Les Basses Réunies for period performances.',
+        aliases: [],
+      },
+
+      'François Lazarevitch': {
+        bio: 'Flautist and director of Les Musiciens de Saint-Julien, dedicated to historically informed performance of French Baroque music.',
+        aliases: [],
+      },
+
+      'Lucas Peres': {
+        bio: 'Keyboardist and harpsichordist focused on early music, performing with period-instrument ensembles across Europe.',
+        aliases: [],
+      },
+
+      'Sophie Gent': {
+        bio: 'Baroque violinist active in leading European early music ensembles, known for her work with La Serenissima and Arcangelo.',
+        aliases: [],
+      },
+
+      'Claire Guimon': {
+        bio: 'French violinist specializing in Baroque violin, performing with notable period-instrument ensembles like Le Concert Spirituel.',
+        aliases: [],
+      },
+
+      'Thomas Dunford': {
+        bio: 'Lutenist acclaimed for his interpretations of early music, performing with ensembles like Jupiter in historically informed style.',
+        aliases: [],
+      },
+
+      'Tomáš Král': {
+        bio: 'Czech countertenor focused on Baroque and early opera, collaborating with leading period-instrument orchestras and conductors.',
+        aliases: [],
+      },
+
+      'Anna Besson': {
+        bio: 'French flautist celebrated for Baroque traverso performances, appearing in major early music festivals and ensembles.',
+        aliases: [],
+      },
+
+      'Violaine Cochard': {
+        bio: 'Harpsichordist dedicated to French Baroque repertoire, performing and recording with period-instrument ensembles internationally.',
+        aliases: [],
+      },
     },
   },
 };
