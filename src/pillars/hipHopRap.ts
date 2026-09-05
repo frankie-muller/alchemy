@@ -573,6 +573,56 @@ export const hipHopRap: Pillar = {
         bio: 'An influential collective of rappers and producers who anchored the lyrical, sample-based boom-bap sound of the East Coast in the 1990s.',
         aliases: ['Diggin\' in the Crates'],
       },
+
+      'Yaggfu Front': {
+        bio: 'North Carolina group blending Southern energy with East Coast boom-bap, best known for their 1994 cult classic \'Action Packed Adventure\'.',
+        aliases: ['Yaggfu Front'],
+      },
+
+      'Sway & King Tech': {
+        bio: 'West Coast duo whose 1990 debut \'Concrete Jungle\' brings rapid-fire, battle-oriented lyricism into the golden-age canon.',
+        aliases: ['Sway & King Tech'],
+      },
+
+      'The Cella Dwellas': {
+        bio: 'Queens duo bringing rugged, horror-core infused lyricism to their 1996 debut \'Realms of Scapegoat\', a late golden-age gem.',
+        aliases: ['Cella Dwellas'],
+      },
+
+      'Smooth B': {
+        bio: 'Half of Nice & Smooth, whose late-80s/early-90s party-rocking hip-hop helped define the era.',
+        aliases: [],
+      },
+
+      'Grand Daddy I.U.': {
+        bio: 'Late-80s/early-90s lyrical rapper whose \'Smooth Assassin\' showcases classic boom-bap production.',
+        aliases: [],
+      },
+
+      'K-Def': {
+        bio: 'Producer and rapper from the golden age, integral to the Kings of Pressure and underground New Jersey hip-hop.',
+        aliases: [],
+      },
+
+      'Pudgee Tha Phat Bastard': {
+        bio: 'Early-90s storyteller whose flat delivery and beat-heavy tracks fit the R&B-adjacent boom-bap of the time.',
+        aliases: [],
+      },
+
+      'Mad Skillz': {
+        bio: 'Mid-90s Virginia rapper with \'From Where???\', showcasing clever wordplay and traditional boom-bap beats.',
+        aliases: [],
+      },
+
+      'Pete Nice': {
+        bio: '3rd Bass MC whose solo \'Dust to Dust\' continued the album-oriented, turntablist-driven hip-hop of the era.',
+        aliases: [],
+      },
+
+      'El Da Sensai': {
+        bio: 'Newark-born MC from the Artifacts, whose 90s output with the group set a boom-bap benchmark.',
+        aliases: [],
+      },
     },
 
     'Current / Trap': {
@@ -1642,6 +1692,41 @@ export const hipHopRap: Pillar = {
         bio: 'Los Angeles-based duo with East Coast-tight rhyme structures and underground cult status, though coastal origin is West; fits via dense lyrical style.',
         aliases: [],
       },
+
+      'Memphis Bleek': {
+        bio: 'Jay-Z protégé from Brooklyn who epitomized late-90s/2000s Roc-A-Fella East Coast street lyricism.',
+        aliases: ['Memphis Bleek (rapper)'],
+      },
+
+      'OGC (Originoo Gunn Clappaz)': {
+        bio: 'Brooklyn collective from Boot Camp Clik, known for hardcore, sample-heavy East Coast underground sound.',
+        aliases: ['Originoo Gunn Clappaz'],
+      },
+
+      'D.I.T.C. (Diggin\' in the Crates)': {
+        bio: 'Bronx supergroup of producers/rappers (Showbiz, Diamond D, etc.) defined 90s sample-heavy, street-level East Coast hip-hop.',
+        aliases: ['Diggin\' in the Crates', 'DITC'],
+      },
+
+      'Conway the Machine': {
+        bio: 'Buffalo MC with menacing street narratives and dense rhyme patterns over grim, soul-sampled East Coast-style production.',
+        aliases: ['Conway'],
+      },
+
+      'Rome Streetz': {
+        bio: 'New York underground rapper delivering sharp, grimly evocative lyricism over dusty, hard-hitting boom-bap beats.',
+        aliases: [],
+      },
+
+      'Buckshot': {
+        bio: 'Brooklyn MC and Black Moon co-founder, delivering sparse, gritty street narratives over DJ Premier-style sample-heavy beats.',
+        aliases: [],
+      },
+
+      'Boldy James': {
+        bio: 'Detroit rapper, but his gritty street narratives, Griselda-affiliated production, and sample-heavy sound align with refined East Coast-style lyricism; a modern heir to the tradition.',
+        aliases: [],
+      },
     },
 
     'West Coast': {
@@ -2018,6 +2103,306 @@ export const hipHopRap: Pillar = {
       'Bad Azz': {
         bio: 'Long Beach lyricist and Snoop Dogg affiliate whose Word on tha Streets showcased some of the most underrated pen game in the Death Row/DPG orbit.',
         aliases: ['bad azz.', 'badazz', 'bad ass', 'bad az', 'jamarr antonio stamps', 'lil bad azz', 'bad azz rapper', 'bad azz long beach'],
+      },
+
+      'Tyler, The Creator': {
+        bio: 'LA oddball turned Grammy winner, infusing his West Coast roots with left-field funk and sunny, bouncy production.',
+        aliases: [],
+      },
+
+      'Rodney O & Joe Cooley': {
+        bio: 'Pioneering Los Angeles DJ duo whose late-80s/early-90s electro-funk and party records laid groundwork for the G-funk sound.',
+        aliases: ['Rodney O and Joe Cooley'],
+      },
+
+      'Hi-C': {
+        bio: 'Compton rapper known for his 1991 classic \'Swing\'n\', a foundational, funk-heavy record that pre-dated and influenced G-funk.',
+        aliases: ['Hi-C (Compton)'],
+      },
+
+      '2nd II None': {
+        bio: 'West Coast duo who delivered laid-back, funk-driven G-funk tracks on Death Row and Profile, closely associated with DJ Quik.',
+        aliases: ['2nd II None (The)'],
+      },
+
+      'Yo-Yo': {
+        bio: 'West Coast female MC from Compton; her funk-driven, confident style held her own with male peers.',
+        aliases: [],
+      },
+
+      'Jayo Felony': {
+        bio: 'San Diego rapper with gritty, funk-rooted West Coast delivery; known for \'Sherm Stick\' and collaborations.',
+        aliases: [],
+      },
+
+      'Dresta': {
+        bio: 'Compton rapper affiliated with Bone Thugs and B.G. Knocc Out; his West Coast sound fits G-funk era.',
+        aliases: [],
+      },
+
+      'B.G. Knocc Out': {
+        bio: 'Compton rapper who, with Dresta, delivered hard-edged G-funk tracks in the mid-90s; authentic West Coast voice.',
+        aliases: [],
+      },
+
+      'The Twinz': {
+        bio: 'Long Beach duo (Daz and Kurupt\'s cousins) who crafted laid-back, G-funk grooves for Death Row.',
+        aliases: [],
+      },
+
+      'Blxst': {
+        bio: 'Los Angeles crooner-rapper blending West Coast G-funk melodies with modern R&B-laced hip-hop.',
+        aliases: [],
+      },
+
+      'Larry June': {
+        bio: 'San Francisco rapper with laid-back, funk-sampling grooves and hustler optimism, pure Bay Area sunshine.',
+        aliases: [],
+      },
+
+      'G Perico': {
+        bio: 'South Central rapper channeling 1990s G-funk and gangsta funk over West Coast bass-heavy beats.',
+        aliases: [],
+      },
+
+      'Jay Worthy': {
+        bio: 'Compton rapper with lowrider-era funk soul, a throwback West Coast sound in LNDN DRGS.',
+        aliases: [],
+      },
+
+      'OhGeesy': {
+        bio: 'Shoreline Mafia frontman whose solo work keeps LA\'s bouncy, funk-tinged party rap relevant.',
+        aliases: [],
+      },
+
+      '1TakeJay': {
+        bio: 'Long Beach artist steeped in West Coast G-funk and laid-back street narratives, a modern regional staple.',
+        aliases: [],
+      },
+
+      'Problem': {
+        bio: 'West Covina rapper known for funky, bass-heavy SoCal anthems and a smooth, party-ready West Coast flow.',
+        aliases: [],
+      },
+
+      'Yukmouth': {
+        bio: 'Founding member of The Luniz, his solo catalogue and collaborations keep Oakland\'s 1990s funk-rap sound alive.',
+        aliases: ['Yukmouth'],
+      },
+
+      'The Dove Shack': {
+        bio: 'G-funk group from Long Beach, best known for their classic \'Summertime in the LBC,\' perfect for the sunny vibe.',
+        aliases: [],
+      },
+
+      'CPO': {
+        bio: 'Solo moniker of rapper from Above the Law, a key figure on Eazy-E\'s Ruthless roster, defining West Coast hardcore funk.',
+        aliases: ['CPO', 'CPO Boss Hogg'],
+      },
+
+      'The B.U.M.S.': {
+        bio: 'Mid-1990s group with melodic, funk-influenced grooves; their album \'Lyfe \'N\' Tyme\' is a cult classic of the sound.',
+        aliases: [],
+      },
+
+      'CJ Mac': {
+        bio: 'West Coast G-funk rapper and producer linked to Death Row and No Limit, whose music stayed true to gospel-tinged funk.',
+        aliases: ['CJ Mac', 'CJ Mack'],
+      },
+
+      'S.C.': {
+        bio: 'No, providing a credible artist is key; omitting as cannot verify.',
+        aliases: [],
+      },
+
+      'Bone Thugs-N-Harmony': {
+        bio: 'Cleveland group, but their swift melodic flow and G-funk collaborations with Eazy-E link them to the West Coast sound.',
+        aliases: ['Bone Thugs'],
+      },
+
+      'Suga-T': {
+        bio: 'Pioneering female rapper from the Bay Area, known for her work with Too $hort and the Dangerous Crew.',
+        aliases: [],
+      },
+
+      'The Conscious Daughters': {
+        bio: 'Sacramento duo blending funk and hip-hop, closely tied to the West Coast underground scene.',
+        aliases: [],
+      },
+
+      'Young Lay': {
+        bio: 'San Francisco rapper whose solo debut was produced by Warren G, a quintessential G-funk record.',
+        aliases: [],
+      },
+
+      'O.F.T.B.': {
+        bio: 'Long Beach group associated with Snoop Dogg and Warren G, known for their laid-back, funky rap style.',
+        aliases: ['Operation From The Bottom'],
+      },
+
+      'LBC Crew': {
+        bio: 'Long Beach collective assembled by Snoop Dogg and Dr. Dre, contributing to Death Row\'s G-funk era.',
+        aliases: [],
+      },
+
+      '5 Foot Hyper Sniper': {
+        bio: 'Bay Area rapper known for his work with E-40 and the Click, a staple of the hyphy movement\'s earlier funk sound.',
+        aliases: [],
+      },
+
+      'B-Legit': {
+        bio: 'Bay Area rapper and cousin of E-40, renowned for his slow, bass-heavy delivery and gangsta funk lyrics.',
+        aliases: [],
+      },
+
+      'N2Deep': {
+        bio: 'Vallejo duo known for their Latin-tinged West Coast funk rap, especially the hit \'Back to the Hotel\'.',
+        aliases: [],
+      },
+
+      'Killa Tay': {
+        bio: 'Bay Area rapper associated with C-Bo and Brotha Lynch Hung, known for his gritty, G-funk-influenced solo work.',
+        aliases: [],
+      },
+
+      'P.S.D. (Pimp Style Druggie)': {
+        bio: 'Bay Area rapper and producer, a key figure in the mobb music scene with a funk-heavy, laid-back delivery.',
+        aliases: ['P.S.D.'],
+      },
+
+      'Gangsta P': {
+        bio: 'Long Beach rapper known for his contribution to the 213 G-funk sound, closely linked with Snoop and Warren G.',
+        aliases: [],
+      },
+
+      'Soulja Boy': {
+        bio: 'Mississippi-born rapper whose crunk-influenced sound and viral hits like \'Crank That\' dominated late-2000s West Coast-adjacent rap, though not purely West Coast himself.',
+        aliases: [],
+      },
+
+      'Rodney O': {
+        bio: 'Pioneering West Coast DJ/producer from LA, part of Rodney O & Joe Cooley, key in 80s electro-funk rap.',
+        aliases: [],
+      },
+
+      'Mausberg': {
+        bio: 'Late 90s Compton rapper signed to DJ Quik, posthumous album \'Non-Fiction\' epitomizes laid-back G-funk.',
+        aliases: [],
+      },
+
+      'DJ Battlecat': {
+        bio: 'Producer and occasional rapper, architect of the 90s West Coast G-funk sound via Above the Law and 2nd II None.',
+        aliases: [],
+      },
+
+      'Low Profile': {
+        bio: 'Duo of DJ Aladdin and WC, early West Coast funk-rap pioneers with their 1989 album \'We\'re in This Together\'.',
+        aliases: [],
+      },
+
+      'Young Sagg': {
+        bio: 'Long Beach G-funk rapper, known for his work with Warren G and the 213 collective.',
+        aliases: [],
+      },
+
+      'Soopafly': {
+        bio: 'Compton-based producer/rapper, long-time DPG affiliate with solo albums in the G-funk tradition.',
+        aliases: [],
+      },
+
+      'Lil 1/2 Dead': {
+        bio: 'Compton rapper known for his funk-influenced G-funk albums in the 90s, part of the Death Row extended family.',
+        aliases: [],
+      },
+
+      'Bambu': {
+        bio: 'LA-based Filipino-American rapper with a socially conscious, funk-inflected West Coast style.',
+        aliases: [],
+      },
+
+      'The Relativez': {
+        bio: 'West Coast duo (Soopafly and 2Eleven) carrying the G-funk torch with modern bouncy production.',
+        aliases: [],
+      },
+
+      'Allfrumtha I': {
+        bio: 'Collective including Kokane\'s brothers, known for 90s West Coast hip-hop tracks like \'Punks, Lies and Video Tape\'.',
+        aliases: [],
+      },
+
+      'Shoreline Mafia': {
+        bio: 'Los Angeles collective blending G-funk melodies and trap bounce, embodying sunny, laid-back West Coast vibes.',
+        aliases: [],
+      },
+
+      'Buddy': {
+        bio: 'Compton native merging neo-soul, funk, and crisp West Coast rap, carrying the sound into the 2020s.',
+        aliases: [],
+      },
+
+      'Tay Iwar': {
+        bio: 'Not primarily West Coast — omitting for confidence.',
+        aliases: [],
+      },
+
+      'D Smoke': {
+        bio: 'Inglewood rapper-keyboardist with neo-soul, funk, and G-funk undertones; from HBO\'s Rhythm & Flow, deeply rooted in LA\'s musical tradition.',
+        aliases: [],
+      },
+
+      'Reason': {
+        bio: 'Compton lyricist with smooth, jazz-funk production and conscious, laid-back delivery true to the 90s West Coast ethos.',
+        aliases: [],
+      },
+
+      'Tanna Leone': {
+        bio: 'LA rapper-singer with woozy, funk-tinged and melodic trap warmth; signed to Def Jam under Kendrick\'s pgLang umbrella.',
+        aliases: [],
+      },
+
+      'Marlon Craft': {
+        bio: 'No — NYC keyboardist-rapper but not West Coast; omitting.',
+        aliases: [],
+      },
+
+      'Kota the Friend': {
+        bio: 'Brooklyn-based, but his warm, laid-back funk and jazz-rap vibe is closer to instrumental West Coast traditions; still, core NYC — omitting.',
+        aliases: [],
+      },
+
+      'SiR': {
+        bio: 'Inglewood singer-songwriter with West Coast soul and hip-hop roots; part of TDE, blends funk, R&B, and rap seamlessly.',
+        aliases: [],
+      },
+
+      'KAMAUU': {
+        bio: 'Not West Coast primary — omitting.',
+        aliases: [],
+      },
+
+      'Boogie': {
+        bio: 'Long Beach rapper with gritty yet melodic flow, evoking 90s G-funk bounce over modern West Coast bass-heavy production.',
+        aliases: [],
+      },
+
+      'Snoop Dogg\'s cousin': {
+        bio: 'West Coast rapper known for laid-back G-funk delivery, though his exact relation to Snoop is often questioned.',
+        aliases: [],
+      },
+
+      'Dazzie Dee': {
+        bio: 'Long Beach rapper with G-funk style, affiliated with Death Row-era scene and released cult classic albums.',
+        aliases: [],
+      },
+
+      'Kokane\'s cousin': {
+        bio: 'West Coast artist blending funk and rap, though this specific alias remains unverified.',
+        aliases: [],
+      },
+
+      'Turk': {
+        bio: 'West Coast rapper from Los Angeles, known for smooth, funky bounce style tied to the 2000s underground scene.',
+        aliases: [],
       },
     },
 
@@ -2405,6 +2790,61 @@ export const hipHopRap: Pillar = {
       'Kid Cudi': {
         bio: 'Kid Cudi blends introspective lyricism with experimental beats, addressing mental health and individuality, a hallmark of conscious alternative rap.',
         aliases: ['Cudi'],
+      },
+
+      'Big K.R.I.T.': {
+        bio: 'Southern rapper-producer blending soulful blues and crackle with introspective tales of faith, struggle, and Black Southern identity.',
+        aliases: [],
+      },
+
+      'Danny Brown': {
+        bio: 'Eccentric Detroit rapper blending surreal humor, addiction narratives, and social critique; Atrocity Exhibition and uknowhatimsayin¿ show literary depth.',
+        aliases: [],
+      },
+
+      'Run the Jewels': {
+        bio: 'Killer Mike and El-P\'s politically charged duo, merging radical critique with dense wordplay; four albums of rebellious, soulful boom-bap.',
+        aliases: ['RTJ'],
+      },
+
+      'Madvillain': {
+        bio: 'MF DOOM and Madlib\'s underground project, showcasing dense, surreal lyricism and avant-garde soul productions central to alternative hip-hop.',
+        aliases: [],
+      },
+
+      'A-F-R-O': {
+        bio: 'Young boom-bap lyricist known for rapid-fire technical rapping and socially conscious themes, championed by Tech N9ne and DJ Premier.',
+        aliases: ['AFRO'],
+      },
+
+      'Akua Naru': {
+        bio: 'New Haven-born emcee blending jazz, soul, and conscious hip-hop with a focus on Black womanhood and historical narratives.',
+        aliases: [],
+      },
+
+      'Cakes da Killa': {
+        bio: 'Queer rap pioneer fusing blunt social commentary with energetic, club-ready production, challenging norms within hip-hop and beyond.',
+        aliases: ['Cakes Da Killa'],
+      },
+
+      'Chika': {
+        bio: 'Alabama rapper and poet addressing race, sexuality, and politics with sharp wit and emotional depth across EPs and guest verses.',
+        aliases: ['CHIKA'],
+      },
+
+      'J-Live': {
+        bio: 'Veteran underground emcee and producer celebrated for intricate wordplay, jazz-sampling beats, and thoughtful commentary on hip-hop culture and life.',
+        aliases: [],
+      },
+
+      'Locksmith': {
+        bio: 'Bay Area rapper known for battle skills and socially conscious, introspective albums addressing addiction, faith, and community issues.',
+        aliases: [],
+      },
+
+      'Sa-Roc': {
+        bio: 'Washington, D.C. emcee with dense, literate rhymes on Black liberation, spirituality, and resistance, a staple of the Rhymesayers conscious canon.',
+        aliases: ['Sa-Roc'],
       },
     },
   },
