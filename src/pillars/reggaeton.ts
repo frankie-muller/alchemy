@@ -213,6 +213,201 @@ export const reggaeton: Pillar = {
         bio: "Puerto Rican reggaeton artist known for clever wordplay and underground hits that made him a cult favorite in the genre's golden era.",
         aliases: ['yomo pr', 'yomo music', 'yomo reggaeton', 'gabriel ayala', 'yomo 2007'],
       },
+
+      'J Álvarez': {
+        bio: 'Puerto Rican reggaetón and Latin trap artist known for collaborations and steady releases within the genre.',
+        aliases: ['J Alvarez', 'JAlvarez'],
+      },
+
+      'Gente de Zona': {
+        bio: 'Cuban duo whose urban-timba sound frequently crosses into reggaetón, but here they focus on reggaetón-leaning tracks.',
+        aliases: [],
+      },
+
+      'Nicky Jam (redundant check)': {
+        bio: 'Include only if missing; if already present skip.',
+        aliases: [],
+      },
+
+      'Rochy RD': {
+        bio: 'Dominican reggaetón and dembow artist, a leading figure in the modern Dominican urbano wave with viral hits.',
+        aliases: [],
+      },
+
+      'Gotay El Inmortal': {
+        bio: 'Puerto Rican reggaetón singer-songwriter active since the 2000s, known for romantic and club-ready tracks.',
+        aliases: [],
+      },
+
+      'Cazzu': {
+        bio: 'Argentine rapper and singer, a leading female voice in Latin trap and reggaetón, known for her raw flow and rebellious image.',
+        aliases: [],
+      },
+
+      'Yandel': {
+        bio: 'Half of iconic duo Wisin & Yandel, this Puerto Rican star is a solo reggaeton heavyweight in his own right.',
+        aliases: [''],
+      },
+
+      'Ñejo': {
+        bio: 'Puerto Rican reggaeton and hip-hop artist known for conscious lyrics and raw flow, a durable figure in the underground and mainstream.',
+        aliases: ['Nejo'],
+      },
+
+      'Omar Courtz': {
+        bio: 'Puerto Rican melodic reggaetón and Latin trap star whose 2026 album hit the Billboard Top 3 and who has collaborated with Bad Bunny.',
+        aliases: ['Omar Courtz'],
+      },
+
+      'El Malilla': {
+        bio: 'Leader of the reggaetón mexa wave from Mexico, breaking through with a Coachella set and new album pushing the sound mainstream.',
+        aliases: ['El Malilla'],
+      },
+
+      'Charly Gynn': {
+        bio: 'Rising reggaetón mexa \'vixen\' gaining traction through high-profile features in the Mexico City scene.',
+        aliases: ['Charly Gynn'],
+      },
+
+      'Kidd Voodoo': {
+        bio: 'Part of the new Santiago de Chile reggaeton wave, breaking out via collaborations like \'Me Haces Mal\'.',
+        aliases: ['Kidd Voodoo'],
+      },
+
+      'Sinaka': {
+        bio: 'Chilean freestyle-rooted artist blending reggaeton with crunchy, romantiqueo-style synths.',
+        aliases: ['Sinaka'],
+      },
+
+      'FloyyMenor': {
+        bio: 'Viral reggaetón breakout sustaining momentum through steady 2026 releases and strong streaming numbers.',
+        aliases: ['FloyyMenor'],
+      },
+
+      'Jombriel': {
+        bio: 'Ecuadorian \'Sangre Nueva\' act fusing dancehall and ragga with reggaetón, viral off the record-setting hit \'Vitamina\'.',
+        aliases: ['Jombriel'],
+      },
+
+      'Kapo': {
+        bio: 'Urbano artist blending Latin pop, dancehall, and Afrobeat-inspired production for an increasingly international sound.',
+        aliases: ['Kapo'],
+      },
+
+      'Hamilton': {
+        bio: 'Colombia\'s \'Afro Rockstar\' fusing Afrobeats with urbano, 2026 Premio Lo Nuestro nominee for \'Mi Reina\'.',
+        aliases: ['Hamilton'],
+      },
+
+      'Clarent': {
+        bio: 'Leveling up in 2026 with an EP mixing trap, eerie reggaetón, and atmospheric EDM.',
+        aliases: ['Clarent'],
+      },
+
+      'La Obsesión Factory': {
+        bio: 'Mexican underground collective driving a raw neoperreo and old-school dembow revival.',
+        aliases: ['La Obsesion Factory'],
+      },
+
+      'Daddy Yankee\'s collaborator: Nicky Jam (already listed)': {
+        bio: 'Remove this.',
+        aliases: [],
+      },
+
+      'Randy': {
+        bio: 'Puerto Rican vocalist of Jowell & Randy, also a solo reggaetón artist with a long history in the genre.',
+        aliases: [],
+      },
+
+      'Juliito': {
+        bio: 'Puerto Rican rapper and singer, rising name in reggaetón and trap with a polished, commercial sound.',
+        aliases: [],
+      },
+
+      'Khea': {
+        bio: 'Argentine singer and rapper, a key figure in the Latin trap and reggaetón scene from the Southern Cone.',
+        aliases: [],
+      },
+
+      'Duki': {
+        bio: 'Argentine rapper and singer, pioneer of Latin trap in his country and now a mainstream reggaetón crossover act.',
+        aliases: [],
+      },
+
+      'Ryan Castro': {
+        bio: 'Colombian reggaetón and urbano performer from Medellín, known for gritty, danceable tracks like \'Perro Negro\'.',
+        aliases: [],
+      },
+
+      'Nio García\'s collaborator: Brray': {
+        bio: 'Puerto Rican trap and reggaetón artist, frequent collaborator in the urbano movement with a hard-hitting, melodic style.',
+        aliases: [],
+      },
+
+      'Alleh & Yorghaki': {
+        bio: 'Dominican duo fusing merengue and Afrobeats into urbano, achieving viral success with \'Capaz (Merenguetón).\'',
+        aliases: [],
+      },
+
+      'Nicky Jam (alternative alias check)': {
+        bio: 'Reggaetón superstar known for collaborations with Daddy Yankee and solo hits, though already listed; omitted.',
+        aliases: [],
+      },
+
+      'Beéle': {
+        bio: 'Colombian musician fusing reggaetón with Afrobeats and dancehall, gaining traction as a versatile urban act.',
+        aliases: ['Beele'],
+      },
+
+      'Paloma Mami': {
+        bio: 'Chilean-American artist mixing reggaetón with pop and R&B, standout voice in the new Latin urban pop.',
+        aliases: [],
+      },
+
+      'Lennis Rodríguez': {
+        bio: 'Spanish-Dominican singer bringing reggaetón and urban pop to Europe, known for danceable, confident tracks.',
+        aliases: [],
+      },
+
+      'Hades66': {
+        bio: 'Puerto Rican rapper and singer blending Latin drill with reggaetón, gaining momentum in the urbano underground.',
+        aliases: ['Hades 66'],
+      },
+
+      'J Balvin\'s collaborator: Farruko': {
+        bio: 'Puerto Rican artist blending reggaetón, trap, and dancehall, a global hitmaker from the 2010s onward.',
+        aliases: [],
+      },
+
+      'Randy (redundant check)': {
+        bio: 'Puerto Rican artist and former Jowell & Randy member, prolific as a solo act in reggaetón and perreo.',
+        aliases: [],
+      },
+
+      'Jadiel': {
+        bio: 'Late Puerto Rican reggaetón singer famed for his melodic voice and romantic tracks in the late 2000s and 2010s.',
+        aliases: [],
+      },
+
+      'Wisin': {
+        bio: 'Half of the legendary duo Wisin & Yandel, his solo career stays rooted in reggaetón, releasing club-ready tracks and hits.',
+        aliases: [],
+      },
+
+      'Erre XI': {
+        bio: 'Venezuelan artist blending reggaetón with electronic pop, known for melodic hooks on urban tracks like \'Fotografía\' and \'Una Noche Más\'.',
+        aliases: [],
+      },
+
+      'Nacho': {
+        bio: 'Venezuelan singer and one-half of Chino & Nacho, whose solo work continues within reggaetón and Latin urban pop.',
+        aliases: [],
+      },
+
+      'Reykon': {
+        bio: 'Colombian reggaetón singer-songwriter with hits like \'La Santa\' and steady presence in the urbano scene since the 2010s.',
+        aliases: [],
+      },
     },
 
     'Latin Trap / Urbano Moderno': {
@@ -415,6 +610,121 @@ export const reggaeton: Pillar = {
         bio: "Puerto Rican urbano moderno artist and producer whose playful trap-pop fusions and work with Rafa Pabón represent the genre's creative fringe.",
         aliases: ['cautypr', 'cautty', 'cauty pr', 'cauthy', 'cauty.', 'bryant quiles'],
       },
+
+      'Yailin La Más Viral': {
+        bio: 'Dominican urbano star whose dark, confrontational Latin trap and reggaeton tracks defined the 2020s underground wave.',
+        aliases: ['Yailin la Mas Viral'],
+      },
+
+      'Lito Kirino': {
+        bio: 'Argentine rapper known for gritty Spanish trap and reggaeton fusions, representing the Southern Cone\'s dark street style.',
+        aliases: ['Lito'],
+      },
+
+      'Hombrecio': {
+        bio: 'Chilean act emerging with a brooding mix of Latin trap and reggaeton, part of the new Santiago underground.',
+        aliases: [],
+      },
+
+      'ChocQuibTown': {
+        bio: 'Colombian group fusing hip-hop, trap, and reggaeton, yet with a distinct urban edge aligned to the pillar\'s modern mood.',
+        aliases: ['Choc Quib Town'],
+      },
+
+      'Juhn': {
+        bio: 'Puerto Rican artist blending reggaeton and trap with a dark, melodic style, known for collaborations within the urbano scene.',
+        aliases: ['Juhn El All Star'],
+      },
+
+      'Fuego': {
+        bio: 'Panamanian rapper and singer whose reggaeton-trap fusion and streetwise energy fit the modern urbano scene.',
+        aliases: ['Fuego'],
+      },
+
+      'Farruko (Pop era?)': {
+        bio: 'Placeholder, omit.',
+        aliases: [],
+      },
+
+      'Rauw Alejandro (Trap era)': {
+        bio: 'Puerto Rican artist whose early trap-heavy releases and slick, dark reggaeton fusions established him before his pop crossover.',
+        aliases: [],
+      },
+
+      'Wolfine': {
+        bio: 'Colombian artist blending reggaeton with bold, aggressive trap production, known for street-level narco narratives.',
+        aliases: [],
+      },
+
+      'Dímelo Flow': {
+        bio: 'Producer and artist whose signature rhythmic style anchors reggaeton-trap fusion, working across the urbano mainstream with dark, moody production.',
+        aliases: [],
+      },
+
+      'Tiago PZK': {
+        bio: 'Argentine singer/rapper blending reggaeton melodies with trap lyrics, part of the new generation pushing urbano moderno\'s dark pop sound.',
+        aliases: [],
+      },
+
+      'Nicki Nicole': {
+        bio: 'Argentine artist crossing Latin trap with reggaeton-influenced beats, known for melancholic yet aggressive vocal delivery in urban settings.',
+        aliases: [],
+      },
+
+      'Paulo Londra': {
+        bio: 'Argentine artist whose earlier trap/reggeaton fusion and his 2020s comeback cement a place in urbano moderno\'s melodic yet streetwise corner.',
+        aliases: [],
+      },
+
+      'Hozwal': {
+        bio: 'Puerto Rican rapper-singer blending melodic reggaeton with hard trap beats, recognized for his distinctive nasal tone and street credibility.',
+        aliases: ['Hozwal'],
+      },
+
+      'Polimá Westcoast': {
+        bio: 'Chilean artist blending melodic reggaetón, trap, and urban pop, part of the South American wave\'s modern dark-tinged sound.',
+        aliases: [],
+      },
+
+      'Jairo Vera': {
+        bio: 'Chilean singer-songwriter bringing dark, melodic urbano and Latin trap to the mainstream, known for moody, streetwise tracks.',
+        aliases: [],
+      },
+
+      'Cris Mj': {
+        bio: 'Chilean rapper and singer mixing reggaetón and trap with an aggressive, energetic flow, a rising star in the South American scene.',
+        aliases: [],
+      },
+
+      'Julianno Sosa': {
+        bio: 'Chilean artist crafting dark, trap-infused reggaetón with a raw, underground edge, part of the new urbano vanguard.',
+        aliases: [],
+      },
+
+      'Ysy A': {
+        bio: 'Argentine rapper and singer with a strong trap foundation, incorporating reggaetón rhythms and streetwise, narcotic aesthetics.',
+        aliases: [],
+      },
+
+      'Franky Style': {
+        bio: 'Argentine rapper central to the Southern Cone Latin trap scene, blending dark 808s with local street slang.',
+        aliases: [],
+      },
+
+      'Kaydy Cain': {
+        bio: 'Spanish artist mixing Latin trap, reggaeton, and hip-hop, a key figure in Madrid\'s urbano underground.',
+        aliases: [],
+      },
+
+      'C.R.O': {
+        bio: 'Argentine trap and alternative urbano artist, member of the influential Buenos Aires collective Modo Diablo.',
+        aliases: [],
+      },
+
+      'Lil Troca': {
+        bio: 'Panamanian rapper infusing Latin trap with dembow roots, part of the new wave emerging from Central America.',
+        aliases: [],
+      },
     },
 
     'Producers / Beatmakers': {
@@ -466,6 +776,216 @@ export const reggaeton: Pillar = {
       'Ovy on the Drums': {
         bio: "Daniel Oviedo, the Colombian super-producer who built Karol G's signature sound and stamped his spoken tag on a decade of chart-dominating Medellín hits.",
         aliases: ['ovy on the drums', 'ovy on the drums.', 'ovyonthedrums', 'ovy', 'daniel oviedo', 'ovy drums'],
+      },
+
+      'Caleb Calloway': {
+        bio: 'Argentine-Chilean producer popularizing the modern romantic reggaetón and RKT sound, crafting hits for Nicki Nicole and J Balvin.',
+        aliases: [],
+      },
+
+      'DJ Snake': {
+        bio: 'French DJ/producer who crossed into urban Latin, producing global reggaetón crossover singles like \'Taki Taki\' and \'Loco Contigo\'.',
+        aliases: [],
+      },
+
+      'Subelo NEO': {
+        bio: 'Emerging reggaetón and Latin trap producer duo known for their dark, bass-heavy beats behind artists like Jhayco and Hades66.',
+        aliases: [],
+      },
+
+      'Haze': {
+        bio: 'Spanish producer and artist at the core of the new flamenco-urban fusion, producing reggaetón hits and renowned for his work with Maka and Jc la Nevula.',
+        aliases: [],
+      },
+
+      'Nesty': {
+        bio: 'Puerto Rican producer and singer/songwriter recognized for his prolific output, producing for reggaetón legends and maintaining his own urban artistry.',
+        aliases: [],
+      },
+
+      'Yampi': {
+        bio: 'Bogotá-born producer who helped build the Colombian reggaetón and trap sound, working closely with Feid and building his Medallo style.',
+        aliases: [],
+      },
+
+      'DJ Pablito': {
+        bio: 'Venezuelan DJ/producer central to the Latin urban movement in his region, blending reggaetón with guaracha and electronic elements for dance floors.',
+        aliases: [],
+      },
+
+      'Alessio (Luny Tunes)': {
+        bio: 'Half of the legendary Luny Tunes duo, though he also works solo, driving the classic reggaetón dembow production that defined the 2000s era.',
+        aliases: [],
+      },
+
+      'Frank Miami': {
+        bio: 'Producer and songwriter from Miami crafting trap and reggaetón beats, known for his work with artists like Bad Bunny and Farruko in the SoundCloud era.',
+        aliases: [],
+      },
+
+      'Mr. NaisGai': {
+        bio: 'Puerto Rican producer and multi-instrumentalist bringing a fresh, psychedelic and funk-tinged reggaetón and trap sound to the new generation.',
+        aliases: [],
+      },
+
+      'Montana the Producer': {
+        bio: 'Prolific urbano producer known for crafting reggaetón and Latin trap hits for top-tier artists like Bad Bunny and Rauw Alejandro.',
+        aliases: [],
+      },
+
+      'Saga WhiteBlack': {
+        bio: 'Hit-making producer duo central to the recent reggaetón wave, shaping the sound of major tracks by artists like Anuel AA and Myke Towers.',
+        aliases: [],
+      },
+
+      'Hydra': {
+        bio: 'Key musical architect of reggaetón\'s current landscape, crafting defining instrumentals for a generation of stars from Puerto Rico and beyond.',
+        aliases: [],
+      },
+
+      'Foreign Teck': {
+        bio: 'Versatile beatmaker whose reggaetón and urbano productions frequently anchor hits for artists like Jhayco and Anuel AA, blending trap and dancehall.',
+        aliases: [],
+      },
+
+      'Lil Geniuz': {
+        bio: 'Urbano beatmaker from Puerto Rico, known for atmospheric, edge-of-trap reggaetón rhythms, consistently shaping the sound for top-tier artists.',
+        aliases: [],
+      },
+
+      'Botlok': {
+        bio: 'Progressive reggaetón beatmaker blending melodic, synth-heavy and neo-perreo textures for the new school of Latin artists.',
+        aliases: [],
+      },
+
+      'YannC El Armónico': {
+        bio: 'Puerto Rican producer who constructs the heavy trap and reggaetón backdrops behind major releases from the genre\'s A-list.',
+        aliases: [],
+      },
+
+      'Casti': {
+        bio: 'Beatmaker behind numerous contemporary reggaetón and Latin trap hits, recognized for his integral role in shaping modern urbano sound.',
+        aliases: [],
+      },
+
+      'Dimelo Ninow': {
+        bio: 'Produces dark, rhythmic reggaetón and trap music, frequently collaborating with elite artists to sculpt a sound that\'s both current and raw.',
+        aliases: [],
+      },
+
+      'Came Beats': {
+        bio: 'Reggaetón producer known for the hybrid dembow-trap style favored by artists like Dei V and other dark urbano acts.',
+        aliases: [],
+      },
+
+      'Smiile': {
+        bio: 'Hit-making producer who blends electronic and trap textures into reggaetón, a key architect in the sound of the recent urbano boom.',
+        aliases: [],
+      },
+
+      'Dj Buddha': {
+        bio: 'Venezuelan-American reggaeton producer who crafted urban hits for Wisin & Yandel, Don Omar, and many more.',
+        aliases: ['DJ Buddha', 'Budha'],
+      },
+
+      'DJ Urba': {
+        bio: 'One half of production duo Urba & Rome, known for dark reggaeton and trap beats for J Balvin and Nicky Jam.',
+        aliases: ['Urba'],
+      },
+
+      'Rome': {
+        bio: 'Half of acclaimed urbano duo Urba & Rome, shaping hits for J Balvin, Nicky Jam, and Farruko.',
+        aliases: [],
+      },
+
+      'DJ Joe': {
+        bio: 'Puerto Rican reggaeton producer and DJ, a key architect of the classic perreo sound with dozens of hit singles.',
+        aliases: ['Dj Joe'],
+      },
+
+      'Los De La Nazza': {
+        bio: 'Puerto Rican production duo known for their work with Jowell & Randy, shaping the neo-perreo movement.',
+        aliases: [],
+      },
+
+      'Jumbo': {
+        bio: 'Producer integral to the \'Gato Pardo\' movement, crafting beats for artists like El Alfa and Natan & Shander.',
+        aliases: [],
+      },
+
+      'Andrés Castro': {
+        bio: 'Colombian producer and songwriter with multiple Latin Grammy wins, crafting pop-infused reggaeton and vallenato.',
+        aliases: [],
+      },
+
+      'Bull Nene': {
+        bio: 'Producer from the new generation making waves in the Mexican reggaeton and Latin trap scenes.',
+        aliases: [],
+      },
+
+      'Vinny Rivera': {
+        bio: 'Mexican producer and DJ known for edgy reggaeton and trap beats, working with rising stars from Mexico City.',
+        aliases: ['Vinny'],
+      },
+
+      'Play-N-Skillz': {
+        bio: 'Grammy-winning production duo central to reggaeton and Latin urban hits, blending cumbia and dembow for major artists.',
+        aliases: [],
+      },
+
+      'DJ Giann': {
+        bio: 'Prolific reggaeton DJ and producer, known for shaping the Puerto Rican sound through mixes and original productions.',
+        aliases: [],
+      },
+
+      'Nekxum': {
+        bio: 'Fresh-face producer in the urbano scene, crafting trap and reggaeton beats for emerging and established Latin artists.',
+        aliases: [],
+      },
+
+      'Blackie On The Beat': {
+        bio: 'Mexican beatmaker pivotal in the reggaeton mexa wave, delivering polished productions for leading urbano acts.',
+        aliases: [],
+      },
+
+      'Slow Mike': {
+        bio: 'Versatile Latin producer and songwriter, crafting reggaeton and urban hits with a melodic, radio-friendly edge.',
+        aliases: [],
+      },
+
+      'Dj Kiire': {
+        bio: 'Puerto Rican DJ and producer, integral to the island\'s underground and mainstream reggaeton movement for years.',
+        aliases: [],
+      },
+
+      'Santeo': {
+        bio: 'Producer from Puerto Rico, known for dark, moody reggaeton and trap instrumentals that fit the modern urbano vibe.',
+        aliases: [],
+      },
+
+      'Eduardo Berríos': {
+        bio: 'Ace producer behind many Top 10 Latin tracks, blending reggaeton with pop and ballads for global stars.',
+        aliases: [],
+      },
+
+      'Kavy': {
+        bio: 'Rising producer in the reggaeton and Latin trap scene, contributing to breakout singles for new-gen urbano artists.',
+        aliases: [],
+      },
+
+      'Crivas': {
+        bio: 'Award-winning Venezuelan producer, shaping reggaeton and Latin pop with a polished, crossover-friendly approach.',
+        aliases: [],
+      },
+
+      'Laguna (Los de La Nazza)': {
+        bio: 'Part of the renowned production duo Los de La Nazza, integral to Puerto Rican reggaeton\'s signature sound.',
+        aliases: ['Laguna'],
+      },
+
+      'Dímelo Ninow': {
+        bio: 'Producer behind many of the biggest urbano hits of the 2010s, including work with Daddy Yankee, Nicky Jam, and J Balvin.',
+        aliases: ['Dimelo Ninow'],
       },
     },
   },
