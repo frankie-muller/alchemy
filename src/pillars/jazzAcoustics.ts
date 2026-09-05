@@ -1761,6 +1761,26 @@ export const jazzAcoustics: Pillar = {
         bio: 'The Toronto trio who began playing Odd Future covers and became the most vital rhythm section in modern music, bridging ominous 1970s library funk with modern jazz.',
         aliases: ['bbng', 'badbadnotgood', 'bad bad not good', 'badbad not good'],
       },
+
+      'The Headhunters': {
+        bio: 'Electric jazz-funk band pioneered by Herbie Hancock, known for driving groove and experimental fusion in the 70s.',
+        aliases: [],
+      },
+
+      'Alphonse Mouzon': {
+        bio: 'Drummer and composer, pioneer of jazz-funk fusion with electric rhythms and soulful grooves.',
+        aliases: [],
+      },
+
+      'Steve Gadd': {
+        bio: 'Session drummer whose groove-driven jazz-funk style shapes modern fusion soundscapes.',
+        aliases: [],
+      },
+
+      'Dave Weckl': {
+        bio: 'Drummer and composer known for intricate fusion rhythms and virtuosic electric performances.',
+        aliases: [],
+      },
     },
 
     'Vocal Jazz': {
