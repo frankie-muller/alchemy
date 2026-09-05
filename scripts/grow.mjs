@@ -251,10 +251,22 @@ if (!text) {
 }
 
 // Models fence JSON even when told not to; tolerate it rather than fail.
-const fenced = text.match(/```(?:json)?\s*([\s\S]*?)```/);
+// Reasoning models (Qwen3, DeepSeek-R1-style) also leak a <think>...</think>
+// block into plain content instead of a separate field — strip it before
+// trying to parse. Falls back to the raw text for models that do neither.
+let cleaned = text.replace(/<think>[\s\S]*?<\/think>/gi, '').trim();
+const fenced = cleaned.match(/```(?:json)?\s*([\s\S]*?)```/);
+let candidate = (fenced ? fenced[1] : cleaned).trim();
+// Last resort: an unclosed <think> (truncated before </think> ever showed
+// up) or stray prose before/after — grab the outermost [...] array instead
+// of trusting the whole string is JSON.
+if (!candidate.startsWith('[')) {
+  const arrayMatch = candidate.match(/\[[\s\S]*\]/);
+  if (arrayMatch) { candidate = arrayMatch[0]; }
+}
 let proposals;
 try {
-  proposals = JSON.parse((fenced ? fenced[1] : text).trim());
+  proposals = JSON.parse(candidate);
 } catch {
   console.error(`Response was not valid JSON:\n${text.slice(0, 800)}`);
   process.exit(1);

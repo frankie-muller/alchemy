@@ -1871,6 +1871,36 @@ export const jazzAcoustics: Pillar = {
         bio: 'Norwegian progressive group combining jazz, electronica, and funk to produce atmospheric, groove‑heavy electric fusion.',
         aliases: [],
       },
+
+      'Marcus Miller': {
+        bio: 'Renowned bassist and composer who pioneered electric jazz-funk fusion with albums like \'M2\' and collaborations with Miles Davis.',
+        aliases: [],
+      },
+
+      'Thundercat': {
+        bio: 'Virtuosic bassist and vocalist blending jazz-funk, R&B, and electronic textures; known for genre‑bending albums such as \'Drunk\' and \'It Is What It Is\'.',
+        aliases: ['Stephen Bruner'],
+      },
+
+      'The Fearless Flyers': {
+        bio: 'Instrumental trio delivering high‑octane funk‑fusion with tight grooves, rapid improvisation, and modern production, epitomizing contemporary jazz‑rock energy.',
+        aliases: [],
+      },
+
+      'Terrace Martin': {
+        bio: 'Producer‑musician fusing jazz‑funk, hip‑hop, and soul, creating cinematic grooves on albums like \'Velvet Portraits\' and collaborations with Kendrick Lamar.',
+        aliases: [],
+      },
+
+      'Cory Henry': {
+        bio: 'Organ virtuoso leading the Funk Apostles, merging gospel, jazz‑funk, and electric soul into energetic, improvisational performances.',
+        aliases: [],
+      },
+
+      'Steve Coleman': {
+        bio: 'Alto saxophonist and M‑Base pioneer, integrating complex funk rhythms with jazz improvisation, shaping modern fusion sound.',
+        aliases: [],
+      },
     },
 
     'Vocal Jazz': {
