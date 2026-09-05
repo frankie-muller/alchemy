@@ -268,8 +268,24 @@ let proposals;
 try {
   proposals = JSON.parse(candidate);
 } catch {
-  console.error(`Response was not valid JSON:\n${text.slice(0, 800)}`);
-  process.exit(1);
+  // The array as a whole is broken (stray trailing bracket, one truncated
+  // entry) but the individual {...} objects in it are usually still fine —
+  // salvage whichever ones parse instead of discarding a batch of otherwise
+  // good, real artists over one malformed entry.
+  const objectMatches = candidate.match(/\{[^{}]*\}/g) || [];
+  const salvaged = [];
+  for (const objText of objectMatches) {
+    try {
+      const obj = JSON.parse(objText);
+      if (obj && typeof obj.name === 'string') { salvaged.push(obj); }
+    } catch { /* skip the one that's actually broken */ }
+  }
+  if (salvaged.length === 0) {
+    console.error(`Response was not valid JSON:\n${text.slice(0, 800)}`);
+    process.exit(1);
+  }
+  console.error(`Note: response array wasn't valid JSON as a whole; salvaged ${salvaged.length} of ${objectMatches.length} individual entries.`);
+  proposals = salvaged;
 }
 if (!Array.isArray(proposals)) {
   console.error('Expected a JSON array of proposals.');
@@ -289,6 +305,13 @@ for (const p of proposals) {
   const key = name.toLowerCase();
   if (seenThisBatch.has(key)) { continue; }
   seenThisBatch.add(key);
+  // A truncated/malformed entry (salvaged individually above, or just a
+  // model skimping on the one field that matters) with no bio is worse than
+  // not adding that artist this round — there will be another round.
+  if (!String(p.bio || '').trim()) {
+    rejected.push({ ...p, reason: 'missing/empty bio (malformed or truncated entry)' });
+    continue;
+  }
   const hit = lookupArtist(name);
   if (hit) {
     rejected.push({ ...p, reason: `already resolves to ${hit.pillar} › ${hit.subCategory}` });

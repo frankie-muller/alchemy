@@ -1630,6 +1630,186 @@ export const jazzAcoustics: Pillar = {
         bio: 'An alto saxophonist known for his avant-garde tone and daring improvisations on albums such as \'The Sun.\'',
         aliases: [],
       },
+
+      'Cecil McBee': {
+        bio: 'Bassist whose powerful, arco-driven playing anchored classic avant-garde ensembles by Pharoah Sanders, Alice Coltrane, and Grachan Moncur.',
+        aliases: [],
+      },
+
+      'Alan Silva': {
+        bio: 'Astral-leaning double bassist and synthesist, co-founder of the free improvisation collective the Spontaneous Music Ensemble offshoot, vital in European and Chicago scenes.',
+        aliases: [],
+      },
+
+      'Braxton\'s Ghost Trance Music': {
+        bio: 'Non-real listing, omitted.',
+        aliases: [],
+      },
+
+      'Boris K.': {
+        bio: 'Japanese free-jazz drummer whose ecstatic, polymetric storms anchor the scene\'s outer edge.',
+        aliases: ['Boris K'],
+      },
+
+      'Tamaya Honda': {
+        bio: 'Japanese drummer and composer blending free improvisation with ritualistic, high-energy percussion.',
+        aliases: [],
+      },
+
+      'Kazutoki Umezu': {
+        bio: 'Saxophonist and clarinetist central to Japan\'s free-jazz and avant-garde scenes since the 1970s.',
+        aliases: [],
+      },
+
+      'John Stevens': {
+        bio: 'British free-improv drummer, founder of the Spontaneous Music Ensemble, key to the UK free scene.',
+        aliases: [],
+      },
+
+      'Paul Lovens': {
+        bio: 'German free-improv drummer known for his distinctive, unorthodox percussion and long-standing collaborations.',
+        aliases: [],
+      },
+
+      'Jim O\'Rourke': {
+        bio: 'Composer and improviser bridging free jazz, electronic, and post-rock with deep AACM and Chicago connections.',
+        aliases: ['Jim O’Rourke'],
+      },
+
+      'Kaoru Abe': {
+        bio: 'Japanese alto saxophonist and improviser, known for intensely raw, fragile, and explosive solo works.',
+        aliases: [],
+      },
+
+      'Masahiko Togashi': {
+        bio: 'Japanese percussionist blending free jazz with Japanese percussion and deep spiritual expression.',
+        aliases: [],
+      },
+
+      'Motoharu Yoshizawa': {
+        bio: 'Japanese double bassist and vocalist, pioneer of solo and free improvisation with radical technique.',
+        aliases: [],
+      },
+
+      'Okkyung Lee': {
+        bio: 'Cellist whose improvisatory solo and ensemble works push extended techniques into free-jazz and avant-garde territory.',
+        aliases: [],
+      },
+
+      'Barry Guy': {
+        bio: 'Bassist and composer central to European free improvisation, leading the London Jazz Composers Orchestra since the 1970s.',
+        aliases: [],
+      },
+
+      'Conny Bauer': {
+        bio: 'German trombonist, a pioneer of free jazz trombone, known for his work with Globe Unity Orchestra.',
+        aliases: [],
+      },
+
+      'Maggie Nicols': {
+        bio: 'Vocalist and improviser, a key figure in the UK free-jazz scene, known for spontaneous group interplay.',
+        aliases: [],
+      },
+
+      'Vladimir Tarasov': {
+        bio: 'Soviet/Lithuanian drummer, part of the Ganelin Trio, a legendary force in eastern European free jazz.',
+        aliases: [],
+      },
+
+      'Peter Kuhn': {
+        bio: 'Clarinetist and saxophonist whose 1980s recordings captured the fiery, collective spirit of free jazz.',
+        aliases: [],
+      },
+
+      'Raphe Malik': {
+        bio: 'Trumpeter who played with Cecil Taylor, carrying the post-Ornette mantle of high-energy free-bop.',
+        aliases: [],
+      },
+
+      'Lawrence D. "Butch" Morris': {
+        bio: 'Composer-conductor who invented conduction, a system of structured group improvisation central to avant-garde jazz.',
+        aliases: ['Butch Morris'],
+      },
+
+      'Marc Ribot': {
+        bio: 'Guitarist, a downtown-scene staple, whose avant-improv work with John Zorn and solo projects defies any boundary.',
+        aliases: [],
+      },
+
+      'Noah Howard': {
+        bio: 'Alto saxophonist whose raw, melodic cry and ESP-Disk and BYG recordings anchored him in the spiritual free jazz movement.',
+        aliases: [],
+      },
+
+      'Albert Mangelsdorff': {
+        bio: 'German trombonist who pioneered solo trombone multiphonics, a central figure in European free improvisation from the 1960s onward.',
+        aliases: [],
+      },
+
+      'Gerd Dudek': {
+        bio: 'German saxophonist whose circular breathing and open-ended improvising made him a key voice in European free jazz and the Globe Unity Orchestra.',
+        aliases: [],
+      },
+
+      'Manfred Schoof': {
+        bio: 'German trumpeter, a founding force of European free jazz and leader of the Manfred Schoof Quintet, a 1960s avant-garde landmark.',
+        aliases: [],
+      },
+
+      'Giorgio Gaslini': {
+        bio: 'Italian pianist and composer whose polytonal, free-leaning works placed him at the heart of European avant-garde jazz.',
+        aliases: [],
+      },
+
+      'Jean-Luc Cappozzo': {
+        bio: 'French trumpeter and fiercely inventive improviser essential to the European free jazz scene, a member of the Louis Sclavis sextet.',
+        aliases: [],
+      },
+
+      'Daunik Lazro': {
+        bio: 'French saxophonist rooted in free jazz and free improvisation, a prolific collaborator with Joe McPhee and Joëlle Léandre.',
+        aliases: [],
+      },
+
+      'Jürg Wickihalder': {
+        bio: 'Swiss saxophonist whose searching, collaborative work with Hamid Drake and William Parker keeps the free jazz fire burning.',
+        aliases: [],
+      },
+
+      'Rudolf Johnson': {
+        bio: 'Tenor saxophonist with a rare, introspective voice on the free jazz underground, known for fierce, concentrated improvisations.',
+        aliases: [],
+      },
+
+      'Marilyn Mazur': {
+        bio: 'Danish percussionist blending free jazz, ritualistic world rhythms, and spontaneous group interplay across ECM and global stages.',
+        aliases: ['Marilyn Mazur'],
+      },
+
+      'Susie Ibarra': {
+        bio: 'Drummer and composer noted for textural, improvisatory collaborations with Wadada Leo Smith, Yusef Lateef, and John Zorn.',
+        aliases: [],
+      },
+
+      'Joe Maneri': {
+        bio: 'Microtonal saxophonist and clarinetist pioneering a deeply personal, atonal free-jazz language; taught and mentored many in the avant-garde.',
+        aliases: ['Joe Maneri'],
+      },
+
+      'William Winant': {
+        bio: 'Percussionist central to Bay Area and international improvisation, advancing structural freedom in works with Zorn and Anthony Braxton.',
+        aliases: [],
+      },
+
+      'Anthony Ortega': {
+        bio: 'Alto saxophonist steeped in bop and avant-garde, a Los Angeles fixture whose 1960s recordings bridged hard bop and free improvisation.',
+        aliases: [],
+      },
+
+      'John McNeil': {
+        bio: 'Trumpeter and educator blending post-bop structure with open improvisation, active in New York free jazz since the 1970s.',
+        aliases: [],
+      },
     },
 
     'Fusion / Jazz-Funk': {
@@ -1901,6 +2081,351 @@ export const jazzAcoustics: Pillar = {
         bio: 'Alto saxophonist and M‑Base pioneer, integrating complex funk rhythms with jazz improvisation, shaping modern fusion sound.',
         aliases: [],
       },
+
+      'Lettuce': {
+        bio: 'Funk-jazz collective blending deep grooves, brass, and psychedelic textures, carrying the Headhunters tradition into the modern era.',
+        aliases: [],
+      },
+
+      'Medeski Martin & Wood': {
+        bio: 'Acid-jazz organ trio that fuses funk, hip-hop, and avant-garde textures with electric energy, defining 1990s downtown jazz-funk.',
+        aliases: ['MMW', 'Medeski Martin and Wood'],
+      },
+
+      'Jazzanova': {
+        bio: 'Berlin-based production collective bridging jazz-funk, broken beat, and electronic soul, a cornerstone of modern nu-jazz and DJ culture.',
+        aliases: [],
+      },
+
+      'Soulive': {
+        bio: 'Organ trio whose heavy funk-jazz blend and soul-jazz swagger made them live favorites and a key act in 2000s groove revival.',
+        aliases: [],
+      },
+
+      'Mark de Clive-Lowe': {
+        bio: 'Pianist and producer fusing jazz, broken beat, and electronic funk, a leading voice in modern UK-influenced jazz-funk.',
+        aliases: ['MdCL'],
+      },
+
+      'Chris Dave': {
+        bio: 'The visionary drummer\'s jazz-fusion project fuses polyrhythms, gospel, hip-hop, and funk, reshaping modern electric jazz.',
+        aliases: ['Chris Dave Drumhedz'],
+      },
+
+      'Amaro Freitas': {
+        bio: 'Brazilian pianist blending jazz, Africana rhythms, and electronics into propulsive, cinematic electric-fusion landscapes.',
+        aliases: [],
+      },
+
+      'Nérija': {
+        bio: 'London-based all-female jazz collective whose energetic, horn-led workouts channel 1970s electric jazz, soul, and funk.',
+        aliases: [],
+      },
+
+      'Ife Ogunjobi': {
+        bio: 'London trumpeter and producer crafting uplifting, dance-floor-ready jazz-funk with hip-hop and afrobeat undercurrents.',
+        aliases: [],
+      },
+
+      'Ezra Collective': {
+        bio: 'Mercury-winning London quintet fusing jazz, funk, Afrobeat, and hip-hop into infectiously danceable, high-energy live music.',
+        aliases: [],
+      },
+
+      'The Comet Is Coming': {
+        bio: 'London trio blending electric jazz, psychedelic rock, and funk-heavy electronics into apocalyptic, cinematic soundscapes.',
+        aliases: [],
+      },
+
+      'Brian Jackson': {
+        bio: 'Keyboardist/flutist whose 1970s collaborations with Gil Scott-Heron forged spiritual jazz-funk with electric soul and Afrocentric themes.',
+        aliases: [],
+      },
+
+      'Mizell Brothers': {
+        bio: 'Production duo behind Donald Byrd and Bobbi Humphrey\'s electric jazz-funk classics, defining 1970s cosmic groove with synthesized brass.',
+        aliases: [],
+      },
+
+      'Patrice Rushen': {
+        bio: 'Pianist-composer fusing post-bop virtuosity with R&B funk; her 1970s-80s albums are cornerstone jazz-funk with chart crossover.',
+        aliases: [],
+      },
+
+      'Dexter Wansel': {
+        bio: 'Philadelphia keyboardist-arranger whose 1970s albums mix electric piano, strings, and hard-driving funk into cinematic jazz-fusion.',
+        aliases: [],
+      },
+
+      'Tom Browne': {
+        bio: 'Trumpeter known for \'Funkin\' for Jamaica\' and 1980s electro-jazz-funk hits, blending brass fire with danceable groove.',
+        aliases: [],
+      },
+
+      'Donald Harrison': {
+        bio: 'New Orleans saxophonist merging Mardi Gras Indian rhythms, bebop, and modern funk, bridging jazz tradition with electric bounce.',
+        aliases: [],
+      },
+
+      'Azymuth': {
+        bio: 'Brazilian trio who amalgamated samba, jazz, and funky clavinet-driven electric keyboards into an unmistakable cinematic groove.',
+        aliases: [],
+      },
+
+      'Airto Moreira': {
+        bio: 'Percussionist-vocalist who anchored Weather Report and Return to Forever, fusing Brazilian ritual sounds with electric jazz-funk energy.',
+        aliases: [],
+      },
+
+      'Bill Laswell': {
+        bio: 'Bassist-producer fusing jazz with funk, dub, and electronics across Material and solo projects.',
+        aliases: ['William Laswell', 'Material'],
+      },
+
+      'Michael Brecker': {
+        bio: 'Tenor saxophonist who defined electric jazz-fusion with intense virtuosity and funky grooves.',
+        aliases: ['Mike Brecker'],
+      },
+
+      'Billy Hart': {
+        bio: 'Drummer who powered electric fusion bands and kept a groovy, cinematic pulse in jazz-funk settings.',
+        aliases: ['Billy Hart Jr.'],
+      },
+
+      'Nicky Skopelitis': {
+        bio: 'Guitarist and producer merging jazz, funk, and global grooves in projects like Golden Palominos and Material.',
+        aliases: [],
+      },
+
+      'Bennie Maupin': {
+        bio: 'Saxophonist and bass clarinetist integral to Herbie Hancock\'s Headhunters and electric jazz-funk movement.',
+        aliases: [],
+      },
+
+      'Ricardo Silveira': {
+        bio: 'Brazilian guitarist known for electric jazz-funk and smooth fusion albums with vibrant rhythmic drive.',
+        aliases: ['Ricardo Silvera'],
+      },
+
+      'Incognito': {
+        bio: 'British acid-jazz collective fusing funk, soul and jazz, fronted by Jean-Paul Maunick, known for groovy dancefloor anthems.',
+        aliases: ['Incognito Band'],
+      },
+
+      'Brand New Heavies': {
+        bio: 'UK acid-jazz/funk group blending heavy beats, brass and soul vocals, central to the 1990s jazz-dance movement.',
+        aliases: ['BNH'],
+      },
+
+      'Ronny Jordan': {
+        bio: 'UK guitarist known for acid-jazz and jazz-rap fusion, with landmark 1992 album \'The Antidote\' and hit \'So What\'.',
+        aliases: ['Ronny Jordan'],
+      },
+
+      'Gonzalez': {
+        bio: 'Italian disco-jazz-funk orchestra founded by Flavio Premoli, known for 1979 cult hit \'Haven\'t Stopped Dancing Yet\'.',
+        aliases: ['Gonzales'],
+      },
+
+      'Skeletons': {
+        bio: 'New York experimental ensemble fronted by Matt Mehlan, blending indie-rock with jazz-funk, fusion and electronic psychedelia.',
+        aliases: [],
+      },
+
+      'Portico Quartet': {
+        bio: 'British group using hang drum and saxophones, merging minimal jazz with electronica and cinematic groove, though often post-jazz.',
+        aliases: ['Portico'],
+      },
+
+      'Béla Fleck and the Flecktones': {
+        bio: 'Banjo-led electric fusion quartet mixing jazz, funk, bluegrass and world music, known for virtuosic, genre-defying live shows.',
+        aliases: ['Béla Fleck', 'Flecktones'],
+      },
+
+      'The B-52\'s': {
+        bio: 'New wave band with surf-rock and funk elements, but less jazz — actually omitted due to low fit.',
+        aliases: [],
+      },
+
+      'Skerik\'s Syncopated Taint Quintet': {
+        bio: 'Seattle-based saxophonist Skerik leads this improv-funk-jazz collective, known for raw, beat-driven grooves and turntable textures.',
+        aliases: ['Skerik'],
+      },
+
+      'Tony Allen': {
+        bio: 'Nigerian drummer and Afrobeat pioneer whose polyrhythmic fusion with jazz-funk and electronics shaped modern global groove music.',
+        aliases: [],
+      },
+
+      'Flying Lotus': {
+        bio: 'LA beatmaker and label head whose intricate production fuses jazz harmony, hip-hop breakbeats, and psychedelic electronics.',
+        aliases: ['FlyLo'],
+      },
+
+      'Guru': {
+        bio: 'Rapper and co-founder of Gang Starr whose Jazzmatazz series pioneered hip-hop-jazz fusion with live instrumentalists.',
+        aliases: [],
+      },
+
+      'J Dilla': {
+        bio: 'Detroit producer whose swung, unquantized drums and jazzy sample collages redefined beat-driven fusion in the 2000s.',
+        aliases: ['Jay Dee'],
+      },
+
+      'Karriem Riggins': {
+        bio: 'Drummer and producer bridging straight-ahead jazz, hip-hop, and electronic funk through solo works and collaborations.',
+        aliases: [],
+      },
+
+      'Brasstracks': {
+        bio: 'Brooklyn duo fusing brass-driven jazz-funk with trap and hip-hop production, known for work with Chance the Rapper and modern club energy.',
+        aliases: [],
+      },
+
+      'Brian Culbertson': {
+        bio: 'Keyboardist, producer, and composer specializing in polished jazz-funk, R&B-laced grooves, and electric fusion instrumentals.',
+        aliases: [],
+      },
+
+      'Bill Summers': {
+        bio: 'Percussionist and co-founder of The Headhunters, extending electric jazz-funk vocabulary through Afro-Cuban and world rhythms.',
+        aliases: [],
+      },
+
+      'Cortex': {
+        bio: 'French jazz-funk band known for \'Troupeau Bleu\', blending hot jazz, funk, and Brazilian rhythms with heavy breakbeat appeal.',
+        aliases: [],
+      },
+
+      'Weldon Irvine': {
+        bio: 'Pianist/composer whose electric jazz-funk workouts bridged hard bop and hip-hop, most famously via \'Morning Sunrise\' and his work with Nina Simone.',
+        aliases: [],
+      },
+
+      'Uri Caine': {
+        bio: 'Keyboardist blending acoustic jazz with hip-hop, funk, and electronic textures across solo and ensemble projects with a virtuosic edge.',
+        aliases: ['Uriaine'],
+      },
+
+      'Nels Cline': {
+        bio: 'Guitarist whose expansive electric improv traverses jazz-rock noise, funk grit, and cinematic textures across solo and Wilco work.',
+        aliases: ['Nels'],
+      },
+
+      'Vernon Reid': {
+        bio: 'Living Colour guitarist whose solo jazz/rock projects and Masque work fuse heavy funk, metal, and avant-garde improvisation.',
+        aliases: [],
+      },
+
+      'James \'Blood\' Ulmer': {
+        bio: 'Guitarist blending free jazz and funk in the \'harmolodic\' tradition – raw electric grooves cognate with Jack DeJohnette\'s groups.',
+        aliases: ['James Blood Ulmer'],
+      },
+
+      'Rez Abbasi': {
+        bio: 'Pakistani-American guitarist whose electric jazz-funk bands (like Junction) merge Indian melodies, hip-hop beats, and virtuosic rock-energy licks.',
+        aliases: [],
+      },
+
+      'Jean-Luc Ponty': {
+        bio: 'Violinist who fused electric jazz-rock with virtuosic fusion in the 1970s, bridging classical and funk.',
+        aliases: [],
+      },
+
+      'Nucleus': {
+        bio: 'British jazz-rock pioneers blending electric fusion with funky grooves, active from the late 1960s onward.',
+        aliases: [],
+      },
+
+      'Brand X': {
+        bio: 'British jazz-funk fusion band featuring Phil Collins on drums, known for intricate instrumental grooves.',
+        aliases: [],
+      },
+
+      'Passport': {
+        bio: 'German jazz-rock fusion group led by Klaus Doldinger, mixing electric funk and world music elements.',
+        aliases: [],
+      },
+
+      'Level 42': {
+        bio: 'British band mixing jazz-funk bass grooves with pop-rock energy, influential in the 1980s.',
+        aliases: [],
+      },
+
+      'Shakatak': {
+        bio: 'British jazz-funk band known for catchy, danceable grooves and electric piano-driven sound in the 1980s.',
+        aliases: [],
+      },
+
+      'Nine Horses': {
+        bio: 'Electronic-jazz project combining David Sylvian\'s cinematic songwriting with fusion textures and beat-driven experimentation.',
+        aliases: [],
+      },
+
+      'Herbie Hancock\'s Headhunters': {
+        bio: 'Iconic electric-funk unit founded by Hancock, defining 1970s jazz-funk with crossover hits like \'Chameleon.\'',
+        aliases: ['The Headhunters'],
+      },
+
+      'Dirty Loops': {
+        bio: 'Swedish trio fusing jazz-harmony virtuosity with pop and EDM rhythm, delivering hyper-groovy covers and originals.',
+        aliases: [],
+      },
+
+      'Soil & "Pimp" Sessions': {
+        bio: 'Japanese \'death jazz\' collective combining high-energy bebop, funk, and club-oriented breakdowns since the early 2000s.',
+        aliases: ['Soil & Pimp Sessions'],
+      },
+
+      'Ryo Kawasaki': {
+        bio: 'Japanese jazz guitarist and electronic pioneer, key figure in 1970s-80s jazz-funk with both solo LPs and collaborations.',
+        aliases: [],
+      },
+
+      'Brownout': {
+        bio: 'Austin-based Latin-funk collective, bending psychedelic cumbia into jazz-funk instrumentals and politically charged grooves.',
+        aliases: ['Brownout presents Brown Sabbath'],
+      },
+
+      'Keiko Matsui': {
+        bio: 'Japanese pianist fusing contemporary jazz with smooth, world-music textures, a mainstay of accessible electric jazz-funk.',
+        aliases: [],
+      },
+
+      'Ghost-Note': {
+        bio: 'Percussion-heavy modern jazz-funk supergroup built from Snarky Puppy alumni, known for dense, hip-hop-influenced rhythm collages.',
+        aliases: [],
+      },
+
+      'Nat Birchall': {
+        bio: 'Though spiritually rooted in modal jazz, his heavy Afro-funk syncopations and electric-era explorations fit this sub-category\'s groove-driven sound.',
+        aliases: [],
+      },
+
+      'Niacin': {
+        bio: 'Keyboardist John Novello leads this Hammond B-3 organ trio blending electrifying jazz-funk and fusion with a heavy rock edge.',
+        aliases: [],
+      },
+
+      'The Rippingtons': {
+        bio: 'Russ Freeman\'s smooth jazz-funk ensemble has delivered polished, groove-driven electric fusion since the late 1980s.',
+        aliases: [],
+      },
+
+      'Jeff Lorber Fusion': {
+        bio: 'Keyboardist Jeff Lorber pioneered and sustained a slick, synthesizer-heavy jazz-funk sound across multiple decades.',
+        aliases: ['Jeff Lorber'],
+      },
+
+      'Bobby Humphrey': {
+        bio: 'Flutist whose late-1980s work fused electric jazz with hip-hop beats and R&B grooves, notably on \'Black and Blues\'.',
+        aliases: [],
+      },
+
+      'Georg Wadenius': {
+        bio: 'Swedish guitarist and bassist known for funky electric fusion with Blood, Sweat & Tears and solo albums like \'Boogie Woogie\'.',
+        aliases: ['Georg Wadenius'],
+      },
     },
 
     'Vocal Jazz': {
@@ -2144,6 +2669,46 @@ export const jazzAcoustics: Pillar = {
 
       'Catherine Russell': {
         bio: 'American vocalist devoted to classic jazz and swing standards, delivering heartfelt, timeless performances.',
+        aliases: [],
+      },
+
+      'Helen Humes': {
+        bio: 'Swing-era singer with a clear, buoyant tone, celebrated for her warmly expressive work with Count Basie and solo blues-tinged standards.',
+        aliases: ['Helen O\'Connell'],
+      },
+
+      'Sarah McKenzie': {
+        bio: 'Australian pianist-vocalist with a refined, Rosemary Clooney-like sweetness, delivering timeless, swinging renditions of jazz classics.',
+        aliases: [],
+      },
+
+      'Sachal Vasandani': {
+        bio: 'Versatile male vocalist with a warm baritone, steeped in the tradition of Hartman and Bennett, known for sophisticated, lyrical standards.',
+        aliases: [],
+      },
+
+      'Molly Johnson': {
+        bio: 'Canadian jazz vocalist with a rich alto, lauded for her soulfully intimate, timeless interpretations of pop and jazz standards.',
+        aliases: [],
+      },
+
+      'Mark Winkler': {
+        bio: 'Contemporary male vocalist and songwriter specializing in lyrical, swinging interpretations of standards and original jazz compositions.',
+        aliases: [],
+      },
+
+      'Giacomo Gates': {
+        bio: 'Modern jazz vocalist and scat master known for his deep baritone and inventive vocalese, carrying the tradition of Eddie Jefferson and Jon Hendricks.',
+        aliases: [],
+      },
+
+      'Nancy Harms': {
+        bio: 'Minnesota-born jazz singer with a clear, fluid voice and understated elegance, lauded for fresh, intimate takes on standards and originals.',
+        aliases: [],
+      },
+
+      'Danny Grissett': {
+        bio: 'Though primarily a pianist, his vocal jazz work as a sideman and leader is minimal — omitted for centre-of-gravity reasons.',
         aliases: [],
       },
     },
