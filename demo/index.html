@@ -5,62 +5,81 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Alchemy — music genre alchemy, running in your browser</title>
 <meta name="description" content="Offline music genre taxonomy: 3,545 artists across 12 pillars. Pick a corner of the map and get recommendations, or throw a broken ID3 tag at the classifier.">
+<meta name="theme-color" content="#0a0a0a">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Karla:wght@400;500;700&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Karla:wght@400;500;700&family=JetBrains+Mono:wght@400;500;700;800&display=swap">
 <style>
   :root {
-    --paper:#FCFBF8; --surface:#FFFFFF; --surface-2:#F4F2ED;
-    --ink:#1B1F1E; --ink-2:#4A5350; --ink-3:#79837F;
-    --rule:#E3E0D8; --rule-soft:#EFEDE6;
-    --accent:#2F7D6A; --accent-2:#256254; --accent-bg:#E4F0EB;
-    --copper:#A8552F; --copper-bg:#F7E9E0;
-    --mono-bg:#F2F1EB;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --paper:#131716; --surface:#191E1D; --surface-2:#1F2524;
-      --ink:#E9EAE5; --ink-2:#A6B0AB; --ink-3:#76817C;
-      --rule:#2A3230; --rule-soft:#222927;
-      --accent:#62BFA3; --accent-2:#8AD4BC; --accent-bg:#1B2B26;
-      --copper:#D68A5F; --copper-bg:#2B2019;
-      --mono-bg:#1C2221;
-    }
+    --bg:#0a0a0a; --chassis:#121212; --panel:#15130f; --bezel:#1c1915;
+    --ink:#d9d6cc; --ink-2:#9c9689; --ink-3:#6e685c;
+    --rule:#2c2822; --rule-soft:#211e19;
+    --amber:#FF9000; --amber-glow:#FFB700; --phosphor:#f0dfc0;
+    --copper:#D68A5F; --copper-bg:#2b2019;
+    --red:#e6543f; --red-bg:#2b1512;
+    --mono-bg:#1a1712;
   }
   * { box-sizing:border-box; }
-  html { -webkit-text-size-adjust:100%; }
+  html { -webkit-text-size-adjust:100%; color-scheme:dark; }
   body {
-    margin:0; background:var(--paper); color:var(--ink);
+    margin:0; background:var(--bg); color:var(--ink);
     font-family:'Karla','Helvetica Neue',Arial,sans-serif;
     font-size:16.5px; line-height:1.6; -webkit-font-smoothing:antialiased;
+    background-image:radial-gradient(ellipse 900px 500px at 50% -10%, #1c1c1c, var(--bg) 70%);
   }
-  .shell { max-width:1080px; margin:0 auto; padding:0 26px 80px; }
 
-  /* ── Masthead ─────────────────────────────────────────── */
-  header.top { padding:54px 0 30px; border-bottom:1px solid var(--rule); }
+  /* ── Chassis frame: bolts pinned to the viewport, like a device bezel ── */
+  .bolt { position:fixed; width:20px; height:20px; z-index:40; pointer-events:none; opacity:.9; }
+  .bolt.tl { top:14px; left:14px; } .bolt.tr { top:14px; right:14px; }
+  .bolt.bl { bottom:14px; left:14px; } .bolt.br { bottom:14px; right:14px; }
+  @media (max-width:640px) { .bolt { width:14px; height:14px; } }
+
+  .shell { max-width:1080px; margin:0 auto; padding:0 26px 80px; position:relative; }
+
+  /* ── Masthead: the headline lives inside a lit VFD readout ─────────── */
+  header.top { padding:50px 0 32px; }
+  .vfd {
+    background:var(--bezel); border:1px solid var(--rule); border-radius:6px;
+    padding:22px 24px 24px; position:relative; overflow:hidden;
+    box-shadow:inset 0 1px 0 rgba(255,255,255,.03), inset 0 0 40px rgba(0,0,0,.5);
+  }
+  .vfd::after {
+    content:''; position:absolute; inset:0; pointer-events:none;
+    background-image:repeating-linear-gradient(rgba(0,0,0,.5) 0 1px, transparent 1px 3px);
+    opacity:.25; mix-blend-mode:multiply;
+  }
   .eyebrow {
-    font-family:'JetBrains Mono',ui-monospace,monospace; font-size:11.5px;
-    letter-spacing:.14em; text-transform:uppercase; color:var(--accent); margin:0 0 13px;
+    font-family:'JetBrains Mono',ui-monospace,monospace; font-size:11px; font-weight:700;
+    letter-spacing:.18em; text-transform:uppercase; color:var(--amber); margin:0 0 12px;
+    text-shadow:0 0 12px rgba(255,144,0,.5);
   }
   h1 {
-    font-family:'Fraunces',Georgia,serif; font-weight:600;
-    font-size:clamp(38px,6.5vw,64px); line-height:1.02; letter-spacing:-.02em;
-    margin:0 0 15px; text-wrap:balance;
+    font-family:'JetBrains Mono',ui-monospace,monospace; font-weight:800;
+    font-size:clamp(26px,5vw,44px); line-height:1.12; letter-spacing:-.01em;
+    text-transform:uppercase; margin:0 0 14px; text-wrap:balance; color:var(--phosphor);
+    text-shadow:0 0 1px rgba(240,223,192,.6), 0 0 22px rgba(255,183,0,.35);
   }
-  .standfirst { font-size:19px; color:var(--ink-2); max-width:58ch; margin:0 0 26px; }
-  .standfirst a { color:var(--accent); }
+  .standfirst { font-size:16.5px; color:var(--ink-2); max-width:58ch; margin:0; position:relative; }
+  .standfirst a { color:var(--amber); }
+
   .stats { display:flex; flex-wrap:wrap; gap:0; border:1px solid var(--rule);
-           border-radius:3px; background:var(--surface); overflow:hidden; }
+           border-radius:6px; background:var(--panel); overflow:hidden; margin-top:20px; }
   .stats div { flex:1 1 120px; padding:12px 17px; border-right:1px solid var(--rule-soft); }
   .stats div:last-child { border-right:0; }
   .stats dt { font-family:'JetBrains Mono',ui-monospace,monospace; font-size:10px;
-              letter-spacing:.12em; text-transform:uppercase; color:var(--ink-3); margin:0 0 2px; }
-  .stats dd { margin:0; font-size:18px; font-weight:700; font-variant-numeric:tabular-nums; }
+              letter-spacing:.14em; text-transform:uppercase; color:var(--ink-3); margin:0 0 4px; }
+  .stats dd { margin:0; font-family:'JetBrains Mono',ui-monospace,monospace;
+              font-size:19px; font-weight:700; font-variant-numeric:tabular-nums;
+              color:var(--amber); text-shadow:0 0 10px rgba(255,144,0,.35); }
 
   /* ── Panels ───────────────────────────────────────────── */
-  section { padding-top:46px; }
-  h2 { font-family:'Fraunces',Georgia,serif; font-weight:600; font-size:clamp(25px,3.2vw,32px);
-       line-height:1.15; letter-spacing:-.012em; margin:0 0 8px; text-wrap:balance; }
+  section { padding-top:44px; }
+  h2 {
+    font-family:'JetBrains Mono',ui-monospace,monospace; font-weight:700;
+    font-size:clamp(18px,2.6vw,22px); text-transform:uppercase; letter-spacing:.04em;
+    line-height:1.25; margin:0 0 8px; color:var(--phosphor); text-wrap:balance;
+  }
+  h2::before { content:'» '; color:var(--amber); }
   .lede { color:var(--ink-2); max-width:66ch; margin:0 0 22px; }
   .lede code { font-size:.86em; }
 
@@ -68,42 +87,43 @@
   .field { display:flex; flex-direction:column; gap:5px; min-width:0; }
   .field.grow { flex:1 1 260px; }
   label { font-family:'JetBrains Mono',ui-monospace,monospace; font-size:10px;
-          letter-spacing:.12em; text-transform:uppercase; color:var(--ink-3); }
+          letter-spacing:.13em; text-transform:uppercase; color:var(--ink-3); }
   select, input[type=text] {
     font-family:inherit; font-size:15px; color:var(--ink);
-    background:var(--surface); border:1px solid var(--rule); border-radius:3px;
+    background:var(--panel); border:1px solid var(--rule); border-radius:4px;
     padding:9px 11px; min-width:0; width:100%;
   }
   select:focus-visible, input:focus-visible, button:focus-visible {
-    outline:2px solid var(--accent); outline-offset:2px;
+    outline:2px solid var(--amber); outline-offset:2px;
   }
   button {
-    font-family:inherit; font-size:14px; font-weight:700; cursor:pointer;
-    background:var(--accent); color:#fff; border:1px solid var(--accent);
-    border-radius:3px; padding:10px 18px;
+    font-family:'JetBrains Mono',ui-monospace,monospace; font-size:12.5px; font-weight:700;
+    text-transform:uppercase; letter-spacing:.06em; cursor:pointer;
+    background:var(--amber); color:#1a0f00; border:1px solid var(--amber);
+    border-radius:4px; padding:10px 18px;
+    box-shadow:0 0 0 rgba(255,144,0,0);
+    transition:box-shadow .15s ease, background .15s ease;
   }
-  button:hover:not(:disabled) { background:var(--accent-2); border-color:var(--accent-2); }
-  button:disabled { opacity:.45; cursor:default; }
-  button.ghost { background:transparent; color:var(--accent); border-color:var(--rule); }
-  button.ghost:hover { background:var(--accent-bg); border-color:var(--accent); }
-  @media (prefers-color-scheme: dark) { button { color:#0F1413; } }
+  button:hover:not(:disabled) { background:var(--amber-glow); box-shadow:0 0 16px rgba(255,183,0,.45); }
+  button:disabled { opacity:.4; cursor:default; }
+  button.ghost { background:transparent; color:var(--amber); border-color:var(--rule); box-shadow:none; }
+  button.ghost:hover { background:var(--copper-bg); border-color:var(--amber); box-shadow:none; }
 
   .note { font-family:'JetBrains Mono',ui-monospace,monospace; font-size:11.5px;
           color:var(--ink-3); margin:0 0 20px; min-height:1.3em; }
 
   /* ── Recommendation cards ─────────────────────────────── */
   .cards { display:grid; grid-template-columns:repeat(auto-fill,minmax(248px,1fr)); gap:12px; }
-  .card { background:var(--surface); border:1px solid var(--rule); border-radius:4px;
+  .card { background:var(--panel); border:1px solid var(--rule); border-radius:5px;
           padding:15px 16px; display:flex; flex-direction:column; gap:7px; }
-  .card h3 { font-family:'Fraunces',Georgia,serif; font-weight:600; font-size:19px;
-             line-height:1.2; margin:0; text-wrap:balance; }
+  .card h3 { font-family:'Karla',sans-serif; font-weight:700; font-size:17px;
+             line-height:1.25; margin:0; text-wrap:balance; color:var(--phosphor); }
   .pills { display:flex; flex-wrap:wrap; gap:5px; }
   .pill { font-family:'JetBrains Mono',ui-monospace,monospace; font-size:9.5px;
           letter-spacing:.07em; text-transform:uppercase; color:var(--ink-2);
-          background:var(--surface-2); border:1px solid var(--rule); border-radius:99px;
+          background:var(--mono-bg); border:1px solid var(--rule); border-radius:99px;
           padding:2.5px 8px; }
-  .pill.bridge { color:#fff; background:var(--accent); border-color:var(--accent); }
-  @media (prefers-color-scheme: dark) { .pill.bridge { color:#0F1413; } }
+  .pill.bridge { color:#1a0f00; background:var(--amber); border-color:var(--amber); }
   .pill.studio { color:var(--copper); background:var(--copper-bg); border-color:var(--copper); }
   .card .meta { font-size:12px; color:var(--ink-3); margin:0; }
   .card .bio { font-size:13.5px; line-height:1.5; color:var(--ink-2); margin:0; }
@@ -111,26 +131,26 @@
   /* ── Classifier ───────────────────────────────────────── */
   #chips { display:flex; flex-wrap:wrap; gap:6px; margin:0 0 16px; }
   .chip { font-family:'JetBrains Mono',ui-monospace,monospace; font-size:11.5px; font-weight:400;
-          background:var(--surface); color:var(--ink-2); border:1px solid var(--rule);
+          background:var(--panel); color:var(--ink-2); border:1px solid var(--rule);
           border-radius:99px; padding:5px 11px; }
-  .chip:hover { background:var(--accent-bg); color:var(--accent); border-color:var(--accent); }
+  .chip:hover { background:var(--copper-bg); color:var(--amber); border-color:var(--amber); }
   #verdict { margin-top:16px; }
   .verdict-row { display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:1px;
-                 background:var(--rule); border:1px solid var(--rule); border-radius:4px; overflow:hidden; }
-  .verdict-row > div { background:var(--surface); padding:13px 16px; }
-  .verdict-row.hit > div { border-top:2px solid var(--accent); }
-  .verdict-row.miss > div { border-top:2px solid var(--copper); }
+                 background:var(--rule); border:1px solid var(--rule); border-radius:5px; overflow:hidden; }
+  .verdict-row > div { background:var(--panel); padding:13px 16px; }
+  .verdict-row.hit > div { border-top:2px solid var(--amber); }
+  .verdict-row.miss > div { border-top:2px solid var(--red); }
   .verdict-row .label { display:block; font-family:'JetBrains Mono',ui-monospace,monospace;
-                        font-size:10px; letter-spacing:.11em; text-transform:uppercase;
+                        font-size:10px; letter-spacing:.12em; text-transform:uppercase;
                         color:var(--ink-3); margin-bottom:3px; }
-  .verdict-row strong { font-size:17px; font-weight:700; }
+  .verdict-row strong { font-size:16px; font-weight:700; color:var(--phosphor); }
   .via { font-size:13px; color:var(--ink-2); margin:11px 0 0; }
   code { font-family:'JetBrains Mono',ui-monospace,monospace; font-size:.86em;
-         background:var(--mono-bg); padding:1.5px 5px; border-radius:3px; }
+         background:var(--mono-bg); color:var(--amber); padding:1.5px 5px; border-radius:3px; }
 
   footer { margin-top:56px; padding-top:24px; border-top:1px solid var(--rule);
            font-size:13.5px; color:var(--ink-3); }
-  footer a { color:var(--accent); }
+  footer a { color:var(--amber); }
   footer p { max-width:68ch; }
 
   @media (max-width:640px) {
@@ -141,16 +161,24 @@
 </style>
 </head>
 <body>
+
+<svg class="bolt tl" viewBox="0 0 24 24" aria-hidden="true"><defs><radialGradient id="bg1" cx="35%" cy="30%" r="70%"><stop offset="0%" stop-color="#666"/><stop offset="55%" stop-color="#2a2a2a"/><stop offset="100%" stop-color="#111"/></radialGradient></defs><circle cx="12" cy="12" r="11" fill="url(#bg1)" stroke="#000" stroke-width="1"/><path d="M12 6.5 16.3 9v6L12 17.5 7.7 15V9Z" fill="#0a0a0a" stroke="#000" stroke-width=".5"/></svg>
+<svg class="bolt tr" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="11" fill="url(#bg1)" stroke="#000" stroke-width="1"/><path d="M12 6.5 16.3 9v6L12 17.5 7.7 15V9Z" fill="#0a0a0a" stroke="#000" stroke-width=".5"/></svg>
+<svg class="bolt bl" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="11" fill="url(#bg1)" stroke="#000" stroke-width="1"/><path d="M12 6.5 16.3 9v6L12 17.5 7.7 15V9Z" fill="#0a0a0a" stroke="#000" stroke-width=".5"/></svg>
+<svg class="bolt br" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="11" fill="url(#bg1)" stroke="#000" stroke-width="1"/><path d="M12 6.5 16.3 9v6L12 17.5 7.7 15V9Z" fill="#0a0a0a" stroke="#000" stroke-width=".5"/></svg>
+
 <div class="shell">
 
   <header class="top">
-    <p class="eyebrow">Music genre alchemy · running client-side</p>
-    <h1>The dictionary, in your browser</h1>
-    <p class="standfirst">
-      This page has no server and makes no network call. The entire taxonomy is bundled into it,
-      because the library is offline by design — what you click below is the same code
-      <a href="https://github.com/frankie-muller/alchemy">the package ships</a>.
-    </p>
+    <div class="vfd">
+      <p class="eyebrow">Music genre alchemy · running client-side</p>
+      <h1>The dictionary, in your browser</h1>
+      <p class="standfirst">
+        This page has no server and makes no network call. The entire taxonomy is bundled into it,
+        because the library is offline by design — what you click below is the same code
+        <a href="https://github.com/frankie-muller/alchemy">the package ships</a>.
+      </p>
+    </div>
     <dl class="stats">
       <div><dt>Artists</dt><dd id="stat-artists">—</dd></div>
       <div><dt>Pillars</dt><dd id="stat-pillars">—</dd></div>
