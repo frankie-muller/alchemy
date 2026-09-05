@@ -140,10 +140,16 @@ for (let i = 0; i < jobs.length; i++) {
     }
 
     if (growOutput === null) {
-      consecutiveEmpty++;
-      log(`  round ${rounds}: every configured model failed (now ${current}/${TARGET})  [${consecutiveEmpty} empty in a row]`);
-      await sleep(PACE_MS);
-      continue;
+      // Every configured model failed -- this is "no capacity right now,"
+      // not "this niche is exhausted." Those are NOT the same fact, and
+      // conflating them (treating it as a normal empty round) would let the
+      // run race through every remaining sub-category mislabeling each one
+      // "ran dry" the instant global capacity hits zero, which is exactly
+      // the kind of silent data-quality corruption this whole pipeline
+      // exists to avoid. Stop cleanly instead -- resuming later just
+      // re-reads the dictionary from disk and continues correctly.
+      log(`  ALL MODELS EXHAUSTED on ${job.pillar} › ${job.sub} (${current}/${TARGET}, not "ran dry" -- capacity, not content). Stopping the run; resume later with the same command.`);
+      process.exit(2);
     }
     totalCallsMade++;
 
