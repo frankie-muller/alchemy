@@ -2755,6 +2755,11 @@ export const jazzAcoustics: Pillar = {
         bio: 'Award‑winning drummer whose work blends Latin jazz with contemporary fusion.',
         aliases: ['Antonio Sanchez'],
       },
+
+      'Bebo Valdés': {
+        bio: 'Cuban pianist and composer whose elegant descargas and boleros anchored him as a foundational Latin jazz maestro.',
+        aliases: ['Bebo Valdes'],
+      },
     },
 
     'Acoustic Guitar': {
