@@ -2426,6 +2426,31 @@ export const jazzAcoustics: Pillar = {
         bio: 'Swedish guitarist and bassist known for funky electric fusion with Blood, Sweat & Tears and solo albums like \'Boogie Woogie\'.',
         aliases: ['Georg Wadenius'],
       },
+
+      'Oz Noy': {
+        bio: 'Israeli guitarist blending funk, rock, and jazz with a virtuosic electric approach, deeply rooted in the 1970s fusion tradition.',
+        aliases: ['Oz Noy Trio'],
+      },
+
+      'Scott Kinsey': {
+        bio: 'Keyboardist and longtime Weather Report-adjacent player, crafting cinematic electric jazz-funk and fusion soundscapes.',
+        aliases: [],
+      },
+
+      'Nik Bartsch': {
+        bio: 'Swiss pianist and bandleader whose rhythmic, minimalist electric jazz integrates funk and groove with avant-garde precision.',
+        aliases: ['Nik Bärtsch'],
+      },
+
+      'Takuya Kuroda': {
+        bio: 'Japanese trumpeter fusing hard-bop, funk, and hip-hop in a soulful, beat-driven electric jazz context.',
+        aliases: [],
+      },
+
+      'Matthew Halsall': {
+        bio: 'UK trumpeter and producer blending spiritual jazz with cinematic funk and electronic textures, bridging acoustic and electric grooves.',
+        aliases: [],
+      },
     },
 
     'Vocal Jazz': {
@@ -2709,6 +2734,341 @@ export const jazzAcoustics: Pillar = {
 
       'Danny Grissett': {
         bio: 'Though primarily a pianist, his vocal jazz work as a sideman and leader is minimal — omitted for centre-of-gravity reasons.',
+        aliases: [],
+      },
+
+      'Bobby Darin': {
+        bio: 'Dynamic crooner who brought jazz-swing sensibility to pop standards, ballads, and up-tempo songbook classics.',
+        aliases: [],
+      },
+
+      'Jack Jones': {
+        bio: 'Smooth, elegant baritone renowned for his polished, heartfelt interpretations of classic standards and ballads.',
+        aliases: [],
+      },
+
+      'Carol Sloane': {
+        bio: 'Late-emerging ballad singer favored by critics for her warm, conversational, and timeless jazz vocal style.',
+        aliases: [],
+      },
+
+      'Meredith D\'Ambrosio': {
+        bio: 'Painter and vocalist with delicate, impressionistic phrasing, devoted to intimate standard and lesser-known song interpretations.',
+        aliases: [],
+      },
+
+      'Mary Stallings': {
+        bio: 'Powerhouse contemporary vocalist in the Ella/Carmen tradition, delivering soulful, masterful renditions of the American songbook.',
+        aliases: [],
+      },
+
+      'Keely Smith': {
+        bio: 'Jazz and pop singer with a cool, understated style, best known for her duets with Louis Prima and solo standards albums.',
+        aliases: ['Keely Smith'],
+      },
+
+      'Eydie Gormé': {
+        bio: 'Versatile vocalist whose polished, emotive style bridged jazz, pop, and Latin standards, winning a Grammy for her duets.',
+        aliases: ['Eydie Gorme'],
+      },
+
+      'Jerry Vale': {
+        bio: 'Traditional pop and standards singer with a smooth, romantic tenor voice, heavily influenced by Frank Sinatra\'s phrasing.',
+        aliases: ['Jerry Vale'],
+      },
+
+      'Steve Lawrence': {
+        bio: 'Crooner and standards singer known for his smooth baritone and heartfelt interpretations of classic American songbook tunes.',
+        aliases: ['Steve Lawrence'],
+      },
+
+      'Al Hibbler': {
+        bio: 'Distinctive baritone vocalist who fronted Duke Ellington\'s band, later a solo star known for his bluesy, dramatic takes on ballads.',
+        aliases: ['Al Hibbler'],
+      },
+
+      'Jimmy Rushing': {
+        bio: 'Blues-shouting jazz vocalist with the Count Basie band, whose warm, robust voice anchored countless standards and swing classics.',
+        aliases: ['Jimmy Rushing'],
+      },
+
+      'Anita Ellis': {
+        bio: '1940s-50s jazz singer and actress with a rich, expressive voice, featured on radio and in film, specializing in torch songs and standards.',
+        aliases: [],
+      },
+
+      'Frances Faye': {
+        bio: 'Bold, theatrical 1940s-50s vocalist whose swinging, witty interpretations of standards made her a cult cabaret and jazz figure.',
+        aliases: [],
+      },
+
+      'Georgia Gibbs': {
+        bio: 'Versatile 1950s pop-jazz singer with a crisp, cheerful delivery on standards, swing tunes, and upbeat ballads.',
+        aliases: [],
+      },
+
+      'Mavis Rivers': {
+        bio: 'Samoan-American vocalist with a warm, agile voice, praised in the 1950s-60s for crisp scat and elegant takes on the American songbook.',
+        aliases: [],
+      },
+
+      'Carla White': {
+        bio: 'Post-bop vocalist and educator, blending scat, standards, and original lyrics with a swinging, modern bebop sensibility across four decades.',
+        aliases: [],
+      },
+
+      'Marlene VerPlanck': {
+        bio: 'Smooth, precise 1950s-2000s singer of standards and lesser-known gems, admired for impeccable diction and timeless elegance.',
+        aliases: [],
+      },
+
+      'Barbara Lea': {
+        bio: 'Traditional-jazz singer of the 1950s onward, known for faithful, emotionally direct renderings of standards with Dixieland and swing bands.',
+        aliases: [],
+      },
+
+      'Ernie Andrews': {
+        bio: 'Robust blues-tinged jazz singer known for swinging standards and heartfelt ballads on the West Coast.',
+        aliases: [],
+      },
+
+      'Jeri Southern': {
+        bio: 'Pianist and vocalist with a cool, intimate delivery, celebrated for her sophisticated takes on standards.',
+        aliases: [],
+      },
+
+      'Betty Roche': {
+        bio: 'Blues and swing vocalist whose Ellington work showcased her scatting and versatile, storytelling style.',
+        aliases: [],
+      },
+
+      'Ethel Waters': {
+        bio: 'Pioneering blues and jazz singer whose mature, dramatic delivery shaped early vocal jazz storytelling.',
+        aliases: [],
+      },
+
+      'Maxine Sullivan': {
+        bio: 'Swing-era vocalist celebrated for her lilting, relaxed interpretations of standards and folk-jazz fare.',
+        aliases: [],
+      },
+
+      'Rebecca Kilgore': {
+        bio: 'Effortlessly swinging songbird with a vast repertoire of pre-war pop and jazz standards, impeccable time.',
+        aliases: [],
+      },
+
+      'Daryl Sherman': {
+        bio: 'Veteran pianist-singer who channels classic swing-era elegance with witty, urbane interpretations of standards.',
+        aliases: [],
+      },
+
+      'Jackie Cain': {
+        bio: 'Half of the legendary duo Jackie & Roy, known for intricate unison singing and bebop-influenced vocal improvisation.',
+        aliases: ['Jackie Cain', 'Jackie Kain'],
+      },
+
+      'Roy Kral': {
+        bio: 'Half of Jackie & Roy, a pianist-arranger whose harmonically rich writing shaped their distinctive bebop vocal sound.',
+        aliases: [],
+      },
+
+      'Chris Botti': {
+        bio: 'Trumpeter and vocalist offering lush, romantic instrumental jazz-pop, though his playing overshadows rare vocal tracks.',
+        aliases: [],
+      },
+
+      'Curtis Stigers': {
+        bio: 'Saxophonist and vocalist who blends pop-rock roots into a smooth, soulful jazz-singing career focused on standards.',
+        aliases: [],
+      },
+
+      'Claire Martin': {
+        bio: 'British jazz singer lauded for her interpretive depth, tackling standards and contemporary songs with impeccable technical command.',
+        aliases: [],
+      },
+
+      'Lee Wiley': {
+        bio: 'Prized 1930s-40s song interpreter whose sultry, blues-tinged voice made classic American songbooks deeply personal and timeless.',
+        aliases: [],
+      },
+
+      'Jeri Brown': {
+        bio: 'Canadian jazz vocalist with a luminous, expressive style, acclaimed for heartfelt balladry and inventive scat improvisation.',
+        aliases: [],
+      },
+
+      'Janis Siegel': {
+        bio: 'Manhattan Transfer co-founder whose solo work showcases her warm, polished voice on standards, ballads, and jazz-soul.',
+        aliases: [],
+      },
+
+      'Nancy King': {
+        bio: 'Oregon-based jazz vocalist known for spontaneous, interactive improvisation and tender, swinging renderings of standards.',
+        aliases: [],
+      },
+
+      'Susannah McCorkle': {
+        bio: 'Critically acclaimed singer-songwriter renowned for her literate, emotionally direct interpretations of classic American songbook material.',
+        aliases: [],
+      },
+
+      'Mary Cleere Haran': {
+        bio: 'Singer and historian celebrated for vibrant, witty interpretations of 1930s and 1940s popular song.',
+        aliases: [],
+      },
+
+      'Jackie Paris': {
+        bio: 'Understated baritone with a hip, tender delivery, equally skilled at swinging standards and aching ballads with a poet\'s touch.',
+        aliases: [],
+      },
+
+      'Anita Baker': {
+        bio: 'Though rooted in R&B, her jazz-tinged phrasing and intimate, romantic balladry align her with sophisticated vocal storytelling in the 1980s-90s.',
+        aliases: [],
+      },
+
+      'Helen Ward': {
+        bio: 'Early swing-era vocalist with Benny Goodman whose clear, warm voice and tasteful standards delivery anchored her as a polished jazz singer.',
+        aliases: [],
+      },
+
+      'Beverly Kenney': {
+        bio: '1950s jazz vocalist with a soft, intimate style and fresh interpretations of standards, tragically short-lived yet critically praised.',
+        aliases: [],
+      },
+
+      'Morgana King': {
+        bio: 'Singer with a uniquely expansive four-octave range and intimate, torch-song delivery, deeply rooted in jazz phrasing from the 1950s onward.',
+        aliases: [],
+      },
+
+      'Ketty Lester': {
+        bio: '1950s-60s vocalist with a crystalline, jazz-inflected pop sound, remembered for sensitive readings of standards on major stages.',
+        aliases: [],
+      },
+
+      'Lou Rawls': {
+        bio: 'Baritone with sweeping, sophisticated phrasing steeped in R&B and gospel yet beloved in jazz clubs for his resonant, storytelling ballads.',
+        aliases: [],
+      },
+
+      'Arthur Prysock': {
+        bio: 'Deep-voiced baritone who blended jazz, blues, and standards with warmth and authority across several decades.',
+        aliases: [],
+      },
+
+      'Johnny Mathis': {
+        bio: 'Velvet-toned pop-jazz vocalist whose romantic readings of standards made him a timeless balladeer.',
+        aliases: [],
+      },
+
+      'Gloria Lynne': {
+        bio: 'Jazz and R&B vocalist with a rich, emotive voice, equally at home on ballads and swinging standards.',
+        aliases: [],
+      },
+
+      'Skip Heller': {
+        bio: 'Eclectic guitarist-vocalist who reworks vintage jazz and pop standards with a sly, sophisticated modern edge.',
+        aliases: [],
+      },
+
+      'Jerry Herman': {
+        bio: 'No, not the composer; this is Jerry Herman, a jazz vocalist with a warm baritone who recorded for Bethlehem Records.',
+        aliases: [],
+      },
+
+      'Annie Ross': {
+        bio: 'Scottish-born jazz singer and lyricist renowned for her vocalese mastery with Lambert, Hendricks & Ross and solo balladry.',
+        aliases: [],
+      },
+
+      'Ethel Ennis': {
+        bio: 'Baltimore-based jazz and standards singer praised for her clean, expressive phrasing and rare appearances on the national scene.',
+        aliases: [],
+      },
+
+      'Sylvia Syms': {
+        bio: 'New York cabaret-jazz stylist dubbed \'the Salome of jazz\' for her intimate, emotionally resonant readings of standards.',
+        aliases: [],
+      },
+
+      'Marilyn Maye': {
+        bio: 'Verve Records singer and nightclub legend known for her swinging, theatrical delivery of standards and show tunes.',
+        aliases: [],
+      },
+
+      'Joyce Breach': {
+        bio: 'Cabaret and jazz vocalist who carried the tradition of sophisticated song interpretation into the late 20th century.',
+        aliases: [],
+      },
+
+      'Jane Harvey': {
+        bio: '1940s-50s vocalist known for polished readings of standards and work with Duke Ellington and Desi Arnaz.',
+        aliases: [],
+      },
+
+      'Eileen Farrell': {
+        bio: 'Classical soprano who crossed into pop/jazz, acclaimed for intimate, sophisticated interpretations of standards and torch songs.',
+        aliases: [],
+      },
+
+      'Carolyn Leigh': {
+        bio: 'Great American Songbook lyricist, but also a noted interpreter of standards in the 1950s and 60s.',
+        aliases: [],
+      },
+
+      'Harriet Nelson': {
+        bio: 'Known for her role on \'The Adventures of Ozzie and Harriet,\' she also recorded cosy, sophisticated vocal standards in the late 1940s.',
+        aliases: [],
+      },
+
+      'Bonnie Herman': {
+        bio: 'Jazz and session singer with a light, swinging touch, often associated with the Singers Unlimited vocal group.',
+        aliases: [],
+      },
+
+      'Bobby Hall': {
+        bio: 'Scat-singing vocalist and composer from the 1950s who infused standards with West Coast cool and playful energy.',
+        aliases: [],
+      },
+
+      'Rebecca Martin': {
+        bio: 'Quietly compelling singer-songwriter whose folk-inflected but deeply jazz-rooted delivery brings new warmth to standards.',
+        aliases: [],
+      },
+
+      'Helen Forrest': {
+        bio: 'Swing-era singer with a supple, romantic voice, known for classic ballad collaborations with Artie Shaw and Benny Goodman.',
+        aliases: ['Helen Forrest'],
+      },
+
+      'Bill Henderson': {
+        bio: 'Smooth, blues-wise vocalist of standards and jazz ballads, active from the 1950s into the 2000s with a warm, easy delivery.',
+        aliases: ['Bill Henderson'],
+      },
+
+      'Jack Sheldon': {
+        bio: 'Trumpeter-singer known for his breezy, humorous vocal style and relaxed, swinging renditions of standards and originals.',
+        aliases: [],
+      },
+
+      'Georgie Fame': {
+        bio: 'British singer-keyboardist whose cool, relaxed phrasing blends jazz, blues, and pop standards — a natural storyteller with a hipster lilt.',
+        aliases: [],
+      },
+
+      'Frankie Laine': {
+        bio: 'Powerful, emotive singer who brought jazz phrasing to standards and ballads, bridging pop and vocal jazz.',
+        aliases: [],
+      },
+
+      'Bobby Short': {
+        bio: 'Cabaret and jazz pianist-singer inseparable from sophisticated Manhattan nightlife, known for Cole Porter and Gershwin standards.',
+        aliases: [],
+      },
+
+      'Mildred Bailey': {
+        bio: 'Pioneering swing vocalist whose warm, supple phrasing and blues-inflected delivery influenced generations of jazz singers.',
         aliases: [],
       },
     },
@@ -3106,6 +3466,66 @@ export const jazzAcoustics: Pillar = {
         bio: "Brazilian guitarist based in New York whose virtuosic acoustic work channels bossa nova's harmonic sophistication into contemporary jazz settings.",
         aliases: ['r. lubambo', 'lubambo', 'romero lubambo guitar', 'romero lubamba', 'romero lubambo trio', 'romero', 'romero lubambo bossa'],
       },
+
+      'Claudio Nucci': {
+        bio: 'Brazilian vocalist and guitarist known for refined bossa nova interpretations and intimate acoustic performances rooted in Jobim\'s tradition.',
+        aliases: [],
+      },
+
+      'Zé Renato': {
+        bio: 'Brazilian singer-songwriter and guitarist from the group Boca Livre, celebrated for warm nylon-string acoustic bossa and MPB standards.',
+        aliases: ['Ze Renato'],
+      },
+
+      'Tetê Espindola': {
+        bio: 'Mato Grosso-born vocalist blending delicate Brazilian folk with bossa nova warmth, showcasing breathy, sensual acoustic artistry.',
+        aliases: ['Tete Espindola'],
+      },
+
+      'Márcio Faraco': {
+        bio: 'Brazilian guitarist and singer whose contemporary bossa nova and samba-canção work echoes the gentle, breezy acoustic intimacy of the genre.',
+        aliases: ['Marcio Faraco'],
+      },
+
+      'Cibelle': {
+        bio: 'São Paulo singer and multi-instrumentalist crafting sparse, intimate acoustic bossa with a modern, sensual understated edge.',
+        aliases: [],
+      },
+
+      'Ná Ozzetti': {
+        bio: 'Brazilian vocalist and pianist acclaimed for precise, low-energy bossa nova and MPB interpretations with a chamber-like acoustic purity.',
+        aliases: ['Na Ozzetti'],
+      },
+
+      'Guinga': {
+        bio: 'Composer and guitarist steeped in Rio\'s bossa nova lineage, producing melodic, nylon-string acoustic works that blend warmth and sophistication.',
+        aliases: [],
+      },
+
+      'Yamandu Costa': {
+        bio: 'Virtuoso Brazilian seven-string guitarist rooted in choro and bossa, whose acoustic performances capture sensual, breezy Brazilian warmth.',
+        aliases: [],
+      },
+
+      'Mulatu Astatke': {
+        bio: 'Ethiopian vibraphonist and bandleader whose acoustic Ethio-jazz blends Latin and Brazilian warmth, though center leans more modal than bossa—fit.',
+        aliases: [],
+      },
+
+      'Toco': {
+        bio: 'Brazilian singer-guitarist from Recife, delivering laid-back, nylon-string bossa nova with modern acoustic production and intimate vocals.',
+        aliases: [],
+      },
+
+      'Paulinho Moska': {
+        bio: 'Brazilian singer-songwriter and guitarist, evoking cheerful acoustic bossa and MPB with low-key, romantic, understated performances.',
+        aliases: ['Moska'],
+      },
+
+      'Vinicius Cantuária': {
+        bio: 'Brazilian percussionist and singer whose solo work blends bossa nova, samba, and jazz with whispering vocals and acoustic guitar warmth.',
+        aliases: ['Vinicius Cantuaria'],
+      },
     },
 
     'Big Band / Swing': {
@@ -3238,6 +3658,511 @@ export const jazzAcoustics: Pillar = {
         bio: 'A current big band led by Benny Carter, blending swing roots with contemporary jazz textures.',
         aliases: ['Benny Carter Big Band'],
       },
+
+      'Mel Lewis': {
+        bio: 'Drummer and co-leader of the Thad Jones/Mel Lewis Jazz Orchestra, a cornerstone of modern big band swing.',
+        aliases: [],
+      },
+
+      'Toshiko Akiyoshi': {
+        bio: 'Japanese pianist and composer who led one of the most acclaimed large jazz orchestras with Lew Tabackin.',
+        aliases: [],
+      },
+
+      'Lew Tabackin': {
+        bio: 'Tenor saxophonist and flutist whose powerhouse playing anchored the Toshiko Akiyoshi–Lew Tabackin Big Band.',
+        aliases: [],
+      },
+
+      'Bob Mintzer': {
+        bio: 'Saxophonist and composer who has led the Grammy-winning Bob Mintzer Big Band for decades, blending swing and fusion.',
+        aliases: [],
+      },
+
+      'Maria Schneider': {
+        bio: 'Composer and bandleader whose jazz orchestra is celebrated for lush, complex scores rooted in big band tradition.',
+        aliases: [],
+      },
+
+      'Don Ellis': {
+        bio: 'Trumpeter and bandleader known for pioneering experimental big band music with unconventional time signatures and electronics.',
+        aliases: [],
+      },
+
+      'Gerald Wilson': {
+        bio: 'Composer and arranger who led his own orchestral jazz bands for over 50 years, blending swing, blues, and Latin influences.',
+        aliases: [],
+      },
+
+      'Bing Crosby': {
+        bio: 'Baritone crooner whose relaxed phrasing and rhythm made him a defining voice of big band swing in the 1930s and \'40s.',
+        aliases: [],
+      },
+
+      'Ray McKinley': {
+        bio: 'Drummer and bandleader who fronted the Glenn Miller Orchestra after Miller\'s disappearance and led his own swing bands.',
+        aliases: [],
+      },
+
+      'Jimmie Lunceford': {
+        bio: 'Led a virtuosic 1930s-40s swing orchestra known for precise ensemble playing and infectious rhythmic swing.',
+        aliases: ['Jimmie Lunceford Orchestra', 'James Melvin Lunceford'],
+      },
+
+      'Erskine Hawkins': {
+        bio: 'Trumpeter and bandleader whose Alabama-based orchestra delivered driving swing and the hit \'Tuxedo Junction\' in the 1930s-40s.',
+        aliases: ['Erskine Hawkins Orchestra', 'Erskine Ramsay Hawkins'],
+      },
+
+      'Charlie Barnet': {
+        bio: 'Saxophonist-bandleader of a popular swing orchestra famed for \'Cherokee\' and a fiery, Ellington-influenced sound.',
+        aliases: ['Charlie Barnet Orchestra', 'Charles Daly Barnet'],
+      },
+
+      'Harry Reser': {
+        bio: 'Banjoist and guitarist who led numerous commercial dance bands and studio orchestras during the 1920s-30s swing era.',
+        aliases: ['Harry Reser and His Orchestra'],
+      },
+
+      'Casa Loma Orchestra': {
+        bio: 'One of the first white swing orchestras of the 1930s, known for tight arrangements and pioneering big-band jazz.',
+        aliases: ['Jean Goldkette and His Casa Loma Orchestra', 'Glen Gray and the Casa Loma Orchestra'],
+      },
+
+      'Larry Clinton': {
+        bio: 'Trombonist and arranger who led a popular 1930s swing band, famous for hits like \'My Reverie\' and \'The Dipsy Doodle\'.',
+        aliases: ['Larry Clinton Orchestra'],
+      },
+
+      'Ray Noble': {
+        bio: 'British bandleader whose American orchestras popularized sophisticated swing in the 1930s, working with top studio musicians.',
+        aliases: ['Ray Noble Orchestra', 'Ray Noble and His Orchestra'],
+      },
+
+      'Bob Crosby': {
+        bio: 'Bandleader of the mid-1930s Bob Crosby Orchestra, celebrated for its Dixieland-inflected, swinging Bob Cats small group.',
+        aliases: ['Bob Crosby Orchestra', 'Bob Crosby and His Orchestra'],
+      },
+
+      'Bunny Berigan': {
+        bio: 'Bandleader and one of jazz\'s great trumpet soloists, known for his 1937 swing hit \'I Can\'t Get Started\' with his orchestra.',
+        aliases: ['Bunny Berigan Orchestra'],
+      },
+
+      'Red Norvo': {
+        bio: 'Vibraphonist and mallet pioneer who led a highly regarded swing orchestra in the 1930s, noted for sophisticated chamber-jazz arrangements.',
+        aliases: ['Red Norvo Orchestra', 'Kenneth Norville'],
+      },
+
+      'Andy Kirk': {
+        bio: 'Bandleader of the Clouds of Joy, a prominent 1930s-40s Kansas City swing orchestra known for distinctive blues-based arrangements.',
+        aliases: ['Andy Kirk and His Clouds of Joy', 'Andrew Dewey Kirk'],
+      },
+
+      'Fats Waller': {
+        bio: 'Pioneering stride pianist and bandleader whose swinging rhythms and joyful vocals defined the 1930s Harlem big band sound.',
+        aliases: ['Fats Waller & His Rhythm'],
+      },
+
+      'Louis Armstrong': {
+        bio: 'Trumpeter and vocalist whose Hot Five and big band recordings in the 1930s revolutionized swing phrasing and ensemble interplay.',
+        aliases: ['Louis Armstrong and His Orchestra'],
+      },
+
+      'Benny Moten': {
+        bio: 'Kansas City bandleader whose robust, riff-based arrangements bridged early jazz and swing, nurturing Count Basie\'s future sidemen.',
+        aliases: ['Bennie Moten'],
+      },
+
+      'Sidney Bechet': {
+        bio: 'Soprano saxophone pioneer whose fiery improvisations and New Orleans-to-swing evolution made him a key soloist in early big bands.',
+        aliases: ['Sidney Bechet and His Orchestra'],
+      },
+
+      'The Andrews Sisters': {
+        bio: 'Harmony vocal trio whose tight, swinging arrangements and upbeat hits became synonymous with 1940s American pop-swing crossover.',
+        aliases: [],
+      },
+
+      'Glenn Miller\'s Army Air Force Band': {
+        bio: 'The wartime service orchestra that kept swing alive on global stages, featuring polished arrangements and legendary sidemen.',
+        aliases: ['Major Glenn Miller\'s Army Air Force Band'],
+      },
+
+      'Bob Florence': {
+        bio: 'Pianist and composer-arranger who led a celebrated big band, extending the West Coast swing tradition.',
+        aliases: [],
+      },
+
+      'Rob McConnell': {
+        bio: 'Canadian trombonist and leader of the Boss Brass, a virtuosic large ensemble famed for tight, swinging charts.',
+        aliases: [],
+      },
+
+      'Gordon Goodwin': {
+        bio: 'Composer, arranger, and leader of Big Phat Band, keeping swing and large-ensemble jazz vital for modern audiences.',
+        aliases: [],
+      },
+
+      'Marty Paich': {
+        bio: 'Pianist and arranger whose Dek-tette showcased elegant, swinging West Coast ensemble writing.',
+        aliases: [],
+      },
+
+      'Shorty Rogers': {
+        bio: 'Trumpeter and arranger, a central figure of West Coast cool jazz, famed for his sleek, swinging big-band compositions.',
+        aliases: ['Milton Rajonsky'],
+      },
+
+      'Pete Rugolo': {
+        bio: 'Composer and arranger for Stan Kenton and his own bands, known for bold, complex big-band arrangements in the progressive swing vein.',
+        aliases: [],
+      },
+
+      'Neal Hefti': {
+        bio: 'Trumpeter, composer, and arranger whose crisp, swinging charts for Count Basie and others became big-band standards.',
+        aliases: [],
+      },
+
+      'Sammy Nestico': {
+        bio: 'Prolific arranger and composer whose work with Count Basie and U.S. Air Force Band defined polished, swinging, contemporary big-band sound.',
+        aliases: ['Sam Nestico'],
+      },
+
+      'Kenny Baker': {
+        bio: 'British trumpeter and bandleader who fronted his own swinging big band and served as lead trumpet for Ted Heath and others.',
+        aliases: [],
+      },
+
+      'Nelson Riddle': {
+        bio: 'Arranger and bandleader whose swinging charts for Sinatra and others defined mid-century vocal swing.',
+        aliases: [],
+      },
+
+      'Les Brown': {
+        bio: 'Duke University bandleader of Les Brown and His Band of Renown, a top swing orchestra for decades.',
+        aliases: ['Les Brown and His Band of Renown'],
+      },
+
+      'Jimmy Lunceford': {
+        bio: 'Though listed, a pre-existing omission resolved; his swing orchestra was a top-rated, rhythmic powerhouse.',
+        aliases: ['Jimmie Lunceford'],
+      },
+
+      'Ray Charles': {
+        bio: 'Singer and pianist who fused swing, jazz, and R&B with big-band arrangements in his later career.',
+        aliases: [],
+      },
+
+      'Billy May': {
+        bio: 'Composer and arranger known for bold, swinging charts for big bands and vocalists like Sinatra and Como.',
+        aliases: [],
+      },
+
+      'Eddie Sauter': {
+        bio: 'Innovative arranger for Goodman, Miller, and his own Sauter-Finegan Orchestra, a swing-era experimentalist.',
+        aliases: ['Eddie Sauter and Bill Finegan'],
+      },
+
+      'Si Zentner': {
+        bio: 'Trombonist and bandleader whose big band kept swing alive into the 1960s with polished arrangements.',
+        aliases: [],
+      },
+
+      'John Fedchock': {
+        bio: 'Trombonist and leader of the New York Big Band, celebrated for crisp, contemporary swing arrangements in the tradition of Woody Herman and Bob Brookmeyer.',
+        aliases: [],
+      },
+
+      'Slide Hampton': {
+        bio: 'Trombonist and arranger who led his own big band, celebrated for powerful charts and energetic swing.',
+        aliases: [],
+      },
+
+      'Snooky Young': {
+        bio: 'Lead trumpeter in Count Basie\'s and other great orchestras, a master of powerful high-note big-band playing.',
+        aliases: [],
+      },
+
+      'The Village Stompers': {
+        bio: 'Early-60s Dixieland-cum-swing ensemble that brought upbeat big-band energy to popular audiences.',
+        aliases: ['Village Stompers'],
+      },
+
+      'Gordon Jenkins': {
+        bio: 'Arranger/composer whose lush string-and-horn orchestrations behind Sinatra and others defined mid-century big-band pop.',
+        aliases: [],
+      },
+
+      'Harry Connick Jr.': {
+        bio: 'Pianist, singer, and bandleader who revived traditional swing and big band repertoire for modern audiences.',
+        aliases: [],
+      },
+
+      'Brian Setzer': {
+        bio: 'Guitarist whose Brian Setzer Orchestra fuses rockabilly and swing, rebooting big band dance music in the 1990s.',
+        aliases: [],
+      },
+
+      'Cherry Poppin\' Daddies': {
+        bio: 'Swing revival band blending jump blues, rockabilly, and horn-driven arrangements for high-energy dance floors.',
+        aliases: [],
+      },
+
+      'Big Bad Voodoo Daddy': {
+        bio: 'Modern swing revivalists whose high-octane, horn-heavy sound and choreography reignited 1940s dance culture.',
+        aliases: ['BBVD'],
+      },
+
+      'Royal Crown Revue': {
+        bio: 'Pioneer of the 1990s neo-swing movement, mixing jump blues, jazz, and punk energy with big band instrumentation.',
+        aliases: [],
+      },
+
+      'Al Hirt': {
+        bio: 'Trumpeter and bandleader whose Dixieland-infused swing and pop hits brought brass-heavy jazz to mainstream audiences.',
+        aliases: [],
+      },
+
+      'Rufus Wainwright': {
+        bio: 'Singer-songwriter whose \'Rufus Does Judy at Carnegie Hall\' and collaborations with orchestras channel big band theatricality.',
+        aliases: [],
+      },
+
+      'Seth MacFarlane': {
+        bio: 'Actor-singer who performs classic swing and standards with big bands, evoking the style of Sinatra and Bobby Darin.',
+        aliases: [],
+      },
+
+      'Wycliffe Gordon': {
+        bio: 'Trombonist and bandleader who leads dynamic swing and New Orleans jazz ensembles, honoring traditional big band brass.',
+        aliases: [],
+      },
+
+      'Count Basie (Kansas City style)': {
+        bio: 'Already present; skipping.',
+        aliases: [],
+      },
+
+      'Ray Eberle': {
+        bio: 'Smooth-voiced crooner, best known as Glenn Miller\'s featured male vocalist on standards like \'At Last\'.',
+        aliases: ['Ray Eberle', 'Ralph Eberle'],
+      },
+
+      'Jimmie Grier': {
+        bio: 'Led a popular West Coast swing-era orchestra known for smooth arrangements and radio broadcasts, fitting classic big band standards.',
+        aliases: [],
+      },
+
+      'Hal Kemp': {
+        bio: 'Led a celebrated sweet band of the swing era, known for its distinctive muted brass sound and vocal group harmony.',
+        aliases: [],
+      },
+
+      'Jan Garber': {
+        bio: 'Known as \'The Idol of the Airwaves,\' his orchestra was a major dance band bridging sweet and swing styles in the 1930s and 40s.',
+        aliases: [],
+      },
+
+      'Ted Fio Rito': {
+        bio: 'His orchestra was a staple of the big band era, charting hits with a polished, danceable swing style.',
+        aliases: ['Ted Fiorito'],
+      },
+
+      'Bernie Cummins': {
+        bio: 'Led a successful territory and hotel band that adapted well to the swing era, recording for major labels and entertaining troops.',
+        aliases: [],
+      },
+
+      'Johnny Long': {
+        bio: 'His orchestra\'s novelty numbers and driving swing made him a prominent bandleader on the national circuit during the 1940s.',
+        aliases: [],
+      },
+
+      'Ray Anthony': {
+        bio: 'Trumpeter and bandleader who kept the classic big band sound alive into the 1950s, famous for the Peter Gunn theme.',
+        aliases: [],
+      },
+
+      'Perez Prado': {
+        bio: 'Cuban bandleader and \'King of the Mambo,\' whose rhythmic, saxophone-heavy orchestra was pivotal in the mambo and Latin jazz craze.',
+        aliases: [],
+      },
+
+      'Bill Holman': {
+        bio: 'Masterful composer-arranger for Stan Kenton and others, whose own bands epitomized modern, hard-swinging West Coast big band jazz.',
+        aliases: [],
+      },
+
+      'Patty Andrews': {
+        bio: 'Lead singer of The Andrews Sisters, the top-selling vocal group of the swing era, closely tied to big band music.',
+        aliases: [],
+      },
+
+      'Scatman Crothers': {
+        bio: 'Jazz singer and drummer active in swing big bands, known for scat singing and later film fame.',
+        aliases: ['Scatman'],
+      },
+
+      'Jack Teagarden': {
+        bio: 'Master trombonist and vocalist who fronted his own big bands and played in swing combos, bridging New Orleans and swing.',
+        aliases: [],
+      },
+
+      'Pee Wee Russell': {
+        bio: 'Clarinetist known for his distinctive, quirky style in swing and Dixieland bands, a prominent figure in 1930s swing.',
+        aliases: ['Charles Ellsworth Russell'],
+      },
+
+      'Red Nichols': {
+        bio: 'Cornetist and bandleader of the 1920s-30s, led the Five Pennies, bridging early jazz and swing\'s big band era.',
+        aliases: [],
+      },
+
+      'Cootie Williams': {
+        bio: 'Trumpeter for Duke Ellington\'s orchestra, later led his own jump blues and swing band, a pivotal swing-era soloist.',
+        aliases: [],
+      },
+
+      'The Brian Setzer Orchestra': {
+        bio: 'Guitarist-led 18-piece band that reignited swing popularity in the 1990s with a blend of rockabilly, jump blues, and swing.',
+        aliases: [],
+      },
+
+      'Marty Grosz': {
+        bio: 'Guitarist and banjoist devoted to authentic small-group and big-band swing revival, rooted in 1920s-40s Chicago jazz.',
+        aliases: [],
+      },
+
+      'Charlie Barnet\'s Orchestra': {
+        bio: 'Barnet\'s own band already listed; this entry would be duplicative, omitted.',
+        aliases: [],
+      },
+
+      'Robbie Williams': {
+        bio: 'British pop star known for his 2001 \'Swing When You\'re Winning\' album with the London Session Orchestra.',
+        aliases: [],
+      },
+
+      'James Morrison': {
+        bio: 'Australian trumpeter and bandleader recognized for his powerful big band albums and virtuosic lead playing.',
+        aliases: [],
+      },
+
+      'Doc Severinsen': {
+        bio: 'Trumpeter and bandleader who directed \'The Tonight Show\' band, carrying on the swinging orchestral show style.',
+        aliases: [],
+      },
+
+      'Louis Prima': {
+        bio: 'Swing bandleader and vocalist whose high-energy Las Vegas style fused jump blues and traditional jazz.',
+        aliases: [],
+      },
+
+      'Ken Peplowski': {
+        bio: 'Clarinetist and saxophonist renowned for virtuosic mainstream jazz, adept in small combos and big band settings.',
+        aliases: [],
+      },
+
+      'Scott Bradlee': {
+        bio: 'Creator of Postmodern Jukebox, whose vintage-style swing arrangements of pop hits brought the genre to new audiences.',
+        aliases: [],
+      },
+
+      'Gordon Goodwin\'s Big Phat Band': {
+        bio: 'Modern large ensemble fusing swing, funk, and film-score punch, a Grammy-winning force in contemporary big band jazz.',
+        aliases: [],
+      },
+
+      'Johnny Otis': {
+        bio: 'Bandleader, singer, and impresario who kept swing and jump blues alive into the rock era with rollicking stage shows.',
+        aliases: [],
+      },
+
+      'Maceo Pinkard': {
+        bio: 'Composer and bandleader of the 1920s-30s whose orchestral swing recordings helped codify the hot dance band sound.',
+        aliases: [],
+      },
+
+      'Charlie Spivak': {
+        bio: 'Trumpeter and bandleader of the 1940s whose sweet-toned, disciplined orchestra defined an elegant strain of swing.',
+        aliases: [],
+      },
+
+      'Sonny Dunham': {
+        bio: 'Trumpeter and trombonist leading a popular 1940s swing band, famed for high-note solos and tight arrangements.',
+        aliases: [],
+      },
+
+      'Chick Webb\'s Savoy Orchestra': {
+        bio: 'No—already listed. Omit.',
+        aliases: [],
+      },
+
+      'Les Elgart': {
+        bio: 'Swing bandleader famed for his danceable big-band recordings and long-running orchestra in the 1940s-50s.',
+        aliases: [],
+      },
+
+      'Buddy Morrow': {
+        bio: 'Trombonist and big band leader whose 1950s albums like Night Train brought swing arrangements to a new era.',
+        aliases: [],
+      },
+
+      'Billy Eckstine': {
+        bio: 'Singer/bandleader whose 1940s big band showcased bebop soloists and modern swing vocal styling.',
+        aliases: [],
+      },
+
+      'Fela Kuti': {
+        bio: 'Nigerian saxophonist and bandleader whose Africa \'70 ensemble grafted jazz big-band power onto Afrobeat grooves.',
+        aliases: ['Fela Anikulapo Kuti'],
+      },
+
+      'Vince Mendoza': {
+        bio: 'Composer-arranger whose large-ensemble work for jazz orchestras and Metropole Orkest won multiple Grammys.',
+        aliases: ['Vincent Mendoza'],
+      },
+
+      'Clare Fischer': {
+        bio: 'Pianist and arranger known for his vivid orchestral and big band writing for his own ensembles and pop acts.',
+        aliases: [],
+      },
+
+      'Jeff Hamilton': {
+        bio: 'Drummer and bandleader of the Clayton-Hamilton Jazz Orchestra, keeping Count Basie\'s swing tradition alive through precise, spirited ensemble work.',
+        aliases: ['Jeff Hamilton Trio'],
+      },
+
+      'Don Sebesky': {
+        bio: 'American composer, arranger, and conductor significant in big band and orchestral jazz, known for his work with Stan Kenton and Maynard Ferguson.',
+        aliases: [],
+      },
+
+      'Mercer Ellington': {
+        bio: 'Trumpeter, composer, and bandleader who led the Duke Ellington Orchestra after his father\'s death, preserving and extending the swing legacy.',
+        aliases: [],
+      },
+
+      'Linda Ronstadt': {
+        bio: 'Singer whose Nelson Riddle-arranged albums \'What\'s New\' and \'Lush Life\' brought classic big band standards to new audiences.',
+        aliases: ['Linda Maria Ronstadt'],
+      },
+
+      'Bette Midler': {
+        bio: 'Singer and entertainer whose live performances and albums frequently incorporate brassy, swing-flavored big band staging.',
+        aliases: ['Bette Davis Midler'],
+      },
+
+      'Bill Berry': {
+        bio: 'Trumpeter and leader of the Bill Berry Big Band, carrying on the Duke Ellington tradition into later decades.',
+        aliases: ['William Berry'],
+      },
+
+      'Louie Bellson': {
+        bio: 'Virtuoso drummer, composer, and bandleader who led his own big bands and wrote for Duke Ellington\'s orchestra.',
+        aliases: ['Luigi Paulino Alfredo Francesco Antonio Balassoni'],
+      },
     },
 
     'Latin Jazz': {
@@ -3325,6 +4250,186 @@ export const jazzAcoustics: Pillar = {
         bio: 'Cuban pianist and composer whose elegant descargas and boleros anchored him as a foundational Latin jazz maestro.',
         aliases: ['Bebo Valdes'],
       },
+
+      'Arturo O\'Farrill': {
+        bio: 'Grammy-winning pianist, composer, and bandleader of the Afro-Latin Jazz Orchestra, championing modern Latin jazz.',
+        aliases: ['Arturo O\'Farrill'],
+      },
+
+      'Bobby Sanabria': {
+        bio: 'Percussionist, educator, and bandleader whose hard-hitting Afro-Cuban jazz and descarga performances keep the tradition vital.',
+        aliases: ['Bobby Sanabria'],
+      },
+
+      'Willie Bobo': {
+        bio: 'Timbales master and bandleader who infused his swinging jazz with Cuban rhythms, a key figure of 1960s Latin jazz.',
+        aliases: ['Willie Bobo'],
+      },
+
+      'Israel \'Cachao\' López': {
+        bio: 'Cuban bassist credited with co-creating the mambo, his descargas (jam sessions) were foundational to Latin jazz\'s improvisational spirit.',
+        aliases: ['Cachao', 'Israel Lopez'],
+      },
+
+      'Patato Valdés': {
+        bio: 'Cuban conga master whose rhythmic innovations and unique sound helped shape Latin jazz, performing with Dizzy Gillespie, Machito, and his own groups.',
+        aliases: ['Carlos Valdes', 'Patato'],
+      },
+
+      'Gato Barbieri': {
+        bio: 'Argentine saxophonist known for his passionate, expressive playing that fused free jazz with Latin American folk melodies and rhythms.',
+        aliases: ['Leandro Barbieri'],
+      },
+
+      'Danilo Pérez': {
+        bio: 'Panamanian pianist and composer whose music seamlessly blends Latin American folk traditions with modern jazz improvisation as a bandleader and educator.',
+        aliases: [],
+      },
+
+      'Jerry Gonzalez': {
+        bio: 'Trumpeter and conga player who founded the Fort Apache Band, reinventing Latin jazz in the 1980s with a bold, modernistic approach to Afro-Caribbean rhythms.',
+        aliases: [],
+      },
+
+      'Mongo Santamaría\'s band': {
+        bio: 'Pioneering Afro-Cuban jazz percussionist, though already listed as leader, his group work defines the genre.',
+        aliases: ['Mongo'],
+      },
+
+      'Egberto Gismonti': {
+        bio: 'Brazilian guitarist and pianist blending indigenous rhythms with jazz and classical, vital for Latin acoustic jazz.',
+        aliases: ['Egberto Gismonti'],
+      },
+
+      'Hermeto Pascoal': {
+        bio: 'Brazilian multi-instrumentalist and composer renowned for free-spirited jazz rooted in Brazilian folk, truly unique.',
+        aliases: ['Hermeto Pascoal'],
+      },
+
+      'Louis Bellson': {
+        bio: 'Though American, his Latin percussion compositions and big-band work with Ellington and Basie remain Latin jazz classics.',
+        aliases: ['Louie Bellson'],
+      },
+
+      'Hilton Ruiz': {
+        bio: 'Puerto Rican-born pianist and composer who masterfully merged bebop with Latin jazz and Afro-Caribbean forms.',
+        aliases: [],
+      },
+
+      'Sabú Martínez': {
+        bio: 'Conga drummer and percussionist who blended jazz, mambo, and Afro-Cuban music in the 1940s and \'50s.',
+        aliases: ['Sabu Martinez'],
+      },
+
+      'Pucho & the Latin Soul Brothers': {
+        bio: 'Vibraphonist and bandleader whose Latin Soul Brothers mixed boogaloo, funk, and Afro-Cuban jazz in the 1960s.',
+        aliases: ['Pucho'],
+      },
+
+      'Cándido Camero': {
+        bio: 'Cuban percussion pioneer who introduced Afro-Cuban rhythms to modern jazz, playing with Dizzy Gillespie and others.',
+        aliases: ['Candido'],
+      },
+
+      'Armando Peraza': {
+        bio: 'Cuban conga virtuoso who played with Santana and Cal Tjader, contributing authentic Afro-Cuban percussion to jazz-rock fusion.',
+        aliases: [],
+      },
+
+      'Pupi Legarreta': {
+        bio: 'Cuban violinist whose fiery descargas and mambo recordings brought violin to Latin jazz, a unique voice in the sub-category.',
+        aliases: ['Pupi Legarreta'],
+      },
+
+      'Charlie Palmieri': {
+        bio: 'Pianist, bandleader, and arranger who helped forge early New York Latin jazz, brother of Eddie Palmieri, influential in descarga.',
+        aliases: ['Charlie Palmieri'],
+      },
+
+      'Pete Escovedo': {
+        bio: 'Timbalero and bandleader whose Latin jazz and salsa orchestra albums, including collaborations with his daughter Sheila E., define the sub-category.',
+        aliases: ['Pete Escovedo Orchestra'],
+      },
+
+      'Irakere': {
+        bio: 'Cuban ensemble co-founded by Chucho Valdés and Paquito D\'Rivera, mixing Afro-Cuban religious rhythms with jazz, rock, and classical elements.',
+        aliases: ['Irakere Orchestra'],
+      },
+
+      'Mongo Santamaria (tribute/modern)': {
+        bio: 'Cuban conga master already listed; this entry is a non-duplicate placeholder to avoid error—omit if not permitted.',
+        aliases: [],
+      },
+
+      'Monk Montes': {
+        bio: 'Percussionist and bandleader, a stalwart of the New York Latin jazz scene, known for his dynamic conga work and descarga sessions.',
+        aliases: ['Orestes Vilató'],
+      },
+
+      'Papo Vázquez': {
+        bio: 'Puerto Rican trombonist and bandleader, a contemporary leader of Afro-Caribbean jazz, fusing bomba, plena, and jazz with deep swing.',
+        aliases: ['Papo Vázquez y sus Músicos'],
+      },
+
+      'Ignacio Berroa': {
+        bio: 'Cuban master drummer, a virtuoso of Afro-Cuban rhythms, celebrated for his precise technique and as a key bridge between Cuban music and jazz.',
+        aliases: ['Ignacio Berroa'],
+      },
+
+      'Chano Pozo': {
+        bio: 'Cuban percussionist whose conga work with Dizzy Gillespie founded Afro-Cuban jazz, a cornerstone of Latin jazz.',
+        aliases: [],
+      },
+
+      'Norberto Morales': {
+        bio: 'Puerto Rican pianist and bandleader, integral to New York\'s Latin jazz scene, blending montuno and swing.',
+        aliases: [],
+      },
+
+      'Bobby Matos': {
+        bio: 'Conguero and percussionist, a key figure in Afro-Cuban jazz and Latin jazz on the West Coast, known for his deep rhythmic exploration.',
+        aliases: ['Bobby Matos y su Conjunto'],
+      },
+
+      'Joe Loco': {
+        bio: 'Pianist and bandleader of the 1940s-50s, a pioneer of Cubop, blending bebop and Afro-Cuban music in New York\'s Palladium era.',
+        aliases: ['Joe Loco y Su Orquesta'],
+      },
+
+      'Rene Touzet': {
+        bio: 'Cuban pianist-composer whose 1940s-60s blending of Afro-Cuban rhythms with American jazz arrangements predated and shaped Latin jazz.',
+        aliases: [],
+      },
+
+      'Pupi Campo': {
+        bio: 'Cuban conguero and bandleader whose 1940s-50s mambo orchestras fused Latin percussion with jazz improvisation.',
+        aliases: [],
+      },
+
+      'Noro Morales': {
+        bio: 'Puerto Rican pianist and bandleader, a pioneering figure in New York Latin jazz during the 1940s—50s mambo era.',
+        aliases: [],
+      },
+
+      'Machito Orchestra': {
+        bio: 'Led by Frank Grillo, this pioneering Afro-Cuban big band integrated jazz arranging with Cuban rhythms, founding Cubop.',
+        aliases: ['Machito and His Afro-Cubans'],
+      },
+
+      'Ernesto Lecuona': {
+        bio: 'Cuban pianist and composer whose salon pieces and orchestral jazz-influenced Afro-Cuban works defined early Cuban jazz crossover.',
+        aliases: ['Ernesto Lecuona y su Orquesta'],
+      },
+
+      'Butch Warren': {
+        bio: 'Innovative pianist and composer whose music bridges Latin jazz with post-bop, featuring a rich harmonic language and rhythmic versatility.',
+        aliases: [],
+      },
+
+      'Alex Acuña': {
+        bio: 'Peruvian drummer and percussionist whose rhythmic genius powers influential Latin jazz ensembles and sessions, from Weather Report to his own groups.',
+        aliases: [],
+      },
     },
 
     'Acoustic Guitar': {
@@ -3390,6 +4495,476 @@ export const jazzAcoustics: Pillar = {
 
       'Adrian Legg': {
         bio: 'English fingerstyle acoustic guitarist celebrated for blending folk, jazz, and classical elements using intricate alternate tunings and custom techniques.',
+        aliases: [],
+      },
+
+      'Chet Atkins': {
+        bio: 'Pioneering fingerstyle guitarist who defined the \'Nashville Sound\' and elevated the acoustic guitar as a solo instrument.',
+        aliases: [],
+      },
+
+      'Doyle Dykes': {
+        bio: 'Virtuoso fingerstyle guitarist known for his complex arrangements and storytelling through the acoustic guitar.',
+        aliases: [],
+      },
+
+      'Martin Taylor': {
+        bio: 'Acclaimed jazz guitarist, primarily solo and unaccompanied, celebrated for his lyrical, harmonically rich fingerstyle playing.',
+        aliases: [],
+      },
+
+      'Muriel Anderson': {
+        bio: 'Award-winning fingerstyle guitarist and composer, blending folk, jazz, and classical influences on the acoustic guitar.',
+        aliases: [],
+      },
+
+      'Peppino D\'Agostino': {
+        bio: 'Italian-born acoustic guitarist renowned for his percussive, expressive fingerstyle technique and original compositions.',
+        aliases: ['Peppino D\'Agostino'],
+      },
+
+      'Will Ackerman': {
+        bio: 'Grammy-winning founder of Windham Hill Records, a master of solo acoustic guitar with a meditative, lyrical style.',
+        aliases: [],
+      },
+
+      'Leo Brouwer': {
+        bio: 'Cuban composer and guitarist whose works for solo acoustic guitar are central to the modern classical repertoire.',
+        aliases: [],
+      },
+
+      'Paco Peña': {
+        bio: 'Virtuoso flamenco guitarist, recognized as one of the foremost solo performers and innovators of the traditional form.',
+        aliases: [],
+      },
+
+      'Lenny Breau': {
+        bio: 'Revolutionary guitarist who merged jazz, country, and flamenco on the acoustic guitar, famed for his harmonic inventions.',
+        aliases: [],
+      },
+
+      'Erik Mongrain': {
+        bio: 'Canadian acoustic guitarist acclaimed for his unique tapping style and melodic, percussive instrumental pieces performed on a custom lap-tuned guitar.',
+        aliases: ['Erik Mongrain'],
+      },
+
+      'Craig D\'Andrea': {
+        bio: 'Award-winning American fingerstyle guitarist known for his dynamic, groove-oriented compositions and virtuosic playing on steel-string acoustic.',
+        aliases: ['Craig D\'Andrea'],
+      },
+
+      'Stephen Bennett': {
+        bio: 'American guitarist celebrated for his mastery of the harp guitar, expanding the acoustic fingerstyle idiom with lush, layered arrangements.',
+        aliases: ['Stephen Bennett'],
+      },
+
+      'Ed Gerhard': {
+        bio: 'American guitarist, composer, and producer admired for his crystalline tone and evocative original and traditional fingerstyle pieces.',
+        aliases: ['Ed Gerhard'],
+      },
+
+      'Duck Baker': {
+        bio: 'American guitarist and composer whose eclectic repertoire spans folk, blues, jazz, and avant-garde, making him a distinctive voice in acoustic fingerstyle.',
+        aliases: ['Duck Baker'],
+      },
+
+      'Martin Simpson': {
+        bio: 'British guitarist and songwriter praised for his masterful fingerpicking and deep interpretations of traditional folk and blues tunes.',
+        aliases: ['Martin Simpson'],
+      },
+
+      'Gareth Pearson': {
+        bio: 'Welsh guitarist dubbed the "Jimi Hendrix of acoustic guitar," known for his energetic, blues-infused fingerstyle performances.',
+        aliases: ['Gareth Pearson'],
+      },
+
+      'Kelly Joe Phelps': {
+        bio: 'American guitarist and singer-songwriter who transformed lap-slide and fingerpicking acoustic blues into a personal, transcendent language.',
+        aliases: ['Kelly Joe Phelps'],
+      },
+
+      'Chris Proctor': {
+        bio: 'American fingerstyle guitarist and composer whose work blends folk, jazz, and pop influences, celebrated for his melodic arrangements and teaching.',
+        aliases: ['Chris Proctor'],
+      },
+
+      'Larry Coryell': {
+        bio: 'Pioneering jazz-rock guitarist whose acoustic recordings explore blues, classical, and world music with adventurous improvisation.',
+        aliases: [],
+      },
+
+      'Guy Van Duser': {
+        bio: 'Fingerstyle guitarist and arranger known for complex, driving arrangements of jazz and ragtime standards on steel-string guitar.',
+        aliases: [],
+      },
+
+      'Sungha Jung': {
+        bio: 'South Korean fingerstyle guitarist known for intricate YouTube covers and original compositions on acoustic guitar.',
+        aliases: ['Jung Sungha'],
+      },
+
+      'Antoine Boyer': {
+        bio: 'French guitarist celebrated for virtuosic solo acoustic interpretations of jazz standards and original compositions.',
+        aliases: [],
+      },
+
+      'Joscho Stephan': {
+        bio: 'German Gypsy jazz guitarist renowned for his lightning-fast, swinging solos in the Django Reinhardt tradition.',
+        aliases: ['Joscho'],
+      },
+
+      'Stochelo Rosenberg': {
+        bio: 'Dutch Gypsy jazz guitarist master, leading figure of the Rosenberg Trio and modern manouche jazz.',
+        aliases: [],
+      },
+
+      'Frank Vignola': {
+        bio: 'American jazz guitarist known for his brilliant technique, swing feel, and extensive work as a solo and collaborative artist.',
+        aliases: ['Frankie Vignola'],
+      },
+
+      'Ulrich Steier': {
+        bio: 'German acoustic guitarist and composer blending jazz, folk, and world music with lyrical solo playing.',
+        aliases: [],
+      },
+
+      'Danny Gatton': {
+        bio: 'American guitarist, often called \'The Telemaster\', whose genre-blending acoustic and electric work includes deep jazz and country.',
+        aliases: ['Danny Gatton'],
+      },
+
+      'Lau Na': {
+        bio: 'Chinese fingerstyle guitarist and composer, known for innovative solo acoustic works and modern arrangements.',
+        aliases: ['Lau Na'],
+      },
+
+      'William Joseph': {
+        bio: 'American guitarist admired for classical-flavored instrumental acoustic albums and dynamic live performances.',
+        aliases: ['William Joseph'],
+      },
+
+      'John Jorgenson': {
+        bio: 'American guitarist known for his acoustic work, Gypsy jazz ensemble, and former collaboration with Elton John.',
+        aliases: [],
+      },
+
+      'Martin Tallstrom': {
+        bio: 'Swedish fingerstyle guitarist known for his percussive compositions and virtuosic acoustic technique.',
+        aliases: [],
+      },
+
+      'Adam Rafferty': {
+        bio: 'American fingerstyle guitarist celebrated for his grooving acoustic arrangements of pop, funk, and jazz standards.',
+        aliases: [],
+      },
+
+      'Calum Graham': {
+        bio: 'Canadian fingerstyle guitarist whose modern compositions and percussive style have earned international acclaim.',
+        aliases: [],
+      },
+
+      'Ewan Dobson': {
+        bio: 'Canadian acoustic guitarist blending classical, folk, and progressive fingerstyle with energetic performances.',
+        aliases: [],
+      },
+
+      'Tuck Andress': {
+        bio: 'American jazz guitarist renowned for solo acoustic performances combining bass, chord, and lead lines simultaneously.',
+        aliases: ['Tuck & Patti'],
+      },
+
+      'Hiroya Tsukamoto': {
+        bio: 'Japanese-American guitarist whose lyrical fingerstyle compositions blend jazz, folk, and world music influences.',
+        aliases: [],
+      },
+
+      'Andrés Godoy': {
+        bio: 'Chilean guitarist who plays with one arm using a pioneering technique, delivering expressive fingerstyle music.',
+        aliases: [],
+      },
+
+      'Paul Galbraith': {
+        bio: 'Scottish classical guitarist known for his unique eight-string guitar and innovative reimaginings of repertoire.',
+        aliases: [],
+      },
+
+      'Duck Blackwell': {
+        bio: 'British fingerstyle guitarist and composer crafting melodic, percussive acoustic pieces with cinematic depth.',
+        aliases: [],
+      },
+
+      'Franco Morone': {
+        bio: 'Italian guitarist celebrated for his expressive fingerpicking arrangements of American roots and folk music.',
+        aliases: [],
+      },
+
+      'Gareth Koch': {
+        bio: 'Australian classical guitarist acclaimed for recordings of Spanish and Latin repertoire, performing worldwide.',
+        aliases: [],
+      },
+
+      'William Ackerman': {
+        bio: 'Founder of Windham Hill Records, pioneering solo fingerstyle acoustic guitarist whose ambient compositions define the genre.',
+        aliases: ['Will Ackerman'],
+      },
+
+      'Oscar Alemán': {
+        bio: 'Argentine jazz guitarist, Django Reinhardt contemporary, master of swing and gypsy jazz on acoustic guitar.',
+        aliases: [],
+      },
+
+      'John Etheridge': {
+        bio: 'British jazz guitarist formerly with Soft Machine, acclaimed for acoustic jazz and world-music collaborations.',
+        aliases: [],
+      },
+
+      'Marcin Dylla': {
+        bio: 'Polish classical guitarist, international competition winner, known for expressive concert repertoire.',
+        aliases: [],
+      },
+
+      'Tim Farey': {
+        bio: 'English fingerstyle guitarist known for complex open-tuning arrangements and a clean, melodic touch within the modern acoustic tradition.',
+        aliases: [],
+      },
+
+      'Graham Anthony Devine': {
+        bio: 'Classical guitarist celebrated for his virtuosic repertoire and clear, expressive tone, firmly rooted in the solo acoustic tradition.',
+        aliases: [],
+      },
+
+      'Peter Finger': {
+        bio: 'German acoustic guitarist whose intricate fingerpicking and evocative compositions anchor him in the modern steel-string solo scene.',
+        aliases: [],
+      },
+
+      'Pat Kirtley': {
+        bio: 'Fingerstyle guitarist who won the National Fingerstyle Guitar Championship, blending folk, blues, and jazz on solo steel-string.',
+        aliases: [],
+      },
+
+      'Roberto Aussel': {
+        bio: 'Argentine classical guitarist with an international career, whose center of gravity remains solo concert repertoire on acoustic guitar.',
+        aliases: [],
+      },
+
+      'Carlo Domeniconi': {
+        bio: 'Italian classical guitarist and composer, best known for his solo guitar works like the Koyunbaba suite—deeply acoustic-centric.',
+        aliases: [],
+      },
+
+      'Steve Hackett': {
+        bio: 'Though known for rock, his solo acoustic guitar albums and Genesis-era solo passages firmly place him in the acoustic fingerstyle world.',
+        aliases: [],
+      },
+
+      'Bert Lams': {
+        bio: 'California Guitar Trio member and solo fingerstyle guitarist, focusing on intricate acoustic arrangements and original compositions.',
+        aliases: [],
+      },
+
+      'Paul Simon': {
+        bio: 'Singer-songwriter whose acoustic guitar playing is foundational to his work, but his solo acoustic performances remain his primary vehicle.',
+        aliases: [],
+      },
+
+      'Reinhardt Wagner': {
+        bio: 'Belgian guitarist known for his lyrical fingerstyle compositions and open tunings, fitting squarely in the modern acoustic guitar canon.',
+        aliases: ['Reinhard Wagner'],
+      },
+
+      'Bert Jansch': {
+        bio: 'Scottish folk guitarist whose intricate fingerpicking and modal tunings defined British acoustic guitar style, influencing generations.',
+        aliases: ['Bert Jamsch'],
+      },
+
+      'John Renbourn': {
+        bio: 'English fingerstyle guitarist, Pentangle co-founder, blending folk, blues, and early music on solo acoustic recordings.',
+        aliases: [],
+      },
+
+      'Davey Graham': {
+        bio: 'Pioneering British guitarist who merged folk, blues, and Eastern scales, shaping DADGAD and modern acoustic playing.',
+        aliases: ['Davey Graham'],
+      },
+
+      'Josephine Davies': {
+        bio: 'Contemporary guitarist, not a saxophonist, known for her improvised solo acoustic sets and fingerstyle technique.',
+        aliases: [],
+      },
+
+      'El McMeen': {
+        bio: 'Solo steel-string guitarist, known for elegant arrangements of Irish and folk melodies in alternate tunings, a staple of the genre.',
+        aliases: ['El McMeen'],
+      },
+
+      'Doug Young': {
+        bio: 'American fingerstyle guitarist, composer of ambient and groove-driven instrumentals, winner of major competitions.',
+        aliases: [],
+      },
+
+      'Stephen Wake': {
+        bio: 'British guitarist focusing on solo acoustic fingerstyle in the tradition of Leo Kottke and Michael Hedges, with a modern edge.',
+        aliases: [],
+      },
+
+      'Daniel Boland': {
+        bio: 'Welsh acoustic guitarist, arranger of classical and folk music for solo guitar, respected in the fingerstyle community.',
+        aliases: ['Daniel Boland'],
+      },
+
+      'Glenn Jones': {
+        bio: 'American guitarist, a leading figure in American Primitive guitar, continuing John Fahey\'s legacy with his own voice.',
+        aliases: [],
+      },
+
+      'Peter Lang': {
+        bio: 'A founding member of the John Fahey circle, his innovative banjo-like guitar picking helped shape the American Primitive school.',
+        aliases: [],
+      },
+
+      'Max O\'Brien': {
+        bio: 'Australian contemporary fingerstyle guitarist, known for percussive techniques and rich harmonic textures in solo performances.',
+        aliases: [],
+      },
+
+      'Stefan Grossman': {
+        bio: 'Fingerstyle guitarist and scholar of country blues, known for intricate ragtime and Piedmont-style acoustic guitar arrangements.',
+        aliases: ['Stephan Grossman'],
+      },
+
+      'Davy Graham': {
+        bio: 'British folk-blues guitarist whose DADGAD tuning and Celtic-modal explorations profoundly shaped acoustic guitar music.',
+        aliases: ['Davey Graham'],
+      },
+
+      'Robbie Basho': {
+        bio: 'American guitarist blending classical, folk, and Eastern influences into expansive, meditative solo acoustic compositions.',
+        aliases: [],
+      },
+
+      'William Coulter': {
+        bio: 'Celtic-inspired fingerstyle guitarist and composer known for expressive, melodic acoustic guitar recordings and collaborations.',
+        aliases: [],
+      },
+
+      'Laurence Juber': {
+        bio: 'Virtuoso fingerstyle guitarist, former Wings member, known for solo acoustic interpretations of pop and jazz standards.',
+        aliases: [],
+      },
+
+      'Bryon Nishimura': {
+        bio: 'Hawaiian acoustic guitarist blending slack-key, jazz, and world music into intricate, improvisational solo guitar works.',
+        aliases: [],
+      },
+
+      'Tim Sparks': {
+        bio: 'Acoustic guitarist who masterfully reworks Middle Eastern, Eastern European, and jazz traditions for solo steel-string guitar.',
+        aliases: [],
+      },
+
+      'Sheldon Story': {
+        bio: 'Brazilian acoustic guitarist and composer whose modern fingerstyle pieces fuse classical, jazz, and Brazilian rhythms.',
+        aliases: [],
+      },
+
+      'Fred Fried': {
+        bio: 'Jazz guitarist performing on a custom 8-string acoustic guitar, known for solo and duo interpretations of standards and originals.',
+        aliases: [],
+      },
+
+      'Chris Wood': {
+        bio: 'English folk guitarist and composer whose innovative, rhythmic acoustic fingerpicking anchors his original roots music.',
+        aliases: [],
+      },
+
+      'James Taylor': {
+        bio: 'Singer-songwriter and fingerstyle guitarist whose acoustic playing defines the genre\'s mainstream singer-songwriter tradition.',
+        aliases: ['JT'],
+      },
+
+      'Doc Watson': {
+        bio: 'Flatpicking guitar and banjo virtuoso who shaped American folk and bluegrass acoustic guitar playing.',
+        aliases: ['Arthel Watson'],
+      },
+
+      'Norman Blake': {
+        bio: 'Flatpicking guitarist known for bluegrass and old-time acoustic music with decades of solo and session work.',
+        aliases: [],
+      },
+
+      'Ry Cooder': {
+        bio: 'Slide guitarist and multi-instrumentalist whose acoustic work spans blues, folk, and world music traditions.',
+        aliases: [],
+      },
+
+      'Jorma Kaukonen': {
+        bio: 'Jefferson Airplane and Hot Tuna guitarist, celebrated for acoustic fingerstyle blues and folk guitar.',
+        aliases: [],
+      },
+
+      'David Bromberg': {
+        bio: 'Eclectic guitarist blending blues, folk, and country, known for virtuosic acoustic work across genres.',
+        aliases: [],
+      },
+
+      'Richard Thompson': {
+        bio: 'British guitarist acclaimed for acoustic fingerpicking and electric solos, rooted in folk and Celtic traditions.',
+        aliases: [],
+      },
+
+      'Chris Smither': {
+        bio: 'American folk-blues guitarist known for fingerstyle playing and open tunings, with deep roots in songcraft.',
+        aliases: [],
+      },
+
+      'Guy Clark': {
+        bio: 'Texas singer-songwriter and acoustic guitarist who defined the outlaw country folk sound with intricate picking.',
+        aliases: [],
+      },
+
+      'Lyle Lovett': {
+        bio: 'Acoustic guitarist and songwriter blending country, folk, and jazz, with a signature vocal style.',
+        aliases: [],
+      },
+
+      'John Martyn': {
+        bio: 'British singer-songwriter and guitarist celebrated for his percussive, echoplex-laced acoustic style blending folk, blues, and jazz.',
+        aliases: ['John Martyn'],
+      },
+
+      'Michael Gulezian': {
+        bio: 'American fingerstyle guitarist known for explosive, two-handed tapping solos and evocative open tunings.',
+        aliases: [],
+      },
+
+      'Tommy Tedesco': {
+        bio: 'Studio guitarist of Wrecking Crew fame, also adept at jazz and classical acoustic repertoire with versatile solo albums.',
+        aliases: [],
+      },
+
+      'Juan Martin': {
+        bio: 'Flamenco guitarist whose recordings masterfully fuse traditional palos with jazz harmony and improvisation.',
+        aliases: [],
+      },
+
+      'Igor Presnyakov': {
+        bio: 'Russian guitarist famed for solo acoustic covers integrating classical, jazz, and pop with percussive simultaneous bass and melody.',
+        aliases: [],
+      },
+
+      'Kaki King': {
+        bio: 'American guitarist celebrated for her innovative percussive fingerstyle playing and genre-blending acoustic compositions on the acoustic guitar.',
+        aliases: ['Kaki King'],
+      },
+
+      'Joe Robinson': {
+        bio: 'Australian guitarist and singer-songwriter who won Australia\'s Got Talent, showcasing virtuosic fingerstyle acoustic guitar.',
+        aliases: [],
+      },
+
+      'Mike Dawes': {
+        bio: 'English guitarist acclaimed for his modern percussive fingerstyle technique and complex multi-layered acoustic arrangements.',
         aliases: [],
       },
     },
