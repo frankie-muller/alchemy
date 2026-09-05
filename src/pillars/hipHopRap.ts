@@ -920,6 +920,56 @@ export const hipHopRap: Pillar = {
         bio: 'The Swedish pioneer whose ethereal cloud-trap aesthetic directly influenced the spacey, Auto-Tuned emotional register that defines modern trap.',
         aliases: ['yung lean.', 'yunglean', 'jonatan leandoer håstad', 'jonatan hastad', 'jonatan leandoer', 'lean', 'yung lean sadboys', 'sadboys', 'yung lean sbe', 'yung leen'],
       },
+
+      'Sheff G': {
+        bio: 'Philadelphia-based trap artist whose hard-hitting 808s and gritty lyricism deliver a raw, high-energy vibe that dominates current club sounds.',
+        aliases: [],
+      },
+
+      'Denzel Curry': {
+        bio: 'Cincinnati’s trap powerhouse mixes relentless 808s with razor-sharp verses, creating a menacing, high-energy sound that redefines modern hip-hop.',
+        aliases: [],
+      },
+
+      'Lil Pump': {
+        bio: 'Florida’s breakout trap star delivers hyper-808 hooks and aggressive delivery, dominating playlists with menacing, high-energy tracks.',
+        aliases: [],
+      },
+
+      'Lil Xan': {
+        bio: 'California rapper blending dark, narcotic-themed lyrics with pounding 808s and triplet hi-hats, creating a heavy, aggressive trap aesthetic.',
+        aliases: [],
+      },
+
+      'Lil Mosey': {
+        bio: 'Toronto trap producer crafts 808-driven anthems with high-energy flows, combining dark undertones and menacing beats for club dominance.',
+        aliases: [],
+      },
+
+      'Lil Skies': {
+        bio: 'Los Angeles trap artist delivers 808-heavy tracks featuring aggressive flows and triplet hi-hats, maintaining a dark, high-energy presence.',
+        aliases: [],
+      },
+
+      'Rico Nasty': {
+        bio: 'Baltimore’s fearless rapper fuses 808 bass, aggressive beats, and dark swagger, cementing a high-energy, menacing trap identity.',
+        aliases: [],
+      },
+
+      'Migos': {
+        bio: 'Atlanta trap trio known for relentless 808s, triplet hi-hats, and high-energy flows that have set the standard for modern trap.',
+        aliases: [],
+      },
+
+      'Lil Wayne': {
+        bio: 'Longtime rap icon, Lil Wayne, consistently uses hard-hitting 808s and aggressive flows to maintain high-energy, dark trap appeal across his catalog.',
+        aliases: [],
+      },
+
+      'Lil Tecca': {
+        bio: 'New Jersey breakout whose 808-drenched beats and aggressive trap flow create a menacing, high-energy sound for contemporary rap audiences.',
+        aliases: [],
+      },
     },
 
     'East Coast': {
@@ -1106,6 +1156,11 @@ export const hipHopRap: Pillar = {
       'Kool G Rap': {
         bio: 'Widely credited as the godfather of mafioso rap whose intricate multi-syllabic rhyme schemes directly influenced Nas, Big Pun, Jay-Z, and Eminem.',
         aliases: ['kool g rap.', 'koolGrap', 'nathaniel wilson'],
+      },
+
+      'Jay Electronica': {
+        bio: 'Jay Electronica\'s introspective lyricism and dense rhyme schemes bring a modern edge to East Coast rap.',
+        aliases: [],
       },
     },
 
@@ -1825,6 +1880,51 @@ export const hipHopRap: Pillar = {
       'Kae Tempest': {
         bio: 'A London poet-turned-rapper whose albums channel the spoken-word-to-hip-hop lineage into urgent, narrative-driven UK street philosophy.',
         aliases: ['kae tempest.', 'kaetempest', 'kate tempest', 'kate tempest.', 'kae', 'kate calvert', 'kae tempest rapper', 'kae tempest poet', 'kate esther calvert', 'kate tempest uk'],
+      },
+
+      'Big K.R.I.T': {
+        bio: 'Mississippi rapper who blends Southern storytelling with sharp social critique, focusing on poverty, faith, and resilience.',
+        aliases: [],
+      },
+
+      'Elzhi': {
+        bio: 'Detroit lyricist celebrated for intricate rhyme schemes and hard‑fought commentary on personal struggle and community.',
+        aliases: [],
+      },
+
+      'Macklemore': {
+        bio: 'California rapper known for socially conscious tracks addressing poverty, mental health, and LGBTQ+ rights, paired with melodic hooks.',
+        aliases: [],
+      },
+
+      'Saigon': {
+        bio: 'Washington D.C. rapper delivering poetic, socially aware verses that examine systemic inequality, personal ambition, and cultural identity.',
+        aliases: [],
+      },
+
+      'Freddie Gibbs': {
+        bio: 'Freddie Gibbs presents raw, candid storytelling, confronting systemic issues and personal struggles, embodying the essence of conscious rap.',
+        aliases: ['Freddie G'],
+      },
+
+      'Mac Miller': {
+        bio: 'Mac Miller explored mental health and societal pressures through introspective verses, cementing his place in conscious hip‑hop.',
+        aliases: ['Mac'],
+      },
+
+      'R.A. the Rugged Man': {
+        bio: 'R.A. the Rugged Man confronts injustice and personal narratives with uncompromising honesty, reinforcing conscious rap’s rebellious spirit.',
+        aliases: ['R.A. Rugged'],
+      },
+
+      'K\'naan': {
+        bio: 'K\'naan’s narratives intertwine personal history with global politics, offering a globally conscious rap perspective.',
+        aliases: [],
+      },
+
+      'Kid Cudi': {
+        bio: 'Kid Cudi blends introspective lyricism with experimental beats, addressing mental health and individuality, a hallmark of conscious alternative rap.',
+        aliases: ['Cudi'],
       },
     },
   },
