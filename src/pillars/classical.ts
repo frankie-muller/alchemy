@@ -1134,6 +1134,66 @@ export const classical: Pillar = {
         bio: "Britain's greatest classical guitarist and lutenist, expanding the repertoire with warmth and intelligence.",
         aliases: ['bream', 'j. bream', 'julian bream guitar', 'bream julian', 'julian bream lute', 'julian breame', 'bream guitar', 'julian bream guitarist'],
       },
+
+      'Yuri Bashmet': {
+        bio: 'Russian violinist renowned for solo concertos and chamber recitals, blending virtuosity with lyrical depth.',
+        aliases: [],
+      },
+
+      'Richard Stoltzman': {
+        bio: 'American clarinetist celebrated for solo recitals and contemporary chamber works featuring the clarinet.',
+        aliases: [],
+      },
+
+      'James Galway': {
+        bio: 'Irish flutist famed for solo performances of Baroque and modern repertoire, often in intimate recital settings.',
+        aliases: [],
+      },
+
+      'Pasha Kovalev': {
+        bio: 'Ukrainian pianist known for concertos and solo recitals, emphasizing precision and emotional depth.',
+        aliases: [],
+      },
+
+      'Alisa Weilerstein': {
+        bio: 'American violinist who performs solo sonatas and concertos with a focus on clear phrasing and intimacy.',
+        aliases: [],
+      },
+
+      'Anthony McGill': {
+        bio: 'Clarinetist known for solo recitals and chamber works centered on the clarinet’s lyrical qualities.',
+        aliases: [],
+      },
+
+      'David Geringas': {
+        bio: 'Czech cellist noted for solo and chamber recordings that showcase the cello’s expressive range.',
+        aliases: [],
+      },
+
+      'Christian Tetzlaff': {
+        bio: 'German violinist recognized for solo sonatas and concertos, often exploring lesser-known repertoire.',
+        aliases: [],
+      },
+
+      'Paul Lewis': {
+        bio: 'British pianist who performs solo works and chamber pieces emphasizing clarity and structure.',
+        aliases: [],
+      },
+
+      'Nicholas Angelich': {
+        bio: 'American pianist acclaimed for solo recitals featuring both classical and contemporary sonatas.',
+        aliases: [],
+      },
+
+      'David Grimal': {
+        bio: 'French cellist known for solo recitals and chamber music that highlight the cello’s versatility.',
+        aliases: [],
+      },
+
+      'Alfredo G. "Alfie" Ruiz': {
+        bio: 'Spanish guitarist who performs solo concertos and chamber works focused on the guitar’s expressive capabilities.',
+        aliases: ['Alfie Ruiz', 'Alfredo Ruiz'],
+      },
     },
     'Contemporary / Minimalist': {
       'Ryuichi Sakamoto': {
@@ -2177,6 +2237,61 @@ export const classical: Pillar = {
       'Sergiu Celibidache': {
         bio: 'The philosopher-conductor who scorned recordings as deceptions, pursuing a slow, transcendent sound in live concert that became the stuff of legend.',
         aliases: ['sergiu celibidache', 'celibidache.', 'celibidache', 's. celibidache', 'sergiu celibidach'],
+      },
+
+      'Yannick Nézet-Séguin': {
+        bio: 'Dynamic conductor leading Philadelphia Orchestra and Metropolitan Opera, celebrated for contemporary music advocacy.',
+        aliases: ['Yannick Nesegui'],
+      },
+
+      'JoAnn Falletta': {
+        bio: 'Pioneering conductor championing American composers and innovative programming with Buffalo Philharmonic.',
+        aliases: [],
+      },
+
+      'Riccardo Chailly': {
+        bio: 'Acclaimed conductor renowned for Mahler interpretations and contemporary repertoire.',
+        aliases: [],
+      },
+
+      'Kent Nagano': {
+        bio: 'Esteemed conductor known for bold programming and dedication to living composers.',
+        aliases: [],
+      },
+
+      'Kirill Petrenko': {
+        bio: 'Virtuosic conductor revitalizing Mozart and championing contemporary works.',
+        aliases: [],
+      },
+
+      'Gianandrea Noseda': {
+        bio: 'Dynamic conductor acclaimed for his tenure at Metropolitan Opera and Berlin State Opera.',
+        aliases: [],
+      },
+
+      'Antonio Pappano': {
+        bio: 'Respected conductor leading Royal Opera House with celebrated productions.',
+        aliases: [],
+      },
+
+      'Marin Alsop': {
+        bio: 'Trailblazing conductor noted for energetic leadership of Baltimore Symphony.',
+        aliases: [],
+      },
+
+      'Robert Spano': {
+        bio: 'Innovative conductor of National Symphony Orchestra, championing contemporary composers.',
+        aliases: [],
+      },
+
+      'Seiji Ozawa': {
+        bio: 'Legendary conductor famed for revitalizing the Boston Symphony and championing Japanese repertoire.',
+        aliases: [],
+      },
+
+      'John Wilson': {
+        bio: 'Renowned conductor of London Philharmonic, noted for lush orchestral interpretations.',
+        aliases: [],
       },
     },
 
