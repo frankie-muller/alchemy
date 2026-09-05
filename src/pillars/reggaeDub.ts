@@ -786,6 +786,32 @@ export const reggaeDub: Pillar = {
         bio: "A rocksteady-into-reggae harmony group whose 'Long Shot Kick de Bucket' became a terrace anthem and a touchstone of the Trojan Records era.",
         aliases: ['pioneers', 'thepioneers', 'the pioneers reggae', 'the pioneers band', 'the pioneers jamaica', 'the pioneers', 'pioneers rocksteady'],
       },
+
+      'The Beat': {
+        bio: 'English 2 Tone ska band known for horn-driven, danceable tracks and socially conscious lyrics.',
+        aliases: ['The English Beat'],
+      },
+
+      'The Specials': {
+        bio: 'Pioneering British ska group blending punk energy with Caribbean rhythms and sharp political commentary.',
+        aliases: [],
+      },
+
+      'Madness': {
+        bio: 'British ska outfit famous for witty lyrics, upbeat horns, and charismatic live performances.',
+        aliases: [],
+      },
+
+      'The Selecter': {
+        bio: 'UK ska band that fuses sharp social critique with melodic horn lines and dancefloor-friendly grooves.',
+        aliases: [],
+      },
+
+      'The Skints': {
+        bio: 'Contemporary UK band mixing ska, reggae, punk, and electronic elements to create vibrant street‑culture music.',
+        aliases: ['Skints'],
+      },
+
     },
   },
 };

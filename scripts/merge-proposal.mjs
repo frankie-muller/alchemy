@@ -90,7 +90,16 @@ const existingKeys = new Set(subCategoryObj.properties.map(propKeyText).filter(B
 
 const quote = (s) => `'${String(s).replace(/\\/g, '\\\\').replace(/'/g, "\\'")}'`;
 
-const toInsert = accepted.filter((a) => !existingKeys.has(a.name));
+// Two guards, not one: existingKeys catches "already in the file"; this
+// second check catches a proposal repeating a name against ITSELF (grow.mjs
+// dedupes its own output too, but a hand-edited or manually-rerun proposal
+// file wouldn't have that behind it — this script has to be safe on its own).
+const seenInThisBatch = new Set();
+const toInsert = accepted.filter((a) => {
+  if (existingKeys.has(a.name) || seenInThisBatch.has(a.name)) { return false; }
+  seenInThisBatch.add(a.name);
+  return true;
+});
 const skipped = accepted.length - toInsert.length;
 
 if (toInsert.length === 0) {

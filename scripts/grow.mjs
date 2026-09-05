@@ -262,13 +262,18 @@ if (!Array.isArray(proposals)) {
 // about, so it gets caught here rather than after it is pasted in.
 const accepted = [];
 const rejected = [];
+const seenThisBatch = new Set(); // a model can repeat itself within one response
 for (const p of proposals) {
   if (!p || typeof p.name !== 'string' || !p.name.trim()) { continue; }
-  const hit = lookupArtist(p.name);
+  const name = p.name.trim();
+  const key = name.toLowerCase();
+  if (seenThisBatch.has(key)) { continue; }
+  seenThisBatch.add(key);
+  const hit = lookupArtist(name);
   if (hit) {
     rejected.push({ ...p, reason: `already resolves to ${hit.pillar} › ${hit.subCategory}` });
   } else {
-    accepted.push({ name: p.name.trim(), bio: String(p.bio || '').trim(), aliases: Array.isArray(p.aliases) ? p.aliases : [] });
+    accepted.push({ name, bio: String(p.bio || '').trim(), aliases: Array.isArray(p.aliases) ? p.aliases : [] });
   }
 }
 
