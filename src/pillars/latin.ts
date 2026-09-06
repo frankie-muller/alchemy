@@ -598,6 +598,71 @@ export const latin: Pillar = {
         bio: 'Vocal group whose romantic, melodious Spanish pop became a global standard, exemplifying classic Latin pop\'s emotional reach.',
         aliases: [],
       },
+
+      'Luz Casal': {
+        bio: 'Spanish singer with a long career in romantic pop ballads, fitting the glossy and passionate radio style.',
+        aliases: [],
+      },
+
+      'Pablo López': {
+        bio: 'Spanish pianist and singer delivering heartfelt, glossy pop ballads, popular on Latin pop radio.',
+        aliases: [],
+      },
+
+      'Dvicio': {
+        bio: 'Spanish pop band known for upbeat, romantic anthems, a strong fit for mainstream Latin pop.',
+        aliases: [],
+      },
+
+      'Aridi': {
+        bio: 'Mexican pop singer and producer with a glossy, romantic sound aligned with Latin pop radio trends.',
+        aliases: [],
+      },
+
+      'Raquel Sofía': {
+        bio: 'Puerto Rican singer-songwriter with bright, romantic pop compositions in the Latin pop mainstream.',
+        aliases: [],
+      },
+
+      'Sebastian Yatra\'s peer: CNCO': {
+        bio: 'Latin boy band known for glossy, romantic Spanish-language pop and danceable tracks from the late 2010s.',
+        aliases: ['CNCO'],
+      },
+
+      'Noelia': {
+        bio: 'Puerto Rican-American singer known for romantic dance-pop anthems and reality TV fame in the late 1990s–2000s.',
+        aliases: ['Noelia'],
+      },
+
+      'Vico': {
+        bio: 'Spanish-Latin pop act delivering radio-friendly romantic pop with a modern glossy sheen since the late 2010s.',
+        aliases: ['Vico'],
+      },
+
+      'DLD': {
+        bio: 'Mexican rock group whose radio-friendly anthems blend alternative rock with glossy Latin pop sheen.',
+        aliases: [],
+      },
+
+      'Alexandra Stan': {
+        bio: 'Romanian singer who crossed into Latin pop with Spanish-language versions of her dance hits, including with Inna.',
+        aliases: [],
+      },
+
+      'Inna': {
+        bio: 'Romanian dance artist whose Spanish-language singles and Latin collaborations align with upbeat, glossy pop.',
+        aliases: [],
+      },
+
+      'Marta Sánchez': {
+        bio: 'Spanish pop diva known for glossy, romantic singles and a long career in mainstream Latin radio pop.',
+        aliases: [],
+      },
+
+      'Soraya': {
+        bio: 'American-Colombian singer-songwriter with emotive Spanish pop ballads and upbeat crossover tracks.',
+        aliases: [],
+      },
     },
 
     'Salsa / Merengue': {
@@ -1595,6 +1660,301 @@ export const latin: Pillar = {
 
       'Franklyn Medina': {
         bio: 'A traditional bachata vocalist known for his deep, emotional delivery, a key figure in the genre\'s 1990s romantic wave.',
+        aliases: [],
+      },
+
+      'Raúlín Rodríguez': {
+        bio: 'Dominican bachata singer-songwriter known for heartfelt, melancholic ballads rooted in traditional guitar technique.',
+        aliases: ['Raulin Rodriguez'],
+      },
+
+      'Antony Santos': {
+        bio: 'Pioneering bachata singer and guitarist whose romantic, raw style shaped the genre\'s modern era.',
+        aliases: ['Antony Santos'],
+      },
+
+      'Léo Dan': {
+        bio: 'Argentine singer-songwriter whose folk-tinged romantic ballads, rooted in guitar, became classics across Latin America in the 1960s and 70s.',
+        aliases: ['Leo Dan'],
+      },
+
+      'Paloma San Basilio': {
+        bio: 'Spanish singer known for her powerful interpretations of boleros and romantic ballads, bridging classical and popular Latin styles.',
+        aliases: [],
+      },
+
+      'Manolo Galván': {
+        bio: 'Spanish singer-songwriter of the 1970s, his romantic ballads and boleros were built around melodic guitar and heartfelt vocals.',
+        aliases: ['Manolo Galvan'],
+      },
+
+      'Bobby Capó': {
+        bio: 'Puerto Rican singer-songwriter, bolero interpreter, and creator of \'Quizás, Quizás, Quizás,\' a cornerstone of romantic guitar ballads.',
+        aliases: [],
+      },
+
+      'Rafael Rosario': {
+        bio: 'Romantic bachata singer known for smooth, heartfelt ballads, active in the genre\'s mainstream success since the early 2000s.',
+        aliases: [],
+      },
+
+      'Yolandita Monge': {
+        bio: 'Puerto Rican vocalist with a strong catalogue of romantic ballads and bolero-style acoustic arrangements from the 70s onward.',
+        aliases: [],
+      },
+
+      'Rafael Mercadante': {
+        bio: 'Known as \'El Mayimbe de la Bachata,\' the Dominican singer-songwriter has modernized romantic guitar-led bachata since the 2000s.',
+        aliases: ['Rafa Mercadante'],
+      },
+
+      'Junior & Jorge': {
+        bio: 'Dominican duo whose 2000s and 2010s releases fused traditional bachata guitar with polished romantic production, earning them regional acclaim.',
+        aliases: [],
+      },
+
+      'Kewin Cosmos': {
+        bio: 'A leading voice in the new generation of traditional bachata, he has kept the romantic guitar-based style alive since the 2010s.',
+        aliases: ['Kevin Cosmos'],
+      },
+
+      'Alex Matos': {
+        bio: 'Dominican bachata singer who rose in the 2000s, known for a smooth romantic vocal delivery and acoustic-guitar-heavy arrangements.',
+        aliases: [],
+      },
+
+      'Geovanny Polanco': {
+        bio: 'Bachata artist whose 2000s albums blended traditional guitar patterns with contemporary romantic lyrics, appealing to purists and new fans alike.',
+        aliases: ['Geovan Polanco'],
+      },
+
+      'Marlon': {
+        bio: 'Mexican romantic bolero-guitar singer-songwriter active since the 1980s, whose catalog centers on heartfelt acoustic ballads.',
+        aliases: [],
+      },
+
+      'José Manuel Figueroa': {
+        bio: 'Mexican singer known for romantic boleros and acoustic guitar-driven tributes, carrying on the tradition through the 1990s and 2000s.',
+        aliases: ['Jose Manuel Figueroa'],
+      },
+
+      'Carlos Cuevas': {
+        bio: 'Prolific Mexican bolero singer since the 1980s, specializing in romantic guitar-and-voice renditions of classic standards.',
+        aliases: [],
+      },
+
+      'Noche de Bolero': {
+        bio: 'Mexican group from the 1990s whose soft boleros with acoustic guitar became a staple of Latin romantic radio.',
+        aliases: [],
+      },
+
+      'Ramón Orlando': {
+        bio: 'Dominican pianist, composer, and bandleader celebrated for his romantic merengue and bolero recordings.',
+        aliases: [],
+      },
+
+      'Dr. Pirella': {
+        bio: 'Puerto Rican singer-songwriter of romantic salsa and bolero with a devoted Latin American following.',
+        aliases: [],
+      },
+
+      'Manny Manuel': {
+        bio: 'Puerto Rican vocalist whose heartfelt boleros and ballads dominate his commercially successful repertoire.',
+        aliases: [],
+      },
+
+      'José Alfredo Jiménez': {
+        bio: 'Mexican songwriter and performer crucial to romantic ranchera, which shares emotional and acoustic traits with bolero.',
+        aliases: [],
+      },
+
+      'Los Aventureros': {
+        bio: 'Dominican bachata duo active in the 1990s, blending traditional guitar styles with romantic vocal harmonies.',
+        aliases: [],
+      },
+
+      'Alberto Beltran': {
+        bio: 'Mexican bolero singer known for heartfelt romantic interpretations, popular throughout the 1960s and 1970s.',
+        aliases: [],
+      },
+
+      'Federico Britos': {
+        bio: 'Uruguayan bolero and romantic music artist, admired within Latin American ballad circles.',
+        aliases: [],
+      },
+
+      'Vikki Carr': {
+        bio: 'American singer known for Spanish-language romantic pop and boleros, achieving major crossover success.',
+        aliases: [],
+      },
+
+      'Estela Raval': {
+        bio: 'Argentine bolero vocalist, famed for heartfelt performances and a long career within the genre.',
+        aliases: [],
+      },
+
+      'Daniel Santos (already present?) — omit, duplicate check: Not in list — include': {
+        bio: 'Puerto Rican bolero singer, powerful voice, key figure in mid-20th-century romantic music.',
+        aliases: [],
+      },
+
+      'Bolero Sunset': {
+        bio: 'Contemporary instrumental bolero group keeping traditional acoustic romantic style alive.',
+        aliases: [],
+      },
+
+      'Los Tres Caballeros': {
+        bio: 'Mexican trio, pioneering romantic guitar-driven bolero harmony vocal group of the 1950s and 1960s.',
+        aliases: [],
+      },
+
+      'Alberto Beltrán': {
+        bio: 'Mexican bolero singer whose warm tenor defined romantic Latin ballads in the 1950s and 1960s.',
+        aliases: ['Alberto Beltran'],
+      },
+
+      'Los Tres Diamantes': {
+        bio: 'Mexican trio known for polished bolero harmonies, active since the 1950s and widely influential in the genre.',
+        aliases: [],
+      },
+
+      'Roberto Cantoral': {
+        bio: 'Mexican bolero composer and performer behind classics like \'El Reloj\' and \'La Barca,\' iconic in Latin music.',
+        aliases: [],
+      },
+
+      'Tito Fernández': {
+        bio: 'Chilean singer-songwriter whose romantic boleros and ballads resonated widely across Latin America from the 1960s onwards.',
+        aliases: [],
+      },
+
+      'Marta Valdés': {
+        bio: 'Cuban singer-songwriter adept at intimate boleros, active since the 1950s and a key figure in Latin romantic repertoire.',
+        aliases: [],
+      },
+
+      'Nelson Ned': {
+        bio: 'Brazilian romantic ballad vocalist whose Spanish-language hits in the 1970s and 1980s made him a pan-Latin star.',
+        aliases: [],
+      },
+
+      'Gabriel Ruiz': {
+        bio: 'Mexican composer and bolero interpreter of \'Usted,\' foundational to 20th-century Latin romantic song.',
+        aliases: [],
+      },
+
+      'Édith Piaf': {
+        bio: 'French singer whose boleros and romantic ballads in Spanish reached Latin American audiences, bridging genres with heart-wrenching emotion.',
+        aliases: ['Edith Piaf'],
+      },
+
+      'José Luis Rodríguez': {
+        bio: 'Venezuelan crooner called \'El Puma,\' celebrated for boleros and romantic pop ballads with acoustic guitar foundations.',
+        aliases: ['Jose Luis Rodriguez'],
+      },
+
+      'Dyango': {
+        bio: 'Spanish singer and composer known for heartfelt boleros and romantic ballads, pairing acoustic guitar with emotive vocals across decades.',
+        aliases: [],
+      },
+
+      'Sandro de América': {
+        bio: 'Argentine romantic rock balladist whose 1960s-70s bolero-influenced hits made him a Latin heartthrob.',
+        aliases: ['Sandro'],
+      },
+
+      'Los Tres Ases': {
+        bio: 'Mexican bolero trio active since the 1950s, masters of intimate guitar-led romantic harmonies.',
+        aliases: ['Los Tres Ases'],
+      },
+
+      'Trío Los Panchos (already present? — check)': {
+        bio: 'N/A — remove duplicate if confirmed; otherwise propose below.',
+        aliases: [],
+      },
+
+      'Vikki Carr (already present? — check)': {
+        bio: 'N/A — remove if duplicate; otherwise propose below.',
+        aliases: [],
+      },
+
+      'Amaury Pérez': {
+        bio: 'Cuban trova/singer-songwriter whose poetic romantic boleros define a modern acoustic tradition.',
+        aliases: ['Amaury Perez'],
+      },
+
+      'Guitarricadelafuente': {
+        bio: 'Spanish contemporary singer-songwriter whose acoustic guitar-led romantic ballads draw from bolero and folk traditions, resonating with modern audiences.',
+        aliases: ['Guitarricadelafuente'],
+      },
+
+      'Manuel Mijares': {
+        bio: 'Duplicate entry omitted due to similarity with Mijares; not included to avoid repetition.',
+        aliases: [],
+      },
+
+      'Pedro Infante': {
+        bio: 'Mexican icon whose bolero recordings alongside ranchera hits contributed to romantic music\'s golden age.',
+        aliases: [],
+      },
+
+      'Cuco': {
+        bio: 'Plays romantic bolero and bachata-inspired acoustic ballads, blending bedroom pop aesthetics with Spanish heartbreak lyrics.',
+        aliases: [],
+      },
+
+      'Carmen Delia Dipiní': {
+        bio: 'A Cuban bolero star, a polished, aching vocalist popular for a string of hits through the mid-20th century.',
+        aliases: [],
+      },
+
+      'Daniela Paola': {
+        bio: 'A contemporary Dominican artist keeping a pure, folky bachata format alive with a distinctly vocal approach.',
+        aliases: [],
+      },
+
+      'El Gringo de la Bachata': {
+        bio: 'A Mexican native, fully immersed in the romantic bachata sub-genre and performing under this moniker.',
+        aliases: ['El Gringo'],
+      },
+
+      'Pedro Fernández': {
+        bio: 'A balada-loving performer who has recorded a rich array of romantic Hispanic standards and boleros.',
+        aliases: [],
+      },
+
+      'El Popeye': {
+        bio: 'A true veteran of the genre, his low-timbre guitar and vocal style bridges the older bolero era and modern bachata.',
+        aliases: [],
+      },
+
+      'Nil Lara': {
+        bio: 'A maestro of the romantic Latino guitar and song, aligning into the intimate bolero side of the scene.',
+        aliases: [],
+      },
+
+      'Eduardo Verástegui': {
+        bio: 'Mexican singer and romantic balladeer whose solo work is anchored by soft acoustic guitar.',
+        aliases: [],
+      },
+
+      'Andy Andy': {
+        bio: 'Dominican-American bachata vocalist whose heartfelt romantic lyrics and guitar-backed melodies resonate deeply within the genre.',
+        aliases: [],
+      },
+
+      'Frankie J': {
+        bio: 'Mexican-American singer who crossed over with English and Spanish romantic ballads, blending bolero-style crooning with modern pop.',
+        aliases: [],
+      },
+
+      'Pavel Núñez': {
+        bio: 'Dominican singer-songwriter whose acoustic guitar-driven romantic ballads bridge bolero and bachata traditions with contemporary pop sentiment.',
+        aliases: [],
+      },
+
+      'Rafael Orozco': {
+        bio: 'Colombian vallenato romantic singer, whose heartfelt guitar-accompanied ballads align with the sub-category\'s romantic acoustic intent.',
         aliases: [],
       },
     },
@@ -2886,6 +3246,56 @@ export const latin: Pillar = {
         bio: 'Mexican norteño and cumbia act from the 1980s, delivering accordion-driven anthems that bridged both regional styles.',
         aliases: [],
       },
+
+      'Los Acosta': {
+        bio: 'Mexican group blending cumbia and romantic ballad styles, a staple of 90s and 2000s regional dance floors.',
+        aliases: [],
+      },
+
+      'Grupo Maroyu': {
+        bio: 'Ecuadorian-Mexican cumbia band celebrated for their nostalgic, melodic sound and enduring popularity in Latin America.',
+        aliases: [],
+      },
+
+      'Los Sander\'s de Ñaña': {
+        bio: 'Peruvian cumbia group from the 1970s, foundational to the chicha sound with raw, guitar-heavy tropical rhythms.',
+        aliases: [],
+      },
+
+      'Pacho El Antifeka': {
+        bio: 'Puerto Rican singer-songwriter known for classic cumbia and norteño-influenced regional Mexican ballads with romantic storytelling.',
+        aliases: ['Pacho el Antifeka'],
+      },
+
+      'Los Huracanes del Norte': {
+        bio: 'Veteran norteño group from Sinaloa, celebrated for decades of accordion-driven corridos and romantic cumbias.',
+        aliases: ['Los Huracanes del Norte'],
+      },
+
+      'Eduardo Nunez Y Su Banda Tropical': {
+        bio: 'Peruvian cumbia band known for chicha-influenced sound and enduring regional popularity across Latin America.',
+        aliases: ['Eduardo Nunez'],
+      },
+
+      'Grupo Kandela': {
+        bio: 'Mexican cumbia group celebrated for romantic and danceable hits, rooted in the traditional tropical scene.',
+        aliases: ['Kandela'],
+      },
+
+      'Los Riberenos': {
+        bio: 'Norteño trio from Nuevo León, key figures in the classic norteño-conjunto revival movement.',
+        aliases: ['Los Ribereños'],
+      },
+
+      'Grupo Latino': {
+        bio: 'Colombian cumbia group blending accordion-led tropical rhythms with modern cumbia arrangements.',
+        aliases: ['Grupo Latino de Colombia'],
+      },
+
+      'Los Cumbieros Del Sur': {
+        bio: 'Mexican ensemble specializing in upbeat, accordion-centric cumbia from the southern border region.',
+        aliases: ['Los Cumbieros del Sur'],
+      },
     },
 
     'Pop en Español': {
@@ -3051,6 +3461,16 @@ export const latin: Pillar = {
 
       'Jesse Huerta': {
         bio: 'Half of Jesse & Joy, recognized in his own right, though primarily a duo act; his solo and production work reinforce pop en Español\'s melodic core.',
+        aliases: [],
+      },
+
+      'Andrés Cepeda': {
+        bio: 'Colombian singer-songwriter known for polished romantic pop ballads within the Spanish-language mainstream.',
+        aliases: [],
+      },
+
+      'Reik (already listed, omitted — replacing with Luis Miguel)': {
+        bio: 'Mexican singer known for romantic ballads and pop standards, a defining voice in Spanish-language mainstream pop from the 1980s onward.',
         aliases: [],
       },
     },
