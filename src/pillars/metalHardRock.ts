@@ -423,6 +423,116 @@ export const metalHardRock: Pillar = {
         bio: 'Guitar-driven heavy metal project led by Creed/Alter Bridge guitarist Mark Tremonti, focusing on aggressive, muscular riffing and powerful vocals.',
         aliases: [],
       },
+
+      'Dethklok': {
+        bio: 'Fictional band with real metal output, delivering brutal riffs and theatrical death-metal satire.',
+        aliases: [],
+      },
+
+      'Soulfly': {
+        bio: 'Groove metal force founded by Max Cavalera, blending thrash, tribal percussion, and hardcore intensity with aggressive passion.',
+        aliases: [],
+      },
+
+      'Children of Bodom': {
+        bio: 'Finnish melodic death-metal act whose shredding leads, neoclassical flourishes, and thrashing power made them extreme metal standouts.',
+        aliases: [],
+      },
+
+      'Seether': {
+        bio: 'South African post-grunge/alternative metal act known for heavy, brooding riffs and powerful vocal hooks, rising in the 2000s rock scene.',
+        aliases: ['Seether'],
+      },
+
+      'Shinedown': {
+        bio: 'Modern hard rock powerhouse blending melodic hooks with aggressive, riff-heavy choruses, achieving multi-platinum success in the 2000s.',
+        aliases: ['Shinedown'],
+      },
+
+      'DevilDriver': {
+        bio: 'American groove metal band fusing Southern aggression, death metal brutality, and catchy, driving hard rock accessibility.',
+        aliases: [],
+      },
+
+      'In This Moment': {
+        bio: 'American metal band fronted by Maria Brink, blending theatrical gothic imagery with heavy, radio-friendly modern metal.',
+        aliases: [],
+      },
+
+      'All That Remains': {
+        bio: 'Massachusetts metalcore/melodic metal act combining thrash riffs, soaring choruses, and aggressive breakdowns for mainstream heavy appeal.',
+        aliases: [],
+      },
+
+      'Atreyu': {
+        bio: 'Southern California metalcore veterans who merged screamo aggression with arena-ready hard rock melodies across their career.',
+        aliases: [],
+      },
+
+      'Bullet for My Valentine': {
+        bio: 'Welsh metalcore band pairing melodic choruses and dual-guitar attack, becoming a defining 2000s heavy radio act.',
+        aliases: [],
+      },
+
+      'Parkway Drive': {
+        bio: 'Australian metalcore pioneers who evolved from hardcore brutality into massive, festival-headlining modern heavy metal.',
+        aliases: [],
+      },
+
+      'Hollywood Undead': {
+        bio: 'Los Angeles rap-rock/nu-metal collective mixing hip-hop verses, screamed choruses, and party-ready heavy riffs into chart success.',
+        aliases: [],
+      },
+
+      'Megadeth side project': {
+        bio: 'Placeholder, DO NOT USE',
+        aliases: [],
+      },
+
+      'Breathing': {
+        bio: 'Alternative metal act from the late \'90s known for heavy guitar work and emotive vocals.',
+        aliases: [],
+      },
+
+      'Breaking Benjamin side': {
+        bio: 'Placeholder, not an artist.',
+        aliases: [],
+      },
+
+      'Kvelertak': {
+        bio: 'Norwegian blackened hard rock/heavy metal band blending punk, rock, and metal with fierce energy and catchy riffs.',
+        aliases: [],
+      },
+
+      'Turbonegro': {
+        bio: 'Norwegian hard rock/glam punk group delivering loud, rebellious, and theatrical arena-ready anthems.',
+        aliases: ['Turboneger'],
+      },
+
+      'Zakk Wylde': {
+        bio: 'Guitar virtuoso and frontman of Black Label Society, delivering blistering hard rock and heavy metal solo work.',
+        aliases: ['Zakk Wylde\'s Pride & Glory'],
+      },
+
+      'Monster Magnet': {
+        bio: 'American stoner/space rock band known for psychedelic, riff-laden heavy rock with a rebellious, driving psyche.',
+        aliases: [],
+      },
+
+      'Clutch side project': {
+        bio: 'Placeholder omitted due to lack of verifiable distinct act; replacing with confirmed artist.',
+        aliases: [],
+      },
+
+      'Ugly Kid Joe': {
+        bio: 'Fun-loving, attitude-heavy hard rock band from the early 90s, blending metal riffs with punk and pop sensibilities.',
+        aliases: [],
+      },
+
+      'Newsted': {
+        bio: 'Heavy metal side project of former Metallica bassist Jason Newsted, delivering groove-laden thrash-influenced hard rock.',
+        aliases: [],
+      },
     },
 
     'Classic Heavy Metal / NWOBHM': {
@@ -3166,6 +3276,101 @@ export const metalHardRock: Pillar = {
 
       'Lords of Black': {
         bio: 'Spanish power metal band with progressive touches and powerful vocal melodies, led by Ronnie Romero.',
+        aliases: [],
+      },
+
+      'Helker': {
+        bio: 'Argentine power metal band known for fast, melodic riffing and epic vocals, solidifying the genre\'s global reach.',
+        aliases: [],
+      },
+
+      'Victorius': {
+        bio: 'Epic power metal band from Germany known for fast, soaring choruses and sci-fi themed concept albums.',
+        aliases: [],
+      },
+
+      'Gloryhammer': {
+        bio: 'Symphonic power metal act with a fantasy narrative spanning multiple concept albums and theatrical live shows.',
+        aliases: [],
+      },
+
+      'Wind Rose': {
+        bio: 'Dwarf-themed power metal group from Italy blending folk melodies with driving, anthemic metallic power.',
+        aliases: [],
+      },
+
+      'Brothers of Metal': {
+        bio: 'Swedish power metal ensemble celebrating Norse mythology with rousing, singalong choruses and symphonic layers.',
+        aliases: [],
+      },
+
+      'Seven Spires': {
+        bio: 'Symphonic metal project fusing operatic vocals, aggressive riffs, and progressive, theatrical songwriting.',
+        aliases: [],
+      },
+
+      'Ad Infinitum': {
+        bio: 'Swiss symphonic metal outfit combining powerful female vocals, orchestral elements, and driving modern metal grooves.',
+        aliases: [],
+      },
+
+      'Eleine': {
+        bio: 'Swedish symphonic metal duo delivering dark, cinematic anthems with operatic singing and heavy orchestration.',
+        aliases: [],
+      },
+
+      'Elvenking': {
+        bio: 'Italian folk-power metal band weaving violin-led melodies and symphonic flourishes into their energetic sound.',
+        aliases: [],
+      },
+
+      'Unisonic': {
+        bio: 'Melodic power metal supergroup fronted by Michael Kiske, featuring anthemic hooks and polished, symphonic-laced heavy rock.',
+        aliases: [],
+      },
+
+      'Nostradameus': {
+        bio: 'Swedish power metal act blending rapid-fire riffing with melodic, anthemic choruses.',
+        aliases: [],
+      },
+
+      'Nocturnal Rites': {
+        bio: 'Swedish power metal stalwarts known for aggressive yet melodic twin-guitar attack.',
+        aliases: [],
+      },
+
+      'Persuader': {
+        bio: 'Swedish power metal band with a heavier, thrash-infused edge and dark fantasy themes.',
+        aliases: [],
+      },
+
+      'Iron Fire': {
+        bio: 'Danish power metal project fusing classic speed metal with symphonic flourishes.',
+        aliases: [],
+      },
+
+      'Eagleheart': {
+        bio: 'Swedish power metal quintet delivering soaring vocals and galloping rhythms.',
+        aliases: [],
+      },
+
+      'Moonlight Haze': {
+        bio: 'Italian symphonic power metal band combining orchestral layers with modern metal energy.',
+        aliases: [],
+      },
+
+      'Crown of Glory': {
+        bio: 'German power metal act rooted in traditional, melodic and neoclassical songwriting.',
+        aliases: [],
+      },
+
+      'Excalion': {
+        bio: 'Finnish melodic metal band merging power metal hooks with progressive textures.',
+        aliases: [],
+      },
+
+      'InnerWish': {
+        bio: 'Greek power metal group delivering straightforward, energetic, and guitar-driven songs.',
         aliases: [],
       },
     },
