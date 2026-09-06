@@ -663,6 +663,76 @@ export const rnbSoul: Pillar = {
         bio: 'Genre-blurring alt-R&B with laid-back, introspective tracks, though often more hip-hop leaning; fits moody 2020s soul.',
         aliases: ['Aminé'],
       },
+
+      'Raveen Lenae': {
+        bio: 'Dreamy alt-R&B singer with atmospheric, moody production and introspective songwriting.',
+        aliases: ['Ravyn Lenae'],
+      },
+
+      'Raveena Aurora': {
+        bio: 'Dreamy, jazz-inflected neo-soul with a soft, introspective aura that matches the sub-category\'s intimate mood.',
+        aliases: ['Raveena'],
+      },
+
+      'ELIZA': {
+        bio: 'UK singer blending jazz, soul, and electronica, creating a brooding, atmospheric modern R&B sound.',
+        aliases: ['Eliza Doolittle'],
+      },
+
+      'Tei Shi': {
+        bio: 'Colombian-Canadian artist blending dream-pop with hushed R&B, creating introspective, ethereal cuts that suit moody playlists.',
+        aliases: ['Tei Shi'],
+      },
+
+      'Tama Gucci': {
+        bio: 'Independent singer-songwriter whose lo-fi, alt-R&B tracks explore heartbreak and desire with a melancholic, atmospheric touch.',
+        aliases: ['Tama Gucci'],
+      },
+
+      'Ivy Sole': {
+        bio: 'Charlotte-based artist blending introspective hip-hop and R&B with a low-energy, melancholic, sensual core.',
+        aliases: [],
+      },
+
+      'Elaine': {
+        bio: 'South African vocalist whose airy, confessional alt-R&B fits the atmospheric, moody modern soul continuum.',
+        aliases: [],
+      },
+
+      'Washed Out': {
+        bio: 'Georgia musician blending chillwave and R&B into dreamy, atmospheric, introspective textures.',
+        aliases: [],
+      },
+
+      'Reuben James': {
+        bio: 'British musician and producer delivering low-key, soulful alt-R&B with a smooth, melancholic edge.',
+        aliases: [],
+      },
+
+      'Hazel H': {
+        bio: 'UK-based artist fusing moody pop and R&B, echoing sensual, introspective soundscapes of modern soul.',
+        aliases: [],
+      },
+
+      'Jake Isaac': {
+        bio: 'Singer and multi-instrumentalist crafting tender, gospel-tinged soul that stays intimate and atmospheric.',
+        aliases: [],
+      },
+
+      'Sofia Mills': {
+        bio: 'Canadian singer-songwriter crafting atmospheric, bedroom-pop-tinged R&B with introspective, melancholic energy fitting the low-key mood.',
+        aliases: [],
+      },
+
+      'Sam Gellaitry': {
+        bio: 'Scottish producer and vocalist blending lo-fi textures and moody synth-R&B, often featuring sensual, late-night vocal collaborations.',
+        aliases: [],
+      },
+
+      'Gaidaa': {
+        bio: 'Sudanese-Dutch singer bringing airy, jazzy neo-soul and introspective warmth, aligning perfectly with modern, low-energy R&B mood.',
+        aliases: [],
+      },
     },
 
     'Classic Soul / Motown': {
@@ -1328,6 +1398,66 @@ export const rnbSoul: Pillar = {
 
       'Eddie Holman': {
         bio: 'Philadelphia soul falsetto known for his dramatic, timeless hit \'Hey There Lonely Girl,\' bridging \'60s and \'70s classic soul.',
+        aliases: [],
+      },
+
+      'Brenton Wood': {
+        bio: 'Soul singer known for the 1967 classic \'The Oogum Boogum Song,\' bridging West Coast R&B with 60s soul.',
+        aliases: ['Alfred Jesse Smith'],
+      },
+
+      'Mighty Clouds of Joy': {
+        bio: 'Pioneering gospel group that moved into soul via secular recordings, bridging 60s-70s gospel and R&B.',
+        aliases: [''],
+      },
+
+      'The Emotions': {
+        bio: 'Chicago family group known for lush harmonies, charting in the 60s and hitting big with \'Best of My Love\' in 1977.',
+        aliases: [''],
+      },
+
+      'Dee Dee Sharp': {
+        bio: 'Early 1960s R&B singer with hits like \'Mashed Potato Time\' and later soul recordings.',
+        aliases: [],
+      },
+
+      'Billy Stewart': {
+        bio: 'Soul singer with unique vocal gymnastics, known for \'Summertime\' and \'Sitting in the Park\'.',
+        aliases: [],
+      },
+
+      'Tommy Hunt': {
+        bio: 'Soul singer from the Flamingos, had solo hits on Scepter and Northern Soul favorites.',
+        aliases: [],
+      },
+
+      'Barbara Lynn': {
+        bio: 'Texas R&B guitarist-singer whose 1960s records defined the Gulf Coast soul sound.',
+        aliases: [],
+      },
+
+      'Jimmy Radcliffe': {
+        bio: 'Soul singer and songwriter, interpreted classics like \'Long After Tonight Is Over\'.',
+        aliases: [],
+      },
+
+      'Jackie Ross': {
+        bio: 'Chess Records soul singer, known for the upbeat \'Selfish One\' and deep cuts.',
+        aliases: [],
+      },
+
+      'Hoagy Lands': {
+        bio: 'Northern soul singer of the 1960s with a devoted UK following for his emotive, raw style.',
+        aliases: [],
+      },
+
+      'Rufus Thomas': {
+        bio: 'Memphis soul and funk pioneer on Stax Records, known for \'Walking the Dog\' and \'Do the Funky Chicken\'.',
+        aliases: [],
+      },
+
+      'Clarence Carter': {
+        bio: 'Blind Alabama soul singer known for \'Patches\' and \'Slip Away\', blending country-soul with raw emotional delivery.',
         aliases: [],
       },
     },
@@ -2279,6 +2409,11 @@ export const rnbSoul: Pillar = {
         bio: 'Former One Direction star pivoted to slick, moody contemporary R&B with chart-topping solo albums in the 2010s-2020s.',
         aliases: ['Zayn Malik'],
       },
+
+      'T-Pain': {
+        bio: 'A pioneer of auto-tuned, club-ready R&B in the 2000s, delivering slick, polished hooks and top-charting collaborations.',
+        aliases: [],
+      },
     },
 
     'Funk': {
@@ -2944,6 +3079,51 @@ export const rnbSoul: Pillar = {
 
       'Skunk Anansie': {
         bio: 'British rock-soul act occasionally leaning into funky rhythms; core is alt-rock, so omitting.',
+        aliases: [],
+      },
+
+      'Eddie Hazel': {
+        bio: 'Lead guitarist for Funkadelic, whose solo albums explored deeply psychedelic and instrumental forms of the funk genre.',
+        aliases: [],
+      },
+
+      'Bridge': {
+        bio: 'A Chicago group featuring guitarist Phil Upchurch, releasing funky jazz and soul albums like \'Crystal Gaze\' in the 1970s.',
+        aliases: [],
+      },
+
+      'MFSB': {
+        bio: 'The house band for Philadelphia International Records, delivering string-laden orchestral funk and disco orchestrations.',
+        aliases: [],
+      },
+
+      'Ripple': {
+        bio: 'Early-1970s raw funk outfit known for \'I Don\'t Know What It Is, But It Sure Is Funky,\' blending soul and funk forms.',
+        aliases: [],
+      },
+
+      'Jon Batiste': {
+        bio: 'Multi-instrumentalist whose 2020s projects steeped in New Orleans funk, soul, and R&B revive the genre\'s communal, celebratory core.',
+        aliases: [],
+      },
+
+      'Red Hot Chili Peppers': {
+        bio: 'Funk-rock crossover giants who brought slap-bass funk energy to mainstream rock; led by Flea, rooted in P-Funk and punk.',
+        aliases: ['RHCP', 'Red Hot Chilli Peppers'],
+      },
+
+      'The Kay-Gees': {
+        bio: 'Groove-heavy funk band from the early 1970s known for raw, danceable cuts like \'Master Plan\'.',
+        aliases: [],
+      },
+
+      'Sun': {
+        bio: 'Funk band from the late 1970s whose \'Sun Power\' and \'Wanna Make Love\' are cult-funk staples.',
+        aliases: [],
+      },
+
+      'Parliament (side project of George Clinton)': {
+        bio: 'Already listed as Parliament; instead, consider The Horny Horns, the Parliament-Funkadelic brass section with standout solo work.',
         aliases: [],
       },
     },
