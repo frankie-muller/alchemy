@@ -513,6 +513,131 @@ export const pop: Pillar = {
         bio: 'Their immaculate late-70s shift into soft rock and sophisticated pop (Rumours, Tango in the Night) produced some of the warmest, most obsessively engineered pop music in history.',
         aliases: ['fleetwood mac.', 'fleetwoodmac', 'mac'],
       },
+
+      'Backstreet Boys': {
+        bio: '90s boy band pioneers whose polished pop hooks and harmonies defined mainstream radio pop for a generation.',
+        aliases: ['BSB'],
+      },
+
+      'NSYNC': {
+        bio: 'Late-90s/early-2000s boy band superstars with infectious dance-pop singles engineered for massive chart and radio success.',
+        aliases: ['*NSYNC'],
+      },
+
+      'Spice Girls': {
+        bio: '1990s girl group whose catchy, anthemic pop singles like \'Wannabe\' became global mainstream pop staples.',
+        aliases: [],
+      },
+
+      'Jason Derulo': {
+        bio: 'Dance-pop hitmaker known for a steady run of upbeat, radio-friendly singles across the 2010s and 2020s.',
+        aliases: [],
+      },
+
+      'Gwen Stefani': {
+        bio: '2000s pop star whose solo work blended dance-pop and new wave influences into catchy, top-40 singles.',
+        aliases: [],
+      },
+
+      'Pitbull': {
+        bio: 'Party-ready pop-rap hitmaker known for high-energy, anthemic radio singles bridging pop and Latin audiences.',
+        aliases: [],
+      },
+
+      'Calvin Harris': {
+        bio: 'Chart-topping dance-pop producer whose polished, hook-driven collaborations dominate global pop radio.',
+        aliases: [],
+      },
+
+      'Robin Thicke': {
+        bio: 'Soul-pop crooner whose glossy, retro-flavored hits captured massive mainstream radio attention in the 2010s.',
+        aliases: [],
+      },
+
+      'Paula Abdul': {
+        bio: 'Late-80s/early-90s pop-dance icon with choreography-driven anthems that dominated top-40 radio and charts.',
+        aliases: [],
+      },
+
+      'Olivia Newton-John': {
+        bio: '1980s pop icon with chart-topping, feel-good anthems like Physical and Xanadu, embodying glossy mainstream pop.',
+        aliases: [],
+      },
+
+      'Rick Astley': {
+        bio: 'Late-1980s pop sensation whose catchy, upbeat hits like Never Gonna Give You Up became global radio staples.',
+        aliases: [],
+      },
+
+      'Taylor Dayne': {
+        bio: 'Late-1980s/early-1990s dance-pop vocal powerhouse with radio-smash anthems such as Tell It to My Heart.',
+        aliases: [],
+      },
+
+      'Bananarama': {
+        bio: 'All-female 1980s pop group known for glossy, catchy anthems like Venus and Cruel Summer, hugely popular on radio and MTV.',
+        aliases: [],
+      },
+
+      'INXS': {
+        bio: 'Australian rock-pop group whose infectious, high-energy 1980s hits like Need You Tonight were ubiquitous on Top-40 radio.',
+        aliases: [],
+      },
+
+      'Laura Branigan': {
+        bio: '1980s pop singer with powerful, catchy radio hits like Gloria and Self Control, fitting the mainstream pop energy.',
+        aliases: [],
+      },
+
+      'Kacey Musgraves': {
+        bio: 'Country-pop crossover artist whose polished, hook-driven sound and mainstream chart success align with Top-40 pop conventions.',
+        aliases: [],
+      },
+
+      'Lewis Capaldi': {
+        bio: 'Scottish singer-songwriter blending heartfelt pop ballads with mainstream radio appeal, earning multiple Top-40 smashes.',
+        aliases: [],
+      },
+
+      'Dua Lipa\'s collaborator?': {
+        bio: 'Invalid—not an artist.',
+        aliases: [],
+      },
+
+      'Rita Ora': {
+        bio: 'British singer with a consistent run of upbeat, radio-friendly pop bangers and Top-40 hits across the 2010s.',
+        aliases: [],
+      },
+
+      'Olly Murs': {
+        bio: 'English pop vocalist known for catchy, feel-good mainstream singles that frequently hit the UK Top 10.',
+        aliases: [],
+      },
+
+      'James Blunt': {
+        bio: 'Singer-songwriter whose polished, anthemic pop-rock ballads earned massive worldwide radio and chart success in the 2000s.',
+        aliases: [],
+      },
+
+      'Niall Horan': {
+        bio: 'Former One Direction member turned solo pop star with breezy, melodic radio-friendly singles and arena-ready choruses.',
+        aliases: [],
+      },
+
+      'Liam Payne': {
+        bio: 'Ex-One Direction singer who released energetic, glossy pop and dance-pop tracks aimed squarely at Top-40 audiences.',
+        aliases: [],
+      },
+
+      'Jesse McCartney': {
+        bio: '2000s pop idol with catchy, upbeat mainstream pop singles that dominated radio and teen charts.',
+        aliases: [],
+      },
+
+      'Jason Mraz': {
+        bio: 'Pop singer-songwriter known for breezy, catchy, feel-good singles that became global Top-40 staples in the 2000s.',
+        aliases: [],
+      },
     },
 
     'Pop R&B Crossover': {
@@ -859,6 +984,31 @@ export const pop: Pillar = {
       'Destiny\\\'s Child': {
         bio: "The Houston-led powerhouse that set the blueprint for modern R&B girl groups before launching Beyoncé's unmatched solo trajectory.",
         aliases: ['destiny\'s child.', 'destinys child'],
+      },
+
+      'Mýa': {
+        bio: 'Smooth R&B-pop vocalist with sleek 2000s grooves like \'Case of the Ex\' and \'My Love Is Like...Wo\'.',
+        aliases: [],
+      },
+
+      'Pink Sweats': {
+        bio: 'Contemporary vocalist merging pop melodies with R&B grooves, known for warm, romantic hits like \'Honesty\'.',
+        aliases: [],
+      },
+
+      'JoJo': {
+        bio: 'Pop-R&B vocalist with a smooth, emotive style, delivering sensual mid-tempo cuts and crossover hits in the 2000s-2010s.',
+        aliases: ['JoJo Levesque'],
+      },
+
+      'Mario': {
+        bio: 'R&B-pop singer with smooth vocal delivery and romantic, seductive mid-tempo crossover hits in the 2000s.',
+        aliases: [],
+      },
+
+      'Bobby Brown': {
+        bio: 'Pop-R&B sensation from the late 1980s-1990s, blending New Jack Swing grooves with sleek, sensual pop crossover style.',
+        aliases: [],
       },
     },
 
@@ -1272,6 +1422,261 @@ export const pop: Pillar = {
         bio: '10cc',
         aliases: ['10 cc', '10-cc', 'ten cc', 'tencc', '10c.c.', '10 c.c.'],
       },
+
+      'Faye Webster': {
+        bio: 'Atlanta singer-songwriter merging indie pop with country-soul nuances, known for her laid-back, quirky storytelling and dreamy atmospherics.',
+        aliases: [],
+      },
+
+      'Alex Lahey': {
+        bio: 'Australian artist crafting energetic, witty indie pop-rock with introspective lyrics about relationships and everyday life.',
+        aliases: [],
+      },
+
+      'Cavetown': {
+        bio: 'Lo-fi bedroom pop project of Robin Skinner, featuring gentle vocals, uke-driven melodies, and introspective, bittersweet songwriting.',
+        aliases: [],
+      },
+
+      'Mimicking Birds': {
+        bio: 'Nate Lacy\'s minimalist, hushed indie pop, characterized by cryptic lyrics and lush, layered textures, epitomizing quirky, introspective moods.',
+        aliases: [],
+      },
+
+      'Orville Peck': {
+        bio: 'Masked country-pop artist with a distinctive baritone, blending retro pop sensibilities with indie arrangements and theatrical, melancholic flair.',
+        aliases: [],
+      },
+
+      'Vagabon': {
+        bio: 'Laetitia Tamko\'s indie pop deftly combines synth-driven atmospheres, guitar textures, and reflective lyrics exploring identity and displacement.',
+        aliases: [],
+      },
+
+      'Gus Dapperton': {
+        bio: 'Multi-instrumentalist crafting offbeat, lo-fi indie pop with bright synths, driving rhythms, and melancholic yet catchy vocal hooks.',
+        aliases: [],
+      },
+
+      'Orion Sun': {
+        bio: 'Tiffany Majette\'s dreamy, lo-fi indie soul-pop shapes intimate introspection with hazy production and warm, understated vocals.',
+        aliases: [],
+      },
+
+      'Pale Waves': {
+        bio: 'British act channeling 80s-dream-pop through an indie lens, pairing glossy hooks with introspective, heart-on-sleeve songwriting.',
+        aliases: [],
+      },
+
+      'The Bilinda Butchers': {
+        bio: 'San Francisco band crafting shoegaze and dreamy indie pop with romantic, lo-fi textures and bittersweet vocal harmonies.',
+        aliases: [],
+      },
+
+      'Still Corners': {
+        bio: 'London-based duo creating cinematic, dreamy indie pop with a lo-fi, otherworldly atmosphere and melancholic moods.',
+        aliases: [],
+      },
+
+      'Real Estate': {
+        bio: 'American indie rock/pop band weaving jangly guitars and wistful, introspective songs with a laid-back, lo-fi warmth.',
+        aliases: [],
+      },
+
+      'Twin Shadow': {
+        bio: 'Dominican-American artist making moody, new-wave-influenced indie pop with introspective lyrics and a dreamy, synth-forward sound.',
+        aliases: [],
+      },
+
+      'Julien Chang': {
+        bio: 'Multi-instrumentalist whose quirky, off-center indie pop mixes jazz, classical, and electronic textures with introspective songwriting.',
+        aliases: [],
+      },
+
+      'Amber Arcades': {
+        bio: 'Dutch artist crafting gentle, jangly indie pop with lo-fi charm, dreamy vocals, and reflective, bittersweet lyrics.',
+        aliases: [],
+      },
+
+      'Loving': {
+        bio: 'Canadian group producing soft, lo-fi indie pop with a dreamy guitar haze and plaintive, introspective vocals.',
+        aliases: [],
+      },
+
+      'Barrie': {
+        bio: 'Boston-based project making breezy, quirky indie pop with off-kilter rhythms, warm textures, and playful yet introspective lyrics.',
+        aliases: [],
+      },
+
+      'Rostam': {
+        bio: 'Producer-artist blending chamber pop, electronic, and indie pop in a refined, quirky style, evoking dreamy, introspective moods.',
+        aliases: [],
+      },
+
+      'Porches': {
+        bio: 'New York artist creating minimalist, off-center synth-pop and indie pop with introspective, melancholy lyrics and lo-fi edges.',
+        aliases: [],
+      },
+
+      'Florist': {
+        bio: 'An indie folk-pop project known for intimate, lo-fi recordings and dreamy, introspective songwriting.',
+        aliases: [],
+      },
+
+      'Alex G': {
+        bio: 'An American singer-songwriter whose lo-fi indie rock and pop songs are often off-kilter and emotionally raw.',
+        aliases: [],
+      },
+
+      'Jay Som': {
+        bio: 'A bedroom-pop project featuring lush, dreamy soundscapes and introspective, DIY-crafted songs.',
+        aliases: [],
+      },
+
+      'Turnover': {
+        bio: 'A band that shifted from punk to dreamy, jangly indie pop with a melancholic, coastal vibe.',
+        aliases: [],
+      },
+
+      'Miya Folick': {
+        bio: 'An indie pop singer-songwriter with a powerful voice and confessional, often raw and catchy songs.',
+        aliases: [],
+      },
+
+      'Pinegrove': {
+        bio: 'An indie rock band melding country-tinged guitars with earnest, verbose pop songwriting.',
+        aliases: [],
+      },
+
+      'Okay Kaya': {
+        bio: 'A Norwegian artist making minimalist, genre-bending indie pop with a dry, quirky vocal delivery.',
+        aliases: [],
+      },
+
+      'Peach Pit': {
+        bio: 'A Canadian band with a jangly, lo-fi indie pop sound that is smooth, nostalgic, and slightly melancholic.',
+        aliases: [],
+      },
+
+      'The Marias': {
+        bio: 'A Los Angeles-based band blending psych-rock, funk, and bossa nova into dreamy, bilingual indie pop.',
+        aliases: [],
+      },
+
+      'Yeule': {
+        bio: 'Glitchy, ethereal alt-pop with a surreal, futuristic sheen, blending dreamy textures with digital experimentation.',
+        aliases: ['yeule'],
+      },
+
+      'Claire Rosinkranz': {
+        bio: 'Quirky, bedroom-pop-leaning alt-pop with catchy, offbeat hooks and a playful, introspective songwriting style.',
+        aliases: ['Claire Rosinkranz'],
+      },
+
+      'Wallice': {
+        bio: 'Witty, lo-fi indie pop with self-deprecating, introspective lyrics and a relaxed, off-center delivery.',
+        aliases: ['Wallice'],
+      },
+
+      'Bakar': {
+        bio: 'Eclectic indie pop with a moody, genre-mixing edge, pairing catchy melodies with a distinctively offbeat vocal charisma.',
+        aliases: ['Bakar'],
+      },
+
+      'Blondshell': {
+        bio: 'Grunge-tinged alt-pop with raw, introspective lyrics and a dreamy yet punchy, bittersweet sound.',
+        aliases: ['Blondshell'],
+      },
+
+      'SASAMI': {
+        bio: 'Dreamy, lo-fi alt-pop with a cinematic, layered feel, marked by introspective moods and rich, textured production.',
+        aliases: ['SASAMI'],
+      },
+
+      'Dora Jar': {
+        bio: 'Playful, quirky pop with a whimsical, introspective edge, blending dreamy melodies with off-kilter production and delivery.',
+        aliases: ['Dora Jar'],
+      },
+
+      'Ginger Root': {
+        bio: 'Funk-inflected indie pop with a nostalgic, quirky, and cinematic sensibility, creating a unique, off-center retro-modern sound.',
+        aliases: ['Ginger Root'],
+      },
+
+      'Raveena': {
+        bio: 'Dreamy, soul-tinged alt-pop with lush, introspective atmospheres and a warm, lo-fi, bittersweet emotional core.',
+        aliases: ['Raveena'],
+      },
+
+      'Chloe Moriondo': {
+        bio: 'Quirky, ukulele-driven indie pop with candid, introspective lyricism and a charmingly offbeat, bare-bones approach.',
+        aliases: ['chloe moriondo'],
+      },
+
+      'Boyish': {
+        bio: 'Dreamy, lo-fi indie pop with wistful, bittersweet harmonies, capturing a soft, introspective and melancholic mood.',
+        aliases: ['Boyish'],
+      },
+
+      'Hazel English': {
+        bio: 'Ethereal, reverb-soaked indie pop with a dreamy, lo-fi allure and gentle, bittersweet melodic sensibility.',
+        aliases: ['Hazel English'],
+      },
+
+      'Molly Burch': {
+        bio: 'Lo-fi, retro-leaning alt-pop with a dreamy, introspective air, blending wistful vocals with spare, bittersweet arrangements.',
+        aliases: ['Molly Burch'],
+      },
+
+      'Skullcrusher': {
+        bio: 'Quiet, intimate indie-folk pop with a sparse, lo-fi, and deeply introspective mood, bordering on dreamy melancholy.',
+        aliases: ['Skullcrusher'],
+      },
+
+      'Magdalena Bay': {
+        bio: 'Dreamy, off-center synth-pop project with playful production and introspective themes fitting indie pop\'s quirky edge.',
+        aliases: [],
+      },
+
+      'Empress Of': {
+        bio: 'Introspective indie pop with off-kilter rhythms and lush, dreamy textures, often exploring identity and emotion.',
+        aliases: [],
+      },
+
+      'MUNYA': {
+        bio: 'Dreamy, lo-fi indie pop with wistful melodies and quirky charm, centered in the contemporary indie music scene.',
+        aliases: [],
+      },
+
+      'Marina Herlop': {
+        bio: 'Quirky, introspective art-pop with intricate vocals and dreamy, off-center arrangements, blending classical and electronic influences.',
+        aliases: [],
+      },
+
+      'Soccer Mommy (sung by Sophie Allison\'s other project) - WAIT, already there': {
+        bio: 'This entry is invalid.',
+        aliases: [],
+      },
+
+      'Yaeji': {
+        bio: 'Yaeji blends lo-fi electronic pop with intimate, whispered vocals and introspective themes, creating a dreamy, off-center sound.',
+        aliases: [],
+      },
+
+      'Doss': {
+        bio: 'Doss crafts hazy, lo-fi pop with shimmering synths and bittersweet melodies, embodying a quirky, dreamy indie aesthetic.',
+        aliases: [],
+      },
+
+      'Ellie Bleach': {
+        bio: 'Ellie Bleach makes idiosyncratic, off-kilter pop with dark humor and lush arrangements, a perfect fit for the quirky, introspective indie pop sound.',
+        aliases: [],
+      },
+
+      'Cecile Believe': {
+        bio: 'Cecile Believe\'s solo output is eccentric, emotive pop with experimental production, rooted in an indie sensibility and dreamy atmospherics.',
+        aliases: [],
+      },
     },
 
     'K-Pop': {
@@ -1373,6 +1778,571 @@ export const pop: Pillar = {
       'ENHYPEN': {
         bio: 'The vampire-concept septet whose synthwave, pop-rock, and dark-R&B discography makes them one of the most musically distinctive 4th-gen boy groups.',
         aliases: ['enhypen.'],
+      },
+
+      'Girls\' Generation-TTS': {
+        bio: 'Sub-unit of Girls\' Generation specializing in polished, vocal-forward K-pop with theatrical staging and dynamic pop hooks.',
+        aliases: ['TTS', 'TaeTiSeo'],
+      },
+
+      'SHINee\'s Taemin': {
+        bio: 'Solo K-pop artist known for intricate choreography, sensual concepts, and maximalist production across his acclaimed solo discography.',
+        aliases: ['Lee Taemin', 'Taemin'],
+      },
+
+      'f(x)': {
+        bio: 'Experimental K-pop group blending electro-pop, EDM, and avant-garde concepts, defining the genre\'s bold, dynamic edge in the 2010s.',
+        aliases: ['fx'],
+      },
+
+      'KARA': {
+        bio: 'Pioneering second-generation K-pop girl group with euphoric, polished dance-pop hits that defined the genre\'s 2000s–2010s mainstream sound.',
+        aliases: ['카라'],
+      },
+
+      'Wonder Girls': {
+        bio: 'Iconic K-pop act known for their polished, theatrical retro-pop hits and evolution into boundary-pushing self-produced music.',
+        aliases: ['원더걸스'],
+      },
+
+      'Super Junior': {
+        bio: 'Long-running K-pop boy group delivering maximalist, choreography-heavy pop anthems and theatrical releases since the mid-2000s.',
+        aliases: ['SJ', 'SuJu'],
+      },
+
+      'Apink': {
+        bio: 'Girl group famed for bright, euphoric pop melodies and polished stage performances, a staple of K-pop\'s mainstream sound across eras.',
+        aliases: ['에이핑크'],
+      },
+
+      'Mamamoo': {
+        bio: 'Vocal powerhouse girl group blending polished pop, retro influences, and dynamic, theatrical live performances in K-pop\'s modern wave.',
+        aliases: ['마마무'],
+      },
+
+      'NCT DREAM': {
+        bio: 'Youthful K-pop sub-unit renowned for high-energy, euphoric pop tracks and polished synchronization, part of the extended NCT universe.',
+        aliases: ['NCT Dream', 'NCTD'],
+      },
+
+      'Oh My Girl': {
+        bio: 'Girl group celebrated for whimsical, polished pop productions and dynamic choreography, bridging fairy-tale concepts with high-energy hooks.',
+        aliases: ['OMG', '오마이걸'],
+      },
+
+      'VIXX': {
+        bio: 'K-pop boy group known for theatrical, concept-driven releases with maximalist staging and dramatic, polished pop execution.',
+        aliases: ['빅스'],
+      },
+
+      'Loona': {
+        bio: 'Girl group famed for intricate, polished b-sides and dynamic title tracks, blending avant-pop experimentation with mainstream K-pop energy.',
+        aliases: ['LOONA', '이달의 소녀'],
+      },
+
+      'PSY': {
+        bio: 'South Korean singer-songwriter whose global viral hit \'Gangnam Style\' epitomizes maximalist, theatrical K-pop spectacle and choreography.',
+        aliases: ['Psy'],
+      },
+
+      'G-Dragon': {
+        bio: 'Solo K-pop trailblazer and BIGBANG leader, famed for dynamic, theatrical performances and genre-blending production that shaped 2010s K-pop.',
+        aliases: [],
+      },
+
+      'HyunA': {
+        bio: 'Solo K-pop performer renowned for high-energy, polished stage presence and provocative, maximalist concepts since the late 2000s.',
+        aliases: ['Hyuna'],
+      },
+
+      'CL': {
+        bio: '2NE1\'s leader turned solo artist, embodying powerful, theatrical K-pop with global reach and bold, polished aesthetics.',
+        aliases: [],
+      },
+
+      'Chungha': {
+        bio: 'Solo K-pop artist with dynamic choreography and euphoric, polished dance tracks, rising to prominence in the late 2010s and 2020s.',
+        aliases: [],
+      },
+
+      'Sunmi': {
+        bio: 'Former Wonder Girls member whose solo career is defined by theatrical, visually striking concepts and polished, synth-driven K-pop anthems.',
+        aliases: [],
+      },
+
+      'Seventeen\'s Hoshi': {
+        bio: 'Solo artist and SEVENTEEN performance leader, delivering high-energy, choreography-centric K-pop that pushes theatrical boundaries.',
+        aliases: ['Hoshi'],
+      },
+
+      'Taeyeon': {
+        bio: 'Girls\' Generation\'s leader with a prolific solo career spanning euphoric pop-rock and polished, emotive K-pop ballads.',
+        aliases: [],
+      },
+
+      'AKMU': {
+        bio: 'South Korean sibling duo whose eclectic, dynamic pop blends quirky maximalism with polished, melodic accessibility across eras.',
+        aliases: [],
+      },
+
+      'NCT U': {
+        bio: 'Rotational South Korean supergroup showcasing diverse, experimental K-pop with dynamic production and theatrical concept execution.',
+        aliases: [],
+      },
+
+      'Epik High': {
+        bio: 'Korean hip-hop group whose pop-adjacent, theatrical anthems and euphoric choruses have been staples in K-pop since the 2000s.',
+        aliases: [],
+      },
+
+      'Rain': {
+        bio: 'South Korean soloist and actor, a foundational 2000s K-pop idol known for maximalist, choreography-driven pop performances.',
+        aliases: ['Bi'],
+      },
+
+      'ATEEZ': {
+        bio: 'South Korean octet known for intense performance-driven K-pop with cinematic storytelling and powerful choreography since 2018.',
+        aliases: [],
+      },
+
+      'MONSTA X': {
+        bio: 'K-pop boy group blending hip-hop, EDM, and rock influences into polished, high-energy productions since 2015.',
+        aliases: [],
+      },
+
+      'GFRIEND': {
+        bio: 'Girl group celebrated for intricate, synchronized choreography and melodic, orchestral-pop K-pop from 2015 to 2021.',
+        aliases: [],
+      },
+
+      'IZ*ONE': {
+        bio: 'Project girl group from 2018 to 2021, known for refined, theatrical pop and polished performance concepts.',
+        aliases: [],
+      },
+
+      'WJSN (Cosmic Girls)': {
+        bio: 'South Korean-Chinese girl group fusing cosmic, fantasy themes with bright, dynamic pop and detailed choreography.',
+        aliases: ['Cosmic Girls'],
+      },
+
+      'GOT7': {
+        bio: 'Boy group known for energetic, genre-blending K-pop and charismatic stage presence since 2014.',
+        aliases: [],
+      },
+
+      'Kim Wooseok': {
+        bio: 'Soloist formerly of UP10TION and X1, delivering polished, emotive K-pop with theatrical music videos and choreography.',
+        aliases: [],
+      },
+
+      'NMIXX': {
+        bio: 'JYP Entertainment girl group known for \'MIXX POP\' — genre-switching, maximalist compositions and strong live vocals.',
+        aliases: [],
+      },
+
+      'IVE': {
+        bio: 'Starship Entertainment girl group achieving massive commercial success with confident, anthemic pop and sleek visuals.',
+        aliases: [],
+      },
+
+      'BtoB': {
+        bio: 'Vocal-focused boy group blending melodic balladry and upbeat pop, with strong live performance skills.',
+        aliases: [],
+      },
+
+      'CORTIS': {
+        bio: 'South Korean quintet rising fast with maximalist, high-energy pop and polished production, debuting EP at No. 3 on Billboard.',
+        aliases: [],
+      },
+
+      'Yves': {
+        bio: 'Former LOONA member crafting bubbly, hyperpop-infused K-pop with bouncy beats and emotional balladry.',
+        aliases: ['HaSooYoung'],
+      },
+
+      'BLACKSWAN': {
+        bio: 'Multinational K-pop girl group known for their diverse lineup and strong performance skills, rebranded from Rania.',
+        aliases: ['BLACK SWAN'],
+      },
+
+      'Weki Meki': {
+        bio: 'K-pop girl group formed by Fantagio, known for energetic titles and a mix of teen-crush and upbeat concepts.',
+        aliases: ['WekiMeki'],
+      },
+
+      'Lovelyz': {
+        bio: 'K-pop girl group under Woollim Entertainment with a signature bright, elegant, and fairy-like sound.',
+        aliases: [],
+      },
+
+      'PRISTIN': {
+        bio: 'K-pop girl group (now disbanded) noted for their polished, youthful pop tracks and strong synchronized choreography.',
+        aliases: [],
+      },
+
+      'Wanna One': {
+        bio: 'Project boy group from Produce 101 Season 2, celebrated for high-energy pop hits and large-scale shows.',
+        aliases: [],
+      },
+
+      'fromis_9': {
+        bio: 'K-pop girl group formed from Idol School, blending fresh, melodic pop with clean, lively choreography.',
+        aliases: ['fromis 9'],
+      },
+
+      'Victon': {
+        bio: 'K-pop boy group known for dynamic performances and a dark, theatrical pop evolution in later releases.',
+        aliases: [],
+      },
+
+      'AB6IX': {
+        bio: 'K-pop boy group with a modern, polished sound, balancing energetic dance tracks and emotional ballads.',
+        aliases: [],
+      },
+
+      'CLC': {
+        bio: 'K-pop girl group whose later work leaned into edgy, maximalist pop and powerful stage presence.',
+        aliases: [],
+      },
+
+      'Dreamcatcher': {
+        bio: 'K-pop girl group fusing rock and EDM influences with intense, high-energy pop and cinematic storytelling.',
+        aliases: ['Dream Catcher'],
+      },
+
+      'ONEUS': {
+        bio: 'K-pop boy group with a performing-arts focus, blending traditional Korean motifs into mainstream pop choreography.',
+        aliases: [],
+      },
+
+      'J.Y. Park': {
+        bio: 'Founder of JYP Entertainment and pioneering K-pop solo artist whose 1990s hits shaped the genre\'s early sound.',
+        aliases: ['Park Jin-young', 'JYP'],
+      },
+
+      'H.O.T.': {
+        bio: 'First-generation K-pop idol group whose 1996 debut established the template for modern K-pop boy bands.',
+        aliases: [],
+      },
+
+      'S.E.S.': {
+        bio: 'Trailblazing first-generation K-pop girl group whose 1997 debut launched the idol girl group era.',
+        aliases: [],
+      },
+
+      'Fin.K.L': {
+        bio: 'Legendary late-1990s K-pop girl group known for polished pop hits and enduring influence on the genre.',
+        aliases: ['Fin.K.L.'],
+      },
+
+      'Shinhwa': {
+        bio: 'Long-running K-pop boy band from 1998, renowned for synchronized choreography and sustained commercial success.',
+        aliases: [],
+      },
+
+      'TVXQ!': {
+        bio: '2000s K-pop quintet famed for powerful vocals, acrobatic performances, and massive pan-Asian popularity.',
+        aliases: ['DBSK', 'TVXQ'],
+      },
+
+      'SHINee\'s Onew': {
+        bio: 'Main vocalist of SHINee with solo career spanning emotive ballads and polished pop-R&B, central to K-pop\'s evolution.',
+        aliases: ['Onew'],
+      },
+
+      'Key': {
+        bio: 'SHINee member whose solo work blends theatrical, eclectic pop with dance-driven maximalist production.',
+        aliases: ['Kim Ki-bum'],
+      },
+
+      'Dynamic Duo': {
+        bio: 'Not strictly K-pop idol act, but influential hip-hop-pop duo central to 2000s Korean mainstream pop crossover.',
+        aliases: [],
+      },
+
+      'Seo Taiji and Boys': {
+        bio: '1992 debut that revolutionized Korean popular music with fusion of Western pop, rap, and dance, founding K-pop\'s DNA.',
+        aliases: [],
+      },
+
+      'Jinusean': {
+        bio: '1990s hip-hop duo under YG Entertainment whose pop-rap tracks helped define early Korean idol-adjacent pop.',
+        aliases: [],
+      },
+
+      'Lee Hyori': {
+        bio: 'Fin.K.L member turned solo superstar known for catchy pop hits and trendsetting image in 2000s K-pop.',
+        aliases: ['Lee Hyo-ri'],
+      },
+
+      'Girls\' Generation-Oh!GG': {
+        bio: 'Sub-unit of Girls\' Generation, delivering polished, dynamic pop with the group\'s signature refined sound.',
+        aliases: ['Oh!GG', 'GG-Oh!GG'],
+      },
+
+      'NCT 2020': {
+        bio: 'Rotational K-pop supergroup project uniting NCT members for maximalist, high-energy collaborative releases.',
+        aliases: [],
+      },
+
+      'SuperM': {
+        bio: 'K-pop supergroup formed by SM Entertainment and Capitol, featuring members from EXO, SHINee, and NCT.',
+        aliases: [],
+      },
+
+      'Kai': {
+        bio: 'EXO member renowned for theatrical solo dance-pop and sleek, polished stage presence.',
+        aliases: ['Kim Jongin'],
+      },
+
+      'Zico': {
+        bio: 'South Korean rapper and producer blending bold pop hooks with hip-hop energy, leading solo and group projects.',
+        aliases: ['Woo Ji-ho'],
+      },
+
+      'Ailee': {
+        bio: 'Powerhouse K-pop vocalist known for emotive, dynamic pop ballads and high-energy stage performances.',
+        aliases: ['Lee Ye-jin'],
+      },
+
+      'B.I.': {
+        bio: 'South Korean solo artist and former iKON leader, fusing introspective lyrics with vibrant, polished pop production.',
+        aliases: ['Kim Hanbin', 'Hanbin'],
+      },
+
+      'Mamamoo\'s Hwasa': {
+        bio: 'Powerful solo vocalist and performer whose bold stage presence and genre-blending K-pop hits define the maximalist idol sound.',
+        aliases: ['Hwasa'],
+      },
+
+      'Oh My Girl\'s Arin': {
+        bio: 'Known for ethereal yet polished K-pop solo work, Arin brings a melodic, dynamic edge fitting the sub-category\'s theatricality.',
+        aliases: [],
+      },
+
+      'BTS\'s Jimin': {
+        bio: 'Solo artist whose smooth, polished pop and intricate choreography embody the high-energy, euphoric K-pop pillar.',
+        aliases: [],
+      },
+
+      'BTS\'s Jungkook': {
+        bio: 'Global solo star with dynamic, polished pop hits and standout performance skills central to modern K-pop\'s maximalism.',
+        aliases: [],
+      },
+
+      'EXO\'s Baekhyun': {
+        bio: 'A leading K-pop vocalist whose solo releases showcase refined, theatrical pop production with a polished, emotional core.',
+        aliases: [],
+      },
+
+      'Red Velvet\'s Joy': {
+        bio: 'Solo and group singer blending retro-futuristic pop styles, her vibrant yet sleek output fits the choreography-driven aesthetic.',
+        aliases: [],
+      },
+
+      'NCT\'s Taeyong': {
+        bio: 'Performer and producer whose solo work mixes edgy, dynamic pop with cutting-edge beats, a staple of high-energy K-pop.',
+        aliases: [],
+      },
+
+      'TWICE\'s Nayeon': {
+        bio: 'Pop soloist delivering catchy, polished tracks that mirror TWICE\'s upbeat, maximalist style and dance-forward energy.',
+        aliases: [],
+      },
+
+      'STAYC': {
+        bio: 'Rising K-pop group known for bright, hooky, and meticulously produced pop songs with impactful choreography.',
+        aliases: [],
+      },
+
+      'Kep1er': {
+        bio: 'Project group defined by synchronized, high-octane performances and polished, euphoric pop anthems from the 2020s.',
+        aliases: [],
+      },
+
+      'aespa\'s Karina': {
+        bio: 'Solo venture into sleek, polished pop with a futuristic edge, her dance-centric style amplifies K-pop’s dynamic aesthetic.',
+        aliases: [],
+      },
+
+      'Zico (solo)': {
+        bio: 'Already listed as part of a duo, but his vibrant solo discography captures K-pop’s maximalist, genre-crossing energy.',
+        aliases: [],
+      },
+
+      'BOP': {
+        bio: 'South Korean quintet blending bubblegum pop, funk, and EDM with polished choreography for a dynamic K-pop sound.',
+        aliases: [],
+      },
+
+      'Purfles': {
+        bio: 'South Korean trio praised for tight harmonies and polished pop songs, exemplifying 2010s K-pop precision.',
+        aliases: [],
+      },
+
+      'TAHITI': {
+        bio: 'K-pop idol group delivering maximalist dance-pop with vibrant productions and synchronized routines.',
+        aliases: [],
+      },
+
+      'Spica': {
+        bio: 'Vocal-focused South Korean group mixing R&B and pop with polished arrangements, standing out for powerhouse stage presence.',
+        aliases: [],
+      },
+
+      'Bonus': {
+        bio: 'South Korean co-ed group active in the 2010s, known for bright, upbeat pop singles and dynamic performances.',
+        aliases: [],
+      },
+
+      'Sori': {
+        bio: 'Soloist with a background in electronica and pop, making a mark with synth-heavy K-pop and impactful stage visuals.',
+        aliases: [],
+      },
+
+      'Dalshabet': {
+        bio: 'K-pop septet famed for catchy, high-energy pop tracks and choreography-driven concepts over three generations.',
+        aliases: [],
+      },
+
+      'History': {
+        bio: 'South Korean boy group from the 2010s blending pop, hip-hop, and dance for a dynamic, polished K-pop identity.',
+        aliases: [],
+      },
+
+      'N.Flying': {
+        bio: 'While band-based, they lean into polished, pop-driven rock singles like \'Rooftop\' with K-pop-refined production.',
+        aliases: [],
+      },
+
+      'CLC\'s Seunghee': {
+        bio: 'Member of a core K-pop group with solo projects showcasing her clear, polished pop vocals in an idol framework.',
+        aliases: [],
+      },
+
+      'Yerin Baek': {
+        bio: 'Soloist combining mainstream pop sensibility with R&B production, integral to Korean pop\'s modern canon.',
+        aliases: [],
+      },
+
+      'BIGBANG\'s Taeyang': {
+        bio: 'Solo K-pop powerhouse blending R&B, dance, and theatrical performance, integral to the genre\'s global rise since the 2000s.',
+        aliases: ['Taeyang'],
+      },
+
+      'BLACKPINK\'s Rosé': {
+        bio: 'K-pop soloist with polished pop-rock and emotive ballads, massive global streaming presence and choreography-driven performances.',
+        aliases: ['Rosé'],
+      },
+
+      'OH MY GIRL\'s YooA': {
+        bio: 'Solo K-pop artist known for ethereal, dreamy productions and graceful yet dynamic stagecraft within the genre.',
+        aliases: ['YooA'],
+      },
+
+      'Girls\' Generation\'s Hyoyeon': {
+        bio: 'Solo K-pop act fusing EDM, dance-pop, and club energy, reflecting the maximalist polish central to the sub-category.',
+        aliases: ['Hyoyeon'],
+      },
+
+      'EXO\'s D.O.': {
+        bio: 'K-pop idol-soloist balancing soulful pop and R&B with polished, theatrical live presence, rooted in the genre\'s mainstream.',
+        aliases: ['D.O.'],
+      },
+
+      'NCT\'s Mark': {
+        bio: 'Versatile K-pop solo performer, delivering high-energy, polished dance-pop tracks consistent with the sub-category\'s sound.',
+        aliases: ['Mark Lee'],
+      },
+
+      'TWICE\'s Jihyo': {
+        bio: 'Solo K-pop vocalist with powerful, euphoric dance-pop anthems and commanding stage presence, fully within the genre\'s sphere.',
+        aliases: ['Jihyo'],
+      },
+
+      'VIXX\'s Leo': {
+        bio: 'Solo K-pop singer-songwriter with dynamic, theatrical pop and dance influences, maintaining the genre\'s polished aesthetic.',
+        aliases: [],
+      },
+
+      'MONSTA X\'s Joohoney': {
+        bio: 'Solo K-pop rapper-singer blending bold, high-energy hip-hop pop with maximalist production and cinematic visuals.',
+        aliases: ['Jooheon'],
+      },
+
+      'IZ*ONE\'s Choi Yena': {
+        bio: 'Solo K-pop artist with playful, dynamic pop tracks and vibrant choreography, embodying the sub-category\'s polished energy.',
+        aliases: ['Yena'],
+      },
+
+      'STRAY KIDS\' I.N': {
+        bio: 'K-pop junior soloist delivering polished, emotive pop and dance performances aligned with the genre\'s current wave.',
+        aliases: ['I.N'],
+      },
+
+      'SEVENTEEN\'s Woozi': {
+        bio: 'K-pop singer-songwriter and solo performer, crafting euphoric, theatrical pop with a focused genre fit.',
+        aliases: ['Woozi'],
+      },
+
+      'Mamamoo\'s Moonbyul': {
+        bio: 'Powerful rapper and vocalist of Mamamoo whose solo work spans K-pop, R&B, and dance-pop with polished, theatrical performances.',
+        aliases: ['Moonbyul'],
+      },
+
+      'NCT\'s Jaehyun': {
+        bio: 'NCT member whose solo debut blends smooth R&B-pop and sleek K-pop production, showcasing dynamic vocal range and polished stage presence.',
+        aliases: ['Jaehyun'],
+      },
+
+      'BTS\'s V': {
+        bio: 'BTS vocalist with a deep, emotive tone whose solo projects lean into jazz-inflected pop and cinematic K-pop balladry.',
+        aliases: ['V', 'Kim Taehyung'],
+      },
+
+      'EXO\'s Chen': {
+        bio: 'Main vocalist of EXO known for powerful, soulful delivery in K-pop group work and emotive solo ballads.',
+        aliases: ['Chen', 'Kim Jongdae'],
+      },
+
+      'TWICE\'s Dahyun': {
+        bio: 'TWICE member whose solo ventures showcase her versatility in bright, polished K-pop dance tracks and earnest pop ballads.',
+        aliases: ['Dahyun'],
+      },
+
+      'Stray Kids\' Han': {
+        bio: 'Stray Kids\' main rapper and producer who has released solo K-pop tracks blending intense energy with melodic, theatrical hooks.',
+        aliases: ['Han', 'Han Jisung'],
+      },
+
+      'SEVENTEEN\'s DK': {
+        bio: 'SEVENTEEN\'s lead vocalist, known for soaring, powerful singing in group tracks and soulful solo K-pop releases.',
+        aliases: ['DK', 'Dokyeom'],
+      },
+
+      'GOT7\'s Youngjae': {
+        bio: 'GOT7 vocalist whose solo work combines bright, polished K-pop with R&B and pop-rock influences, emphasizing emotive performance.',
+        aliases: ['Youngjae', 'Ars'],
+      },
+
+      'Apink\'s Eunji': {
+        bio: 'Apink\'s main vocalist whose solo discography spans heartfelt K-pop ballads and upbeat pop tracks, displaying dynamic range and charisma.',
+        aliases: ['Eunji', 'Jeong Eun-ji'],
+      },
+
+      'VIXX\'s Ken': {
+        bio: 'VIXX\'s main vocalist known for strong theatrical pop vocals and solo releases that highlight dramatic, polished K-pop production.',
+        aliases: ['Ken'],
+      },
+
+      'Mamamoo\'s Solar': {
+        bio: 'Mamamoo\'s leader and main vocalist, whose solo work ranges from retro-pop to powerful K-pop anthems with commanding stage presence.',
+        aliases: ['Solar', 'Yongsun'],
+      },
+
+      'OH MY GIRL\'s Seunghee': {
+        bio: 'OH MY GIRL\'s main vocalist, delivering bright, agile vocals across group\'s ethereal-pop sound and in expressive solo K-pop tracks.',
+        aliases: ['Seunghee', 'Hyojung'],
       },
     },
   },
