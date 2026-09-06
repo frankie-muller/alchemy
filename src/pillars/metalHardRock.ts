@@ -553,6 +553,31 @@ export const metalHardRock: Pillar = {
         bio: 'Australian retro-rock duo whose thunderous, Sabbath-derived riffs reignited classic heavy rock for a new millennium.',
         aliases: [],
       },
+
+      'GWAR': {
+        bio: 'Loud, theatrical, and rebellious heavy metal outfit famed for outlandish sci-fi costumes and gore-soaked stage shows.',
+        aliases: [],
+      },
+
+      'Extreme': {
+        bio: 'Boston quartet blending funk metal, hard rock, and virtuosic guitar work, anchored by Nuno Bettencourt\'s riffs.',
+        aliases: [],
+      },
+
+      'Nuclear Assault': {
+        bio: 'New York thrash metal act known for fast, aggressive riffing and politically charged hardcore-inflected songs.',
+        aliases: [],
+      },
+
+      'Sodom': {
+        bio: 'German thrash metal legends with raw, aggressive riffing and a venomous attack, cornerstone of the 80s Teutonic scene.',
+        aliases: [],
+      },
+
+      'Poison': {
+        bio: 'Glam metal hitmakers from the 80s Sunset Strip, trading in big hair, anthemic choruses, and theatrical excess.',
+        aliases: [],
+      },
     },
 
     'Classic Heavy Metal / NWOBHM': {
