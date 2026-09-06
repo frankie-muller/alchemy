@@ -628,6 +628,11 @@ export const rock: Pillar = {
         bio: 'Alabama-bred indie-rock quartet with angsty, melodic guitar-driven songs, a cornerstone of 2000s underground scenes.',
         aliases: [],
       },
+
+      'The Districts': {
+        bio: 'Pennsylvania rock quartet known for raw, garage-influenced indie rock with angsty, melodic vocals and driving guitar work.',
+        aliases: [],
+      },
     },
 
     'Classic Rock / Arena Rock': {
@@ -3377,6 +3382,46 @@ export const rock: Pillar = {
       'Slash\'s Snakepit': {
         bio: 'Post-Guns N\' Roses hard-rock side project fronted by Slash, delivering swaggering, bluesy metal with a grungy, sludgy grit on \'It\'s Five O\'Clock Somewhere\'.',
         aliases: ['Snakepit'],
+      },
+
+      'Dayglo Abortions': {
+        bio: 'Canadian punk-hardcore act with sludgy breakdowns and cynical attitude, a proto-grunge influence.',
+        aliases: [],
+      },
+
+      'Bruce': {
+        bio: 'Australian grunge-era alt-rock band with heavy, fuzz-laden guitars and punk-rooted angst.',
+        aliases: [],
+      },
+
+      'Stone Gossard': {
+        bio: 'Guitarist and songwriter for Pearl Jam and Mother Love Bone, central to Seattle\'s grunge scene.',
+        aliases: [],
+      },
+
+      'Jeff Ament': {
+        bio: 'Bassist for Pearl Jam and Mother Love Bone, key figure in Pacific Northwest grunge\'s rise.',
+        aliases: [],
+      },
+
+      'Mike McCready': {
+        bio: 'Lead guitarist for Pearl Jam, bringing bluesy, heavy riffs rooted in Seattle\'s grunge movement.',
+        aliases: [],
+      },
+
+      'Matt Cameron': {
+        bio: 'Drummer for Soundgarden and Pearl Jam, foundational to grunge\'s heavy, sludgy rhythmic backbone.',
+        aliases: [],
+      },
+
+      'Kim Thayil': {
+        bio: 'Guitarist for Soundgarden, architect of grunge\'s dense, drop-tuned metallic textures.',
+        aliases: [],
+      },
+
+      'Steve Turner': {
+        bio: 'Guitarist in Mudhoney and Green River, essential to Seattle\'s raw, garage-driven grunge attack.',
+        aliases: [],
       },
     },
 

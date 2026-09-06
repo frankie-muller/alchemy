@@ -1967,6 +1967,46 @@ export const latin: Pillar = {
         bio: 'Classical crossover quartet that frequently performed Spanish boleros and romantic classics, bringing them to new mainstream audiences worldwide.',
         aliases: ['Il Volo'],
       },
+
+      'Daniel Santacruz': {
+        bio: 'Dominican-American bachata artist and producer, blending traditional rhythms with contemporary songwriting, recognized for composing hits for top acts.',
+        aliases: [],
+      },
+
+      'Alexandra': {
+        bio: 'Half of the acclaimed bachata duo Monchy & Alexandra, her solo career continues the romantic, guitar-driven tradition of the genre.',
+        aliases: ['Alexandra'],
+      },
+
+      'Steve Styles': {
+        bio: 'Former lead singer of Grupo Extra, he pursued a solo bachata career, maintaining a focus on romantic, guitar-centric ballads.',
+        aliases: [],
+      },
+
+      'Luis Días': {
+        bio: 'Dominican singer-songwriter, the \'father of bachata\' by some accounts, pioneered romantic bolero-influenced guitar ballads in the 1980s.',
+        aliases: [],
+      },
+
+      'Juan Bautista': {
+        bio: 'Dominican bachata vocalist known for his warm, romantic style and classic 1990s and 2000s romantic bolero-bachata hits.',
+        aliases: [],
+      },
+
+      'Tatiana de la Bachata': {
+        bio: 'Dominican singer known for her romantic bachata and bolero-influenced songs, blending acoustic guitar with heartfelt lyrics.',
+        aliases: [],
+      },
+
+      'Manny Cruz': {
+        bio: 'Dominican merengue and bachata singer whose romantic acoustic ballads and collaborations fit the guitar-led Latin romance tradition.',
+        aliases: [],
+      },
+
+      'Alberto Zuleta': {
+        bio: 'Colombian singer-songwriter of romantic vallenato and bolero-influenced ballads, known for his acoustic guitar and heartfelt delivery.',
+        aliases: [],
+      },
     },
 
     'Flamenco / Español': {
@@ -3481,6 +3521,11 @@ export const latin: Pillar = {
 
       'Reik (already listed, omitted — replacing with Luis Miguel)': {
         bio: 'Mexican singer known for romantic ballads and pop standards, a defining voice in Spanish-language mainstream pop from the 1980s onward.',
+        aliases: [],
+      },
+
+      'Venesti': {
+        bio: 'Venezuelan artist crafting melodic, romantic urban pop and reggaetón, gaining recognition for polished, accessible Spanish-language tracks.',
         aliases: [],
       },
     },

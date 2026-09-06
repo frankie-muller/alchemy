@@ -4525,6 +4525,176 @@ export const electronic: Pillar = {
         bio: 'German duo making cheeky, bass-driven drum & bass/jungle hybrids with a distinct ghetto-tech flavour.',
         aliases: [],
       },
+
+      'Bladerunner': {
+        bio: 'UK producer crafting dark, rolling drum & bass with a focus on deep sub-bass and intricate breaks.',
+        aliases: [],
+      },
+
+      'Monty': {
+        bio: 'Bristol-based artist making atmospheric, halftime-influenced drum & bass with a distinctive sound design.',
+        aliases: [],
+      },
+
+      'Visages': {
+        bio: 'Collective blending deep, minimal drum & bass and jungle textures with a raw, bass-heavy edge.',
+        aliases: [],
+      },
+
+      'Skeptical': {
+        bio: 'UK producer releasing precise, rolling drum & bass on labels like Exit Records and Dispatch.',
+        aliases: [],
+      },
+
+      'dBridge': {
+        bio: 'Pioneering artist bridging jungle\'s rawness with futuristic, tech-step drum & bass soundscapes.',
+        aliases: ['Darren White'],
+      },
+
+      'Seba': {
+        bio: 'Swedish producer celebrated for atmospheric, melodic drum & bass with lush pads and crisp breaks.',
+        aliases: [],
+      },
+
+      'Breakage': {
+        bio: 'Producer spanning dubstep, jungle, and drum & bass, known for bassweight pressure and sparse rhythms.',
+        aliases: [],
+      },
+
+      'Blocks & Escher': {
+        bio: 'Duo crafting dark, intricate drum & bass with technical precision, often on Metalheadz.',
+        aliases: [],
+      },
+
+      'Loxy': {
+        bio: 'Veteran DJ/producer renowned for deep, rolling jungle and drum & bass mix culture.',
+        aliases: [],
+      },
+
+      'Resound': {
+        bio: 'Producer focusing on dark, minimal drum & bass with a hypnotic, rolling energy.',
+        aliases: [],
+      },
+
+      'Grey Code': {
+        bio: 'Oxford-based producer making brooding, intricate drum & bass with a modern technical edge.',
+        aliases: [],
+      },
+
+      'Audio': {
+        bio: 'A founding figure of the drum & bass scene, known for the classic \'Journey Through The Sound\' and pioneering jungle production.',
+        aliases: [],
+      },
+
+      'Omni Trio': {
+        bio: 'Seminal ambient drum & bass act from the 1990s, famed for their ethereal \'Renegade Snares\' and atmospheric breakbeats.',
+        aliases: [],
+      },
+
+      'T Power': {
+        bio: 'A versatile producer and DJ, a key player in the 1990s jungle/jump-up scene with tracks like \'The Mutant Jazz\'.',
+        aliases: [],
+      },
+
+      'Deep Blue': {
+        bio: 'Artist behind the iconic dark drum & bass anthem \'The Helicopter Tune\', a cornerstone of the 1990s techstep sound.',
+        aliases: [],
+      },
+
+      'Rufige Kru': {
+        bio: 'A pioneering drum & bass act from the early 1990s, known for the seminal \'Terminator\' series on Reinforced Records.',
+        aliases: [],
+      },
+
+      'Capone': {
+        bio: 'Drum & bass alias of musician Darren White, associated with the dark, rolling techstep sound of the late 1990s.',
+        aliases: [],
+      },
+
+      'John B': {
+        bio: 'Highly influential drum & bass producer known for his techstep and trance-influenced sound, including the album \'Visions\'.',
+        aliases: [],
+      },
+
+      'Futurebound': {
+        bio: 'A prominent drum & bass producer, part of the duo Matrix & Futurebound, known for their dancefloor anthems and remixes.',
+        aliases: [],
+      },
+
+      'Danny C': {
+        bio: 'A drum & bass producer and DJ, prominent in the late 1990s and 2000s with a rolling, polished sound on labels like Timeless.',
+        aliases: [],
+      },
+
+      'Spor': {
+        bio: 'High-energy drum & bass producer known for complex, neurofunk and techstep tracks, releasing on his own Lifted Music label.',
+        aliases: [],
+      },
+
+      'Basic Operations': {
+        bio: 'Minimal, rolling drum & bass project from dBridge and Instra:mental, central to the early 2010s sound.',
+        aliases: [],
+      },
+
+      'Phantasy': {
+        bio: 'UK jungle/D&B producer known for ragga vocals and ruff, dancefloor-focused rollers.',
+        aliases: [],
+      },
+
+      'Fabio': {
+        bio: 'Pioneering DJ and producer, co-founder of Creative Source, integral to jungle\'s evolution into drum & bass.',
+        aliases: [],
+      },
+
+      'DJ Rap': {
+        bio: 'Pioneering female jungle/D&B DJ and producer since the early 90s, known for tracks like \'Spiritual Aura\' and \'Divine Rhythm.\'',
+        aliases: ['Rap'],
+      },
+
+      'Lemon D': {
+        bio: 'Legendary jungle/D&B producer, half of Dope Dragon and influential on the atmospheric and techstep sounds.',
+        aliases: ['Lemon D'],
+      },
+
+      'DJ Krust': {
+        bio: 'Bristol-based producer and member of Roni Size\'s Reprazent, known for his dark, deep, and experimental D&B.',
+        aliases: ['Krust'],
+      },
+
+      'Alex Reece': {
+        bio: 'Key architect of the mid-90s jazzy, minimal \'liquid funk\' drum & bass sound with tracks like \'Pulp Fiction.\'',
+        aliases: [],
+      },
+
+      'Jack Smooth': {
+        bio: 'Long-standing DJ and producer from the UK, a staple on the scene for over two decades with a deep, rolling style.',
+        aliases: [],
+      },
+
+      'Tech Itch': {
+        bio: 'Renowned for dark, heavy techstep drum & bass on his own Tech Itch Recordings label.',
+        aliases: ['Tech Itch'],
+      },
+
+      'Jonny L': {
+        bio: 'Influential producer blending jungle, techstep, and house, known for the seminal track \'Piper.\'',
+        aliases: [],
+      },
+
+      'Sappo': {
+        bio: 'UK producer and DJ, a prominent figure on the jungle scene with releases on Formation Records.',
+        aliases: [],
+      },
+
+      'Hyper-On-Experience': {
+        bio: 'UK duo integral to the early 90s rave and jungle crossover, known for tracks like \'Lords of the Null Lines.\'',
+        aliases: ['Hyper-On-Experience'],
+      },
+
+      'Origin Unknown': {
+        bio: 'Legendary drum & bass alias of Andy C and Ant Miles, responsible for the anthemic \'Valley of the Shadows.\'',
+        aliases: ['Origin Unknown'],
+      },
     },
 
     'Breakbeat / Big Beat': {
