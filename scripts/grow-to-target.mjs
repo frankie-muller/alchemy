@@ -101,8 +101,19 @@ function commitPillarProgress(pillarName) {
   mergedSincePillarCommit = 0;
 }
 
+let previousPillar = null;
 for (let i = 0; i < jobs.length; i++) {
   const job = jobs[i];
+
+  // Detect the pillar transition unconditionally, BEFORE any skip/continue
+  // below — the old version only committed from the "just finished working
+  // a sub-category" path, so a pillar whose trailing sub-categories were
+  // all SKIPs (already at target) never triggered its own commit at all.
+  if (previousPillar !== null && previousPillar !== job.pillar) {
+    commitPillarProgress(previousPillar);
+  }
+  previousPillar = job.pillar;
+
   let dict = await loadDictionary();
   const pillar = dict.ALCHEMY_DICTIONARY.find((p) => p.name === job.pillar);
   let current = Object.keys(pillar.subCategories[job.sub]).length;
@@ -198,11 +209,13 @@ for (let i = 0; i < jobs.length; i++) {
     process.exit(1);
   }
 
-  // Commit + push at each pillar boundary (not every sub-category — that
-  // would be a lot of tiny commits) so a run spanning hours never risks
-  // losing more than one pillar's worth of API-purchased progress.
-  const nextPillar = jobs[i + 1]?.pillar;
-  if (nextPillar !== job.pillar) { commitPillarProgress(job.pillar); }
+  // Commit + push happens at the top of the loop, on the NEXT pillar's
+  // first job (see above) — not here, so it fires even when this pillar's
+  // remaining sub-categories are all SKIPs.
 }
+
+// Catch-all for the very last pillar in the list, which has no "next
+// pillar" iteration to trigger its commit from the top-of-loop check.
+if (previousPillar !== null) { commitPillarProgress(previousPillar); }
 
 log(`FINISHED. ${totalCallsMade} API calls, ${totalMerged} artists merged.`);
