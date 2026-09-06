@@ -498,6 +498,136 @@ export const rock: Pillar = {
         bio: 'Britpop-era quintet with punchy, melodic guitar rock and youthful energy, straddling indie and mainstream with three-minute gems.',
         aliases: [],
       },
+
+      'Wolf Alice': {
+        bio: 'North London alt-rock act shifting between grungey rawness and dreamy melodicism, capturing moody, guitar-led introspection.',
+        aliases: [],
+      },
+
+      'The Wrens': {
+        bio: 'New Jersey indie-rock quartet whose meticulous, emotionally frayed albums like \'The Meadowlands\' define introspective, guitar-driven alt-rock.',
+        aliases: [],
+      },
+
+      'Pinback': {
+        bio: 'San Diego duo crafting precise, melodic, subtly angsty indie rock characterized by intertwining bass and restrained vocals.',
+        aliases: [],
+      },
+
+      'The Walkmen': {
+        bio: 'New York band known for bruised, reverb-heavy guitars and ragged vocal urgency, making a lasting mark on 2000s indie.',
+        aliases: [],
+      },
+
+      'Grandaddy': {
+        bio: 'Modesto lo-fi indie rockers blending fuzzy keyboards and melancholic, melodic songwriting about technology and isolation.',
+        aliases: [],
+      },
+
+      'Minus the Bear': {
+        bio: 'Seattle math-rock/indie act known for intricate, polished guitar lines and danceable, rhythmic melodies in the mid-2000s.',
+        aliases: ['MTB'],
+      },
+
+      'Cloakroom': {
+        bio: 'Indiana trio melting dreamy shoegaze textures into dense, metallic guitar sludge with a deeply melodic, brooding core.',
+        aliases: [],
+      },
+
+      'The Charlatans': {
+        bio: 'Madchester indie-rock mainstays whose Hammond-organ and guitar grooves carried a moody, melodic britpop swagger.',
+        aliases: ['Charlatans'],
+      },
+
+      'Manchester Orchestra': {
+        bio: 'Emotive, guitar-forward indie-rock band from the 2000s, blending anthemic choruses with raw, confessional narratives.',
+        aliases: [],
+      },
+
+      'The Twilight Sad': {
+        bio: 'Scottish indie-rock band known for sweeping, textured guitars and brooding, melodic vocals.',
+        aliases: ['Twilight Sad'],
+      },
+
+      'Pile': {
+        bio: 'Independent rock band from Boston mixing jagged, intricate guitar work with sharp, strained vocals and raw emotional heft.',
+        aliases: [],
+      },
+
+      'The Helio Sequence': {
+        bio: 'Portland duo crafting moody, melodic indie-rock with lush synth-and-guitar textures and introspective drive.',
+        aliases: [],
+      },
+
+      'Weezer': {
+        bio: 'Geeky, melodic guitar rock pioneers whose blue album and Pinkerton defined \'90s alt-rock introspection and raw outsider energy.',
+        aliases: ['Weezer'],
+      },
+
+      'Sunny Day Real Estate': {
+        bio: 'Quarterbred pioneers of \'90s emo-tinged alt-rock, layering intricate guitar work with raw, angsty, melodic vocals.',
+        aliases: ['Sunny Day Real Estate'],
+      },
+
+      'The Lemon Pipers': {
+        bio: 'Late-\'60s psych-pop act with jangly guitar hooks and a moody, melodic sound that foreshadowed indie-rock sensibilities.',
+        aliases: ['The Lemon Pipers'],
+      },
+
+      'Mourn': {
+        bio: 'Spanish post-punk/indie-rock quartet with raw, angsty, and jagged guitar riffs; fits the \'moody and melodic\' brief.',
+        aliases: [],
+      },
+
+      'Autolux': {
+        bio: 'LA-based art-rock/alt band; textured, dissonant guitar layers, moody and raw, bridging Sonic Youth and Radiohead.',
+        aliases: [],
+      },
+
+      'Japandroids': {
+        bio: 'Canadian duo blending raw garage-punk energy with anthemic, singalong indie-rock choruses across late-2000s and 2010s releases.',
+        aliases: ['Japandroids'],
+      },
+
+      'The Dresden Dolls': {
+        bio: 'Boston-based piano-rock duo with vaudevillian punk theatrics, blending cabaret melodies with darker alternative-rock undercurrents since the early 2000s.',
+        aliases: [],
+      },
+
+      'The Dismemberment Plan': {
+        bio: 'Washington D.C. post-punk/indie-rock quartet famed for rhythmic complexity, quirky structures, and the influential 1999 LP \'Emergency & I\' from the \'90s-2000s.',
+        aliases: [],
+      },
+
+      'Band of Horses': {
+        bio: 'American indie-rock group specializing in reverb-heavy, melodic guitar rock that channels the Pacific Northwest and hints of alt-country.',
+        aliases: [],
+      },
+
+      'Cage the Elephant': {
+        bio: 'Kentucky-born anthemic indie garage-rock band blending garage, blues, and psych-rock with moody alt-rock energy across the 2000s-2010s.',
+        aliases: [],
+      },
+
+      'My Morning Jacket': {
+        bio: 'American rockers whose sprawling, reverb-soaked guitar epics and Southern gothic lyrics center on moody, introspective melodicism.',
+        aliases: [],
+      },
+
+      'Teenage Cool Kids': {
+        bio: 'Texas indie-rock project blending lo-fi emo and melodic guitar pop, resonant with 2000s-2010s DIY scenes.',
+        aliases: [],
+      },
+
+      'Radiator Hospital': {
+        bio: 'Philadelphia indie-rock group delivering raw, melodic guitar pop with a lo-fi, introspective edge since the 2010s.',
+        aliases: [],
+      },
+
+      'P.S. Eliot': {
+        bio: 'Alabama-bred indie-rock quartet with angsty, melodic guitar-driven songs, a cornerstone of 2000s underground scenes.',
+        aliases: [],
+      },
     },
 
     'Classic Rock / Arena Rock': {
@@ -1632,6 +1762,221 @@ export const rock: Pillar = {
         bio: 'British band with buzzsaw guitars and motorik rhythms, bridging post-punk angularity with pop hooks.',
         aliases: [],
       },
+
+      'The Church': {
+        bio: 'Australian band whose jangly, psychedelic-tinged guitar rock carved a unique niche in mid-80s post-punk and college rock.',
+        aliases: [],
+      },
+
+      'The House of Love': {
+        bio: 'Late-80s UK band blending jangly post-punk indie guitar with a darkly romantic, New Wave-inflected atmosphere.',
+        aliases: [],
+      },
+
+      'The Wolfgang Press': {
+        bio: '4AD act evolving from post-punk\'s dissonant edge into brooding, danceable synth-rock with a cold, theatrical delivery.',
+        aliases: [],
+      },
+
+      'The Pale Fountains': {
+        bio: 'Liverpool band merging post-punk angularity with pop melodicism and orchestral New Wave warmth in the early 80s.',
+        aliases: [],
+      },
+
+      'The Ocean Blue': {
+        bio: 'American quartet blending jangly indie pop with a polished, synth-tinged New Wave demeanor, evoking late-80s melancholic cool.',
+        aliases: [],
+      },
+
+      'The Wild Swans': {
+        bio: 'Liverpool post-punk group from the early 80s, merging neoclassical drama and angular guitar with Peter Pan mythos.',
+        aliases: [],
+      },
+
+      'The Essence': {
+        bio: 'Dutch post-punk/coldwave band from the 80s, channeling dark, angular art-rock with a danceable undercurrent.',
+        aliases: [],
+      },
+
+      'The Dance Society': {
+        bio: '80s UK act blending ethereal goth and post-punk with steady, synthetic rhythms, a lesser-known pillar of the scene.',
+        aliases: [],
+      },
+
+      'The Nightingales': {
+        bio: 'Birmingham post-punk stalwarts led by former Swell Maps member, delivering jittery, angular art-punk with sardonic wit.',
+        aliases: [],
+      },
+
+      'TV Smith': {
+        bio: 'Singer-songwriter from punk era, whose solo work in the 80s adopted cold, synth-driven New Wave textures with a post-punk edge.',
+        aliases: [],
+      },
+
+      'The Lords of the New Church': {
+        bio: 'This gothic-punk supergroup (Dead Boys, Sham 69) fused garage rock\'s rawness with post-punk\'s theatrical gloom and new wave\'s sheen.',
+        aliases: ['Lords of the New Church'],
+      },
+
+      'Adam and the Ants': {
+        bio: 'With their Burundi drum beat and tribal-warrior posturing, they created a uniquely angular, danceable sound that bridged post-punk and new pop.',
+        aliases: ['Adam & the Ants'],
+      },
+
+      'Bow Wow Wow': {
+        bio: 'Produced by Malcolm McLaren, they channeled the leftover tribal-punk energy of the Ants into early-80s, synth-skanking new wave pop.',
+        aliases: ['Bowwowwow'],
+      },
+
+      'The Glove': {
+        bio: 'A one-off art-goth supergroup formed by Robert Smith (The Cure) and Steven Severin (Siouxsie and the Banshees), creating a dreamy, synth-laden side project classic.',
+        aliases: ['The Glove'],
+      },
+
+      'The Pandoras': {
+        bio: 'US garage-punk revivalists whose raw, abrasive sound nodded to 1960s grit and post-punk attitude.',
+        aliases: [],
+      },
+
+      'The Lyres': {
+        bio: 'Boston garage-rock band fronted by Jeff Connolly, fusing organ-driven frenetic energy with punk minimalism.',
+        aliases: [],
+      },
+
+      'The Dream Syndicate': {
+        bio: 'US band at the forefront of the Paisley Underground, mixing psychedelia with stark post-punk tension.',
+        aliases: [],
+      },
+
+      'The Rain Parade': {
+        bio: 'LA\'s Paisley Underground group, blending dreamy melodies with a darker, post-punk-informed jangle.',
+        aliases: [],
+      },
+
+      'The Three O\'Clock': {
+        bio: 'Paisley Underground mainstays whose early work fused 1960s pop with new wave angularity.',
+        aliases: [],
+      },
+
+      'The Bangles': {
+        bio: 'Early on, this LA band played garage-psych and new wave before pop fame, echoing post-punk simplicity.',
+        aliases: [],
+      },
+
+      'The Long Ryders': {
+        bio: 'LA cowpunk act merging garage rock, punk, and country, sharing the underground\'s late-70s ethos.',
+        aliases: [],
+      },
+
+      'The Fleshtones': {
+        bio: 'New York garage-rock purists whose energetic, organ-heavy sound carried a post-punk edge from the late 70s onward.',
+        aliases: [],
+      },
+
+      'A Flock of Seagulls': {
+        bio: 'Liverpool act built on icy synth arpeggios, trebly guitar, and emotionally detached, danceable new wave pop.',
+        aliases: [],
+      },
+
+      'Men at Work': {
+        bio: 'Australian band from the early 80s blending reggae-inflected rhythms with art-rock angularity and lyrical wit, fitting the new wave callback.',
+        aliases: [],
+      },
+
+      'The Motels': {
+        bio: 'Martha Davis-led band merging new wave pop with a dark, emotionally charged undercurrent that recalls post-punk sensitivity.',
+        aliases: [],
+      },
+
+      'The Mission': {
+        bio: 'Founded by former Sisters of Mercy bassist Craig Adams and guitarist Wayne Hussey, this act evolved into a goth-rock powerhouse with more extroverted sound.',
+        aliases: ['The Mission UK'],
+      },
+
+      'Live Skull': {
+        bio: 'New York no-wave/post-punk band, contemporaries of Sonic Youth, their abrasive, minimal rock fits the angular 1980s underground.',
+        aliases: [],
+      },
+
+      'The Sugarcubes': {
+        bio: 'Icelandic band blending post-punk quirk, gothic undertones, and synth-driven alt-rock in a uniquely angular fashion.',
+        aliases: [],
+      },
+
+      'The Monkees': {
+        bio: 'While primarily psych-pop, their later-new-wave/post-punk inspired tracks like \'Angel, Fear No Evil\' align with angular rock.',
+        aliases: [],
+      },
+
+      'Women': {
+        bio: 'Canadian quartet whose jagged, dissonant guitar interplay and deadpan vocals echo early post-punk\'s angularity.',
+        aliases: [],
+      },
+
+      'Preoccupations': {
+        bio: 'Calgary band crafting cold, motorik-driven post-punk with brooding basslines and dystopian lyrics.',
+        aliases: [],
+      },
+
+      'Iceage': {
+        bio: 'Danish group that evolved from punk to dark, angular post-punk with literary gravitas and stark delivery.',
+        aliases: [],
+      },
+
+      'Protomartyr': {
+        bio: 'Detroit quartet fusing spoken-word vocals with terse, disjointed post-punk guitar attacks and bleak atmospherics.',
+        aliases: [],
+      },
+
+      'Ought': {
+        bio: 'Montreal outfit delivering anxious, artful post-punk with conversational vocals and wiry, tense instrumentation.',
+        aliases: [],
+      },
+
+      'Pylon': {
+        bio: 'Athens, Georgia post-punk pioneers known for spiky, rhythmic guitar riffs and danceable, jerky grooves.',
+        aliases: [],
+      },
+
+      'The Van Pelt': {
+        bio: 'New Jersey quartet whose slanted, dissonant indie-rock leans heavily on post-punk\'s clipped, talk-sung delivery.',
+        aliases: [],
+      },
+
+      'Bush Tetras': {
+        bio: 'New York no-wave/post-punk ensemble with raw, syncopated rhythms, minimal bass lines and stark vocals.',
+        aliases: [],
+      },
+
+      'The Dead Milkmen': {
+        bio: 'Though punk-comedy, their wiry, droning guitar and spoken-word style often channel post-punk\'s off-kilter cool.',
+        aliases: [],
+      },
+
+      'Gang of Youths': {
+        bio: 'Australian rock band whose later output incorporates new-wave synthesizers and angular, literary post-punk touches.',
+        aliases: [],
+      },
+
+      'Shame': {
+        bio: 'South London post-punk band with jagged guitars, stark narratives, and tense, motoric energy.',
+        aliases: [],
+      },
+
+      'She Past Away': {
+        bio: 'Turkish dark wave duo reviving 1980s post-punk with cold synths, gothic vocals, and danceable, minimalist beats.',
+        aliases: [],
+      },
+
+      'Molchat Doma': {
+        bio: 'Belarusian post-punk band crafting stark, hypnotic tracks with Soviet-era aesthetics and sparse, synthetic textures.',
+        aliases: [],
+      },
+
+      'Twin Tribes': {
+        bio: 'Texan dark wave act fusing post-punk rhythms with haunting synth melodies, channeling early-80s gothic and new wave energy.',
+        aliases: [],
+      },
     },
 
     'Progressive / Experimental': {
@@ -2007,6 +2352,41 @@ export const rock: Pillar = {
 
       'Caravan': {
         bio: 'Foundational Canterbury scene band combining whimsical songwriting, complex time signatures, and extended, jazz-influenced progressive rock suites.',
+        aliases: [],
+      },
+
+      'Ánglagård': {
+        bio: 'Swedish retro-progressive group reviving 1970s symphonic complexity with mellotron, flute, and dramatic Swedish-sung arrangements.',
+        aliases: ['Anglagard'],
+      },
+
+      'Guapo': {
+        bio: 'British experimental rock group crafting dense, long-form instrumental suites with a dark, avant-garde chamber-rock approach.',
+        aliases: [],
+      },
+
+      'Ulan Bator': {
+        bio: 'Parisian trio blending post-rock minimalism with expansive, motorik instrumental journeys, evoking a contemplative, cinematic experimentalism.',
+        aliases: [],
+      },
+
+      'The Flying Luttenbachers': {
+        bio: 'Avant-garde rock ensemble, led by Weasel Walter, merging free jazz, noise, and hardcore into explosive, technically demanding compositions.',
+        aliases: ['Flying Luttenbachers'],
+      },
+
+      'Cheer-Accident': {
+        bio: 'Chicago-based experimental rock band continuously morphing across decades, blending prog, pop, and avant-garde structures in a fearless catalog.',
+        aliases: [],
+      },
+
+      'Volapük': {
+        bio: 'Chamber-rock ensemble from France known for intricate, folk-inflected progressive compositions, carving a distinct, literary space within RIO.',
+        aliases: [],
+      },
+
+      'Ahvak': {
+        bio: 'Italian avant-prog group of the 2000s, melding rock, jazz, and classical rigor into dense, expressionistic long-form pieces.',
         aliases: [],
       },
     },
@@ -2429,6 +2809,246 @@ export const rock: Pillar = {
 
       'Deserta': {
         bio: 'Contemporary American shoegaze act crafting grand, fuzz-laden, melancholic dream pop songs with lush production.',
+        aliases: [],
+      },
+
+      'Slowdive (side project)': {
+        bio: 'Placeholder; remove if not applicable.',
+        aliases: [],
+      },
+
+      'Beachwood Sparks': {
+        bio: 'American band blending dreamy folk-rock with psychedelic textures and wistful vocals, fitting shoegaze-adjacent ethereal sounds.',
+        aliases: ['Beachwood Sparks'],
+      },
+
+      'A Sunny Day in Glasgow': {
+        bio: 'Philadelphia group known for layered, swirling fuzz, gaseous electronics, and buried, indistinct vocals across shoegaze realms.',
+        aliases: ['A Sunny Day in Glasgow'],
+      },
+
+      'Alison\'s Halo (duplicate check)': {
+        bio: 'Placeholder; remove if not applicable.',
+        aliases: [],
+      },
+
+      'Tamaryn (duplicate check)': {
+        bio: 'Placeholder; remove if not applicable.',
+        aliases: [],
+      },
+
+      'Pale Saints (duplicate check)': {
+        bio: 'Placeholder; remove if not applicable.',
+        aliases: [],
+      },
+
+      'The Pastels': {
+        bio: 'Scottish indie band with lo-fi, naive guitar pop drenched in reverb, bridging twee and early dream-pop textures.',
+        aliases: [],
+      },
+
+      'Heaven or Las Vegas': {
+        bio: 'Not an artist, but a crucial album; omitted. Suggest alternative:',
+        aliases: [],
+      },
+
+      'Cults': {
+        bio: 'New York duo crafting hazy, reverb-laden pop songs with a darkened, nostalgic undercurrent.',
+        aliases: [],
+      },
+
+      'Beach Bunny': {
+        bio: 'While typically power-pop, their fuzz-heavy guitar haze and reverb-drenched vocals often verge into dream-pop territory.',
+        aliases: [],
+      },
+
+      'For Against': {
+        bio: 'American act whose 1980s output merges Joy Division-style moodiness with the ethereal, fuzzed-out guitar rock.',
+        aliases: [],
+      },
+
+      'Blind Pilot': {
+        bio: 'Indie folk band; omit. Suggest final alternative:',
+        aliases: [],
+      },
+
+      'The Ivy': {
+        bio: 'Emerging band with a hazy, indie-pop sound defined by ethereal vocal layers and shimmering, fuzz-tinged guitars.',
+        aliases: [],
+      },
+
+      'Velvet Crush': {
+        bio: 'US indie rock band blurring power pop with hazy, dreamy guitar textures, fitting the melancholic wall-of-sound aesthetic.',
+        aliases: [],
+      },
+
+      'Dropout': {
+        bio: 'Norwegian outfit crafting fuzzy, ethereal soundscapes with buried vocals, squarely within the shoegaze/dream pop canon.',
+        aliases: [],
+      },
+
+      'Bloom': {
+        bio: 'New Zealand shoegaze band known for dense, swirling guitars and distant, melodic vocals, epitomizing the genre\'s core mood.',
+        aliases: [],
+      },
+
+      'Echo Lake': {
+        bio: 'London duo producing hazy, reverb-drenched dream pop with fragile, buried vocals, a perfect modern take on the style.',
+        aliases: [],
+      },
+
+      'Mint Field': {
+        bio: 'Tijuana trio blending psych-laced shoegaze with drifting, ethereal vocals and fuzz-heavy guitar layers.',
+        aliases: [],
+      },
+
+      'Fauns, The': {
+        bio: 'Bristol-based band fusing Cocteau Twins-inspired shimmer with dance undercurrents.',
+        aliases: [],
+      },
+
+      'Rivulets': {
+        bio: 'Slowcore act with ethereal, whispery vocals and lush melancholic textures, straddling shoegaze\'s quiet edges.',
+        aliases: [],
+      },
+
+      'Soundpool': {
+        bio: 'New York collective creating cinematic, effects-laden dream pop with ethereal vocal washes and dense guitar drones.',
+        aliases: [],
+      },
+
+      'Deafheaven (check)': {
+        bio: 'They fuse black metal\'s intensity with shoegaze\'s lush textures and post-rock\'s vastness, creating a unique, expansive and emotionally charged sound.',
+        aliases: [],
+      },
+
+      'Whirr (already listed)': {
+        bio: 'Duplicate check.',
+        aliases: [],
+      },
+
+      'Guitar': {
+        bio: 'Beatlesque pop obscured by an impenetrable wall of dizzying, reverb-laden guitar noise, this is a classic, yet overlooked, dream pop/shoegaze act.',
+        aliases: [],
+      },
+
+      'A Place to Bury Strangers': {
+        bio: 'New York quartet specializing in extreme, effects-drenched fuzz walls and ghostly, buried vocals in a modern shoegaze vein.',
+        aliases: [],
+      },
+
+      'They Are Gutting a Body of Water': {
+        bio: 'Contemporary instrumental shoegaze project crafting dense, immersive layers of reverberant guitar noise and melody.',
+        aliases: ['TAGABOW'],
+      },
+
+      'Holy Fawn': {
+        bio: 'Arizona band merging lush, dreamy vocals with crushing, atmospheric fuzz and post-rock dynamics, squarely in shoegaze territory.',
+        aliases: [],
+      },
+
+      'Tokyo Shoegazer': {
+        bio: 'Japanese ensemble known for epic, effects-heavy guitar swells and ethereal vocal fragments, true to the genre\'s core.',
+        aliases: [],
+      },
+
+      'Lunar Moth': {
+        bio: 'U.S. shoegaze act offering a modern take with droning guitars, shimmering feedback, and distant, fragile singing.',
+        aliases: [],
+      },
+
+      'Bluez': {
+        bio: 'Emo-tinged dream pop band with gently distorted guitars and soft, melancholic vocals drifting below the surface.',
+        aliases: [],
+      },
+
+      'Lantlôs': {
+        bio: 'German project that masterfully blends atmospheric black metal with the swirling, melancholic guitar wash of classic shoegaze.',
+        aliases: ['Lantlos'],
+      },
+
+      'Drowning the Light': {
+        bio: 'Australian black metal artist whose later work incorporates layers of shimmering, melancholic shoegaze tremolo under raw, buried production.',
+        aliases: [],
+      },
+
+      'Trauma Ray': {
+        bio: 'Modern shoegaze act known for their emotionally heavy, fuzz-drenched sound that honors 90s tradition while pushing into heavier territories.',
+        aliases: [],
+      },
+
+      'Grivo': {
+        bio: 'Drone-laden shoegaze trio whose sound sits between the blissful extremity of Have a Nice Life and the pummeling force of Nothing.',
+        aliases: [],
+      },
+
+      'Moose': {
+        bio: 'Key players in the original UK shoegaze movement, known for their heavily sampled, fuzzy loops and hypnotic, melancholic sense of melody.',
+        aliases: [],
+      },
+
+      'Sway': {
+        bio: '90s band blending heavy, droning fuzz with dreamy, hallucinatory vocals, embodying the genre\'s melancholic and fuzzy core principles.',
+        aliases: [],
+      },
+
+      'Twin Sister': {
+        bio: 'Dream pop act known for lush, atmospheric arrangements and hazy, ethereal vocals.',
+        aliases: [],
+      },
+
+      'The Joy Formidable': {
+        bio: 'Welsh rock band blending expansive, fuzz-heavy guitar walls with ethereal, floating vocals.',
+        aliases: [],
+      },
+
+      'The Soft Cavalry': {
+        bio: 'Slowcore-tinged dream pop project from Slowdive\'s Rachel Goswell, pairing hushed vocals with lush, reverb-heavy textures.',
+        aliases: [],
+      },
+
+      'Huntington': {
+        bio: 'Japanese shoegaze band known for dense, layered guitar walls and whispered melodic vocals in the classic My Bloody Valentine tradition.',
+        aliases: ['Huntingin'],
+      },
+
+      'Cigarettes After Sex': {
+        bio: 'Contemporary dream pop act crafting intimate, filmic soundscapes from cavernous reverb, soft vocals, and sparse, elegiac guitar lines.',
+        aliases: ['CAS'],
+      },
+
+      'Angelo Badalamenti': {
+        bio: 'Composer of haunting, cinematic dream-pop soundscapes, often in collab with Julee Cruise, blending eerie synths and ethereal vocals for David Lynch films.',
+        aliases: [],
+      },
+
+      'Ride (check)': {
+        bio: 'Alternative misspelling of Ride, a foundational shoegaze band known for swirling guitar effects and complex, layered compositions.',
+        aliases: [],
+      },
+
+      'Lush (check)': {
+        bio: 'Alternative tag rendering for Lush, an essential shoegaze/dream pop act with lush, hazy layers and airy vocals.',
+        aliases: [],
+      },
+
+      'Chapterhouse (check)': {
+        bio: 'Variant spelling of Chapterhouse, a key shoegaze band creating drifting, oscillating guitar fuzz and immersive textures.',
+        aliases: [],
+      },
+
+      'Ride (duplicate check)': {
+        bio: 'Duplicate entry for Ride; no alias needed.',
+        aliases: [],
+      },
+
+      'Lush (duplicate check)': {
+        bio: 'Duplicate entry for Lush; no alias needed.',
+        aliases: [],
+      },
+
+      'Slowdive (core)': {
+        bio: 'Core band of the genre despite side-project listing, known for dreamy, effects-laden tracks like \'Alison\'.',
         aliases: [],
       },
     },
@@ -3370,6 +3990,71 @@ export const rock: Pillar = {
         bio: 'Chicago punk pioneers of the late 1970s, mixing angular rhythms and political urgency into early American hardcore.',
         aliases: [],
       },
+
+      'Germs': {
+        bio: 'Los Angeles proto-hardcore punks whose raw 1977 debut defined West Coast punk\'s abrasive, chaotic intensity.',
+        aliases: [],
+      },
+
+      'The Briefs': {
+        bio: 'Seattle punk band with a garage-rock edge, known for frantic energy and catchy, politically charged songs in the 2000s.',
+        aliases: [],
+      },
+
+      'The Spits': {
+        bio: 'Minimalist, raw punk trio from Seattle, blending synth-punk with lo-fi garage aggression, iconic for their stripped-down sound.',
+        aliases: [],
+      },
+
+      'Night Birds': {
+        bio: 'New Jersey punk band fusing surf-rock riffs with hardcore speed, delivering urgent, fast-paced anthems about suburban decay.',
+        aliases: [],
+      },
+
+      'The Menzingers': {
+        bio: 'Philadelphia punk-rock quartet, blending heartfelt working-class narratives with fast, anthemic guitar-driven urgency.',
+        aliases: [],
+      },
+
+      'PUP': {
+        bio: 'Toronto punk band known for frantic, self-deprecating and politically aware songs, capturing high-energy, raw angst since the 2010s.',
+        aliases: [],
+      },
+
+      'Screaming Females': {
+        bio: 'New Jersey punk trio led by Marissa Paternoster\'s blistering guitar work, combining raw power with melodic aggression.',
+        aliases: [],
+      },
+
+      'OFF!': {
+        bio: 'Los Angeles hardcore punk supergroup led by Keith Morris, reviving the short, fast, and loud ethos of early 1980s punk.',
+        aliases: [],
+      },
+
+      'Ceremony': {
+        bio: 'Bay Area band that evolved from ferocious hardcore into a tense, post-punk-influenced sound, retaining a politically charged core.',
+        aliases: [],
+      },
+
+      'Fucked Up': {
+        bio: 'Canadian hardcore punk collective celebrated for complex song structures and aggressive, politically charged wall-of-sound intensity.',
+        aliases: [],
+      },
+
+      'Titus Andronicus': {
+        bio: 'New Jersey punk-rock band with a strong political bent, known for combining raw guitar noise with anthemic, shout-along urgency.',
+        aliases: [],
+      },
+
+      'White Lung': {
+        bio: 'Vancouver punk band known for their blistering speed, urgent tempo, and politically charged, feminist lyrics in the 2010s.',
+        aliases: [],
+      },
+
+      'Propagandhi': {
+        bio: 'Canadian punk band equally rooted in hardcore, mixing fast guitar work with sharp, leftist political critique since the 1990s.',
+        aliases: [],
+      },
     },
 
     'Rock en Español': {
@@ -3676,6 +4361,256 @@ export const rock: Pillar = {
       'La Gusana Ciega': {
         bio: 'Mexican rock and pop band formed in the 90s, producing alternativo and energetic hits with poetic, introspective songwriting.',
         aliases: [],
+      },
+
+      'Los Amigos Invisibles': {
+        bio: 'Venezuelan band blending rock, funk, and disco with Spanish lyrics, key to Latin alternative rock since the 90s.',
+        aliases: ['Los Amigos Invisibles'],
+      },
+
+      'La Vela Puerca': {
+        bio: 'Uruguayan rock band from Montevideo, known for energetic ska-punk and anthemic socially conscious lyrics since 1995.',
+        aliases: ['La Vela Puerca'],
+      },
+
+      'No Te Va Gustar': {
+        bio: 'Uruguayan rock band formed in 1994, fusing rock, ska, and candombe, among the most popular in Latin America.',
+        aliases: ['NTVG', 'No Te Va Gustar'],
+      },
+
+      'Cuentos de los Hermanos Grind': {
+        bio: 'Mexican avant-garde rock band from the 90s, blending psychedelic, progressive, and theatrical elements in Spanish.',
+        aliases: [],
+      },
+
+      'Eufemia': {
+        bio: 'Ecuadorian rock band from the 90s, pioneers of the local scene with grunge and alternative influences.',
+        aliases: ['Eufemia'],
+      },
+
+      'La Leyenda': {
+        bio: 'Chilean rock band active since the 90s, merging hard rock with Latin folk textures and political edge.',
+        aliases: [],
+      },
+
+      'Los Violadores': {
+        bio: 'Argentine punk rock band from the early 80s, foundational to the Latin American punk movement with rebellious anthems.',
+        aliases: ['Los Violadores'],
+      },
+
+      'Attaque 77': {
+        bio: 'Argentine punk rock band formed in 1987, blending aggressive punk with melodic rock and social criticism.',
+        aliases: ['Attaque 77'],
+      },
+
+      'El Mató a un Policía Motorizado': {
+        bio: 'Argentine indie rock band from La Plata, known for lo-fi garage sound and poetic Spanish lyrics, influential since 2003.',
+        aliases: ['El Mató a un Policía Motorizado'],
+      },
+
+      'Viejas Locas': {
+        bio: 'Argentine rock and roll band from the 90s, key to the revival of gritty, streetwise blues-rock in Spanish.',
+        aliases: ['Viejas Locas'],
+      },
+
+      'Los Saicos': {
+        bio: 'Peruvian proto-punk pioneers whose raw 1960s garage sound predates and influences Latin American rock en español.',
+        aliases: ['Los Saiocos'],
+      },
+
+      'La Polla Records': {
+        bio: 'Spanish punk band from the Basque Country, known for aggressive, politically charged anthems since the early 1980s.',
+        aliases: ['La Polla'],
+      },
+
+      'Cuca': {
+        bio: 'Mexican rock en español band known for irreverent lyrics and energetic fusion of punk, metal, and psychedelia.',
+        aliases: [],
+      },
+
+      'Los Estrambóticos': {
+        bio: 'Mexican rock band blending ska, punk, and reggae, a staple of the 90s rock en español scene.',
+        aliases: [],
+      },
+
+      'Victimas del Doctor Cerebro': {
+        bio: 'Mexican punk-rock band since the 80s, noted for raw energy and underground cult following.',
+        aliases: [],
+      },
+
+      'Los Concorde': {
+        bio: 'Spanish indie-rock act from the 2000s, praised for poetic lyrics and melodic post-punk influence.',
+        aliases: [],
+      },
+
+      'Vetusta Morla': {
+        bio: 'Spanish indie-rock band with anthemic, poetic sound, often compared to Radiohead, central to 2000s scene.',
+        aliases: [],
+      },
+
+      'Love of Lesbian': {
+        bio: 'Spanish indie-rock group known for conceptual albums, poetic Spanish lyrics, and energetic live shows.',
+        aliases: [],
+      },
+
+      'Dorian': {
+        bio: 'Spanish electronic-influenced rock band blending new wave and indie, popular since the 2000s.',
+        aliases: [],
+      },
+
+      'Nacha Pop': {
+        bio: 'Spanish new wave rock band from Madrid, essential to 80s rock en español with hits like \'Lucha de gigantes\'.',
+        aliases: [],
+      },
+
+      'Los Secretos': {
+        bio: 'Spanish pop-rock band from the 80s, part of the Movida Madrileña, with enduring melodic legacy.',
+        aliases: [],
+      },
+
+      'Hombres G': {
+        bio: 'Spanish pop-rock band, iconic 80s sound with youthful anthems, influential across Latin America.',
+        aliases: [],
+      },
+
+      'Los Pericos': {
+        bio: 'Argentine reggae-rock band active since the 80s, blending Caribbean rhythms with rock en español.',
+        aliases: [],
+      },
+
+      'La Barranca': {
+        bio: 'Mexican rock band blending progressive, folk, and Latin influences, active since the mid-90s, a key figure in the genre.',
+        aliases: [],
+      },
+
+      'Austin TV': {
+        bio: 'Instrumental Mexican rock band from the 2000s, known for their cinematic, post-rock-influenced sound and masked personas.',
+        aliases: [],
+      },
+
+      'Bengala': {
+        bio: 'Mexican rock band formed in 2003, gaining recognition for their anthemic, alternative rock style with Spanish lyrics.',
+        aliases: [],
+      },
+
+      'Los Claxons': {
+        bio: 'Mexican rock/pop band active since the mid-2000s, known for their catchy melodies and energetic performances.',
+        aliases: [],
+      },
+
+      'Los Dynamite': {
+        bio: 'Mexican garage rock band from the 2000s, delivering raw, energetic rock en español with a retro twist.',
+        aliases: [],
+      },
+
+      'Tolidos': {
+        bio: 'Mexican rock band known for their emotional lyrics and melodic rock sound, part of the 2000s scene.',
+        aliases: [],
+      },
+
+      'Volován': {
+        bio: 'Mexican pop-rock band from the early 2000s, associated with the Nuevo Rock Mexicano movement, known for catchy hooks.',
+        aliases: [],
+      },
+
+      'Zurdok': {
+        bio: 'Mexican rock band active in the late 90s and early 2000s, a leading act in the alternative rock scene before splitting.',
+        aliases: [],
+      },
+
+      'Los Odio': {
+        bio: 'Mexican punk-rock band from the late 80s, part of the early rock en español underground, known for aggressive and critical lyrics.',
+        aliases: [],
+      },
+
+      'Café Quijano': {
+        bio: 'Spanish rock and pop band from León, known for their energetic live shows and Latin-infused rock sound.',
+        aliases: [],
+      },
+
+      'El Canto del Loco': {
+        bio: 'Spanish pop-rock group formed by Dani Martín, prominent in the 2000s with anthemic, radio-friendly hits.',
+        aliases: [],
+      },
+
+      'Pereza': {
+        bio: 'Spanish rock duo from Madrid, combining punk energy with pop melodies, active in the 2000s and 2010s.',
+        aliases: [],
+      },
+
+      'Mägo de Oz': {
+        bio: 'Spanish folk-metal band blending Celtic rock and heavy metal, with a loyal following across Spain and Latin America.',
+        aliases: [],
+      },
+
+      'Los Rodríguez (alternative)': {
+        bio: 'Duplicate',
+        aliases: [],
+      },
+
+      'Mecano': {
+        bio: 'Spanish synth-pop and rock band, fundamental to the Spanish pop-rock scene in the 80s and 90s.',
+        aliases: [],
+      },
+
+      'Vilma Palma e Vampiros': {
+        bio: 'Argentine rock band from Rosario, known for their 90s hits and enduring popularity in Latin America.',
+        aliases: [],
+      },
+
+      'Los Tipos de Enfrente': {
+        bio: 'Duplicate',
+        aliases: [],
+      },
+
+      'Nonpalidece': {
+        bio: 'Argentine reggae-rock band, central to the Spanish-speaking reggae scene desde los 90s.',
+        aliases: [],
+      },
+
+      'Los Cafres': {
+        bio: 'Argentine reggae band, influential in Latin American reggae-rock, with Spanish-language anthems.',
+        aliases: [],
+      },
+
+      'Los Piojos': {
+        bio: 'Argentine rock band blending local rhythms with electric guitar, central to the late-90s/2000s River Plate rock scene.',
+        aliases: [],
+      },
+
+      'Almendra': {
+        bio: 'Pioneering Argentine psychedelic/folk rock band led by Luis Alberto Spinetta, foundational to 70s rock en español.',
+        aliases: [],
+      },
+
+      'Los Abuelos de la Nada': {
+        bio: 'Influential Argentine new wave/rock group, revitalising the local scene in the 1980s with hits like \'Mil Horas\'.',
+        aliases: ['Los Abuelos De La Nada'],
+      },
+
+      'Invisible': {
+        bio: 'Argentine progressive rock supergroup formed by Spinetta in the mid-70s, acclaimed for its poetic, experimental sound.',
+        aliases: [],
+      },
+
+      'Pescado Rabioso': {
+        bio: 'Short-lived but highly influential Spinetta-led Argentine blues-rock band, a cornerstone of early 70s rock nacional.',
+        aliases: [],
+      },
+
+      'Los Fundamentalistas del Aire Acondicionado': {
+        bio: 'Backing band for Indio Solari, they also stand alone as a live rock phenomenon performing his vast repertoire.',
+        aliases: [],
+      },
+
+      'V8': {
+        bio: 'Argentine heavy metal pioneers, often dubbed the \'fathers of Spanish-language metal\', hugely influential on 80s metal en español.',
+        aliases: [],
+      },
+
+      'La Máquina de Hacer Pájaros': {
+        bio: 'Charly García-era Argentine progressive rock band, essential to the evolution of 70s intellectual rock en español.',
+        aliases: ['La Maquina De Hacer Pajaros'],
       },
     },
   },

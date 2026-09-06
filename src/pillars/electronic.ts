@@ -7178,6 +7178,16 @@ export const electronic: Pillar = {
         bio: 'Belgian acid house producer, known for club anthems like \'Push\' on legendary R&S Records.',
         aliases: [],
       },
+
+      'K Alexi Shelby': {
+        bio: 'Detroit/Chicago acid house staple, known for propulsive 303 workouts and deep, hypnotic productions since the late 1980s.',
+        aliases: [],
+      },
+
+      'CJ Bolland': {
+        bio: 'Belgian producer whose \'The Prophet\' and \'Raveolution\' fused acid house\'s 303 squelch with a harder rave energy, becoming genre landmarks.',
+        aliases: [],
+      },
     },
 
     'EBM / Industrial': {
@@ -7608,6 +7618,246 @@ export const electronic: Pillar = {
 
       'Haus Arafna': {
         bio: 'Dark industrial/EBM outfit out of Germany, known for raw, minimal electronic intensity aligned with the genre\'s harsh side.',
+        aliases: [],
+      },
+
+      'DAF (Die Deutschen)': {
+        bio: 'German EBM act known for stripped-down, relentless electronic beats and political post-punk energy.',
+        aliases: [],
+      },
+
+      'Andrea Parker': {
+        bio: 'UK producer blending techno, EBM, and industrial textures into precise, dancefloor-oriented club tracks.',
+        aliases: [],
+      },
+
+      'Scrap.edx': {
+        bio: 'Industrial-techno hybrid project delivering harsh, rhythmic noise and EBM-influenced club workouts.',
+        aliases: [],
+      },
+
+      'Converter': {
+        bio: 'Power noise and rhythmic industrial artist whose brutal, distorted beats align closely with EBM/industrial.',
+        aliases: [],
+      },
+
+      'Winterkälte': {
+        bio: 'German rhythmic noise duo merging martial industrial and EBM with precise, mechanical percussion.',
+        aliases: [],
+      },
+
+      'Imminent Starvation': {
+        bio: 'Power noise/rhythmic industrial act with a harsh, aggressive edge rooted in the industrial underground.',
+        aliases: [],
+      },
+
+      'Axis of Action': {
+        bio: 'EBM/industrial producer from the US, delivering analog-heavy, danceable yet confrontational electronic music.',
+        aliases: [],
+      },
+
+      'Statiqbloom': {
+        bio: 'Berlin-based project fusing dark EBM, industrial techno, and minimal synth into brooding, hypnotic tracks.',
+        aliases: [],
+      },
+
+      'Ministry of Hate': {
+        bio: 'German EBM act known for relentless, distorted dance rhythms and dark, confrontational club tracks.',
+        aliases: [],
+      },
+
+      'S.A.M.': {
+        bio: 'Italian industrial project by Marco Binda delivering harsh, rhythmic EBM with cinematic and dystopian textures.',
+        aliases: [],
+      },
+
+      'PANZERVEPS': {
+        bio: 'Swedish EBM group with a raw, analog synth sound and aggressive, mechanical dancefloor energy.',
+        aliases: [],
+      },
+
+      'Projekt: Weltherrschaft': {
+        bio: 'Swiss EBM project crafting precise, militant beats and dark synth lines within the industrial dance tradition.',
+        aliases: [],
+      },
+
+      'Rivethead': {
+        bio: 'US act blending industrial, EBM and techno into a hard-hitting, club-focused sound.',
+        aliases: [],
+      },
+
+      'Stromkern': {
+        bio: 'American act fusing political lyrics with hard industrial beats and EBM structures.',
+        aliases: [],
+      },
+
+      'Mono Inc.': {
+        bio: 'German dark rock band incorporating industrial elements, known for deep vocals and theatrical stage presence.',
+        aliases: [],
+      },
+
+      'Red Flag': {
+        bio: 'British synthpop duo whose dark electronic sound aligned with early industrial-adjacent club culture.',
+        aliases: [],
+      },
+
+      'The Cretin Family': {
+        bio: 'Industrial hardcore project from members of Wumpscut and Suicide Commando, delivering harsh, distorted EBM.',
+        aliases: [],
+      },
+
+      'Placebo Effect': {
+        bio: 'Belgian EBM/industrial group from the late 80s, delivering cold, driving synth lines and aggressive beats.',
+        aliases: [],
+      },
+
+      'Mona Mur': {
+        bio: 'German industrial/EBM artist blending provocative vocals with harsh electronic textures and experimental noise.',
+        aliases: [],
+      },
+
+      'Pankow': {
+        bio: 'Spanish electro/EBM act from Madrid, mixing post-punk and industrial electronics with Spanish lyrics.',
+        aliases: [],
+      },
+
+      'Body-op': {
+        bio: 'French EBM/industrial project active in the 90s, known for aggressive beats and militant synth structures.',
+        aliases: [],
+      },
+
+      'Informatik': {
+        bio: 'American futurepop/EBM band with polished synth melodies, driving basslines and strong rhythmic foundation.',
+        aliases: [],
+      },
+
+      'Armodite': {
+        bio: 'Blends EBM, industrial, and techno with distorted vocals and heavy analog synth lines; notable in the Belgian electro/industrial scene.',
+        aliases: [],
+      },
+
+      'Rabbit Junk': {
+        bio: 'Combines industrial, EBM, and punk energy with digital hardcore aggression; releases on the industrial label Dependent Records.',
+        aliases: [],
+      },
+
+      'The Retrosic': {
+        bio: 'German project merging EBM with gothic and synthpop elements; associated with the classic industrial dance sound of the late 1990s and 2000s.',
+        aliases: [],
+      },
+
+      'Unter Art': {
+        bio: 'Italian EBM/industrial group creating aggressive, rhythmic club tracks with political undertones, a staple of the harder EBM sound.',
+        aliases: [],
+      },
+
+      'Flesh Field': {
+        bio: 'American act crafting dense, EBM and futurepop textures with melancholic themes; respected within the US industrial dance community.',
+        aliases: [],
+      },
+
+      'Panzer AG': {
+        bio: 'Swedish industrial/EBM project mixing martial drums, distorted vocals, and dancefloor-oriented electronics; led by former S.P.O.C.K. member.',
+        aliases: [],
+      },
+
+      'This is Nasa': {
+        bio: 'Dutch electro/EBM duo producing raw, analog-sounding industrial techno; associated with the label Bunker Records and the body-music scene.',
+        aliases: [],
+      },
+
+      'Silent Runners': {
+        bio: 'Canadian EBM/industrial act with rhythms aimed at the dance floor; part of the underground electronic body music network.',
+        aliases: [],
+      },
+
+      'Ludovico Technique': {
+        bio: 'American band fusing industrial, EBM, and synthwave with dark, emotional lyrics; active in the modern US industrial scene.',
+        aliases: [],
+      },
+
+      'Punto Omega': {
+        bio: 'Spanish EBM/industrial project delivering dark, powerful electronic beats; recognized in European industrial dance circuits.',
+        aliases: [],
+      },
+
+      'Cesium_137': {
+        bio: 'British/Canadian electro-industrial act with a cinematic, dystopian vibe, fitting the classic EBM/industrial vein.',
+        aliases: [],
+      },
+
+      'Die Warzau': {
+        bio: 'Chicago duo merging industrial, EBM, and techno influences, known for their abrasive electronic soundscapes.',
+        aliases: [],
+      },
+
+      'The Shizit': {
+        bio: 'Aggressive digital hardcore-industrial project, blending breakcore, EBM, and harsh electronic noise.',
+        aliases: [],
+      },
+
+      'KiEw': {
+        bio: 'EBM/electro-industrial act from Germany, delivering relentless, driving beats and distorted vocals.',
+        aliases: [],
+      },
+
+      'SITD': {
+        bio: 'German EBM/industrial group crafting dark, rhythmic soundscapes with cinematic, brooding atmospheres.',
+        aliases: [],
+      },
+
+      'HMB': {
+        bio: 'Hard EBM project with a punishing, militant sound, rooted in distorted baselines and aggressive beats.',
+        aliases: [],
+      },
+
+      'Decoded Feedback': {
+        bio: 'Canadian EBM/industrial duo fusing darkwave melodies with aggressive electronic body music rhythms.',
+        aliases: [],
+      },
+
+      'EBER': {
+        bio: 'German EBM project known for dark, driving rhythms and aggressive vocals aligned with classic electro-industrial.',
+        aliases: [],
+      },
+
+      'Stin Scatzor': {
+        bio: 'Swedish EBM/industrial act blending vintage analog synths with modern dancefloor energy.',
+        aliases: [],
+      },
+
+      'DRP': {
+        bio: 'Greek EBM act delivering melodic yet harsh electro-industrial rooted in the late-80s sound.',
+        aliases: [],
+      },
+
+      'Nullvektor': {
+        bio: 'German industrial project fusing EBM structures with rhythmic noise and esoteric themes.',
+        aliases: [],
+      },
+
+      'Hysteresis': {
+        bio: 'UK act producing hard-edged electro-industrial with dystopian lyrics and pounding beats.',
+        aliases: [],
+      },
+
+      'Soman': {
+        bio: 'Swiss EBM/industrial group with dark minimal rhythms and mechanical precision.',
+        aliases: [],
+      },
+
+      'Aqualite': {
+        bio: 'EBM/industrial outfit delivering gritty basslines and confrontational vocal delivery.',
+        aliases: [],
+      },
+
+      'Mondtraume': {
+        bio: 'Italian dark electronic act merging EBM and industrial styles with a cinematic edge.',
+        aliases: [],
+      },
+
+      'Otto Dix': {
+        bio: 'Romanian band fusing dark electro, EBM, and synthpop in an aggressive, theatrical package.',
         aliases: [],
       },
     },

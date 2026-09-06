@@ -1957,6 +1957,16 @@ export const latin: Pillar = {
         bio: 'Colombian vallenato romantic singer, whose heartfelt guitar-accompanied ballads align with the sub-category\'s romantic acoustic intent.',
         aliases: [],
       },
+
+      'Cuco Valoy': {
+        bio: 'A influential Latin artist whose romantic boleros and bachatas bridged traditional styles with modern sensibilities.',
+        aliases: ['Cuco Valoy'],
+      },
+
+      'Il Divo': {
+        bio: 'Classical crossover quartet that frequently performed Spanish boleros and romantic classics, bringing them to new mainstream audiences worldwide.',
+        aliases: ['Il Volo'],
+      },
     },
 
     'Flamenco / Español': {
