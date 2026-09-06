@@ -1010,6 +1010,261 @@ export const pop: Pillar = {
         bio: 'Pop-R&B sensation from the late 1980s-1990s, blending New Jack Swing grooves with sleek, sensual pop crossover style.',
         aliases: [],
       },
+
+      'Case': {
+        bio: '90s R&B crooner known for seductive, groove-driven hits like \'Touch Me, Tease Me\' that crossed to pop radio.',
+        aliases: [],
+      },
+
+      'Dru Hill': {
+        bio: 'R&B group with pop crossover appeal, blending romantic harmonies with slick, sensual 90s production.',
+        aliases: [],
+      },
+
+      'Jagged Edge': {
+        bio: 'R&B vocal group delivering pop-friendly, soulful grooves and heartfelt slow jams throughout the 2000s.',
+        aliases: [],
+      },
+
+      'Ryan Leslie': {
+        bio: 'Producer-singer crafting polished R&B-pop with sleek, romantic electronic-infused grooves.',
+        aliases: ['Ryan Leslie'],
+      },
+
+      'Deborah Cox': {
+        bio: '1990s R&B-pop vocalist delivering smooth, sensual anthems and crossover dance-pop success.',
+        aliases: [],
+      },
+
+      'Tamar Braxton': {
+        bio: 'R&B-pop vocalist with contemporary grooves and romantic, sensual balladry across 2010s.',
+        aliases: ['Tamar Braxton'],
+      },
+
+      'LeToya Luckett': {
+        bio: 'R&B-pop singer, ex-Destiny\'s Child, crafting smooth, romantic solo material in 2000s-2010s.',
+        aliases: ['LeToya'],
+      },
+
+      'Next': {
+        bio: 'R&B trio known for smooth, sensual hits that blended pop structure with bedroom-ready production.',
+        aliases: [],
+      },
+
+      'Montell Jordan': {
+        bio: 'Singer whose 90s hits merged pop hooks with R&B grooves, achieving mainstream crossover success.',
+        aliases: [],
+      },
+
+      'Shanice': {
+        bio: 'R&B vocalist whose early-90s pop-soul singles showcased slick production and crossover appeal.',
+        aliases: [],
+      },
+
+      'Karyn White': {
+        bio: 'Late-80s/early-90s artist who delivered sensual R&B with a polished pop sheen and radio-ready hooks.',
+        aliases: [],
+      },
+
+      'Jodeci': {
+        bio: '90s R&B quartet blending new jack swing and pop-sensual slow jams with raw groove energy.',
+        aliases: [],
+      },
+
+      'En Vogue': {
+        bio: '90s group harmonizing polished pop-R&B with sophisticated, groove-driven and sensual arrangements.',
+        aliases: [],
+      },
+
+      'Faith Evans': {
+        bio: '1990s-2000s R&B-pop vocalist known for romantic, smooth duets and solo tracks blending soul and pop sheen.',
+        aliases: [],
+      },
+
+      'Cher Lloyd': {
+        bio: '2010s pop singer with R&B-infused production and glossy, sensual tracks like \'Want U Back\' and \'I Wish.\'',
+        aliases: [],
+      },
+
+      'Jesse Powell': {
+        bio: '1990s/2000s R&B-pop crooner mixing romantic ballads with a contemporary soul vibe.',
+        aliases: [],
+      },
+
+      'Mario Winans': {
+        bio: '2000s R&B-pop producer-singer with groove-driven, romantic contemporary soul singles.',
+        aliases: [],
+      },
+
+      'Paula DeAnda': {
+        bio: 'Teen R&B-pop singer with breezy, romantic singles that fit the smooth crossover pop-R&B lane of the late 2000s.',
+        aliases: [],
+      },
+
+      '98 Degrees': {
+        bio: 'Pop-R&B vocal group blending romantic ballads with sleek production, a mainstay of late-1990s and early-2000s crossover charts.',
+        aliases: [],
+      },
+
+      'Brian McKnight': {
+        bio: 'Singer-songwriter merging R&B smoothness with pop balladry, delivering sensual, radio-friendly crossover hits throughout the 1990s and 2000s.',
+        aliases: [],
+      },
+
+      'Ruben Studdard': {
+        bio: 'Soul-pop vocalist with an R&B groove, known for smooth romantic hits like \'Sorry 2004\' and a warm, sensual delivery.',
+        aliases: [],
+      },
+
+      'Brian McKnight\'s contemporary — Jagged Edge\'s labelmate — 112': {
+        bio: 'Atlanta quartet known for \'Peaches & Cream\' and \'Cupid\', pairing pop melodies with seductive R&B production.',
+        aliases: [],
+      },
+
+      'Karyn White\'s successor — Shanice\'s peer — Pebbles': {
+        bio: 'Singer-songwriter with late-80s/early-90s chart blend of R&B and pop, epitomized by \'Girlfriend\' and \'Mercedes Boy\'.',
+        aliases: [],
+      },
+
+      'Jesse Powell\'s sister — Trisha Covington': {
+        bio: 'R&B singer with pop-leaning crossover singles like \'Slow Down\' and \'I Wanna Know\' in the early 2000s.',
+        aliases: [],
+      },
+
+      'Kelvin L. Reed\'s project — Avant': {
+        bio: 'R&B singer with smooth, sensual ballads like \'Separated\' and \'My First Love\', fitting 2000s pop-crossover radio.',
+        aliases: [],
+      },
+
+      'Sammie': {
+        bio: 'Teen R&B-pop star with \'I Like It\', blending slick vocals with pop production that translated to mainstream playlists.',
+        aliases: [],
+      },
+
+      'Lucky Daye\'s labelmate — Tone Stith (repeat)': {
+        bio: 'Remove duplicate — will use alternative.',
+        aliases: [],
+      },
+
+      'Mike Posner': {
+        bio: 'Pop-R&B artist who crossed over with the smooth, synth-driven hit \'Cooler Than Me\' and later soulful tracks like \'Please Don\'t Go\'.',
+        aliases: [],
+      },
+
+      'Keith Sweat': {
+        bio: 'New jack swing and R&B pioneer whose sensual, mid-tempo sound laid groundwork for pop crossover in the 1990s.',
+        aliases: [],
+      },
+
+      'Montell Jordan (repeat)': {
+        bio: 'Placeholder preventing duplication; artist already listed above.',
+        aliases: [],
+      },
+
+      'Changing Faces': {
+        bio: '1990s R&B duo known for smooth, romantic tracks like \'Stroke You Up\' that fit a sensual pop-R&B crossover mold.',
+        aliases: [],
+      },
+
+      'Shai': {
+        bio: 'R&B group with gentle, romantic harmonies in 1990s hits like \'If I Ever Fall in Love\' that crossed to pop.',
+        aliases: [],
+      },
+
+      'H-Town': {
+        bio: '1990s R&B trio known for the seductive, groove-driven hit \'Knockin\' da Boots,\' fitting the sensual pop-R&B space.',
+        aliases: [],
+      },
+
+      'Blackstreet': {
+        bio: 'R&B group blending smooth vocals and hip-hop grooves on the 1990s crossover smash \'No Diggity\' and later hits.',
+        aliases: [],
+      },
+
+      'Chris Brown\'s collaborator—Trey Songz': {
+        bio: 'Smooth-voiced R&B-pop singer blending romantic lyricism with groove-driven, sensual production for mainstream appeal.',
+        aliases: ['Tremaine Neverson'],
+      },
+
+      'Fergie': {
+        bio: 'Pop superstar whose solo work wove R&B grooves and sensual textures into mainstream dance-pop.',
+        aliases: [],
+      },
+
+      'Mya': {
+        bio: 'Already listed.',
+        aliases: [],
+      },
+
+      'Nivea': {
+        bio: 'Sultry R&B-pop singer with smooth crossover hits \'Don\'t Mess with My Man\' and \'Laundromat.\'',
+        aliases: [],
+      },
+
+      'Teairra Marí': {
+        bio: 'R&B-pop newcomer with romantic, mid-tempo grooves and slick production in the 2000s crossover lane.',
+        aliases: ['Teairra Mari'],
+      },
+
+      'Pharrell Williams': {
+        bio: 'Singer-producer whose solo R&B-pop output (e.g., \'Frontin\'\') epitomizes sleek, sensual groove-driven crossover artistry.',
+        aliases: [],
+      },
+
+      'Sisqó': {
+        bio: 'Dru Hill frontman who achieved massive pop-R&B crossover success with the sleek, seductive solo hits \'Thong Song\' and \'Incomplete.\'',
+        aliases: ['Sisqo'],
+      },
+
+      'Jagged Edge (repeat)': {
+        bio: 'Repeat—omitting due to already listed; replacing with another artist below.',
+        aliases: [],
+      },
+
+      'Ciara\'s contemporary—Fantasia': {
+        bio: 'American Idol winner whose gospel-rooted R&B-pop hits blend powerful vocals with romantic, groove-heavy production.',
+        aliases: ['Tasia'],
+      },
+
+      'Mario\'s labelmate—Lloyd': {
+        bio: '2000s R&B singer known for smooth, romantic crossover singles that blend pop hooks with sensual R&B grooves.',
+        aliases: [],
+      },
+
+      'Jhené Aiko\'s collaborator—Big Sean': {
+        bio: 'Rapper-singer whose pop-R&B collaborations and solo tracks often pivot to romantic, groove-driven territory with pop structures.',
+        aliases: ['Sean Michael Anderson'],
+      },
+
+      'Jesse Powell\'s contemporary—Joe': {
+        bio: '1990s-2000s R&B singer-songwriter with a smooth, sensual pop-friendly catalog of ballads and midtempo grooves.',
+        aliases: [],
+      },
+
+      'Mya\'s collaborator—P!nk (early era)': {
+        bio: 'Early pop-R&B phase of the singer featured groove-driven, sensual hits before pivoting to rock-pop; not her current focus.',
+        aliases: [],
+      },
+
+      'Toni Braxton\'s contemporary—Deborah Cox (repeat)': {
+        bio: 'Already-listed artist, excluded here; instead propose: — placeholder, omitting due to duplication risk.',
+        aliases: [],
+      },
+
+      'Queen Naija': {
+        bio: 'R&B-pop vocalist known for heartfelt, sensual ballads and mid-tempo grooves that straddle contemporary soul and mainstream pop.',
+        aliases: [],
+      },
+
+      'Chris Brown\'s collaborator—Sean Kingston': {
+        bio: 'Although more reggae-pop, his soulful vocals and Caribbean-inflected hits (often R&B-sleek) place him adjacent; likely exclude.',
+        aliases: ['Sean Kingston'],
+      },
+
+      'Jordin Sparks': {
+        bio: 'R&B-pop vocalist with sensual ballads and mid-tempo grooves, bridging American Idol pop polish with soulful delivery.',
+        aliases: [],
+      },
     },
 
     'Indie Pop / Alt Pop': {

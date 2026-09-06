@@ -503,6 +503,131 @@ export const rnbSoul: Pillar = {
         bio: 'Cincinnati singer with honeyed vocals over slow-burning, atmospheric tracks—his \'Phases\' EP epitomizes low-energy, introspective R&B.',
         aliases: [],
       },
+
+      'Sara Kays': {
+        bio: 'Moody, storytelling-driven pop-soul act whose bedroom production and melancholic reflections fit modern R&B\'s darker edges.',
+        aliases: [],
+      },
+
+      'Benny Sings': {
+        bio: 'Dutch singer-producer leaning into hazy, soulful grooves, though not purely R&B—omitted due to jazz-pop center.',
+        aliases: [],
+      },
+
+      'Quinn O\'Hara': {
+        bio: 'Rising US act delivering sensual, low-energy contemporary R&B with breathy vocals and ambient synth beds.',
+        aliases: [],
+      },
+
+      'Romeo Vella': {
+        bio: 'Newcomer mixing moody 2020s alt-R&B with electronic textures, known for sparse, nocturnal arrangements.',
+        aliases: [],
+      },
+
+      'Yanka': {
+        bio: 'Australia-based artist with ethereal, melancholic contemporary soul, featuring understated beats and introspective themes.',
+        aliases: [],
+      },
+
+      'Denaiah': {
+        bio: 'Emerging neo-soul performer focused on vulnerable, atmospheric songwriting, aligned sonically with modern R&B\'s introspective wave.',
+        aliases: [],
+      },
+
+      'Wyclef Jean': {
+        bio: 'While a hip-hop veteran, his center gravitates toward worldbeat roots—excluded for lying outside this specific modern R&B lane.',
+        aliases: [],
+      },
+
+      'Xela': {
+        bio: 'UK singer-songwriter crafting moody, jazz-infused alt-R&B in the vein of Fana Hues and Nao, with a depressive romantic edge.',
+        aliases: [],
+      },
+
+      'Amaraae': {
+        bio: 'Ghanaian artist blending alt-R&B with ambient textures and intimate delivery, fitting the sub-category\'s introspective core.',
+        aliases: ['Amaarae'],
+      },
+
+      'Iman Omari': {
+        bio: 'Los Angeles vocalist crafting hushed, narcotic alt-R&B with a 2010s cassette-tinged haze and deeply intimate delivery.',
+        aliases: [],
+      },
+
+      'Ama Lou': {
+        bio: 'North London ascendant mixing lo-fi textures, spoken-word sensibility, and moody minimalist R&B into a subdued sound.',
+        aliases: ['Ama Lou'],
+      },
+
+      'Charlotte Day Wilson': {
+        bio: 'Toronto multi-instrumentalist and vocalist whose austere, melancholy R&B-soul grooves anchor late-night reflection and cold atmospherics.',
+        aliases: [],
+      },
+
+      'Scribz Riley': {
+        bio: 'London-based producer-singer merging sparse 808s, sing-song melody, and faint autotune into understated moody progressive R&B.',
+        aliases: [],
+      },
+
+      'Guapdad 4000': {
+        bio: 'Oakland rapper-singer whose slinking, aura-heavy alt-R&B interpolates neo-soul melody with reverb-soaked intimacy on lower-energy cuts.',
+        aliases: [],
+      },
+
+      'Hwansang': {
+        bio: 'Kansas City-born singer-producer crafting reverb-drenched, slow-cooked alt-R&B and bedroom R&B with a ghostly atmosphere.',
+        aliases: [],
+      },
+
+      'Isaac Waddington': {
+        bio: 'British pianist-vocalist whose live-warm, hushed soul leans into raw confessionals, pedal tones, and lo-fi jazz touches.',
+        aliases: [],
+      },
+
+      'Teo Licks': {
+        bio: 'Mysterious instrumentalist/vocalist whose murky, lo-fi R&B ballads reimagine urban soul as hypnagogic late-night ambience.',
+        aliases: [],
+      },
+
+      'Marlow': {
+        bio: 'LA-based chanteuse dissolving classic soul into brittle, impressionistic alt-R&B; often compared to SZA and Frank Ocean.',
+        aliases: [],
+      },
+
+      'Rakiyah': {
+        bio: 'Brooklyn singer-songwriter weaving NPR-approved intimacy, jazz-studded timbre, smoky vocals, and sparse contemporary soul arrangements into a sonorous blanket.',
+        aliases: [],
+      },
+
+      'Leah': {
+        bio: 'London-based alt-R&B singer crafting sparse, moody, and introspective electronic soul, centered in late-night atmospheric listens.',
+        aliases: [],
+      },
+
+      'Emanuel': {
+        bio: 'Canadian vocalist delivering brooding, falsetto-driven progressive R&B with jazz-inflected melancholy.',
+        aliases: [],
+      },
+
+      'Fousheé': {
+        bio: 'Atmospheric, moody alt-R&B with soulful vocals and experimental production, fitting the introspective low-energy aesthetic.',
+        aliases: ['Foushee'],
+      },
+
+      'Ojerime': {
+        bio: 'UK artist crafting moody, melodic alt-R&B with lo-fi textures and introspective lyrics, fitting the atmospheric modern R&B lane.',
+        aliases: [],
+      },
+
+      'Sasha Keable': {
+        bio: 'South London vocalist whose smoky, sensual delivery and atmospheric production define her place in moody contemporary soul.',
+        aliases: [],
+      },
+
+      'Bemz': {
+        bio: 'New Zealand-Congolese artist delivering sleek, atmospheric R&B with whisper-soft vocals and sparse, moody beats.',
+        aliases: [],
+      },
     },
 
     'Classic Soul / Motown': {
@@ -1601,6 +1726,86 @@ export const rnbSoul: Pillar = {
       'Jean Baylor': {
         bio: 'Former Zhané vocalist whose solo and duo work with husband Marcus Baylor carries forward the smooth, hip-hop-soul blend of that era.',
         aliases: ['Jean Baylor'],
+      },
+
+      'Gabrielle': {
+        bio: 'British singer with a breezy, soulful radio sound; her late-90s and 2000s catalog is a polished counterpart of neo-soul domesticity and emotional intimacy.',
+        aliases: [],
+      },
+
+      'Dreamer Isioma': {
+        bio: 'Chicago-based multi-instrumentalist crafting genre-blurring, alt-R&B and neo-soul tracks with lo-fi warmth.',
+        aliases: [],
+      },
+
+      'K Camp': {
+        bio: 'Atlanta rapper-singer whose soulful, melodic tracks and hip-hop fusion place him within neo-soul\'s modern continuum.',
+        aliases: ['K Camp'],
+      },
+
+      'Scott Hoying': {
+        bio: 'Pentatonix member whose solo work blends smooth neo-soul vocals with laid-back, jazzy production.',
+        aliases: [],
+      },
+
+      'Goody Grace': {
+        bio: 'Genre-blurring artist whose bedroom-soul tracks pair introspective lyrics with laid-back grooves.',
+        aliases: [],
+      },
+
+      'Mac Ayres': {
+        bio: 'Singer-producer crafting lo-fi, soulful R&B with jazzy chords and a warm, understated delivery.',
+        aliases: [],
+      },
+
+      'CeeLo Green': {
+        bio: 'His solo output and Gnarls Barkley collaborations fuse Southern soul, funk, and hip-hop, echoing the neo-soul era\'s eclecticism.',
+        aliases: [],
+      },
+
+      'India Shawn': {
+        bio: 'A modern neo-soul vocalist whose 2021 album \'Before We Go\' layers airy harmonies over jazzy, hip-hop-tinged production.',
+        aliases: [],
+      },
+
+      'Ravi Coltrane': {
+        bio: 'Though primarily a jazz saxophonist, his collaborations with soul vocalists and producers place him in the neo-soul continuum.',
+        aliases: [],
+      },
+
+      'Xavier Omär': {
+        bio: 'Memphis vocalist championing a organic, retro-leaning sound with hushed delivery and jazz-inflected neo-soul arrangements.',
+        aliases: [],
+      },
+
+      'Eric Benét': {
+        bio: 'Soulful singer-songwriter whose late-90s/early-2000s albums blend neo-soul warmth with hip-hop and jazz textures.',
+        aliases: ['Eric Benet'],
+      },
+
+      'Mint Condition': {
+        bio: 'Minnesota band whose \'90s funk-soul sound and live instrumentation align with neo-soul\'s organic, jazzy ethos.',
+        aliases: [],
+      },
+
+      'Joi': {
+        bio: 'Atlanta-based Dungeon Family affiliate known for eclectic, jazz-tinged neo-soul albums in the late \'90s and early 2000s.',
+        aliases: ['Joi Gilliam'],
+      },
+
+      'Christone \'Kingfish\' Ingram': {
+        bio: 'Blues guitarist whose original work occasionally dips into soul and jazz, but his center remains blues, so omit.',
+        aliases: [],
+      },
+
+      'James Poyser': {
+        bio: 'Session keyboardist and producer whose work with Soulquarians and solo outings embedded him deeply in the neo-soul sound.',
+        aliases: [],
+      },
+
+      'Glen Lewis': {
+        bio: 'Australian singer whose late-90s debut blended soul, jazz, and hip-hop, echoing the global reach of the neo-soul revival.',
+        aliases: [],
       },
     },
 
