@@ -1265,6 +1265,26 @@ export const pop: Pillar = {
         bio: 'R&B-pop vocalist with sensual ballads and mid-tempo grooves, bridging American Idol pop polish with soulful delivery.',
         aliases: [],
       },
+
+      'Missy Elliott': {
+        bio: 'R&B-pop artist merging sleek, sensual grooves with pop-minded hooks, a key crossover presence across decades.',
+        aliases: ['Missy', 'Misdemeanor'],
+      },
+
+      'Jessica Simpson': {
+        bio: 'Pop singer of the early 2000s who blended radio pop with R&B-tinged production and smooth, romantic vocal styling.',
+        aliases: [],
+      },
+
+      'Glenn Lewis': {
+        bio: 'Canadian singer with a silky, sensual vocal style, bridging classic R&B and modern pop sensibilities on his early 2000s crossover records.',
+        aliases: [],
+      },
+
+      'Elijah Blake': {
+        bio: 'Singer-songwriter whose polished R&B-pop output centers on sleek, romantic sonics and urban crossover hits.',
+        aliases: [],
+      },
     },
 
     'Indie Pop / Alt Pop': {

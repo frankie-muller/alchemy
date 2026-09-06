@@ -628,6 +628,41 @@ export const rnbSoul: Pillar = {
         bio: 'New Zealand-Congolese artist delivering sleek, atmospheric R&B with whisper-soft vocals and sparse, moody beats.',
         aliases: [],
       },
+
+      'Kali Masi': {
+        bio: 'Moody, atmospheric alt-R&B with introspective lyrics and sparse, nocturnal production, fitting the modern soundscape.',
+        aliases: [],
+      },
+
+      'Justine Skye': {
+        bio: 'Sleek, atmospheric contemporary R&B with a sensual, melancholic edge, fitting the moody modern sound.',
+        aliases: [],
+      },
+
+      'Noah Cyrus': {
+        bio: 'Atmospheric, moody pop-soul with intimate, melancholic delivery that bridges into modern R&B territory.',
+        aliases: [],
+      },
+
+      'Zhavia Ward': {
+        bio: 'Dark, brooding alt-R&B with lo-fi textures and a sensual, introspective vocal style, matching this sub-category\'s core.',
+        aliases: [],
+      },
+
+      'Kaash Paige': {
+        bio: 'Lo-fi, dreamy contemporary R&B with a sensual, melancholic haze, bridging bedroom pop and modern soul.',
+        aliases: ['Kaash Paige'],
+      },
+
+      'd4vd': {
+        bio: 'Moody, atmospheric alt-R&B with lo-fi production and introspective vocals, fitting the contemporary soul low-energy aesthetic.',
+        aliases: ['d4vd'],
+      },
+
+      'Amine': {
+        bio: 'Genre-blurring alt-R&B with laid-back, introspective tracks, though often more hip-hop leaning; fits moody 2020s soul.',
+        aliases: ['Aminé'],
+      },
     },
 
     'Classic Soul / Motown': {
@@ -1807,6 +1842,126 @@ export const rnbSoul: Pillar = {
         bio: 'Australian singer whose late-90s debut blended soul, jazz, and hip-hop, echoing the global reach of the neo-soul revival.',
         aliases: [],
       },
+
+      'Talia Keys': {
+        bio: 'Soulful singer-songwriter blending neo-soul, jazz, and hip-hop with introspective lyrics and organic instrumentation.',
+        aliases: [],
+      },
+
+      'Nick Hakim': {
+        bio: 'Singer-songwriter whose lo-fi, jazz-informed haze recalls neo-soul introspection and psychedelic soul.',
+        aliases: [],
+      },
+
+      'Nia Andrews': {
+        bio: 'Singer-songwriter whose soulful, jazz-inflected debut album \'Wooden Spoon\' channels classic neo-soul introspection and organic instrumentation.',
+        aliases: [],
+      },
+
+      'Tyler Daley': {
+        bio: 'British vocalist with Community Music Project and solo work, blending jazz, hip-hop, and laid-back soul in the late-90s D\'Angelo mold.',
+        aliases: [],
+      },
+
+      'Jermaine Dolly': {
+        bio: 'Guitarist and singer-songwriter crafting warm, analog-rooted neo-soul and funk with a modern, introspective edge.',
+        aliases: [],
+      },
+
+      'Sena Ehrhardt': {
+        bio: 'American soul and blues singer known for powerful, organic vocal delivery and jazz-influenced arrangements, resonating with neo-soul\'s revivalist ethos.',
+        aliases: [],
+      },
+
+      'Lizzie Berchie': {
+        bio: 'London-based artist merging alt-R&B and jazz-tinged neo-soul with intimate, reflective storytelling across EPs like \'Songs for the Rain.\'',
+        aliases: [],
+      },
+
+      'Mackwood': {
+        bio: 'Producer-vocalist creating laid-back, lo-fi soul and hip-hop fusions that echo the organic, jazz-minded spirit of classic neo-soul.',
+        aliases: [],
+      },
+
+      'Pip Millett': {
+        bio: 'Manchester singer-songwriter whose confessional, gospel-soaked modern soul and gentle hip-hop rhythms align with the sub-category\'s core mood.',
+        aliases: [],
+      },
+
+      'Shaé Universe': {
+        bio: 'UK vocalist blending silky neo-soul, jazz, and R&B with raw emotional delivery, earning a devoted following in the organic soul revival.',
+        aliases: ['Shae Universe'],
+      },
+
+      'Amaria': {
+        bio: 'Atlanta-based singer cultivating a \'quiet storm\' revival, pairing jazzy keys and hip-hop beats with tender, introspective soul vocals.',
+        aliases: [],
+      },
+
+      'ELHAE': {
+        bio: 'Southern contemporary R&B artist whose heartfelt, groove-led style and live-band warmth recall the neo-soul revival\'s foundational sounds.',
+        aliases: [],
+      },
+
+      'Mereba': {
+        bio: 'Singer-guitarist who channels jazz, soul, and hip-hop into organic, spacious compositions, fitting the sub-category\'s introspective and melodic leanings.',
+        aliases: [],
+      },
+
+      'Dende': {
+        bio: 'Texas-raised artist blending neo-soul guitars, lo-fi hip-hop percussion, and melodic vocal runs, evoking early 2000s organic soul.',
+        aliases: [],
+      },
+
+      'Fertile Ground': {
+        bio: 'Washington DC-based outfit blending jazz, funk, and Afro-centric soul, led by vocalist Lady T, embodying organic neo-soul spirit.',
+        aliases: [],
+      },
+
+      'Divine': {
+        bio: 'British neo-soul vocalist known for lush, jazz-inflected harmonies and introspective lyricism, emerging from the UK\'s early-2000s soul scene.',
+        aliases: [],
+      },
+
+      'Tara Lily': {
+        bio: 'London-based singer and producer blending neo-soul, jazz, and Indian classical influences into a genre-defying, intimate sound.',
+        aliases: [],
+      },
+
+      'Nina Nesbitt': {
+        bio: 'Scottish artist whose pop-soul and R&B-inflected compositions fit a modern, introspective neo-soul subgenre blend.',
+        aliases: [],
+      },
+
+      'Tia Ray': {
+        bio: 'China\'s \'Queen of Soul,\' channeling R&B, jazz, and hip-hop traditions into a powerful, genre-crossing modern soul sound.',
+        aliases: ['Tia'],
+      },
+
+      'Liv Warfield': {
+        bio: 'Portland-based singer of Prince\'s trusted circle, delivering fiery, jazz-funk and soul performances with raw neo-soul vocal authority.',
+        aliases: [],
+      },
+
+      'Naomi Sharon': {
+        bio: 'Caribbean-Dutch vocalist mixing sleek R&B with soul, jazz, and neo-soul influences, characterized by intimate, poetic delivery.',
+        aliases: [],
+      },
+
+      'Vula': {
+        bio: 'South African-born UK singer blending neo-soul, jazz, and breakbeat, known for rich harmonic depth and improvisational skill.',
+        aliases: ['Vula Malinga'],
+      },
+
+      'Taylor McFerrin': {
+        bio: 'Multi-instrumentalist/producer melding beat-driven soul, jazz harmony, and organic textures in the neo-soul lineage.',
+        aliases: [],
+      },
+
+      'JMSN': {
+        bio: 'Singer-songwriter/producer whose vulnerable, lo-fi R&B and falsetto draw from \'90s soul and alternative R&B.',
+        aliases: [],
+      },
     },
 
     'Contemporary R&B': {
@@ -2068,6 +2223,16 @@ export const rnbSoul: Pillar = {
       'Fantasia': {
         bio: 'Soulful yet contemporary R&B singer with polished, theatrical and radio-friendly ballads spanning the 2000s and beyond.',
         aliases: ['Fantasia Barrino'],
+      },
+
+      'August Alsina': {
+        bio: 'New Orleans singer whose 2010s output merges heartfelt lyricism with the polished, melodic style of mainstream contemporary R&B.',
+        aliases: [],
+      },
+
+      'Zayn': {
+        bio: 'Former One Direction star pivoted to slick, moody contemporary R&B with chart-topping solo albums in the 2010s-2020s.',
+        aliases: ['Zayn Malik'],
       },
     },
 
@@ -2724,6 +2889,16 @@ export const rnbSoul: Pillar = {
 
       'Vulfpeck (instrumental side)': {
         bio: 'Though also under other listings, their purely instrumental, low-volume funk project \'Sleepify\' etc. centers squarely in retro-funk territory.',
+        aliases: [],
+      },
+
+      'Dam-Funk': {
+        bio: 'Modern funk producer and vocalist whose albums channel classic P-Funk and boogie through a contemporary synth-driven lens.',
+        aliases: [],
+      },
+
+      'Skunk Anansie': {
+        bio: 'British rock-soul act occasionally leaning into funky rhythms; core is alt-rock, so omitting.',
         aliases: [],
       },
     },
