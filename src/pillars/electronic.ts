@@ -7358,6 +7358,11 @@ export const electronic: Pillar = {
         bio: 'Belgian producer whose \'The Prophet\' and \'Raveolution\' fused acid house\'s 303 squelch with a harder rave energy, becoming genre landmarks.',
         aliases: [],
       },
+
+      'Chilly Gonzales': {
+        bio: 'Canadian pianist-producer whose 1990s acid house work as part of the band Kid Koala\'s circle and solo releases fit the genre\'s psychedelic minimalism.',
+        aliases: [],
+      },
     },
 
     'EBM / Industrial': {
