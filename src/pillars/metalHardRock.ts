@@ -533,6 +533,26 @@ export const metalHardRock: Pillar = {
         bio: 'Heavy metal side project of former Metallica bassist Jason Newsted, delivering groove-laden thrash-influenced hard rock.',
         aliases: [],
       },
+
+      'Baroness': {
+        bio: 'Modern metal powerhouse blending sludge, prog, and southern rock into dense, riff-forward, critically acclaimed albums.',
+        aliases: [],
+      },
+
+      'Faith No More side': {
+        bio: 'Placeholder not valid.',
+        aliases: [],
+      },
+
+      'Fireball Ministry': {
+        bio: 'Los Angeles hard rock/metal band blending grinding riffs with melodic hooks, echoing early 70s Sabbath and 90s stoner aggression.',
+        aliases: [],
+      },
+
+      'Wolfmother': {
+        bio: 'Australian retro-rock duo whose thunderous, Sabbath-derived riffs reignited classic heavy rock for a new millennium.',
+        aliases: [],
+      },
     },
 
     'Classic Heavy Metal / NWOBHM': {
@@ -2109,6 +2129,11 @@ export const metalHardRock: Pillar = {
         bio: 'Dutch death/doom pioneers known for crushing riffs and lethal, putrid vocals.',
         aliases: [],
       },
+
+      'Cianide': {
+        bio: 'Chicago-based death metal band blending early Autopsy and Celtic Frost influences into a crushing, cavernous sound.',
+        aliases: [],
+      },
     },
 
     'Progressive Metal': {
@@ -3371,6 +3396,86 @@ export const metalHardRock: Pillar = {
 
       'InnerWish': {
         bio: 'Greek power metal group delivering straightforward, energetic, and guitar-driven songs.',
+        aliases: [],
+      },
+
+      'Shaman': {
+        bio: 'Brazilian power metal project founded by former Angra members, known for symphonic and progressive elements.',
+        aliases: ['Shaaman'],
+      },
+
+      'Insania': {
+        bio: 'Swedish power metal band with fast, melodic, and keyboard-driven sound reminiscent of early Stratovarius.',
+        aliases: ['Insania Stockholm'],
+      },
+
+      'Reinxeed': {
+        bio: 'Swedish power metal band with epic, fast-paced songs and fantasy-themed lyrics in the Helloween tradition.',
+        aliases: [],
+      },
+
+      'Dynazty': {
+        bio: 'Swedish heavy/power metal act combining energetic riffs with polished, anthemic choruses.',
+        aliases: [],
+      },
+
+      'Lost Horizon': {
+        bio: 'Swedish power metal band known for dramatic, soaring vocals and classically influenced, over-the-top compositions.',
+        aliases: [],
+      },
+
+      'Twisted Tower Dire': {
+        bio: 'American power metal band reviving traditional epic metal with dual guitar harmonies and fantasy lyrics.',
+        aliases: [],
+      },
+
+      'Borealis': {
+        bio: 'Canadian progressive power metal band mixing emotional melodies with symphonic textures and strong guitar work.',
+        aliases: [],
+      },
+
+      'Mortemia': {
+        bio: 'Norwegian symphonic gothic metal project from Morten Veland, combining heavy guitars with orchestral and choral elements.',
+        aliases: [],
+      },
+
+      'Rhapsody in Fire': {
+        bio: 'Italian symphonic power metal pioneers known for epic fantasy storytelling and grand orchestral arrangements.',
+        aliases: ['Rhapsody', 'Rhapsody of Fire'],
+      },
+
+      'Helion Prime': {
+        bio: 'Science-fiction themed American power metal band known for fast, melodic guitar work and conceptual lyrical storytelling.',
+        aliases: [],
+      },
+
+      'Judicator': {
+        bio: 'US power metal project delivering soaring vocals and cinematic arrangements, often themed around historical and personal narratives.',
+        aliases: [],
+      },
+
+      'Tanagra': {
+        bio: 'Pacific Northwest progressive power metal act, weaving technicality with soaring melodies and classic genre storytelling.',
+        aliases: [],
+      },
+
+      'Paladin': {
+        bio: 'Atlanta-based power metal band fusing thrash intensity with melodic leads and triumphant, fist-raising energy.',
+        aliases: [],
+      },
+
+      'Dire Peril': {
+        bio: 'Concept-driven American power metal group, exploring sci-fi and fantasy themes with galloping rhythms and layered vocals.',
+        aliases: [],
+      },
+
+      'Burning Point': {
+        bio: 'Finnish power metal act combining strong melodic hooks with occasional neo-classical runs and steady, driving tempos.',
+        aliases: [],
+      },
+
+      'Midnattsol': {
+        bio: 'Norwegian/German folk-tinged symphonic metal project featuring ethereal female vocals alongside dark, atmospheric keyboard layers.',
         aliases: [],
       },
     },
