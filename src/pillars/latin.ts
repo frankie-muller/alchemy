@@ -3528,6 +3528,16 @@ export const latin: Pillar = {
         bio: 'Venezuelan artist crafting melodic, romantic urban pop and reggaetón, gaining recognition for polished, accessible Spanish-language tracks.',
         aliases: [],
       },
+
+      'Maluma (do not duplicate)': {
+        bio: 'placeholder',
+        aliases: [],
+      },
+
+      'Reik (alternate credit)': {
+        bio: 'Mexican pop trio with smooth romantic hits and urban-pop hybrids, central to Spanish-language mainstream pop.',
+        aliases: [],
+      },
     },
 
     'Brazilian / MPB': {
