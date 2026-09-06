@@ -1240,6 +1240,81 @@ export const metalHardRock: Pillar = {
         bio: 'New wave of British heavy metal band with a melodic yet driving sound, active in the early 80s underground.',
         aliases: [],
       },
+
+      'Geddes Axe': {
+        bio: 'Short-lived UK NWOBHM act whose sole album and singles capture the era\'s raw, galloping energy.',
+        aliases: [],
+      },
+
+      'Tredegar': {
+        bio: 'Welsh heavy metal band from the early 80s, blending hard rock and proto-metal with a dark edge.',
+        aliases: [],
+      },
+
+      'Pax': {
+        bio: 'Rare NWOBHM outfit from Essex, known for a single and demo tracks in the classic 1980 style.',
+        aliases: [],
+      },
+
+      'Torpor': {
+        bio: 'British band from the NWOBHM underground, issuing a lone album that fits the galloping, mythic template.',
+        aliases: [],
+      },
+
+      'Seventh Angel': {
+        bio: 'Late-era NWOBHM-adjacent act from the 80s, merging traditional metal riffing with apocalyptic themes.',
+        aliases: [],
+      },
+
+      'Stronghold': {
+        bio: 'UK metal band from the early 80s, releasing a self-titled demo that echoes the movement\'s raw drive.',
+        aliases: [],
+      },
+
+      'Warrior (UK)': {
+        bio: 'Not to be confused with US acts, this British band contributed to the NWOBHM with punchy, energetic metal.',
+        aliases: [],
+      },
+
+      'Stormtrooper': {
+        bio: 'British heavy metal group from the early 80s, known for a hard-hitting single on the NWOBHM circuit.',
+        aliases: [],
+      },
+
+      'Slaughter (UK)': {
+        bio: 'Distinct from the Canadian band, this UK act\'s 1980 single captures the genre\'s fierce, foundational thrust.',
+        aliases: [],
+      },
+
+      'Myth': {
+        bio: 'UK metal band from the early 80s whose rare recordings exemplify the dark, epic side of the movement.',
+        aliases: [],
+      },
+
+      'Shiva (UK)': {
+        bio: 'London-based NWOBHM act with a 1980 single, embodying the classic galloping and dramatic style.',
+        aliases: [],
+      },
+
+      'Juggernaut (UK)': {
+        bio: 'British metal band from the NWOBHM era, releasing a lone album that fits the sub-category\'s vintage sound.',
+        aliases: [],
+      },
+
+      'Savage Grace': {
+        bio: 'US traditional heavy metal act from the early 1980s whose debut \'Master of Disguise\' channels classic metal gallop and mythic themes.',
+        aliases: [],
+      },
+
+      'Tokyo': {
+        bio: 'Japanese act known as Tokyo Blade\'s earlier name, but independently released NWOBHM-style heavy metal in the late 1970s and early 1980s.',
+        aliases: [],
+      },
+
+      'Spartan': {
+        bio: 'British NWOBHM band from the early 1980s, issuing the single \'Cold Hearted Woman\' before fading, fit for the movement\'s underground canon.',
+        aliases: [],
+      },
     },
 
     'Doom / Stoner / Sludge': {
@@ -1900,6 +1975,56 @@ export const metalHardRock: Pillar = {
 
       'Greenleaf': {
         bio: 'Swedish stoner rock institution delivering slow-burning, fuzz-soaked grooves and melancholic heaviness since the early 2000s.',
+        aliases: [],
+      },
+
+      'Warhorse': {
+        bio: 'Massachusetts doom metal band known for crushing, Sabbath-worship riffage and a monolithic, downtuned wall of sound.',
+        aliases: [],
+      },
+
+      'Spiritus Mortis': {
+        bio: 'Finnish doom metal veterans deeply rooted in the genre\'s traditional, epic and melancholic soundscapes.',
+        aliases: [],
+      },
+
+      'Mega Mass': {
+        bio: 'Italian stoner/doom outfit delivering fuzz-heavy, groovy riffs with a dark, psychedelic edge.',
+        aliases: [],
+      },
+
+      'The Age of Truth': {
+        bio: 'North Carolina-based heavy rock band channeling vintage doom and 70s proto-metal swagger into riff-centric songs.',
+        aliases: [],
+      },
+
+      'Ruby the Hatchet': {
+        bio: 'Psychedelic doom rock from New Jersey with vintage organs, fuzz guitar, and powerful, soaring female vocals.',
+        aliases: [],
+      },
+
+      'Green Druid': {
+        bio: 'Denver band crafting slow-burn, psychedelic doom with Cannabis-god worship and dense, crushing fretwork.',
+        aliases: [],
+      },
+
+      'Mothership': {
+        bio: 'Texas trio blending hard-hitting stoner rock riffage with a classic-heavy-metal sense of melody and flight.',
+        aliases: [],
+      },
+
+      'Summoner': {
+        bio: 'Massachusetts band that forges hypnotic, spacey stoner doom from heavy psychedelic jams and primal drumming.',
+        aliases: [],
+      },
+
+      'King Heavy': {
+        bio: 'Chilean band delivering epic, traditional doom metal with galloping riffs and soaring vocals in the spirit of Candlemass.',
+        aliases: [],
+      },
+
+      'Slabdragger': {
+        bio: 'UK sludge trio blending crust-tinged heaviness with doomy, feedback-drenched riffs and monolithic, abrasive weight.',
         aliases: [],
       },
     },
