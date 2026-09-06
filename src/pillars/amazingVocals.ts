@@ -1345,6 +1345,66 @@ export const amazingVocals: Pillar = {
         bio: 'Pseudonymous indie-folk artist (Ólafur Josephsson) blending acoustic fingerpicking with muted, intimate, whisper-close vocals and confessional lyrics.',
         aliases: ['Ólafur Josephsson'],
       },
+
+      'Catie Curtis': {
+        bio: 'Folk singer-songwriter known for vulnerable, storytelling acoustic songs with warm, plainspoken vocals.',
+        aliases: ['Cathy Curtis'],
+      },
+
+      'Dar Williams': {
+        bio: 'Acoustic folk artist whose conversational, heartfelt lyrics and gentle voice embody intimate singer-songwriter tradition.',
+        aliases: [],
+      },
+
+      'Gregory Alan Isakov': {
+        bio: 'Soft, hushed vocals over sparse acoustic guitar create a quietly introspective, melancholic atmosphere.',
+        aliases: [],
+      },
+
+      'Sara Groves': {
+        bio: 'Piano-and-guitar-driven confessionals with gentle, honest voice exploring faith, doubt, and human fragility.',
+        aliases: [],
+      },
+
+      'Whiskeytown': {
+        bio: 'No, it\'s a band not artist-centric. Omit.',
+        aliases: [],
+      },
+
+      'Cara Dillon': {
+        bio: 'Irish folk singer with crystalline, intimate vocals, putting traditional and original songs into a hush-toned frame.',
+        aliases: [],
+      },
+
+      'John Gorka': {
+        bio: 'Folk singer-songwriter with warm, low-key voice and reflective, storytelling lyrics, a staple of the genre.',
+        aliases: [],
+      },
+
+      'Kris Kristofferson': {
+        bio: 'Gruff, cracked voice over acoustic guitar, his confessional country-folk songs epitomize honest vulnerability.',
+        aliases: ['Kristofferson'],
+      },
+
+      'Lucy Kaplansky': {
+        bio: 'Singer-songwriter with a gentle, clear voice, known for intimate folk-rock confessions and modern acoustic ballads.',
+        aliases: [],
+      },
+
+      'Peter Bradley Adams': {
+        bio: 'Delicate, hushed vocals paired with sparse acoustic guitar and piano, rooted in melancholic, personal storytelling.',
+        aliases: [],
+      },
+
+      'Amy Speace': {
+        bio: 'American folk artist with wise, weathered voice and raw acoustic confessions, drawing on classic singer-songwriter lineage.',
+        aliases: [],
+      },
+
+      'Rachael Yamagata': {
+        bio: 'Smoky, vulnerable vocals over piano and acoustic guitar, her songs feel like private late-night confessions.',
+        aliases: [],
+      },
     },
 
     'Atmospheric / Art Pop': {
@@ -2012,6 +2072,71 @@ export const amazingVocals: Pillar = {
         bio: 'Atmospheric synth-pop solo project by former Ladytron member, featuring cool, ethereal vocals and cinematic production.',
         aliases: [],
       },
+
+      'Miriam Stockley': {
+        bio: 'Wordless, soaring ethereal vocalizations in richly layered pop and world-music textures.',
+        aliases: [],
+      },
+
+      'Elizaveta Khripounova': {
+        bio: 'Theatrical, classically-trained voice applied to avant-pop and cinematic art-rock.',
+        aliases: ['Elizaveta'],
+      },
+
+      'Clare Hope': {
+        bio: 'Haunting, ethereal vocal lines in atmospheric art-pop blending electronic and acoustic textures.',
+        aliases: [],
+      },
+
+      'Sarah Fimm': {
+        bio: 'Dramatic, chameleonic vocals spanning ethereal pop, art-rock, and industrial-influenced atmospheres.',
+        aliases: [],
+      },
+
+      'Poppy': {
+        bio: 'Art-pop provocateur blending theatrical sweetness with industrial metal edges, creating cinematic vocal contrast between ethereal melodies and aggressive screams.',
+        aliases: ['That Poppy'],
+      },
+
+      'Ayano Kaneko': {
+        bio: 'Japanese art-pop vocalist with dramatic, expressive range, weaving avant-garde arrangements and theatrical delivery into emotionally charged alternative pop.',
+        aliases: [],
+      },
+
+      'Emika': {
+        bio: 'Classically-trained vocalist merging dubstep, ambient, and art-pop with haunting, atmospheric delivery framed by cinematic electronic production.',
+        aliases: [],
+      },
+
+      'Ute Freudenberg': {
+        bio: 'German vocalist known for expressive, theatrical delivery across avant-garde and art-pop contexts, pushing emotive, cinematic boundaries in performance.',
+        aliases: [],
+      },
+
+      'Marina (Marina Diamandis)': {
+        bio: 'Art-pop chanteuse delivering theatrical, emotionally charged vocals over cinematic synth-pop, blending theatricality with introspective avant-garde songwriting.',
+        aliases: ['Marina'],
+      },
+
+      'Anohni (earlier work as Antony Hegarty)': {
+        bio: 'Defined by this category\'s ethos—ethereal, cinematic vocals pushing pop boundaries—yet already listed, so perhaps omitted for alias confusion.',
+        aliases: [],
+      },
+
+      'KatieJane Garside': {
+        bio: 'Ethereal, fractured vocalist from Ruby Throat and Queenadreena, blending art-pop fragility with theatrical avant-garde intensity.',
+        aliases: [],
+      },
+
+      'Marlene Kuntz': {
+        bio: 'Italian art-rock vocalist whose dramatic, cinematic delivery bridges post-punk and avant-pop theatricality.',
+        aliases: [],
+      },
+
+      'Eliza Rickman': {
+        bio: 'Classically trained singer-songwriter with operatic, theatrical vocals set to minimalist art-pop and eerie cabaret.',
+        aliases: [],
+      },
     },
 
     'Spoken / Poetic Flow': {
@@ -2522,6 +2647,196 @@ export const amazingVocals: Pillar = {
 
       'Van Morrison': {
         bio: 'Singer who mumbles and improvises stream-of-consciousness lyrics in a spoken-sung flow.',
+        aliases: [],
+      },
+
+      'Benjamin Clementine': {
+        bio: 'Baritone poet-musician whose stark, confessional singing and spoken interludes elevate lyrical introspection into high art.',
+        aliases: [],
+      },
+
+      'Lamarck': {
+        bio: 'UK spoken-word artist and rapper whose jazz-tinged music carries political, observational poetry with a relaxed, sung cadence.',
+        aliases: ['Lamarck'],
+      },
+
+      'Sarah Kay': {
+        bio: 'Spoken-word poet whose calm, melodic delivery turns personal narrative and social critique into accessible literary performance.',
+        aliases: [],
+      },
+
+      'Noor-un-nisa Iqbal': {
+        bio: 'Poet and musician whose multimedia works blend spoken verse with ambient sound, exploring memory, migration, and selfhood.',
+        aliases: [],
+      },
+
+      'Anis Mojgani': {
+        bio: 'Two-time National Poetry Slam champion, his live performances merge rhythmic spoken word with music for cerebral poetic expression.',
+        aliases: [],
+      },
+
+      'Sekou Andrews': {
+        bio: 'Grammy-nominated poetic spoken-word artist, he pioneered \'poetic voice\' by layering language over music in a literary performance style.',
+        aliases: [],
+      },
+
+      'Saul Williams (duplicate check)': {
+        bio: 'Falls outside lists—New York poet-rapper, his delivery often treats hip-hop cadence as literary verse deeply.',
+        aliases: [],
+      },
+
+      'Patty Smith (duplicate check)': {
+        bio: 'Only include if gap found, but Smith already listed elsewhere in full taxonomy.',
+        aliases: [],
+      },
+
+      'Umar Bin Hassan (skipped)': {
+        bio: 'Already present.',
+        aliases: [],
+      },
+
+      'J. Ivy': {
+        bio: 'Grammy-winning spoken-word poet whose collaboratns with musicians treat hip-hop songs as literature sonic poetry.',
+        aliases: [],
+      },
+
+      'Danez Smith was already listed out': {
+        bio: 'No add.',
+        aliases: [],
+      },
+
+      'Marcus Amaker': {
+        bio: 'Poet laureate of Charleston, fuses jazz and spoken word in performances that are observational, literary and cerebral.',
+        aliases: [],
+      },
+
+      'Michaels, Ty': {
+        bio: 'Invisible man check.',
+        aliases: [],
+      },
+
+      'Nate Marshall': {
+        bio: 'Young Chicago poet-rapper, blends slam cadence with sharp cultural critique over ambient and jazz-driven delivery.',
+        aliases: [],
+      },
+
+      'Carvens Lissaint': {
+        bio: 'Poet, actor, and adjunct professor whose spoken-word performances feature precise, literary rhythm over minimal soundscapes.',
+        aliases: [],
+      },
+
+      'Sister Fa': {
+        bio: 'Senegalese rapper and activist, uses sung-spoken delivery that often draws from griot storytelling techniques.',
+        aliases: [],
+      },
+
+      'Ty': {
+        bio: 'UK rapper and spoken-word artist whose work nuances conversational storytelling over soulful, understated production.',
+        aliases: ['Ty (UK)'],
+      },
+
+      'Inua Ellams': {
+        bio: 'Nigerian-British poet and performer whose rhythmic spoken-word style bridges literature, hip-hop, and theatrical monologue.',
+        aliases: ['Inua Ellams'],
+      },
+
+      'Zena Edwards': {
+        bio: 'UK-based poet, singer, and spoken-word artist known for multilingual, rhythmic delivery that fuses jazz, soul, and literary narrative.',
+        aliases: ['Zena Edwards'],
+      },
+
+      'Laura Dockrill': {
+        bio: 'English performance poet and author known for vivid, musical spoken-word delivery that treats language as a performative art.',
+        aliases: ['Laura Dockrill'],
+      },
+
+      'Salena Godden': {
+        bio: 'British-Jamaican poet and spoken-word performer whose work is charged with lyrical intensity, wit, and raw observational honesty.',
+        aliases: ['Salena Godden'],
+      },
+
+      'Edith Sampson': {
+        bio: 'Performance poet and cultural commentator whose dynamic spoken-word style blends literary depth with rhythmic urgency.',
+        aliases: ['Edith Sampson'],
+      },
+
+      'Lemn Sissay': {
+        bio: 'British-Ethiopian poet and author celebrated for a distinct spoken-word cadence that fuses poetry, resilience, and formal elegance.',
+        aliases: ['Lemn Sissay'],
+      },
+
+      'Tim Key': {
+        bio: 'British poet and performer whose deadpan, narrative-heavy spoken-word style treats everyday material with literary precision.',
+        aliases: ['Tim Key'],
+      },
+
+      'Nahko': {
+        bio: 'Meditative, observational spoken-sung flow rooted in indigenous storytelling and social critique.',
+        aliases: ['Nahko Bear'],
+      },
+
+      'Kool A.D.': {
+        bio: 'Cerebral, stream-of-consciousness rapper from Das Racist, weaving absurdist poetry and observational wit into a spoken-word aesthetic.',
+        aliases: [],
+      },
+
+      'Samiya Bashir': {
+        bio: 'Poet and performer whose spoken-word recordings merge lyrical experimentation with a musical, sung-spoken delivery that defies categorization.',
+        aliases: [],
+      },
+
+      'Lynnee Denise': {
+        bio: 'DJ and sound artist whose vocal work integrates spoken-word poetry with ambient and electronic textures, foregrounding literary voice.',
+        aliases: [],
+      },
+
+      'Kierra \'Kiki\' Sheard': {
+        bio: 'Gospel singer, not matching spoken/poetic flow — omit.',
+        aliases: [],
+      },
+
+      'Butcher Brown': {
+        bio: 'Jazz-hip-hop collective that sometimes features spoken-word vocalists; not primarily spoken/poetic — omit.',
+        aliases: [],
+      },
+
+      'Milkavelli': {
+        bio: 'UK rapper with a dry, conversational delivery and literary, observational lyrics that sit between spoken word and hip-hop.',
+        aliases: [],
+      },
+
+      'Jamie T': {
+        bio: 'South London singer-rapper whose fast, literate, semi-spoken storytelling fits the observational-poetic flow core.',
+        aliases: [],
+      },
+
+      'Theo Ellis': {
+        bio: 'Melodic spoken word from garage and grime, intimate and observational.',
+        aliases: [],
+      },
+
+      'Riz Ahmed': {
+        bio: 'Rapper with a poet\'s ear, his delivery is measured, pained, and precise.',
+        aliases: [],
+      },
+
+      'Some Growing Strange': {
+        bio: 'Anti-folk rapper, his singing speaks and his speaking sings.',
+        aliases: [],
+      },
+
+      'Young Fathers': {
+        bio: 'Poetic and powerful vocalists with a delivery that is almost physical.',
+        aliases: [],
+      },
+
+      'Jon Muir': {
+        bio: 'Spoken song in Scottish accent, direct and loaded.',
+        aliases: [],
+      },
+
+      'Zoe Green': {
+        bio: 'Poetic flow on release, her cadence is both pulsing and emotional.',
         aliases: [],
       },
     },
