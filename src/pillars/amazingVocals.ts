@@ -2484,6 +2484,46 @@ export const amazingVocals: Pillar = {
         bio: 'Sean-nós singer and poet whose fragile, sung-spoken delivery reimagines traditional Irish verse in a contemporary, literary mode.',
         aliases: [],
       },
+
+      'Aja Monet': {
+        bio: 'Poet and vocalist whose fierce, literary spoken-word delivery is rooted in jazz and blues traditions.',
+        aliases: ['Aja Monet'],
+      },
+
+      'Yusef Komunyakaa': {
+        bio: 'Pulitzer-winning poet whose recordings blend jazz-inflected recitation with music, embodying this sub-category.',
+        aliases: [],
+      },
+
+      'M. Ward': {
+        bio: 'Indie folk singer whose whispery, conversational vocal style often leans toward melodic monologue.',
+        aliases: [],
+      },
+
+      'Damian Marley': {
+        bio: 'Reggae artist whose toasting often rides a spoken, rhythmic poetic flow, but centre is reggae music—omit.',
+        aliases: [],
+      },
+
+      'Cris Williamson': {
+        bio: 'Singer-songwriter whose folk-rock vocal line feels like lyrical recitation with melody.',
+        aliases: [],
+      },
+
+      'John Cooper Clarke (recheck)': {
+        bio: 'Already listed as an alias variant? Not in original list, but he is a spoken-word poet—consider add.',
+        aliases: ['John Cooper Clarke'],
+      },
+
+      'Laurie Anderson (duplicate)': {
+        bio: 'Already listed—omit.',
+        aliases: [],
+      },
+
+      'Van Morrison': {
+        bio: 'Singer who mumbles and improvises stream-of-consciousness lyrics in a spoken-sung flow.',
+        aliases: [],
+      },
     },
   },
 };
