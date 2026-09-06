@@ -2394,6 +2394,86 @@ export const rock: Pillar = {
         bio: 'Italian avant-prog group of the 2000s, melding rock, jazz, and classical rigor into dense, expressionistic long-form pieces.',
         aliases: [],
       },
+
+      'The Fiery Furnaces': {
+        bio: 'Sibling duo crafting sprawling, narrative-driven rock with abrupt shifts, intricate structures, and theatrical eccentricity.',
+        aliases: [],
+      },
+
+      'Dirty Projectors': {
+        bio: 'Experimental rock collective known for complex vocal arrangements, rhythmic irregularity, and ambitious conceptual albums.',
+        aliases: [],
+      },
+
+      'Univers Zéro\'s offshoot Aranis': {
+        bio: 'Belgian collective weaving chamber music and avant-rock into intricate, cinematic soundscapes.',
+        aliases: [],
+      },
+
+      'Secret Chiefs 3': {
+        bio: 'Genre-defying collective mixing surf rock, Persian classical, and avant-metal under a conceptual, occult umbrella.',
+        aliases: [],
+      },
+
+      'Zaïmph': {
+        bio: 'Italian avant-band crafting surreal, theatrical prog with dark, unpredictable narratives and complex arrangements.',
+        aliases: [],
+      },
+
+      'Present\'s cousin L\'Ensemble Rayé': {
+        bio: 'French group channeling zeuhl and avant-rock, creating hypnotic, complex suites.',
+        aliases: [],
+      },
+
+      'Vezhlivy Otkaz': {
+        bio: 'Soviet-era chamber-rock ensemble fusing punk energy with jazz, folk, and classical complexity.',
+        aliases: [],
+      },
+
+      'Motorpsycho': {
+        bio: 'Norwegian long-form rockers whose psychedelic, jam-infused records explore grand conceptual arcs.',
+        aliases: [],
+      },
+
+      'Gryphon': {
+        bio: 'Tudor-inflected progressive rockers who dressed in medieval garb while playing bassoon, crumhorn, and complex folk-rock themes.',
+        aliases: [],
+      },
+
+      'The Tangent': {
+        bio: 'British neo-prog band blending lengthy conceptual suites with jazz-rock and Canterbury influences, carrying progressive rock\'s ambitious tradition forward.',
+        aliases: [],
+      },
+
+      'The Flower Kings': {
+        bio: 'Swedish progressive rock group known for epic, symphonic-scale compositions and intricate instrumental passages rooted in 1970s progressive tradition.',
+        aliases: [],
+      },
+
+      'Spock\'s Beard': {
+        bio: 'American progressive rock band celebrated for complex, multi-movement song cycles and a theatrical, keyboard-driven sound spanning decades.',
+        aliases: [],
+      },
+
+      'Transatlantic': {
+        bio: 'Supergroup of progressive rock veterans crafting extended, conceptual epics with intricate interplay and sweeping melodic ambition.',
+        aliases: [],
+      },
+
+      'Big Big Train': {
+        bio: 'English band creating expansive, narrative-driven progressive rock with rich orchestration and historical/conceptual lyrical themes.',
+        aliases: [],
+      },
+
+      'Gazpacho': {
+        bio: 'Norwegian art-rock band crafting brooding, atmospheric concept albums with a theatrical, cinematic sense of mood and narrative scope.',
+        aliases: [],
+      },
+
+      'Marillion': {
+        bio: 'British neo-progressive rock pioneers, continuing the genre\'s long-form, conceptual ambitions across decades of elaborate studio and live works.',
+        aliases: [],
+      },
     },
 
     'Shoegaze / Dream Pop': {
@@ -3421,6 +3501,21 @@ export const rock: Pillar = {
 
       'Steve Turner': {
         bio: 'Guitarist in Mudhoney and Green River, essential to Seattle\'s raw, garage-driven grunge attack.',
+        aliases: [],
+      },
+
+      'The Screaming Trees': {
+        bio: 'Seattle band fusing psychedelic swirl with heavy, punk-influenced riffing, a foundational act of the late-\'80s grunge scene.',
+        aliases: [],
+      },
+
+      'Blind Melon': {
+        bio: 'Los Angeles rockers whose 1992 debut mixed heavy, sludgy guitar textures with a loose, cynical alt-rock vibe, fitting the grunge era\'s raw ethos.',
+        aliases: [],
+      },
+
+      'Chokebore': {
+        bio: 'Hawaii-born, Los Angeles-based band crafting sparse, doom-laden and angst-ridden alt-rock that resonated deeply with grunge\'s darker moods.',
         aliases: [],
       },
     },
@@ -4656,6 +4751,41 @@ export const rock: Pillar = {
       'La Máquina de Hacer Pájaros': {
         bio: 'Charly García-era Argentine progressive rock band, essential to the evolution of 70s intellectual rock en español.',
         aliases: ['La Maquina De Hacer Pajaros'],
+      },
+
+      'Duncan Dhu': {
+        bio: 'Spanish rock band from the 1980s, blending new wave and folk-rock, foundational to the Spanish rock scene.',
+        aliases: ['Duncan Dhu'],
+      },
+
+      'Los Zigarros': {
+        bio: 'Spanish rock band reviving classic 70s-style rock with raw energy, gaining prominence in the 2010s.',
+        aliases: ['Los Zigarros'],
+      },
+
+      'Revólver': {
+        bio: 'Spanish rock band led by Carlos Goñi, known for anthemic and passionate rock songs since the early 1990s.',
+        aliases: ['Revolver'],
+      },
+
+      'Amaral': {
+        bio: 'Spanish rock duo from Zaragoza, combining acoustic and electric rock with poetic lyrics, active since the late 1990s.',
+        aliases: ['Amaral'],
+      },
+
+      'Delincuentes': {
+        bio: 'Spanish rock band blending flamenco, rock, and rumba, known for festive and rebellious energy since the 1990s.',
+        aliases: ['Delincuentes'],
+      },
+
+      'Los Bengala': {
+        bio: 'Mexican rock band known for garage-rock influenced sound, active in the 2000s and 2010s.',
+        aliases: ['Bengala'],
+      },
+
+      'Izal': {
+        bio: 'Spanish indie-rock band from Madrid, blending electronic and acoustic elements, prominent in the 2010s.',
+        aliases: ['Izal'],
       },
     },
   },
