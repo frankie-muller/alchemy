@@ -1290,6 +1290,61 @@ export const pop: Pillar = {
         bio: 'Soul and R&B vocalist whose retro-modern sound and romantic, groove-laden pop singles fit the sensual crossover lane.',
         aliases: [],
       },
+
+      'Pia Mia': {
+        bio: 'Pop-R&B artist with breezy, groove-led tracks like \'Do It Again\', blending contemporary pop production with R&B warmth.',
+        aliases: [],
+      },
+
+      'Ruth B.': {
+        bio: 'Canadian singer whose piano-driven pop often incorporates R&B phrasing and soft, soulful groove elements.',
+        aliases: ['Ruth Berhe'],
+      },
+
+      'Lloyd Polite Jr.': {
+        bio: '2000s pop-R&B artist with smooth, sensual vocals and groove-driven crossover singles.',
+        aliases: ['Lloyd'],
+      },
+
+      'Jeff Goldblum': {
+        bio: 'Jazz-pop pianist, not R&B; smooth, sensual crossover style, but less groove-centric pop—omit if uncertain.',
+        aliases: [],
+      },
+
+      'October London': {
+        bio: 'Smoky, soulful R&B-pop singer with a vintage-sensual groove, riding 2020s crossover momentum—even less mainstream.',
+        aliases: [],
+      },
+
+      'Boys II Men': {
+        bio: '90s R&B vocal group with pop-savvy romantic ballads, blending soulful harmonies with mainstream grooves.',
+        aliases: ['Boyz II Men'],
+      },
+
+      'Heather Headley': {
+        bio: 'R&B singer with a smooth, romantic pop sensibility and mid-tempo groove-oriented tracks.',
+        aliases: [],
+      },
+
+      'Mýa\'s peer — Nicole Wray': {
+        bio: 'Late-90s R&B-pop singer with a sleek, danceable debut and silky vocal delivery, epitomizing crossover appeal.',
+        aliases: ['Nicole Wray'],
+      },
+
+      'Eve': {
+        bio: 'Rapper and singer who crossed into pop-R&B with seductive, danceable collaborations like \'Let Me Blow Ya Mind\'.',
+        aliases: [],
+      },
+
+      'Kenny Lattimore': {
+        bio: 'Balladeer whose sophisticated soul-pop style and romantic duets bridge adult contemporary with modern R&B.',
+        aliases: [],
+      },
+
+      'Vedo': {
+        bio: 'Contemporary artist merging modern R&B harmonies with digital pop production, gaining traction in the 2020s crossover space.',
+        aliases: [],
+      },
     },
 
     'Indie Pop / Alt Pop': {
@@ -2623,6 +2678,71 @@ export const pop: Pillar = {
       'OH MY GIRL\'s Seunghee': {
         bio: 'OH MY GIRL\'s main vocalist, delivering bright, agile vocals across group\'s ethereal-pop sound and in expressive solo K-pop tracks.',
         aliases: ['Seunghee', 'Hyojung'],
+      },
+
+      'Billlie': {
+        bio: 'K-pop girl group blending cinematic storytelling with dynamic, maximalist production and strong choreography.',
+        aliases: [],
+      },
+
+      'XG': {
+        bio: 'Japanese-Korean girl group with hip-hop-infused K-pop polish, futuristic concepts, and high-energy dance routines.',
+        aliases: [],
+      },
+
+      'WJSN': {
+        bio: 'K-pop girl group mixing cosmic, dreamy aesthetics with rich production and mesmerizing, polished stagecraft.',
+        aliases: [],
+      },
+
+      'Xikers': {
+        bio: 'K-pop boy group known for high-energy performances and intricate choreography, debuting under KQ Entertainment in 2023.',
+        aliases: [],
+      },
+
+      'ZEROBASEONE': {
+        bio: 'K-pop boy group formed through Mnet\'s \'Boys Planet\' in 2023, blending polished production with dynamic stage presence.',
+        aliases: ['ZB1'],
+      },
+
+      'ATBO': {
+        bio: 'K-pop boy group under IST Entertainment, delivering youthful, upbeat tracks and synchronized choreography since 2022.',
+        aliases: [],
+      },
+
+      'EPEX': {
+        bio: 'K-pop boy group under C9 Entertainment, combining catchy melodies with intense, performance-driven concepts.',
+        aliases: [],
+      },
+
+      'CRAVITY': {
+        bio: 'K-pop boy group from Starship Entertainment, recognized for polished pop sound and synchronized group choreography.',
+        aliases: [],
+      },
+
+      'P1Harmony': {
+        bio: 'K-pop boy group under FNC Entertainment, bringing theatrical concepts and high-energy choreography to the genre.',
+        aliases: [],
+      },
+
+      'E\'LAST': {
+        bio: 'K-pop boy group under E Entertainment, known for elegant, maximalist concepts and intricate dance formations.',
+        aliases: [],
+      },
+
+      'GHOST9': {
+        bio: 'K-pop boy group under Maroo Entertainment, delivering energetic pop tracks with polished group performances.',
+        aliases: [],
+      },
+
+      'MIRAE': {
+        bio: 'K-pop boy group under DSP Media, offering youthful, vibrant pop music and dynamic stage presence since 2021.',
+        aliases: [],
+      },
+
+      'Just B': {
+        bio: 'K-pop boy group under Bluedot Entertainment, focusing on powerful choreography and contemporary pop sounds.',
+        aliases: [],
       },
     },
   },
