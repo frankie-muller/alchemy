@@ -1285,6 +1285,11 @@ export const pop: Pillar = {
         bio: 'Singer-songwriter whose polished R&B-pop output centers on sleek, romantic sonics and urban crossover hits.',
         aliases: [],
       },
+
+      'Melanie Fiona': {
+        bio: 'Soul and R&B vocalist whose retro-modern sound and romantic, groove-laden pop singles fit the sensual crossover lane.',
+        aliases: [],
+      },
     },
 
     'Indie Pop / Alt Pop': {
