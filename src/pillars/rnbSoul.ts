@@ -1962,6 +1962,51 @@ export const rnbSoul: Pillar = {
         bio: 'Singer-songwriter/producer whose vulnerable, lo-fi R&B and falsetto draw from \'90s soul and alternative R&B.',
         aliases: [],
       },
+
+      'Yakul': {
+        bio: 'UK band pairing warm keys, electric bass and honeyed vocals with lush, hip-hop-kissed neo-soul arrangements.',
+        aliases: [],
+      },
+
+      'Brittany Campbell': {
+        bio: 'Vocalist bridging neo-soul, jazz and funk via her work with Afrolicious and raw solo bedroom projects.',
+        aliases: [],
+      },
+
+      'Lara B.': {
+        bio: 'London-raised, L.A.-based singer whose jazz-hip-hop fusion and smoky delivery epitomize organic neo-soul.',
+        aliases: [],
+      },
+
+      'Sharim': {
+        bio: 'Georgia-born soul singer-songwriter whose debut \'S.O.S.\' channels D\'Angelo-style groove and introspective lyrics.',
+        aliases: [],
+      },
+
+      'Kennard': {
+        bio: 'Contemporary U.S. soul artist with a husky, understated voice, crafting jazzy, coffee-shop-friendly R&B cuts.',
+        aliases: [],
+      },
+
+      'Clairmont The Second': {
+        bio: 'American rapper-singer blurring indie-hip-hop and soul with off-kilter, introspective production and live textures.',
+        aliases: [],
+      },
+
+      'Belau': {
+        bio: 'North Carolina vocalist-guitarist fusing alt-soul, jazz chords and honeyed pop hooks, echoing Erykah Badu\'s vibe.',
+        aliases: [],
+      },
+
+      'Taj Austin': {
+        bio: 'Houston singer with a natural, laid-back R&B-soul touch in the lineage of his father, Raphael Saadiq.',
+        aliases: [],
+      },
+
+      'Liv East': {
+        bio: 'UK artist blending neo-soul vocals with lo-fi and alternative pop production, prioritizing raw, organic emotion.',
+        aliases: [],
+      },
     },
 
     'Contemporary R&B': {
