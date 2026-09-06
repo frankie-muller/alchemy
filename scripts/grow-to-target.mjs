@@ -120,22 +120,34 @@ for (let i = 0; i < jobs.length; i++) {
     rounds++;
     const need = Math.min(BATCH, TARGET - current + 3);
 
-    // Try each model at most once this round; grow.mjs already retries
-    // transient errors internally, so a failure here means THIS model is
-    // spent for now — cycle to the next rather than stall on it.
+    // grow.mjs already retries transient HTTP/network errors internally —
+    // by the time a failure reaches here it's either (a) capacity genuinely
+    // gone for that model, or (b) a one-off content glitch (malformed JSON
+    // from a bad generation), which is stochastic and usually succeeds on a
+    // plain retry of the SAME model. Give each model RETRIES_PER_MODEL shots
+    // before concluding it's actually spent and cycling to the next one —
+    // a single glitch shouldn't burn a model out of the rotation.
+    const RETRIES_PER_MODEL = 2;
     let growOutput = null;
-    for (let attempt = 0; attempt < MODELS.length; attempt++) {
+    outer: for (let cycle = 0; cycle < MODELS.length; cycle++) {
       const model = MODELS[modelIndex];
-      try {
-        growOutput = execFileSync('node', ['scripts/grow.mjs', '--pillar', job.pillar, '--sub', job.sub, '-n', String(need)], {
-          cwd: root, encoding: 'utf8', env: { ...baseEnv, ALCHEMY_MODEL: model },
-        });
-        break;
-      } catch (err) {
-        const out = (err.stdout || '') + (err.stderr || '');
-        const nextModel = MODELS[(modelIndex + 1) % MODELS.length];
-        log(`  model ${model} failed (${out.slice(0, 150).replace(/\n/g, ' ')}) — switching to ${nextModel}`);
-        modelIndex = (modelIndex + 1) % MODELS.length;
+      for (let retry = 0; retry < RETRIES_PER_MODEL; retry++) {
+        try {
+          growOutput = execFileSync('node', ['scripts/grow.mjs', '--pillar', job.pillar, '--sub', job.sub, '-n', String(need)], {
+            cwd: root, encoding: 'utf8', env: { ...baseEnv, ALCHEMY_MODEL: model },
+          });
+          break outer;
+        } catch (err) {
+          const out = (err.stdout || '') + (err.stderr || '');
+          if (retry + 1 < RETRIES_PER_MODEL) {
+            log(`  model ${model} failed (${out.slice(0, 150).replace(/\n/g, ' ')}) — retrying same model (${retry + 2}/${RETRIES_PER_MODEL})`);
+            await sleep(3000);
+          } else {
+            const nextModel = MODELS[(modelIndex + 1) % MODELS.length];
+            log(`  model ${model} failed ${RETRIES_PER_MODEL}x (${out.slice(0, 150).replace(/\n/g, ' ')}) — switching to ${nextModel}`);
+            modelIndex = (modelIndex + 1) % MODELS.length;
+          }
+        }
       }
     }
 

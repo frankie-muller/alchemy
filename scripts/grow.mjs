@@ -29,6 +29,7 @@ import { mkdtempSync, mkdirSync, writeFileSync, readFileSync, rmSync } from 'nod
 import { tmpdir } from 'node:os';
 import { join, dirname } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
+import { jsonrepair } from 'jsonrepair';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -280,19 +281,30 @@ if (!candidate.startsWith('[')) {
   const arrayMatch = candidate.match(/\[[\s\S]*\]/);
   if (arrayMatch) { candidate = arrayMatch[0]; }
 }
+// Try to parse a JSON value two ways: as-is, then through jsonrepair (fixes
+// the common LLM slips — trailing commas, unquoted keys, single quotes).
+// jsonrepair can't infer a MISPLACED bracket (a model writing a stray ']'
+// mid-string, say) since that's a semantic error, not a syntax one — that
+// case falls through to per-object salvage below.
+function parseLoose(str) {
+  try { return JSON.parse(str); } catch { /* fall through */ }
+  return JSON.parse(jsonrepair(str));
+}
+
 let proposals;
 try {
-  proposals = JSON.parse(candidate);
+  proposals = parseLoose(candidate);
 } catch {
   // The array as a whole is broken (stray trailing bracket, one truncated
-  // entry) but the individual {...} objects in it are usually still fine —
-  // salvage whichever ones parse instead of discarding a batch of otherwise
-  // good, real artists over one malformed entry.
+  // entry, a misplaced bracket jsonrepair can't infer) but the individual
+  // {...} objects in it are usually still fine — salvage whichever ones
+  // parse instead of discarding a batch of otherwise good, real artists
+  // over one malformed entry.
   const objectMatches = candidate.match(/\{[^{}]*\}/g) || [];
   const salvaged = [];
   for (const objText of objectMatches) {
     try {
-      const obj = JSON.parse(objText);
+      const obj = parseLoose(objText);
       if (obj && typeof obj.name === 'string') { salvaged.push(obj); }
     } catch { /* skip the one that's actually broken */ }
   }
