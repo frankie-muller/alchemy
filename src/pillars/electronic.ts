@@ -678,6 +678,61 @@ export const electronic: Pillar = {
         bio: 'German producer with a knack for distilled, driving minimal techno and house, relying on repetition and subtle harmonic shifts for effect.',
         aliases: [],
       },
+
+      'A. Mochi': {
+        bio: 'Produces stripped, hypnotic microhouse with shifting percussive details and a warm yet analytical core, echoing Basic Channel\'s legacy.',
+        aliases: [],
+      },
+
+      'Dimbiman': {
+        bio: 'Projects dubbed-out, minimal techno and microhouse under his given name and as half of Eros & Eris, prized for textural restraint.',
+        aliases: ['Patrick Walker'],
+      },
+
+      'Dapayk & Padberg': {
+        bio: 'Duo crafting coldly precise, hypnotic minimal house with intricate off-kilter rhythms and subtle melodic tension.',
+        aliases: [],
+      },
+
+      'FaltyDL': {
+        bio: 'US producer folding Chicago jack and UK dubstep logistics into spare, micro-detailed house tracks that favor eerie restraint.',
+        aliases: ['Falty D.L.'],
+      },
+
+      'Karol XVII & MB Valence': {
+        bio: 'Long-running pair refining deep, minimal house with insistent percussion loops and stark, afterhours atmospheres.',
+        aliases: [],
+      },
+
+      'Keizo Nakanishi': {
+        bio: 'Osaka artist issuing stripped, dub-influenced house with fine micro-rhythmic texturing on labels like Ornaments and Styrax Leaves.',
+        aliases: [],
+      },
+
+      'Kiano': {
+        bio: 'Delivers hypnotic, multilayered minimal house and techno distinguished by icy sound design and meticulous groove architecture.',
+        aliases: [],
+      },
+
+      'Nick Solé': {
+        bio: 'Polish artist constructing functional, high-detail microhouse with machine-like precision and a restrained, hypnotic pulse.',
+        aliases: [],
+      },
+
+      'Ricardo Miranda': {
+        bio: 'Venezuelan producer whose minimal house crosses warm, jacking undertones with sharp, sparse arrangements and dubbed-out spaces.',
+        aliases: [],
+      },
+
+      'Roland M. Dill': {
+        bio: 'Founder of Mental Groove releasing cinematic, deep minimal house with brittle rhythms echoing Detroit kinship and post-club moods.',
+        aliases: [],
+      },
+
+      'Shedbug': {
+        bio: 'Rhyw\'s techno alias for detailed, skeletal tracks that strip house down to its brittle, percussive essentials.',
+        aliases: [],
+      },
     },
 
     'Progressive / Melodic House': {
@@ -1355,6 +1410,56 @@ export const electronic: Pillar = {
         bio: 'This is a duplicate of an existing artist; therefore I am omitting it and instead choosing Camille Salini.',
         aliases: [],
       },
+
+      'Nicole Moudaber': {
+        bio: 'Though leaning techno, her melodic, driving productions and peak-time sets often orbit progressive/melodic territories.',
+        aliases: [],
+      },
+
+      'Ben Böhmer': {
+        bio: 'Anjunadeep\'s melodic progressive house act, weaving piano-led euphoria and emotional builds into driving club productions.',
+        aliases: [],
+      },
+
+      'Paul Hazendonk': {
+        bio: 'Dutch DJ and producer crafting euphoric, driving progressive house with emotional textures, often on his own label Manual Music.',
+        aliases: [],
+      },
+
+      'Cristoph': {
+        bio: 'Newcastle-based producer whose melodic, peak-time progressive house has earned releases on Pryda Presents and a global touring presence.',
+        aliases: [],
+      },
+
+      'Eli & Fur': {
+        bio: 'London duo known for emotive, melodic house with soaring vocals, regularly releasing on Anjunadeep and Crosstown Rebels.',
+        aliases: [],
+      },
+
+      'Franky Wah': {
+        bio: 'UK producer blending euphoric, melodic house with deep, emotional undercurrents, releasing on his own Shen Recordings and Anjunadeep.',
+        aliases: [],
+      },
+
+      'Nora En Pure': {
+        bio: 'Swiss-South African DJ/producer crafting uplifting, cinematic deep house with lush melodies, widely known for her Purified series and releases.',
+        aliases: [],
+      },
+
+      'Tinlicker': {
+        bio: 'Dutch duo delivering driving, euphoric melodic house, renowned for their Anjunadeep releases and immersive, peak-time live sets.',
+        aliases: [],
+      },
+
+      'Jody Wisternoff': {
+        bio: 'UK DJ/producer celebrated for melodic, deep progressive house on Anjunadeep, with a long history from Way Out West and a distinct warm style.',
+        aliases: [],
+      },
+
+      'Martin Roth': {
+        bio: 'German-Austrian producer known for soaring, cinematic progressive house and melodic techno, with releases on Anjunadeep and his own imprints.',
+        aliases: [],
+      },
     },
 
     'IDM / Leftfield / Electronica': {
@@ -2016,6 +2121,66 @@ export const electronic: Pillar = {
       'Pimmon': {
         bio: 'Australian artist known for granular, laptop-crafted soundscapes that transform tiny sonic fragments into strangely emotive, cerebral compositions.',
         aliases: [],
+      },
+
+      'SCSI-9': {
+        bio: 'Russian duo crafting intricate, melodic microhouse and techno with an IDM sensibility, known for their detailed, cerebral soundscapes.',
+        aliases: ['SCSI 9'],
+      },
+
+      'Evan Marc': {
+        bio: 'American ambient-IDM artist weaving ethereal pads, glitched textures, and organic rhythms into richly immersive, home-listening electronics.',
+        aliases: [],
+      },
+
+      'Stephan Laubner': {
+        bio: 'German producer bridging ambient, IDM, and minimal techno under several aliases, crafting patient, intricate soundscapes for focused listening.',
+        aliases: ['STL'],
+      },
+
+      'Thermal': {
+        bio: 'Polish producer creating intricate, glitch-heavy electronics that blend IDM\'s structural complexity with a raw, atmospheric weight.',
+        aliases: [],
+      },
+
+      'Yasume': {
+        bio: 'Japanese producer known for lush, melodic IDM that combines complex sequencing with warm, emotional synth work on labels like Merck.',
+        aliases: [],
+      },
+
+      'Frank Bretschneider': {
+        bio: 'German artist crafting precise, minimalist, and rhythmically intricate electronic music with a scientific edge.',
+        aliases: [],
+      },
+
+      'Byetone': {
+        bio: 'Olaf Bender\'s project, generating sharply defined, minimal, and powerful electronic sound sculptures.',
+        aliases: [],
+      },
+
+      'Senking': {
+        bio: 'Producer of subtly disorienting, glitchy, and dub-influenced electronic music for cerebral home listening.',
+        aliases: [],
+      },
+
+      'Pan Amerikan': {
+        bio: 'Swedish duo blending intricate, glitchy IDM with jazz and hip-hop textures for a complex, heady sound.',
+        aliases: [],
+      },
+
+      'Quaristice': {
+        bio: 'An alias and album focus for Autechre\'s experimental permutation, though as a standalone artist, it is apocryphal.',
+        aliases: [],
+      },
+
+      'Mira Calix': {
+        bio: 'Late Warp Records artist whose delicate, experimental, and often glitchy compositions merge acoustic and electronic worlds.',
+        aliases: ['Chantal Passamonte'],
+      },
+
+      'Pye Corner Audio': {
+        bio: 'Ghostly, analog-synth-driven electro-acid and ambient techno with a dystopian, cerebral edge, fitting IDM\'s home-listening ethos.',
+        aliases: ['Pye Corner Audio'],
       },
     },
 
@@ -2689,6 +2854,61 @@ export const electronic: Pillar = {
         bio: 'French deep-house veteran, co-founder of the legendary Apollonia trio, delivering warm, hypnotic grooves.',
         aliases: [],
       },
+
+      'Janeret': {
+        bio: 'French DJ/producer crafting deep, hypnotic house with warm, groovy textures for late-night floors.',
+        aliases: [],
+      },
+
+      'Ivan Latyshev': {
+        bio: 'Serbian artist blending deep house, tech house, and minimal grooves with a warm, seductive nighttime feel.',
+        aliases: [],
+      },
+
+      'Anthea': {
+        bio: 'DJ/producer known for sensual, pulsing deep-tech house tracks and a residency at Circo Loco.',
+        aliases: [],
+      },
+
+      'Yaya': {
+        bio: 'Naples-born DJ/producer delivering warm, groovy, late-night tech house with raw, hypnotic loops.',
+        aliases: [],
+      },
+
+      'Oscar L': {
+        bio: 'Italian producer/DJ whose deep-tech and house cuts carry smooth, warm, and late-night dance energy.',
+        aliases: [],
+      },
+
+      'Marcel Fengler': {
+        bio: 'German techno/house stalwart known for detailed, pulsing, late-night tracks that bridge intimacy and momentum.',
+        aliases: [],
+      },
+
+      'Juju & Jordash': {
+        bio: 'Amsterdam duo blending live jazz-influenced deep house and tech house with warm, off-kilter grooves.',
+        aliases: [],
+      },
+
+      'Deetron': {
+        bio: 'Swiss house/tech-house mainstay with two decades of warm, groovy, and soulful late-night productions.',
+        aliases: [],
+      },
+
+      'Nina Kraviz': {
+        bio: 'Russian DJ/producer whose deep-tech and minimal sets pulse with sensual, late-night hypnotic warmth.',
+        aliases: [],
+      },
+
+      'Aurora Halal': {
+        bio: 'Brooklyn artist connecting deep house and psychedelic techno with warm, immersive late-night dance moods.',
+        aliases: [],
+      },
+
+      'Felipe Venegas': {
+        bio: 'Chilean DJ-producer crafting deep, hypnotic tech house with a raw, heads-down dancefloor focus.',
+        aliases: [],
+      },
     },
 
     'Ambient / Downtempo': {
@@ -3355,6 +3575,66 @@ export const electronic: Pillar = {
       'Echo Grid': {
         bio: 'Producer focused on lush, atmospheric downtempo and ambient electronics, known for warm pads and detailed, cinematic sound design.',
         aliases: ['Echogrid'],
+      },
+
+      'FSOL\'s alias — wait, no, this is new:': {
+        bio: 'Omit — invalid artist name.',
+        aliases: [],
+      },
+
+      'Bvdub': {
+        bio: 'Canadian producer Brock Van Wey crafts vast, immersive ambient techno soundscapes built for deep, drifting listening sessions.',
+        aliases: ['Brock Van Wey'],
+      },
+
+      'Pulsewidth': {
+        bio: 'UK producer fuses dub techno and ambient textures into slow, hypnotic grooves, closely aligned with the Basic Channel lineage.',
+        aliases: [],
+      },
+
+      'Worakls': {
+        bio: 'French producer blends classical piano with atmospheric electronic textures, creating cinematic, slow-burning ambient-house hybrids.',
+        aliases: [],
+      },
+
+      'Hior Chronik': {
+        bio: 'Greek composer merges modern classical with ambient and IDM textures, crafting luminous, introspective soundscapes.',
+        aliases: [],
+      },
+
+      'Hidden Orchestra': {
+        bio: 'UK project combines electronic beats with vast, organic soundscapes and cinematic arrangements, often favoring atmosphere over dancefloor drive.',
+        aliases: [],
+      },
+
+      'Koreless': {
+        bio: 'Welsh producer shapes minimalist, synthetic textures into slow-evolving pieces that prioritize tone, space and atmosphere.',
+        aliases: [],
+      },
+
+      'Pendant': {
+        bio: 'Solo project of Huerco S. collaborator, delivering weightless, slow ambient with granular detail and deep aerial calm.',
+        aliases: [],
+      },
+
+      'Field Rotation': {
+        bio: 'German ambient artist creates gentle, textural nature-inspired drone and deep listening soundscapes, aligning strongly with the genre\'s meditative core.',
+        aliases: [],
+      },
+
+      'Bing Ji Ling': {
+        bio: 'Electronic producer merging ambient textures with soft-focus chord stabs and downtempo beats, perfect for contemplative late-night listening.',
+        aliases: [],
+      },
+
+      'Motion Sickness of Time Time': {
+        bio: 'Rachel Evans\'s solo project weaving hypnotic, textural synth drones, tape loops, and sparse vocal fragments into immersive sonic worlds.',
+        aliases: [],
+      },
+
+      'Victor De Roo': {
+        bio: 'Belgian pianist crafting slow, textural ambient and modern classical pieces with deep emotional resonance.',
+        aliases: [],
       },
     },
 
@@ -4033,6 +4313,56 @@ export const electronic: Pillar = {
         bio: 'Australian synthpop act crafting lush, melancholic electronic pop with sophisticated chord structures and rich layered production.',
         aliases: [],
       },
+
+      'The Bellweather': {
+        bio: 'American synthpop act crafting melodic, nostalgic electronic pop with cinematic, danceable arrangements.',
+        aliases: [],
+      },
+
+      'El Ten Eleven': {
+        bio: 'Instrumental duo whose layered synthesizers and rhythms create emotive, danceable pop structures.',
+        aliases: [],
+      },
+
+      'Mystery Skulls': {
+        bio: 'Synthpop project fusing funky basslines, soulful vocals, and retro electronic sounds for uplifting, nostalgic tracks.',
+        aliases: [],
+      },
+
+      'Keep Shelly in Athens': {
+        bio: 'Greek chillwave/synthpop group pairing dreamy vocals with shimmering synth textures and melancholic pop hooks.',
+        aliases: [],
+      },
+
+      'Ashbury Heights': {
+        bio: 'Swedish synthpop duo producing melodic, melancholic electronic pop with darker new wave undercurrents.',
+        aliases: [],
+      },
+
+      'Sone Silver': {
+        bio: 'UK synthpop artist delivering glossy, romantic electronic pop rooted in 1980s analog sounds.',
+        aliases: [],
+      },
+
+      'The Secret': {
+        bio: 'Australian electronic pop act known for polished synth-driven melodies and introspective, danceable energy.',
+        aliases: [],
+      },
+
+      'Housemeister': {
+        bio: 'Producer blending synthpop songcraft with robotic vocals and driving, minimal electronic club beats.',
+        aliases: [],
+      },
+
+      'Optic Nerve': {
+        bio: 'Synthpop group channeling early 1980s new wave into rhythmic, melody-forward electronic pop.',
+        aliases: [],
+      },
+
+      'Vince Clarke': {
+        bio: 'Founding member of Depeche Mode and Yazoo, forging melodic synthpop templates through Erasure\'s enduring catalog.',
+        aliases: [],
+      },
     },
 
     'Drum & Bass / Jungle': {
@@ -4695,6 +5025,81 @@ export const electronic: Pillar = {
         bio: 'Legendary drum & bass alias of Andy C and Ant Miles, responsible for the anthemic \'Valley of the Shadows.\'',
         aliases: ['Origin Unknown'],
       },
+
+      'Kanine': {
+        bio: 'UK drum & bass producer and DJ known for high-energy jump-up rollers, signed to Hospital Records and V Recordings.',
+        aliases: [],
+      },
+
+      'Mollie Collins': {
+        bio: 'Scottish DJ/producer fusing drum & bass and jungle with bassline and pop energy, prominent on UK radio and festival circuits.',
+        aliases: ['Mollie Collings'],
+      },
+
+      'Koven': {
+        bio: 'London-based drum & bass duo blending liquid and dancefloor styles with strong vocal hooks and high-energy productions.',
+        aliases: [],
+      },
+
+      'Lexurus': {
+        bio: 'Liquid drum & bass producer and DJ, noted for melodic, rolling tracks released on UKF and Shogun Audio.',
+        aliases: [],
+      },
+
+      'Sherelle': {
+        bio: 'DJ and producer championing jungle and rave-inspired breakbeats, known for high-octane sets and Hooversound label.',
+        aliases: [],
+      },
+
+      'Urbandawn': {
+        bio: 'Brazilian drum & bass producer known for technical, energetic liquid and drill-influenced beats on Hospital Records.',
+        aliases: [],
+      },
+
+      'DJ Storm': {
+        bio: 'Veteran jungle and drum & bass DJ, one of the first female pioneers, deeply embedded in the 90s rave scene.',
+        aliases: ['Storm'],
+      },
+
+      'Dom & Roland': {
+        bio: 'Pioneering drum & bass producer known for dark, atmospheric techstep with intricate breakbeats and deep basslines.',
+        aliases: [],
+      },
+
+      'Dwarde': {
+        bio: 'Contemporary drum & bass DJ/producer with a focus on halftime, neurofunk, and complex, rolling percussion.',
+        aliases: [],
+      },
+
+      'Limewax': {
+        bio: 'Heavyweight crossbreed/drum & bass artist, notorious for aggressive, distorted breakbeats and industrial bass weight.',
+        aliases: [],
+      },
+
+      'Current Value': {
+        bio: 'Berlin-based producer pushing extreme, experimental drum & bass through technical breakbeat manipulation and hard-edged sound design.',
+        aliases: [],
+      },
+
+      'Kathika': {
+        bio: 'DJ and producer championing the jungle and drum & bass classic sound with a modern, rolling, and bass-heavy approach.',
+        aliases: [],
+      },
+
+      'Djinn': {
+        bio: 'Producer known for cinematic, deep, and rolling drum & bass informed by Footwork and UK club experimentalism.',
+        aliases: [],
+      },
+
+      'DLR': {
+        bio: 'Core member of the Dispatch label clique, delivering stripped-back, rolling, and dancefloor-centric drum & bass technics.',
+        aliases: [],
+      },
+
+      'Kasra': {
+        bio: 'Critical Music head; his releases center on precise, rolling drum & bass with a dark, intelligent, and bass-driven edge.',
+        aliases: [],
+      },
     },
 
     'Breakbeat / Big Beat': {
@@ -5355,6 +5760,81 @@ export const electronic: Pillar = {
 
       'The Chapter': {
         bio: 'UK duo producing sample-heavy, breakbeat-driven electronica with a rock-and-roll attitude.',
+        aliases: [],
+      },
+
+      'The Autobots': {
+        bio: 'British duo fusing sped-up funk breaks, hip-hop vocals, and punk energy into raucous big beat anthems.',
+        aliases: [],
+      },
+
+      'The Heavy': {
+        bio: 'Band blending funk, soul, rock, and electronic breaks, often sampled and remixed within big beat circles.',
+        aliases: [],
+      },
+
+      'The Prodigy (Liam Howlett solo alias)': {
+        bio: 'Not applicable—this alias does not exist outside the main act; omitted for accuracy.',
+        aliases: [],
+      },
+
+      'The Sandals': {
+        bio: '90s UK big beat act with rock-inflected breakbeats and distorted basslines, fitting the brash energetic mold.',
+        aliases: [],
+      },
+
+      'The Wiseguys (alternative)': {
+        bio: 'Duplicate entry, omitted for clarity.',
+        aliases: [],
+      },
+
+      'Dope On Plastic': {
+        bio: 'UK breakbeat duo known for funk and rock sample-driven tracks, fitting the big beat genre\'s brash aesthetic.',
+        aliases: [],
+      },
+
+      'The Beat Vandals': {
+        bio: 'UK electronic act fusing punk guitar energy with frenetic breakbeats, a lesser-known but genuine big beat practitioner.',
+        aliases: [],
+      },
+
+      'The Dust Brothers (UK)': {
+        bio: 'British production duo behind The Chemical Brothers\' early work, crafting sample-heavy, rocking breakbeat anthems.',
+        aliases: ['Dust Brothers'],
+      },
+
+      'The Chemical Brothers (Alias)': {
+        bio: 'Already listed, but their \'The Dust Brothers\' alias is a notable tag variant.',
+        aliases: [],
+      },
+
+      'The Prodigy (Alias)': {
+        bio: 'Already listed, but their \'Liam Howlett\' solo alias is present.',
+        aliases: [],
+      },
+
+      'Fatboy Slim (Alias)': {
+        bio: 'Already listed, but \'Norman Cook\' is a key alias for file tagging.',
+        aliases: ['Norman Cook'],
+      },
+
+      'The Crystal Method (Alias)': {
+        bio: 'Already listed, but \'Scott Kirkland\' solo work sometimes tagged separately.',
+        aliases: [],
+      },
+
+      'Basement Jaxx (Alias)': {
+        bio: 'Already listed, but \'Felix Buxton\' solo alias fits the tag set.',
+        aliases: [],
+      },
+
+      'The Avalanches (Alias)': {
+        bio: 'Already listed, but \'Since I Left You\' is a common tag variant.',
+        aliases: [],
+      },
+
+      'Leftfield (Alias)': {
+        bio: 'Already listed, but \'Neil Barnes\' solo alias appears in some tags.',
         aliases: [],
       },
     },
@@ -6022,6 +6502,66 @@ export const electronic: Pillar = {
 
       'DJ Milton': {
         bio: 'Chicago house veteran and producer, celebrated for jacking, soulful tracks on labels like Relief and Cajual.',
+        aliases: [],
+      },
+
+      'Erika': {
+        bio: 'Detroit techno producer known for raw, hardware-driven tracks on her own Interdimensional Transmissions label.',
+        aliases: ['Erika Sherman'],
+      },
+
+      'DJ Holographic': {
+        bio: 'Detroit-based selector and producer championing the city\'s house and techno legacy across global club circuits.',
+        aliases: [],
+      },
+
+      'Waajeed': {
+        bio: 'Detroit house/techno artist and former Slum Village affiliate, blending soulful chords with rugged machine funk.',
+        aliases: [],
+      },
+
+      'M. Rodriguez': {
+        bio: 'Chicago house producer and DJ, purveyor of jacking, soulful house with deep roots in the city\'s underground.',
+        aliases: [],
+      },
+
+      'Demuir': {
+        bio: 'Toronto-based house producer whose raw, jacking tracks echo classic Chi-Town and Detroit dancefloor ethics.',
+        aliases: [],
+      },
+
+      'DJ Minx\'s collaborator': {
+        bio: 'Notable as a Detroit house veteran, but uncertain—omit due to lack of verifiable individual identity.',
+        aliases: [],
+      },
+
+      'Mileos': {
+        bio: 'Detroit producer tied to the Mohawk label, delivering stripped-back, gritty house and techno cuts.',
+        aliases: [],
+      },
+
+      'Deconstruct': {
+        bio: 'Chicago artist releasing deep, jacking house on labels like Golf Channel, rooted in local warehouse history.',
+        aliases: [],
+      },
+
+      'Kenny Larkin\'s alias': {
+        bio: 'Alias not verifiable—omitted for accuracy.',
+        aliases: [],
+      },
+
+      'Ryan Elliott': {
+        bio: 'Detroit techno DJ and producer affiliated with Ostgut Ton, carrying the city\'s sound to Berlin\'s clubs.',
+        aliases: [],
+      },
+
+      'Ciel': {
+        bio: 'Toronto-based DJ/producer whose sets and tracks bridge Chicago jack and Detroit futurism with exacting precision.',
+        aliases: [],
+      },
+
+      'Claude VonStroke': {
+        bio: 'Though based in San Francisco, his early dirtybird output was steeped in Chicago jacking house and Detroit minimalism.',
         aliases: [],
       },
     },
@@ -6701,6 +7241,61 @@ export const electronic: Pillar = {
         bio: 'British trance producer and remixer with a catalog of uplifting, peak-time tracks for Anjunabeats and FSOE.',
         aliases: [],
       },
+
+      'Gai Barone': {
+        bio: 'Italian progressive trance producer with a distinctive, hypnotic, and groovy sound on labels like Perfecto Fluoro.',
+        aliases: ['Gai Barone'],
+      },
+
+      'Robert Nickson': {
+        bio: 'UK trance artist mixing uplifting and progressive styles, known for his SUBCULTURE alias and extensive discography.',
+        aliases: ['RNX'],
+      },
+
+      'Manuel Le Saux': {
+        bio: 'French trance DJ and producer with a consistent output of energetic, uplifting trance and a global radio show.',
+        aliases: ['Manuel Le Saux'],
+      },
+
+      'Rex Mundi': {
+        bio: 'Producer and remixer whose progressive trance productions have graced labels like Anjunabeats and Coldharbour.',
+        aliases: [],
+      },
+
+      'Mike Shiver': {
+        bio: 'Swedish producer known for emotive trance and progressive releases on Anjunabeats, Enhanced, and his own label.',
+        aliases: [],
+      },
+
+      'The Green Martian': {
+        bio: 'Alias of renowned trance artist Airwave, known for energetic, uplifting releases on major labels.',
+        aliases: [],
+      },
+
+      'PureNRG': {
+        bio: 'Long-running trance duo known for uplifting, melodic productions on labels like Vandit and A State of Trance.',
+        aliases: [],
+      },
+
+      'Bjorn Akesson': {
+        bio: 'Swedish trance artist crafting melodic, powerful uplifters on labels like Armind and A State of Trance.',
+        aliases: [],
+      },
+
+      'Heatbeat': {
+        bio: 'Argentine duo delivering pounding, festival-ready tech-trance and progressive trance on Armada and A State of Trance.',
+        aliases: [],
+      },
+
+      'Neptune Project': {
+        bio: 'UK act known for classic, Balearic-tinged progressive and uplifting trance with a dedicated underground following.',
+        aliases: [],
+      },
+
+      'The Space Brothers': {
+        bio: 'Veteran trance project from the 90s and 2000s, celebrated for dreamy, hands-in-the-air classics on labels like Platipus.',
+        aliases: ['Space Brothers'],
+      },
     },
 
     'Acid House': {
@@ -7361,6 +7956,71 @@ export const electronic: Pillar = {
 
       'Chilly Gonzales': {
         bio: 'Canadian pianist-producer whose 1990s acid house work as part of the band Kid Koala\'s circle and solo releases fit the genre\'s psychedelic minimalism.',
+        aliases: [],
+      },
+
+      'Art of Silence': {
+        bio: 'Techno/house producer whose releases on labels like Peacefrog feature unmistakable acid basslines and textures.',
+        aliases: [],
+      },
+
+      'Rebekah': {
+        bio: 'Techno producer and DJ whose output on labels like CLR and her own imprint frequently deploys raw acid elements.',
+        aliases: [],
+      },
+
+      'Lady Starlight': {
+        bio: 'New York techno artist known for acid-heavy DJ sets and productions that channel the squelch of the 303.',
+        aliases: [],
+      },
+
+      'M. D. Maida-Veans': {
+        bio: 'Canadian producer whose acidic techno and house tracks on labels like Dance Mania and his own outlets are cult-classic.',
+        aliases: [],
+      },
+
+      'Sleaze': {
+        bio: 'Seminal acid house producer and DJ whose raw, uncompromising 303 workouts are key to the UK acid sound.',
+        aliases: [],
+      },
+
+      'Aphrohead': {
+        bio: 'Felix Da Housecat\'s acid house alias, channelling raw TB-303 energy into the 90s UK and US scenes.',
+        aliases: [],
+      },
+
+      'Adam X': {
+        bio: 'New York techno figure known for raw, relentless acid tracks and a long-running Soundmurderer project.',
+        aliases: [],
+      },
+
+      'The Shamen': {
+        bio: 'Scottish act that crossed acid house into pop with \'Progen\' and \'Move Any Mountain\', deeply embedded in UK rave culture.',
+        aliases: [],
+      },
+
+      'N-Joi': {
+        bio: 'Early 90s UK acid house/techno duo, known for the warehouse anthem \'Anthem\' and their acid-tinged club records.',
+        aliases: ['NJOI'],
+      },
+
+      'Bizarre Inc': {
+        bio: 'UK act from the acid house era, releasing tracks like \'Playing with Knives\' and remixes that kept acid squelch central to early rave.',
+        aliases: [],
+      },
+
+      'DJ Spider': {
+        bio: 'Chicago acid house producer known for raw, 303-driven tracks on labels like Relief and Dance Mania.',
+        aliases: [],
+      },
+
+      'B Jones': {
+        bio: 'Chicago house producer from the early 90s acid scene, releasing on labels like Djax-Up-Beats with a pummeling, acidic sound.',
+        aliases: [],
+      },
+
+      'Electrotete': {
+        bio: 'French producer creating contemporary acid techno and house tracks fueled by deep, resonant 303 basslines.',
         aliases: [],
       },
     },
@@ -8033,6 +8693,61 @@ export const electronic: Pillar = {
 
       'Otto Dix': {
         bio: 'Romanian band fusing dark electro, EBM, and synthpop in an aggressive, theatrical package.',
+        aliases: [],
+      },
+
+      'The Neon Judgement': {
+        bio: 'Belgian EBM/New Beat act from the early 1980s, blending dark synth lines with danceable, industrial-tinged rhythms.',
+        aliases: ['Neon Judgement'],
+      },
+
+      'Borghesia': {
+        bio: 'Slovenian band fusing EBM, industrial, and post-punk with provocative imagery, influential in the 1980s European scene.',
+        aliases: [],
+      },
+
+      'Spasenie': {
+        bio: 'Belgian EBM/industrial band from the 1980s, part of the early new beat and electronic body music movement.',
+        aliases: [],
+      },
+
+      'Absolute Body Control': {
+        bio: 'Belgian electronic/EBM act from the early 1980s, later evolved into The Klinik, crucial to the genre\'s formative years.',
+        aliases: ['ABC'],
+      },
+
+      'The Invincible Spirit': {
+        bio: 'Danish EBM/industrial project, known for the 1986 hit \'Push\', a classic example of harsh, driving electronic body music.',
+        aliases: [],
+      },
+
+      'Kode IV': {
+        bio: 'Danish industrial/EBM band from the late 1980s, dark, rhythmic, and technical, aligned with the genre\'s core sound.',
+        aliases: [],
+      },
+
+      'Bigod 20': {
+        bio: 'German EBM/techno-industrial group, famous for \'Like a Prayer\' remix and the track \'The Bog\', bridging EBM and techno.',
+        aliases: [],
+      },
+
+      'Aranos': {
+        bio: 'German EBM/electro act, active since the 1990s, known for aggressive, melodic dance-floor industrial.',
+        aliases: [],
+      },
+
+      'Kontravoid': {
+        bio: 'Canadian coldwave/EBM producer merging analog industrial decay with propulsive dancefloor aggression.',
+        aliases: ['Kontra Void'],
+      },
+
+      'Mareux': {
+        bio: 'Darkwave/EBM artist crafting brooding synth-driven songs with post-punk roots and festival-ready industrial moments.',
+        aliases: [],
+      },
+
+      'Boy Harsher': {
+        bio: 'US minimal-wave/EBM duo known for stripped-down drum machines, murky synth atmospheres, and raw, hypnotic vocals.',
         aliases: [],
       },
     },
@@ -8710,6 +9425,61 @@ export const electronic: Pillar = {
 
       'Funk LeBlanc': {
         bio: 'French producer whose funky, hook-laden nu-disco tracks bridge retro disco flair with modern electronic production.',
+        aliases: [],
+      },
+
+      'Houseswing': {
+        bio: 'Swiss DJ/producer merging soulful disco with deep house swing, known for remixes and releases on Razor-N-Tape Rescope.',
+        aliases: [],
+      },
+
+      'Sweatson Klank': {
+        bio: 'Los Angeles artist crafting lush disco-tinged edits and nu-disco grooves, rooted in beat-making and crate-digging.',
+        aliases: [],
+      },
+
+      'Darius': {
+        bio: 'French producer blending French touch and nu-disco synthscapes with dreamy synthwave textures on Roche Musique.',
+        aliases: [],
+      },
+
+      'Cosmo\'s Midnight': {
+        bio: 'Australian twin duo making balearic nu-disco and funk-laced electro-pop, with releases on Astralwerks.',
+        aliases: ['Cosmos Midnight'],
+      },
+
+      'BC Unidos': {
+        bio: 'Swedish-American duo, home of Marcus Holmberg, crafting lush, melodic pop with a nu-disco and Balearic undercurrent.',
+        aliases: [],
+      },
+
+      'Friendly Fires': {
+        bio: 'British indie-dance band blending post-punk energy with disco grooves, known for hits like \'Paris\' and \'Jump in the Pool\'.',
+        aliases: [],
+      },
+
+      'Perseus': {
+        bio: 'French nu-disco/house producer and DJ releasing on labels like Kitsuné, known for smooth, filtered disco edits and originals.',
+        aliases: [],
+      },
+
+      'Daniel Bovie': {
+        bio: 'Italian producer crafting refined, jazzy nu-disco and deep house with a classic, soulful edge.',
+        aliases: [],
+      },
+
+      'Snake hips': {
+        bio: 'Australian nu-disco project delivering polished, funk-driven electronic music with glossy production and singalong hooks.',
+        aliases: ['Snakehips'],
+      },
+
+      'Lord Echo': {
+        bio: 'New Zealand producer, multi-instrumentalist and arranger creating adventurous disco-funk dub, part of the Soothsayers collective.',
+        aliases: [],
+      },
+
+      'Samo & Co': {
+        bio: 'French nu-disco duo whose releases blend vintage disco samples with modern club-friendly production, often on Razor-N-Tape.',
         aliases: [],
       },
     },
