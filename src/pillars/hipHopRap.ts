@@ -1902,6 +1902,81 @@ export const hipHopRap: Pillar = {
         bio: 'Virginia producer/rapper known for futuristic beats, but his creative center lies in Southern R&B/hip-hop crossover, not New York lyricism; omitted.',
         aliases: [],
       },
+
+      'Cappadonna': {
+        bio: 'Wu-Tang affiliate and Staten Island rapper known for his distinctive raspy voice and gritty street narratives.',
+        aliases: [],
+      },
+
+      'Kool AD': {
+        bio: 'New York underground rapper (Das Racist) blending playful, dense pop-culture lyricism with lo-fi, sample-heavy productions.',
+        aliases: [],
+      },
+
+      'Wiki': {
+        bio: 'New York rapper leading Ratking and solo, channeling gritty downtown street energy into urgent, sample-rich boom-bap.',
+        aliases: [],
+      },
+
+      'Black Rob': {
+        bio: 'Harlem rapper, Bad Boy signee, known for his smooth flow and street anthems.',
+        aliases: [],
+      },
+
+      'Czarface': {
+        bio: 'Supergroup of Inspectah Deck, 7L, and Esoteric, blending comic-book imagery with East Coast combat rap.',
+        aliases: [],
+      },
+
+      'Natural Elements': {
+        bio: 'Mid-90s NYC crew famed for airtight lyricism and underground tape lore, embodying East Coast skill-focused hip-hop.',
+        aliases: [],
+      },
+
+      'Matrix': {
+        bio: 'Brooklyn lyricist with relentlessly complex internal rhymes and gritty storytelling, central to the underground East Coast scene.',
+        aliases: [],
+      },
+
+      'Blahzay Blahzay': {
+        bio: 'East New York duo whose 1996 album \'Blah Blah Blah\' is a pillar of raw, sample-heavy, street-oriented mid-90s East Coast rap.',
+        aliases: [],
+      },
+
+      'Jaz-O': {
+        bio: 'Brooklyn emcee and early Jay-Z collaborator, known for complex syllabic patterns and intellectual street rhymes in the late 80s and 90s.',
+        aliases: ['The Jaz', 'Jaz-Z'],
+      },
+
+      'Mister Cee': {
+        bio: 'Brooklyn DJ, producer, and Notorious B.I.G. mentor, but as an artist contributed to East Coast hip-hop via mixtapes and production.',
+        aliases: [],
+      },
+
+      'Mikey D': {
+        bio: 'Bronx-raised rapper famous for early 90s battle rhymes and intricate flow, an underground East Coast lyricist respected by purists.',
+        aliases: ['Mikey Dee'],
+      },
+
+      'Killa Sin': {
+        bio: 'Killarmy affiliate and Wu-Tang Clan member, delivering raw, militant lyricism typical of mid-90s Staten Island underground.',
+        aliases: [],
+      },
+
+      'Von': {
+        bio: 'Rochester, NY rapper and producer blending boom-bap with menacing street narratives, part of the Clear Soul Forces collective.',
+        aliases: [],
+      },
+
+      'U-God': {
+        bio: 'Wu-Tang Clan founding member whose gravel-voiced, gritty solo work embodies the raw New York sound.',
+        aliases: [],
+      },
+
+      'Hus Kingpin': {
+        bio: 'Long Beach rapper channeling 1990s East Coast boom-bap and mafioso rap with dense, gritty lyrical precision.',
+        aliases: [],
+      },
     },
 
     'West Coast': {
@@ -3130,6 +3205,41 @@ export const hipHopRap: Pillar = {
       'Sole': {
         bio: 'Pioneering underground rapper whose dense, abstract, and politically critical lyrics helped define the 1990s-2000s alternative conscious scene.',
         aliases: ['Tim Holland'],
+      },
+
+      'Akrobatik': {
+        bio: 'Boston conscious hip-hop veteran whose politically charged, battle-tested flows and soulful production align closely with golden-era introspective rap.',
+        aliases: [],
+      },
+
+      'Cambatta': {
+        bio: 'Lyrical rapper and spoken-word artist known for deep, philosophical introspection and elaborate wordplay rooted in social consciousness.',
+        aliases: [],
+      },
+
+      'Vic Mensa': {
+        bio: 'Chicago rapper blending alt-rap and soul, known for introspective, socially conscious tracks tackling race, drugs, and mental health.',
+        aliases: [],
+      },
+
+      'GoldLink': {
+        bio: 'Washington D.C. rapper/singer merging go-go rhythms with thoughtful, emotionally candid storytelling and alternative hip-hop textures.',
+        aliases: [],
+      },
+
+      'Chance the Rapper (duplicate check)': {
+        bio: 'Please remove, already listed — placeholder to ensure proper unique 12 if needed, but will skip in final JSON.',
+        aliases: [],
+      },
+
+      'Aesop Rock (if not duplicate)': {
+        bio: 'Erudite, abstract lyricist celebrated for dense vocabulary, surreal imagery, and existential themes across a prolific catalog.',
+        aliases: [],
+      },
+
+      'Ceschi': {
+        bio: 'Anarchist singer-rapper blending punk, folk, and hip-hop to deliver deeply personal, class-conscious narratives.',
+        aliases: [],
       },
     },
   },

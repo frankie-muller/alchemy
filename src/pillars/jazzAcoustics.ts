@@ -4970,6 +4970,11 @@ export const jazzAcoustics: Pillar = {
         bio: 'Cuban-born composer-arranger whose big-band Afro-Cuban jazz masterworks are foundational to the genre\'s orchestral expression.',
         aliases: ['Chico O\'Farrill Afro-Cuban Jazz Orchestra'],
       },
+
+      'Ed Simon': {
+        bio: 'Venezuelan pianist and composer celebrated for intricate, rhythmically rich Latin jazz compositions and acclaimed albums.',
+        aliases: ['Edward Simon'],
+      },
     },
 
     'Acoustic Guitar': {
