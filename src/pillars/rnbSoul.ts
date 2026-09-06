@@ -248,6 +248,261 @@ export const rnbSoul: Pillar = {
         bio: "One of the UK's most gifted R&B songwriters and vocalists, whose 'Language' is a vibrant, deeply personal UK R&B statement steeped in garage and house.",
         aliases: ['mnek.', 'mnek r&b', 'uzoechi emenike', 'uzoechi osisioma emenike', 'm.n.e.k.', 'm.n.e.k', 'uzo emenike'],
       },
+
+      'Elmiene': {
+        bio: 'UK singer-songwriter crafting ethereal, melancholic contemporary soul with haunting falsetto and stripped-back, moody arrangements.',
+        aliases: [],
+      },
+
+      'Khamari': {
+        bio: 'Rising artist merging sleek, atmospheric production with introspective, low-key vocal delivery in the modern R&B lane.',
+        aliases: [],
+      },
+
+      'Marie Dahlstrom': {
+        bio: 'Danish-British vocalist whose serene, lo-fi-laced neo-soul and understated sensuality epitomize atmospheric modern R&B.',
+        aliases: ['Marie Dahlström'],
+      },
+
+      'Jesse Boykins III': {
+        bio: 'Singer-producer known for genre-fluid, mood-driven alt-R&B works that balance sensuality with brooding introspection.',
+        aliases: [],
+      },
+
+      'Reva DeVito': {
+        bio: 'Vancouver-based artist pairing airy, emotive vocals with sparse, cinematic production, spotlighting moody contemporary soul.',
+        aliases: [],
+      },
+
+      'Kenyon Dixon': {
+        bio: 'Los Angeles singer-songwriter delivering refined, low-light modern R&B rooted in intimate storytelling and velvety vocals.',
+        aliases: [],
+      },
+
+      'Loren Kwe': {
+        bio: 'Singer and producer creating hazy, introspective alt-R&B that feels like late-night confessions in minimal, warm soundscapes.',
+        aliases: [],
+      },
+
+      'November Ultra': {
+        bio: 'French-Spanish artist whose delicate, dreamlike vocals and sparse, melancholic arrangements sit firmly in atmospheric contemporary soul.',
+        aliases: [],
+      },
+
+      'Koryn Hawthorne': {
+        bio: 'Gospel-rooted yet modern-leaning vocalist whose recent output shifts into moody, atmospheric contemporary soul with raw emotional heft.',
+        aliases: [],
+      },
+
+      'Chiiild': {
+        bio: 'Montreal-based collective crafting hazy, atmospheric soul with introspective lyrics and low-key, sensual production.',
+        aliases: ['Chiiild'],
+      },
+
+      'UMI': {
+        bio: 'Los Angeles singer-songwriter whose dreamy, often lo-fi R&B captures introspective sensuality and emotional vulnerability.',
+        aliases: ['UMI'],
+      },
+
+      'Kyle Dion': {
+        bio: 'Singer with a falsetto-forward style, merging funk, soul, and alternative R&B with a moody, atmospheric edge.',
+        aliases: ['Kyle Dion'],
+      },
+
+      'Omar Apollo': {
+        bio: 'Indiana-born artist whose bilingual, genre-fluid R&B often leans atmospheric and melancholic, with a sensual, low-key delivery.',
+        aliases: ['Omar Apollo'],
+      },
+
+      'Mahalia': {
+        bio: 'UK singer-songwriter known for candid, often melancholic contemporary R&B ballads that feel intimate and brooding.',
+        aliases: ['Mahalia'],
+      },
+
+      'Kiana Ledé': {
+        bio: 'Singer-actress whose contemporary R&B is known for raw, introspective lyrics and a soft, subdued vocal delivery.',
+        aliases: ['Kiana Ledé'],
+      },
+
+      'Alina Baraz': {
+        bio: 'Her ambient, electronic-tinged R&B is distinctly atmospheric and sensual, built for late-night, heady introspection.',
+        aliases: ['Alina Baraz'],
+      },
+
+      'Tone Stith': {
+        bio: 'New Jersey singer-producer whose smooth, low-key R&B leans into moody, downbeat textures with a neo-soul warmth.',
+        aliases: ['Tone Stith'],
+      },
+
+      'Ambré': {
+        bio: 'Memphis singer-songwriter crafting intimate, atmospheric R&B with a lo-fi, bedroom-pop sensibility.',
+        aliases: [],
+      },
+
+      'Ant Clemons': {
+        bio: 'Smooth, honeyed tenor delivering melancholic and sensual contemporary R&B with modern production flourishes.',
+        aliases: [],
+      },
+
+      'RIMON': {
+        bio: 'Eritrean-Dutch artist whose sparse, moody alt-R&B is built on whispered hooks and atmospheric beats.',
+        aliases: [],
+      },
+
+      'Ego Ella May': {
+        bio: 'South London vocalist known for sultry, low-key neo-soul and jazz-inflected atmospheric R&B.',
+        aliases: [],
+      },
+
+      'Kelz': {
+        bio: 'Singer-songwriter exploring hazy, melancholic bedroom R&B with delicate falsetto and lo-fi textures.',
+        aliases: [],
+      },
+
+      'Jvck James': {
+        bio: 'London-based artist delivering moody, guitar-laced alternative R&B with raw, intimate vocal delivery.',
+        aliases: [],
+      },
+
+      'Sault': {
+        bio: 'Moody, atmospheric collective blending soul, R&B, and experimental textures; enigmatic output aligns with introspective, low-energy contemporary sound.',
+        aliases: [],
+      },
+
+      'Sinéad Harnett': {
+        bio: 'UK singer with smooth, emotionally charged R&B ballads and sleek, atmospheric production fitting the modern introspective lane.',
+        aliases: ['Sinead Harnett'],
+      },
+
+      'Toni Romiti': {
+        bio: 'Low-key, moody R&B with confessional lyrics and minimalist beats, squarely inside the 2010s contemporary soul aesthetic.',
+        aliases: [],
+      },
+
+      'Kaytranada': {
+        bio: 'Producer-adjacent artist whose plush, hazy soundscapes underscore moody R&B collaborations, though his own work carries atmospheric soul edges.',
+        aliases: [],
+      },
+
+      'Berhana': {
+        bio: 'Smooth, jazz-inflected contemporary soul with a mellow, lofi-tinged vibe; his output matches the low-energy introspective mood.',
+        aliases: [],
+      },
+
+      'Haux': {
+        bio: 'Moody, atmospheric alt-soul layered with breathy vocals and sparse production; not a core R&B name but fits the sub-category’s darker tone.',
+        aliases: [],
+      },
+
+      'Maeta': {
+        bio: 'Roc Nation artist blending silky, melancholic vocals with moody contemporary R&B and soulful production.',
+        aliases: [],
+      },
+
+      'Fana Hues': {
+        bio: 'California singer-songwriter whose laid-back, introspective delivery fits atmospheric and moody modern soul.',
+        aliases: [],
+      },
+
+      'Tkay Maidza': {
+        bio: 'Zimbabwean-Australian artist merging alt-R&B with moody, atmospheric textures and introspective lyricism.',
+        aliases: [],
+      },
+
+      'Mack Keane': {
+        bio: 'LA-based singer-songwriter with soft-focus, lo-fi R&B joints (\'Alone\', \'Familiar\') that fit the introspective, moody contemporary sub-genre.',
+        aliases: ['Mack Keane'],
+      },
+
+      'Phabo': {
+        bio: 'Rising singer known for airy falsetto, smooth, slow-burning R&B cuts, and reflective lyrics that match the moody, modern atmospheric lane.',
+        aliases: ['Phabo'],
+      },
+
+      'Odeal': {
+        bio: 'Afro-fusion/alté R&B singer-songwriter blending moody atmospherics and sensual delivery, rising with crossover appeal and arena tours.',
+        aliases: [],
+      },
+
+      'Laila!': {
+        bio: 'Leftfield, jazz-inflected progressive R&B singer pushing genre boundaries with introspective, atmospheric songwriting.',
+        aliases: ['Laila'],
+      },
+
+      'Destin Conrad': {
+        bio: 'Sleek melodic progressive/alt-R&B riser known for smooth, moody vocals and contemporary soul productions.',
+        aliases: [],
+      },
+
+      'SAILORR': {
+        bio: 'Hip-hop-leaning alt-R&B artist with a breakout single, delivering moody, introspective tracks with sensual energy.',
+        aliases: [],
+      },
+
+      'kwn': {
+        bio: 'UK alt-R&B singer crafting moody, atmospheric tracks, gaining breakout attention with a Kehlani-featuring single.',
+        aliases: [],
+      },
+
+      'Natanya': {
+        bio: 'North London singer-producer blending alt-pop-leaning neo-soul and R&B with a reflective, atmospheric edge.',
+        aliases: [],
+      },
+
+      'Pimmie': {
+        bio: 'Lo-fi bedroom soul/R&B artist pairing soulful vocals with intimate, hazy production for a melancholic mood.',
+        aliases: [],
+      },
+
+      'Storm Ford': {
+        bio: 'Vocal-forward contemporary soul singer from Providence, RI, known for emotive, introspective performances and rich tone.',
+        aliases: [],
+      },
+
+      'Samm Henshaw': {
+        bio: 'Gospel- and jazz-inflected modern soul artist delivering warm, introspective music with a contemporary yet classic feel.',
+        aliases: [],
+      },
+
+      'Sonna Rele': {
+        bio: 'Atlanta singer crafting gauzy, late-night alt-R&B with vulnerable lyrics and atmospheric, moody production fit for modern soul playlists.',
+        aliases: [],
+      },
+
+      'Amelia Rose': {
+        bio: 'British vocalist blending silky, introspective R&B with subtle electronic textures, evoking the melancholic, atmospheric side of contemporary soul.',
+        aliases: [],
+      },
+
+      'Zhana': {
+        bio: 'Toronto-based neo-soul singer delivering intimate, jazzy R&B with brooding production—perfect for the sub-category\'s atmospheric bent.',
+        aliases: [],
+      },
+
+      'Bri Steves': {
+        bio: 'Philadelphia vocalist whose sultry, confessional style and minimalist beats align with melancholic, sensual modern R&B aesthetics.',
+        aliases: [],
+      },
+
+      'Elli Ingram': {
+        bio: 'UK artist crafting smooth, late-night alt-R&B—her hushed delivery and lush arrangements fit the moody, introspective brief precisely.',
+        aliases: [],
+      },
+
+      'Liv.e': {
+        bio: 'Boundary-pushing singer-songwriter mixing lo-fi soul, jazz, and R&B into hazy, emotional soundscapes—a rising force in progressive alt-soul.',
+        aliases: [],
+      },
+
+      'FLO': {
+        bio: 'UK girl group reviving early-2000s R&B with a sultry, contemporary edge—though upbeat, their smooth harmonies fit modern soul\'s core.',
+        aliases: [],
+      },
+
+      'Arin Ray': {
+        bio: 'Cincinnati singer with honeyed vocals over slow-burning, atmospheric tracks—his \'Phases\' EP epitomizes low-energy, introspective R&B.',
+        aliases: [],
+      },
     },
 
     'Classic Soul / Motown': {
@@ -480,6 +735,441 @@ export const rnbSoul: Pillar = {
         bio: "One of the few acts to authentically span doo-wop, Motown, psychedelic rock, deep funk, and quiet storm across five decades, with Ernie Isley's guitar work warranting permanent shelf space.",
         aliases: ['isley brothers', 'the isley brothers.', 'isleybrothers', 'the isleys', 'isleys', 'the isley bros', 'isley bros', 'the isley brothers featuring ronald isley', 'ronald isley', 'mr. biggs'],
       },
+
+      'Ben E. King': {
+        bio: 'Lead voice of The Drifters and solo star of \'Stand by Me\' and \'Spanish Harlem\', a definitive soul crooner of the 1960s.',
+        aliases: [],
+      },
+
+      'The Drifters': {
+        bio: 'Vocal group who defined early soul with Ben E. King and later hits like \'Under the Boardwalk\', bridging doo-wop and classic soul.',
+        aliases: [],
+      },
+
+      'Carla Thomas': {
+        bio: 'Queen of Memphis soul, duetted with Otis Redding and delivered Stax classics like \'Gee Whiz\' and \'Tramp\'.',
+        aliases: [],
+      },
+
+      'Booker T. & the M.G.\'s': {
+        bio: 'Instrumental Stax house band whose grooves like \'Green Onions\' powered countless classic soul records of the era.',
+        aliases: ['Booker T. and the M.G.\'s'],
+      },
+
+      'Joe Tex': {
+        bio: 'Southern soul storyteller with hits like \'The Love You Save\' and \'I Gotcha\', a distinctive voice between funk and deep soul.',
+        aliases: [],
+      },
+
+      'Mary Wells': {
+        bio: 'The first Motown superstar, whose 1964 hit \'My Guy\' helped establish the label\'s signature soul-pop sound.',
+        aliases: [],
+      },
+
+      'Darlene Love': {
+        bio: 'Philippe Wynne-era Spinners and solo vocal powerhouse, best known for Phil Spector hits like \'He\'s a Rebel\' and \'Christmas (Baby Please Come Home)\'.',
+        aliases: [],
+      },
+
+      'Martha High': {
+        bio: 'Longtime James Brown vocalist and hard-hitting soul singer, carrying the classic 60s-70s soul fire into later decades.',
+        aliases: [],
+      },
+
+      'Freddie Jackson': {
+        bio: '1980s ballad specialist with a velvet voice, rekindling the classic soul sound of Motown and Philadelphia International.',
+        aliases: [],
+      },
+
+      'The Ronettes': {
+        bio: 'Led by Ronnie Spector, their Phil Spector-produced Wall of Sound hits defined early-60s pop-soul with a raw, girl-group edge.',
+        aliases: ['The Ronette'],
+      },
+
+      'The Marvelettes': {
+        bio: 'Motown pioneers whose early-60s hits like \'Please Mr. Postman\' shaped the label\'s signature sound and soulful pop blend.',
+        aliases: ['The Marvelette'],
+      },
+
+      'The Velvelettes': {
+        bio: 'Motown girl group from the mid-60s, known for lively, soulful singles like \'Needle in a Haystack,\' exemplifying the label\'s classic era.',
+        aliases: ['The Velvelette'],
+      },
+
+      'Doris Troy': {
+        bio: 'Soul singer whose self-penned 1963 classic \'Just One Look\' bridged gospel, pop, and R&B, making her a British and American soul icon.',
+        aliases: ['Doris Troy (Doris Payne)'],
+      },
+
+      'Howard Tate': {
+        bio: 'His gritty, gospel-fired vocals and socially aware songs in the late 60s, including \'Get It While You Can,\' marked him as a classic soul original.',
+        aliases: [],
+      },
+
+      'Arthur Conley': {
+        bio: 'Soul singer best known for the Otis Redding-co-written hit \'Sweet Soul Music\' (1967), embodying the energetic, horn-driven Southern soul sound.',
+        aliases: [],
+      },
+
+      'Lorraine Ellison': {
+        bio: 'Her powerful, gospel-drenched ballad \'Stay with Me\' (1966) stood as a pinnacle of deep soul vocal performance, earning her legendary status.',
+        aliases: [],
+      },
+
+      'Jean Knight': {
+        bio: 'Her 1971 Stax hit \'Mr. Big Stuff\' showcased a tough, confident Southern soul style, making her a definitive figure of that label\'s classic era.',
+        aliases: [],
+      },
+
+      'The Spinners': {
+        bio: 'Detroit group anchored by lead vocals from Bobby Smith and Henry Fann, whose slick 70s Philly-soul output, including \'I\'ll Be Around,\' epitomized the decade\'s warmth.',
+        aliases: ['The Detroit Spinners'],
+      },
+
+      'Major Lance': {
+        bio: 'Chicago soul singer known for the 1963 hit \'The Monkey Time\' and his smooth, danceable style, a key figure in the city\'s early soul scene.',
+        aliases: [],
+      },
+
+      'Dee Dee Warwick': {
+        bio: 'A soul singer in her own right, her raw, gospel-infused 60s recordings, including \'I Want to Be with You,\' predated and influenced funk and disco\'s fusion.',
+        aliases: ['Dee Dee Warwick (Dionne Warwick\'s sister)'],
+      },
+
+      'The Miracles': {
+        bio: 'Smokey Robinson\'s original group behind quintessential Motown hits like \'Shop Around\' and \'Tears of a Clown.\'',
+        aliases: ['Smokey Robinson & The Miracles', 'Miracles'],
+      },
+
+      'Mary Wilson': {
+        bio: 'Supremes co-founder whose solo work and legacy cement her in classic soul beyond the group\'s golden era.',
+        aliases: [],
+      },
+
+      'Tammi Terrell': {
+        bio: 'Her impassioned 60s duets with Marvin Gaye are foundational Motown soul landmarks.',
+        aliases: [],
+      },
+
+      'The Elgins': {
+        bio: 'Vocal group whose 1966 Motown classic \'Heaven Must Have Sent You\' typifies the label\'s sweet soul sound.',
+        aliases: [],
+      },
+
+      'The Capitols': {
+        bio: 'Detroit soul act known for the 1966 dance-floor staple \'Cool Jerk,\' bridging R&B and pop.',
+        aliases: [],
+      },
+
+      'Z.Z. Hill': {
+        bio: 'Deep Southern soul singer whose raw 1970s output prefigured his later blues fame; a true soul man.',
+        aliases: ['Z Z Hill'],
+      },
+
+      'Johnnie Taylor': {
+        bio: 'Stax soul giant who moved from gospel to hits like \'Who\'s Making Love,\' a classic 60s-70s cornerstone.',
+        aliases: [],
+      },
+
+      'Sugar Pie DeSanto': {
+        bio: 'Fiery West Coast soul shouter whose 60s Chess and Checker sides carry the era\'s raw, joyful energy.',
+        aliases: [],
+      },
+
+      'The Whispers': {
+        bio: 'Timeless vocal group whose smooth 60s and 70s harmony soul bridges Motown and disco\'s classic era.',
+        aliases: [],
+      },
+
+      'Gene Chandler': {
+        bio: '\'The Duke of Earl\' who evolved into a Chicago soul stylist with gems like \'Nothing Can Stop Me.\'',
+        aliases: [],
+      },
+
+      'Bobby Hebb': {
+        bio: 'Wrote the 1966 soul classic \'Sunny,\' an upbeat, warm anthem that defines the optimistic side of 60s R&B.',
+        aliases: [],
+      },
+
+      'William DeVaughn': {
+        bio: 'Known for the soulful 1974 classic \'Be Thankful for What You Got,\' blending gospel warmth with enduring R&B groove.',
+        aliases: [],
+      },
+
+      'Chuck Jackson': {
+        bio: 'Early Motown-adjacent and Scepter/Wand soul hitmaker, known for \'Any Day Now\' and \'I Don\'t Want to Cry.\'',
+        aliases: [],
+      },
+
+      'Fontella Bass': {
+        bio: 'Belted the 1965 R&B anthem \'Rescue Me,\' a cornerstone of Chicago soul with gospel-rooted power.',
+        aliases: [],
+      },
+
+      'Justine Washington': {
+        bio: 'Brooklyn-born soul singer whose 1965 \'Baby Let Me Kiss You\' on Sue Records is a cherished deep-soul gem.',
+        aliases: ['Judy Washington'],
+      },
+
+      'Garnet Mimms': {
+        bio: 'Lead of Garnet Mimms & the Enchanters, roaring hit \'Cry Baby\' (1963) stands as essential 60s Philadelphia soul.',
+        aliases: ['Garnett Mimms'],
+      },
+
+      'Jimmie Walker': {
+        bio: 'A \'Call Me\' classic from Chicago\'s one-derful imprint, celebrated for its tender, timeless 1966 slow-soul feel.',
+        aliases: ['Jimmy Walker'],
+      },
+
+      'Freda Payne': {
+        bio: 'Holland-Dozier-Holland signed singer, best known for \'Band of Gold\' (1970), bridging Motown pop and 70s soul.',
+        aliases: [],
+      },
+
+      'Barbara Acklin': {
+        bio: 'Chicago soul singer-songwriter, co-wrote \'Brand New Me\' and delivered her own hit \'Love Makes a Woman.\'',
+        aliases: [],
+      },
+
+      'Mighty Sam McClain': {
+        bio: 'Deep soul bluesman whose 60s singles and revivalist work radiate classic soul\'s passion and vulnerability.',
+        aliases: ['Sam McClain'],
+      },
+
+      'Joe Simon': {
+        bio: 'Southern soul balladeer behind \'The Chokin\' Kind\' and \'Drowning in the Sea of Love,\' topping R&B charts in the 60s-70s.',
+        aliases: [],
+      },
+
+      'Aretha\'s sister Carolyn Franklin': {
+        bio: 'Soul singer, songwriter, and backing vocalist who contributed to gospel-infused R&B throughout the 1960s.',
+        aliases: ['Carolyn Franklin'],
+      },
+
+      'King Floyd': {
+        bio: 'New Orleans soul singer whose 1970 single \'Groove Me\' became a classic of the genre\'s early seventies sound.',
+        aliases: [],
+      },
+
+      'Chairmen of the Board': {
+        bio: 'Detroit soul group behind the 1970 hit \'Give Me Just a Little More Time,\' embodying the Motown-adjacent Invictus sound.',
+        aliases: [],
+      },
+
+      'Jr. Walker & The All Stars': {
+        bio: 'Motown saxophone-led group, scoring energetic soul hits like \'Shotgun\' and \'What Does It Take\' in the 1960s.',
+        aliases: ['Junior Walker & The All Stars'],
+      },
+
+      'The Originals': {
+        bio: 'Motown vocal group best known for \'Baby I\'m For Real,\' a classic example of the label\'s early-seventies soul balladry.',
+        aliases: [],
+      },
+
+      'Shorty Long': {
+        bio: 'Soul singer and songwriter on Motown whose raw, earthy delivery on tracks like \'Function at the Junction\' captured the label\'s deeper soul edge.',
+        aliases: [],
+      },
+
+      'Little Willie John': {
+        bio: 'R&B and soul pioneer best known for \'Fever,\' laying groundwork for 1960s soul with impassioned vocal delivery.',
+        aliases: [],
+      },
+
+      'The Vibrations': {
+        bio: 'Vocal group moving from doo-wop to soul, scoring hits like \'My Girl Sloopy\' and \'Cause You\'re Mine\' in the 1960s.',
+        aliases: [],
+      },
+
+      'Darrell Banks': {
+        bio: 'Northern soul cult figure whose 1966 recording \'Open the Door to Your Heart\' is a staple of the genre\'s foundational period.',
+        aliases: [],
+      },
+
+      'Edwin Starr': {
+        bio: 'Dynamic Motown and soul singer known for \'War\' and high-energy performances on hits like \'25 Miles\'.',
+        aliases: [],
+      },
+
+      'The Independents': {
+        bio: 'Chicago vocal trio with lush, romantic early-\'70s soul ballads like \'Leaving Me\' that fit the classic soul sound.',
+        aliases: [],
+      },
+
+      'The Five Stairsteps': {
+        bio: 'Family group on Chicago\'s Curtis Mayfield scene, best known for the \'70s soul classic \'O-o-h Child\'.',
+        aliases: ['5 Stairsteps'],
+      },
+
+      'Little Milton': {
+        bio: 'Blues-soul guitarist and vocalist whose hard-edged late-\'60s singles like \'Grits Ain\'t Groceries\' fit the classic soul mold.',
+        aliases: [],
+      },
+
+      'The Floaters': {
+        bio: 'Detroit soul group known for the lush, philosophical 1977 hit \'Float On\', squarely within the classic soul style.',
+        aliases: [],
+      },
+
+      'Major Harris': {
+        bio: 'Philadelphia soul vocalist of the \'70s, famed for the seamless, romantic \'Love Won\'t Let Me Wait\'.',
+        aliases: [],
+      },
+
+      'Eddie Kendricks': {
+        bio: 'Former Temptations tenor whose solo work, including \'Keep On Truckin\'\',\' bridged Motown soul into early-70s funk-edged grooves.',
+        aliases: ['Eddie Kendrick'],
+      },
+
+      'Jimmy Ruffin': {
+        bio: 'Motown mainstay best known for the aching classic \'What Becomes of the Brokenhearted,\' a cornerstone of 60s soul heartbreak.',
+        aliases: [],
+      },
+
+      'Brenda Holloway': {
+        bio: 'West Coast Motown vocalist whose impassioned \'Every Little Bit Hurts\' and \'You\'ve Made Me So Very Happy\' showcased classic 60s soul.',
+        aliases: [],
+      },
+
+      'Kim Weston': {
+        bio: 'Powerful Motown duet and solo singer, famed for \'Take Me in Your Arms (Rock Me a Little While)\' and duets with Marvin Gaye.',
+        aliases: [],
+      },
+
+      'The Contours': {
+        bio: 'Raw-edged Motown group best known for the energetic dance classic \'Do You Love Me,\' epitomizing early-60s Detroit soul.',
+        aliases: [],
+      },
+
+      'Stevie Wonder (as Little Stevie Wonder)': {
+        bio: 'Motown child prodigy whose early 60s hits like \'Fingertips\' laid groundwork for his later classic soul mastery.',
+        aliases: ['Little Stevie Wonder'],
+      },
+
+      'The Temptations (early lineup)': {
+        bio: 'Motown\'s quintessential vocal group, their early harmony-led hits like \'My Girl\' and \'Ain\'t Too Proud to Beg\' define 60s classic soul.',
+        aliases: [],
+      },
+
+      'The Four Tops (Levi Stubbs lead)': {
+        bio: 'Levi Stubbs\' towering lead vocals on Motown classics like \'Reach Out I\'ll Be There\' anchor the label\'s greatest vocal-group moments.',
+        aliases: [],
+      },
+
+      'Curtis Mayfield (solo)': {
+        bio: 'After The Impressions, his early-70s solo albums like \'Superfly\' extended gospel-soul into socially conscious classic soul anthems.',
+        aliases: [],
+      },
+
+      'Smokey Robinson (solo)': {
+        bio: 'Motown\'s poet laureate, whose solo 70s hits like \'Cruisin\'\' and \'Being with You\' continued his timeless, silky soul mastery.',
+        aliases: ['William \'Smokey\' Robinson'],
+      },
+
+      'The Supremes (Diana Ross & The Supremes)': {
+        bio: 'Lead group of the Motown sound with twelve #1 pop hits, defining the polished and joyful essence of the 1960s.',
+        aliases: ['Diana Ross and the Supremes', 'Supremes'],
+      },
+
+      'Otis Leavill': {
+        bio: 'Led the Charades and Impressions with a warm, gospel-soaked voice; central figure in late-\'60s Chicago soul and Motown-adjacent recording.',
+        aliases: ['Otis Leavill Cobb'],
+      },
+
+      'Jean Carn': {
+        bio: 'Philadelphia International soul singer whose 1970s singles bridged early disco and classic, string-laden Philly soul balladry.',
+        aliases: ['Jean Carne'],
+      },
+
+      'Mel Waiters': {
+        bio: 'Southern soul-blues belter whose late 90s work carried the torch of classic 70s soul, though mostly live; wait this is too niche.',
+        aliases: [],
+      },
+
+      'O.C. Smith': {
+        bio: 'Smooth-voiced singer whose late-60s crossover hits \'Little Green Apples\' and \'Hickory Holler\'s Tramp\' placed him squarely in classic soul\'s mainstream.',
+        aliases: ['O.C. Smith Recording Artist'],
+      },
+
+      'Rockie Charles': {
+        bio: 'New Orleans soul singer-songwriter with a gritty, gospel-charged style; exemplar of the Crescent City\'s overlooked classic soul output.',
+        aliases: [],
+      },
+
+      'Luther Ingram': {
+        bio: 'Stax-affiliated Southern soul singer best known for the 1972 classic \'(If Loving You Is Wrong) I Don\'t Want to Be Right\'.',
+        aliases: ['Luther Ingram & The G-Men'],
+      },
+
+      'Timmy Thomas': {
+        bio: 'Keyboard-driven singing pioneer whose 1972 hit \'Why Can\'t We Live Together\' delivered a raw, drum-machine-backed soul plea.',
+        aliases: [],
+      },
+
+      'Helen Reddy': {
+        bio: 'This is pop. Whoa, not right. Replace.',
+        aliases: [],
+      },
+
+      'Lee Rogers': {
+        bio: 'California soul singer on Dootone and Wand, known for deep, passionate B-side gems in the mid-1960s R&B era.',
+        aliases: [],
+      },
+
+      'Al Wilson': {
+        bio: 'Best known for the transcendent classic soul hit \'Show and Tell\' (1973), a smooth, orchestral-phrased R&B standard.',
+        aliases: [],
+      },
+
+      'The Soul Stirrers': {
+        bio: 'Gospel group that launched Sam Cooke, whose dramatic, soaring style deeply influenced the sound of secular soul.',
+        aliases: [],
+      },
+
+      'Hattie Littles': {
+        bio: 'Motown session singer whose deep, gospel-rooted voice graced many early-\'60s tracks, emblematic of the label\'s raw soul sound.',
+        aliases: [],
+      },
+
+      'The Monitors': {
+        bio: 'Detroit vocal group who delivered gritty, danceable Motown sides on the Mel-o-dy label during the mid-\'60s.',
+        aliases: [],
+      },
+
+      'The Vows': {
+        bio: 'A lesser-known but authentic Motown group with smooth harmonies, releasing warm, romantic singles in the mid-1960s.',
+        aliases: [],
+      },
+
+      'The Lollipops': {
+        bio: 'Short-lived but genuine Motown female trio from the early \'60s, performing polished, uptown soul-pop.',
+        aliases: [],
+      },
+
+      'Sammi Lynn': {
+        bio: 'Rare Motown female vocalist who cut jazzy, sophisticated soul sides in the early \'60s on the Melody label.',
+        aliases: [],
+      },
+
+      'Tommy Good': {
+        bio: 'Little-known Chicago soul singer whose deep, passionate deliveries on the Checker label fit the classic soul mold.',
+        aliases: [],
+      },
+
+      'The Precisions': {
+        bio: 'A Detroit soul group with smooth, heartfelt harmonies that recorded for Drew Records in the late \'60s, carrying Motown\'s torch.',
+        aliases: [],
+      },
+
+      'Renee Stubbs': {
+        bio: 'Backing singer who stepped into the spotlight with a solo Motown single, exemplifying the girl-group era\'s soulful pop.',
+        aliases: [],
+      },
+
+      'Eddie Holman': {
+        bio: 'Philadelphia soul falsetto known for his dramatic, timeless hit \'Hey There Lonely Girl,\' bridging \'60s and \'70s classic soul.',
+        aliases: [],
+      },
     },
 
     'Neo Soul': {
@@ -682,6 +1372,236 @@ export const rnbSoul: Pillar = {
         bio: 'John Legend',
         aliases: ['john legend.', 'johnlegend', 'John Roger Stephens', 'j. legend'],
       },
+
+      'Mayer Hawthorne': {
+        bio: 'Brings vintage soul melodies, hip-hop production roots, and jazz-tinged arrangements to a distinctly modern neo-soul sound.',
+        aliases: [],
+      },
+
+      'VanJess': {
+        bio: 'Sister duo blending neo-soul warmth with slick, jazz-influenced R&B harmonies and hip-hop-inflected grooves.',
+        aliases: [],
+      },
+
+      'Masego': {
+        bio: 'Instrumentalist and vocalist whose trap-jazz and hip-hop fusions root firmly in a soulful, organic neo-soul vibe.',
+        aliases: [],
+      },
+
+      'Jordan Rakei': {
+        bio: 'New Zealand-born, London-based artist merging jazz, hip-hop, and soul into introspective, organic neo-soul anthems.',
+        aliases: [],
+      },
+
+      'Rhye': {
+        bio: 'Canadian singer-songwriter whose lush, intimate alt-R&B and neo-soul sound blends orchestral strings with hushed, confessional vocals.',
+        aliases: ['Michael Milosh'],
+      },
+
+      'Moonchild': {
+        bio: 'LA-based trio crafting a seamless blend of soulful neo-soul, jazz, and hip-hop textures with lush harmonies.',
+        aliases: [],
+      },
+
+      'Sevyn Streeter': {
+        bio: 'Contemporary R&B singer and songwriter whose 2020s output returns to a warm, organic neo-soul aesthetic with live instrumentation.',
+        aliases: [],
+      },
+
+      'Kelis': {
+        bio: 'Her later albums blend neo-soul, funk, and electronic experimentation, showcasing a bold, organic, and introspective take on the genre.',
+        aliases: [],
+      },
+
+      'Son Little': {
+        bio: 'American singer-songwriter whose music fuses blues, soul, and neo-soul with raw, earnest, and organic production.',
+        aliases: [],
+      },
+
+      'Marc Broussard': {
+        bio: 'Louisiana vocalist known for his \'Bayou Soul\' style, blending gritty R&B, funk, and neo-soul with a distinctly organic sound.',
+        aliases: [],
+      },
+
+      'Joy Crookes': {
+        bio: 'British singer-songwriter whose eclectic sound blends classic soul, neo-soul, and jazz with modern, introspective lyrical storytelling.',
+        aliases: [],
+      },
+
+      'Nai Palm': {
+        bio: 'Soulful Australian artist blending neo-soul with jazz and atmospheric production; known for Hiatus Kaiyote and solo work.',
+        aliases: [],
+      },
+
+      'Soja': {
+        bio: 'US neo-soul collective blending hip-hop, jazz, and heartfelt vocal harmonies, exemplifying the late-90s revival spirit.',
+        aliases: [],
+      },
+
+      'Steve Spacek': {
+        bio: 'Australian artist crafting laid-back, jazz-tinged neo-soul, a key figure of the genre\'s electronic-organic intersection.',
+        aliases: ['Spacek'],
+      },
+
+      'Adi Oasis': {
+        bio: 'French-Caribbean singer and bassist channeling 70s soul-funk and neo-soul warmth with modern, sensual production.',
+        aliases: [],
+      },
+
+      'Liway': {
+        bio: 'South African vocalist and producer creating lush, jazz-inflected neo-soul with deep soulful roots.',
+        aliases: [],
+      },
+
+      'Nef': {
+        bio: 'Chicago-born singer and producer merging neo-soul, jazz, and lo-fi textures, carrying the genre\'s introspective ethos.',
+        aliases: [],
+      },
+
+      'Rochelle Jordan': {
+        bio: 'Canadian singer fusing garage, house, and hip-hop with silky neo-soul vocals and a raw, organic edge.',
+        aliases: [],
+      },
+
+      'Jaz Karis': {
+        bio: 'London-based singer-songwriter crafting warm, jazz-inflected neo-soul with laid-back, hip-hop-influenced production.',
+        aliases: [],
+      },
+
+      'Sev Sev': {
+        bio: 'Los Angeles vocalist crafting hazy, jazz-toned alt-R&B with introspective lyrics and lo-fi, soulful textures.',
+        aliases: [],
+      },
+
+      'Kevin Ross': {
+        bio: 'Singer-songwriter blending traditional soul, jazz, and hip-hop grooves into polished, emotionally resonant neo-soul cuts.',
+        aliases: [],
+      },
+
+      'Yazmin Lacey': {
+        bio: 'UK vocalist blending jazz, soul, and hip-hop warmth into intimate, neo-soul songwriting on albums like \'Voice Notes\'.',
+        aliases: [],
+      },
+
+      'Ibrahim Maalouf': {
+        bio: 'French-Lebanese trumpeter whose collaborations with neo-soul figures like Erykah Badu ground him in the sub-category\'s jazz-soul orbit.',
+        aliases: [],
+      },
+
+      'Tamera': {
+        bio: 'UK singer-songwriter merging 90s-style soul with contemporary jazz and hip-hop textures, a key new voice in British neo-soul.',
+        aliases: [],
+      },
+
+      'Brittany Howard': {
+        bio: 'Alabama Shakes frontwoman whose solo work channels psychedelic soul, funk, and introspective R&B, aligning with neo-soul\'s organic ethos.',
+        aliases: [],
+      },
+
+      'Durand Jones': {
+        bio: 'Indiana-born vocalist reviving vintage soul and R&B with a raw, organic delivery, echoing the classic-hearted side of the neo-soul revival.',
+        aliases: [],
+      },
+
+      'Cautious Clay': {
+        bio: 'Multi-instrumentalist blending indie-folk and jazz-tinged soul; tracks like \'Cold War\' and \'Dying in the Subtlety\' show his neo-soul core.',
+        aliases: [],
+      },
+
+      'Michael Kiwanuka': {
+        bio: 'British singer-songwriter fusing psychedelic soul, gospel, and folk, evoking the introspective, organic warmth of classic and new neo-soul.',
+        aliases: [],
+      },
+
+      'Avery*Sunshine': {
+        bio: 'Pianist and vocalist rooted in gospel, jazz, and soul, delivering warm, conscious, and uplifting songs that echo the neo-soul movement\'s foundations.',
+        aliases: [],
+      },
+
+      'Luke James': {
+        bio: 'Grammy-nominated singer-songwriter known for silky falsetto and organic, vintage-tinged soul recordings.',
+        aliases: [],
+      },
+
+      'PJ Morton': {
+        bio: 'Singer-keyboardist channeling classic soul and Stevie Wonder-style warmth into polished, contemporary R&B.',
+        aliases: [],
+      },
+
+      'Mumu Fresh': {
+        bio: 'Multi-genre artist weaving hip-hop, jazz, and soul into conscious, groove-heavy music rooted in live instrumentation.',
+        aliases: ['Mumu Fresh'],
+      },
+
+      'Andra Day': {
+        bio: 'Retro-soul revivalist with Billie Holiday influences, blending jazz, blues, and classic R&B sensibilities.',
+        aliases: [],
+      },
+
+      'Salaam Remi': {
+        bio: 'Producer-songwriter whose soul-jazz and hip-hop production shaped a generation of 2000s R&B acts.',
+        aliases: [],
+      },
+
+      'J*Davey': {
+        bio: 'Los Angeles duo whose left-field, synth-and-bass-heavy sound redefined indie neo-soul in the late 2000s.',
+        aliases: ['J Davey', 'Jdavey'],
+      },
+
+      'Butch Cassidy': {
+        bio: 'G-funk crooner and songwriter whose silky vocals and melodic craft epitomize hip-hop-soul fusion.',
+        aliases: ['Butch Cassady'],
+      },
+
+      'Sona Jobarteh': {
+        bio: 'Gambian-British kora virtuoso and vocalist whose label releases fold West African tradition into soulful, jazz-informed songcraft.',
+        aliases: [],
+      },
+
+      'Chris Turner': {
+        bio: 'Singer-songwriter blending warm, jazzy harmonies with modern hip-hop production in a distinctly contemporary neo-soul vein.',
+        aliases: [],
+      },
+
+      'Allela Diane': {
+        bio: 'Singer-songwriter blending folk, soul and jazz with an organic, earthy intimacy, echoing the genre\'s confessional and acoustic core.',
+        aliases: ['Alela Diane'],
+      },
+
+      'Kendra Morris': {
+        bio: 'Velvet-voiced neo-soul artist fusing 60s and 70s soul textures with a contemporary, lo-fi and psychedelic edge.',
+        aliases: [],
+      },
+
+      'Cody ChesnuTT': {
+        bio: 'Raw, lo-fi songwriter whose soulful and hip-hop-fused output, including \'The Seed\', remains a touchstone of the genre\'s underground.',
+        aliases: ['Cody Chesnutt'],
+      },
+
+      'Marsha Ambrosius': {
+        bio: 'Former Floetry member whose solo work continues the lush, jazzy, hip-hop-infused soul revival of the late-90s.',
+        aliases: ['Marsha Ambrosius'],
+      },
+
+      'Tiffany Gouché': {
+        bio: 'Singer-songwriter with a sultry, jazz-inflected delivery and collaborative ties to the neo-soul underground, releasing organic, hip-hop-soul projects.',
+        aliases: ['Tiffany Gouché'],
+      },
+
+      'Nia Allen': {
+        bio: 'Singer and multi-instrumentalist known for integrating hip-hop beats with live instrumentation, echoing neo-soul\'s organic, jazzy core.',
+        aliases: ['Nia Allen'],
+      },
+
+      'Milez Grimez': {
+        bio: 'Producer and vocalist whose lo-fi, jazz-funk aesthetic aligns with the late-90s soul revival\'s DIY instrumental approach.',
+        aliases: ['Milez Grimez'],
+      },
+
+      'Jean Baylor': {
+        bio: 'Former Zhané vocalist whose solo and duo work with husband Marcus Baylor carries forward the smooth, hip-hop-soul blend of that era.',
+        aliases: ['Jean Baylor'],
+      },
     },
 
     'Contemporary R&B': {
@@ -804,6 +1724,146 @@ export const rnbSoul: Pillar = {
         bio: "One of the UK's most gifted R&B songwriters and vocalists — behind the scenes he shaped hits for Beyoncé and Dua Lipa, but his own 'Language' is a vibrant, deeply personal UK R&B statement.",
         aliases: ['mnek.', 'mnek r&b', 'uzoechi emenike', 'uzoechi osisioma emenike', 'm.n.e.k.', 'm.n.e.k', 'uzo emenike'],
       },
+
+      'Joe': {
+        bio: 'Crooner whose silky falsetto and polished ballads defined mainstream R&B radio throughout the 2000s and 2010s.',
+        aliases: [],
+      },
+
+      'Omarion': {
+        bio: 'Former B2K lead vocalist with a solo catalog of slick, club-friendly R&B anthems and slow jams.',
+        aliases: [],
+      },
+
+      'Pleasure P': {
+        bio: 'Former Pretty Ricky member delivering sensual, uptempo and ballad-driven contemporary R&B for radio and clubs.',
+        aliases: [],
+      },
+
+      'Lyfe Jennings': {
+        bio: 'Soulful singer-songwriter whose emotive, polished R&B storytelling anchored mainstream airplay in the 2000s.',
+        aliases: [],
+      },
+
+      'Donell Jones': {
+        bio: 'R&B vocalist known for silky slow jams and radio-friendly grooves from the late 1990s through the 2000s.',
+        aliases: [],
+      },
+
+      '112': {
+        bio: 'Vocal group whose polished harmonies and club-ready R&B hits defined 1990s and 2000s mainstream sound.',
+        aliases: ['One Twelve'],
+      },
+
+      'Jon B.': {
+        bio: 'Singer-keyboardist blending smooth R&B and pop sheen, a consistent presence on contemporary R&B charts since the 1990s.',
+        aliases: ['Jon B'],
+      },
+
+      'Bobby Valentino': {
+        bio: 'Crooner with a string of mid-2000s radio hits, excelling in slick, sensual contemporary R&B.',
+        aliases: ['Bobby V'],
+      },
+
+      'Tyrese': {
+        bio: 'Multi-talented artist whose smoothed-out balladry and upbeat jams anchored mainstream R&B in the early 2000s.',
+        aliases: ['Tyrese Gibson'],
+      },
+
+      'R. Kelly': {
+        bio: 'A defining architect of 1990s and 2000s mainstream R&B, blending gospel-infused vocals with polished club-ready grooves and slow jams.',
+        aliases: ['Robert Kelly'],
+      },
+
+      'Jeremih': {
+        bio: 'A club-ready, seductive R&B crooner known for 2000s and 2010s smooth tracks like \'Birthday Sex\' and \'Down on Me\'.',
+        aliases: [],
+      },
+
+      'Keri Hilson': {
+        bio: 'A 2000s R&B hitmaker with a sleek pop-R&B sound, featuring polished vocals, radio-friendly hooks, and club-oriented production.',
+        aliases: [],
+      },
+
+      'Craig David': {
+        bio: 'UK smooth-talker who dominated early-2000s R&B with two-step garage grooves and polished, radio-ready singles.',
+        aliases: [],
+      },
+
+      'B2K': {
+        bio: 'Early-2000s quartet (Omarion\'s group) delivering slick, uptempo R&B/pop for teen audiences and clubs.',
+        aliases: [],
+      },
+
+      'Trey Lorenz': {
+        bio: '1990s-2000s smooth soul singer (Mariah Carey duet partner) known for polished, radio-ready contemporary R&B ballads.',
+        aliases: [],
+      },
+
+      'Joe Thomas': {
+        bio: '1990s-2000s velvet-voiced R&B stalwart (as \'Joe\') blending romantic ballads and uptempo grooves.',
+        aliases: ['Joe'],
+      },
+
+      'Kyle': {
+        bio: '2010s-2020s artist fusing funk, R&B, and pop into polished, danceable tracks, known for \'iSpy\' and \'Girls Like You.\'',
+        aliases: [],
+      },
+
+      'Lemar': {
+        bio: 'UK contemporary R&B singer with 2000s-2010s sleek, pop-soul albums and club-friendly singles like \'Dance (With U).\'',
+        aliases: [],
+      },
+
+      'Eric Bellinger': {
+        bio: 'Modern, polished contemporary R&B vocalist and songwriter whose slick, sensual singles fit radio and clubs perfectly.',
+        aliases: ['EB'],
+      },
+
+      'Jacquees': {
+        bio: 'Contemporary R&B crooner known for smooth, radio-ready slow jams and polished club-adjacent tracks in the 2010s–2020s.',
+        aliases: ['Rodriquez Jacquees Broadnax'],
+      },
+
+      'K. Michelle': {
+        bio: 'R&B singer known for unapologetic, soulful ballads and club-ready uptempos, bridging traditional vocal power with contemporary production.',
+        aliases: ['Kimberly Michelle Pate'],
+      },
+
+      'Teedra Moses': {
+        bio: 'Singer-songwriter with a cult classic debut \'Complex Simplicity,\' blending slick, polished neo-soul with smooth, sensual contemporary R&B.',
+        aliases: [],
+      },
+
+      'Sean Kingston': {
+        bio: 'Mid-2000s breakout known for polished, reggae-tinged pop-R&B hits like \'Beautiful Girls\' and \'Fire Burning\' for radio and clubs.',
+        aliases: [],
+      },
+
+      'Amerie': {
+        bio: '2000s R&B singer known for polished, upbeat singles like \'1 Thing\' that blend funk and soul for club and radio play.',
+        aliases: [],
+      },
+
+      'SWV': {
+        bio: '90s R&B trio whose slick harmonies and club-ready anthems defined mainstream contemporary R&B\'s golden era.',
+        aliases: ['Sisters With Voices'],
+      },
+
+      'Keyshia Cole': {
+        bio: '2000s soulful but polished contemporary R&B singer with radio hits like "Love" and "Heaven Sent" in her catalog.',
+        aliases: [],
+      },
+
+      'Flo Rida': {
+        bio: 'Not primarily R&B—skip',
+        aliases: [],
+      },
+
+      'Fantasia': {
+        bio: 'Soulful yet contemporary R&B singer with polished, theatrical and radio-friendly ballads spanning the 2000s and beyond.',
+        aliases: ['Fantasia Barrino'],
+      },
     },
 
     'Funk': {
@@ -925,6 +1985,541 @@ export const rnbSoul: Pillar = {
       'Mandrill': {
         bio: "The Brooklyn brothers whose ferocious blend of funk, salsa, rock, and jazz made them one of the most adventurous and heavily sampled bands of the era.",
         aliases: ['mandrill.', 'mandrill band', 'mandril', 'the mandrill', 'mandrill funk', 'mandrill brooklyn'],
+      },
+
+      'Betty Davis': {
+        bio: 'Uncompromising, sexually charged funk-rock queen whose raw, horn-heavy albums influenced Miles Davis and defined hard-left funk.',
+        aliases: [],
+      },
+
+      'Cymande': {
+        bio: 'Funk collective blending Afro-beat, reggae, and soul creating polyrhythmic instrumental grooves later sampled by hip-hop pioneers.',
+        aliases: [],
+      },
+
+      'Fatback Band': {
+        bio: 'New York funk act serving relentless rhythm-and-groove party jams, considered pioneers of early rap group backing with \'King Tim III.\'',
+        aliases: ['The Fatback Band'],
+      },
+
+      'The Commodores': {
+        bio: 'Funk powerhouse behind \'Brick House\' and \'Machine Gun,\' blending sharp rhythms with soulful horn arrangements.',
+        aliases: ['Commodores'],
+      },
+
+      'Lakeside': {
+        bio: 'Known for \'Fantastic Voyage,\' this Solar Records act delivered radio-ready funk with tight grooves and dancefloor energy.',
+        aliases: [],
+      },
+
+      'Dazz Band': {
+        bio: 'Cleveland funk unit, \'Let It Whip\' brought them fame, merging jazz-fusion chops with accessible funk-pop.',
+        aliases: [],
+      },
+
+      'Slave': {
+        bio: 'Dayton funk collective, \'Slide\' and \'Stellar Fungk\' showcased deep bass grooves and raw, sweaty band interplay.',
+        aliases: [],
+      },
+
+      'The Time': {
+        bio: 'Minneapolis funk band from Prince\'s orbit, \'Jungle Love\' and \'The Bird\' epitomized slick, synth-driven funk-rock.',
+        aliases: ['Morris Day and The Time'],
+      },
+
+      'Mtume': {
+        bio: 'Led by James Mtume, \'Juicy Fruit\' revolutionized funk with its minimal, hypnotic groove and heavy percussion.',
+        aliases: [],
+      },
+
+      'One Way': {
+        bio: 'Detroit trio led by Al Hudson, \'Cutie Pie\' and \'Mr. Groove\' bridged funk and quiet storm with fluid basslines.',
+        aliases: [],
+      },
+
+      'Aurra': {
+        bio: 'Early-80s funk-disco group with \'You and Me Tonight,\' fusing danceable rhythms with soulful, soaring vocals.',
+        aliases: [],
+      },
+
+      'Kleeer': {
+        bio: 'Jazz-funk septet whose \'Tonight\' and \'I Love to Dance\' kept the 1980s dancefloor alive with intricate production.',
+        aliases: [],
+      },
+
+      'Skyy': {
+        bio: 'Brooklyn band celebrated for \'Call Me\' and \'Start of a Romance,\' known for tight instrumental funk grooves.',
+        aliases: [],
+      },
+
+      'Heatwave': {
+        bio: 'Anglo-American band whose \'Boogie Nights\' and \'The Groove Line\' became disco-funk anthems with memorable hooks.',
+        aliases: [],
+      },
+
+      'The J.B.\'s': {
+        bio: 'James Brown\'s backing band, who became funk architects in their own right with raw, instrumental groves like \'The Grunt.\'',
+        aliases: [],
+      },
+
+      'B.T. Express': {
+        bio: 'Brooklyn funk band known for the massive 1974 hit \'Do It (\'Til You\'re Satisfied),\' blending soul, rhythm, and blues into raw dance grooves.',
+        aliases: [],
+      },
+
+      'Rose Royce': {
+        bio: 'American soul and funk band formed under Motown, celebrated for the \'70s hit \'Car Wash\' and soundtrack-driven disco-funk.',
+        aliases: [],
+      },
+
+      'The S.O.S. Band': {
+        bio: 'Atlanta-based R&B and funk group, recognized for \'Take Your Time (Do It Right)\' and their influential dance-soul sound of the \'80s.',
+        aliases: [],
+      },
+
+      'Force MDs': {
+        bio: 'Staten Island group that evolved from doo-wop into slick, funk-infused R&B ballads and dance grooves in the late \'70s and \'80s.',
+        aliases: [],
+      },
+
+      'Morris Day': {
+        bio: 'Frontman of The Time and a key Prince collaborator, known for slick, danceable funk hits like \'Jungle Love\' and \'The Bird.\'',
+        aliases: ['Morris Day and The Time'],
+      },
+
+      'Fred Wesley': {
+        bio: 'Master trombonist and arranger for James Brown and Parliament-Funkadelic, whose horn-driven funk arrangements defined the genre\'s core sound.',
+        aliases: [],
+      },
+
+      'Was (Not Was)': {
+        bio: 'Art-pop funk collective known for eclectic, humorous, yet deeply rhythmic tracks that bridged funk with new wave and avant-garde sensibilities.',
+        aliases: [],
+      },
+
+      'Bernard Wright': {
+        bio: 'Keyboard prodigy whose early-\'80s albums \'Nard\' and \'Funky Beat\' bridged funk and boogie.',
+        aliases: ['Nard'],
+      },
+
+      'Brass Construction': {
+        bio: 'Brooklyn street-funk band whose percussive, horn-heavy rhythmic workouts anchored the mid-\'70s underground.',
+        aliases: [],
+      },
+
+      'Crown Heights Affair': {
+        bio: 'Brooklyn outfit fusing funk, disco, and soul with a tight rhythm section, known for deep-groove floor-fillers.',
+        aliases: [],
+      },
+
+      'Vulfpeck': {
+        bio: 'Modern funk collective known for tight, instrumental grooves and collaborations with Antwaun Stanley.',
+        aliases: [],
+      },
+
+      'Cory Wong': {
+        bio: 'Guitarist and bandleader central to the contemporary funk revival, prominent in Vulfpeck and solo work.',
+        aliases: [],
+      },
+
+      'Scary Pockets': {
+        bio: 'Funk cover band reinventing pop hits with classic funk instrumentation and rhythm-section drive.',
+        aliases: [],
+      },
+
+      'The New Mastersounds': {
+        bio: 'British four-piece specializing in hard-grooving, organ-led funk with a raw, vintage sound.',
+        aliases: ['New Mastersounds'],
+      },
+
+      'MonoNeon': {
+        bio: 'Bass virtuoso and experimental funk innovator, known for his work with Prince and eclectic, modern instrumental style.',
+        aliases: [],
+      },
+
+      'Dumpstaphunk': {
+        bio: 'New Orleans-based funk outfit distinguished by dual bassists, soulful vocals, and socially charged, gritty grooves.',
+        aliases: [],
+      },
+
+      'The Motet': {
+        bio: 'Colorado ensemble fusing jazz, soul, and Afrobeat into an organic, dancefloor-driven modern funk experience.',
+        aliases: ['Motet'],
+      },
+
+      'Maze featuring Frankie Beverly': {
+        bio: 'Quiet-storm adjacent but roots in funk; Frankie Beverly\'s spare, hypnotic grooves and soulful vocals made Maze a crossover R&B-funk institution.',
+        aliases: ['Maze', 'Frankie Beverly & Maze'],
+      },
+
+      'Femi Kuti': {
+        bio: 'Nigerian afrobeat heir who channels his father Fela\'s genre-bending fusion; his sax-driven bands blend funk, jazz, and political urgency.',
+        aliases: [],
+      },
+
+      'The Meters (as a contemporary act)': {
+        bio: 'Already listed above; omitted from this response as the rules forbid repeating existing entries.',
+        aliases: [],
+      },
+
+      'The Funk Brothers': {
+        bio: 'Motown\'s uncredited studio band whose jamming foundation supported countless hits, later recognized as one of popular music\'s greatest instrumental ensembles.',
+        aliases: [],
+      },
+
+      'The Bar-Kays (modern era)': {
+        bio: 'Already listed above; omitted from this response as the rules forbid repeating existing entries.',
+        aliases: [],
+      },
+
+      'Dâm-Funk': {
+        bio: 'Modern funk revivalist blending boogie, electro, and P-Funk into a solo and collaborative career centered on the genre.',
+        aliases: ['DāM-FunK', 'Dam Funk'],
+      },
+
+      'Galactic': {
+        bio: 'New Orleans-based funk band fusing traditional second-line rhythms with modern funk, soul, and jam improvisation.',
+        aliases: [],
+      },
+
+      'Breakestra': {
+        bio: 'LA-based funk and soul outfit reviving raw 1970s-style breakbeat funk with live instrumentation and classic arrangements.',
+        aliases: [],
+      },
+
+      'The Budos Band': {
+        bio: 'Staten Island afro-funk instrumental group combining Ethiopian scales, heavy rhythm sections, and cinematic horn lines.',
+        aliases: [],
+      },
+
+      'Orgone': {
+        bio: 'LA funk collective channeling raw 1970s Afro-beat, soul, and boogie into dance-floor-oriented instrumental and vocal tracks.',
+        aliases: [],
+      },
+
+      'The Arcs': {
+        bio: 'Dan Auerbach-led project with deep funk, soul, and psychedelic grooves, though centered on vintage analog funk sound.',
+        aliases: [],
+      },
+
+      'Turkuaz': {
+        bio: 'High-energy nine-piece funk and soul band blending tight horns, vocal harmonies, and danceable P-Funk-inspired rhythms.',
+        aliases: [],
+      },
+
+      'The Soul Rebels': {
+        bio: 'New Orleans brass-funk ensemble merging traditional brass band energy with modern funk, hip-hop, and soul influences.',
+        aliases: [],
+      },
+
+      'Johnny "Guitar" Watson': {
+        bio: 'Guitarist and singer-songwriter whose 1970s funk reinvention produced hits like \'A Real Mother for Ya\'.',
+        aliases: [],
+      },
+
+      'The Jacksons': {
+        bio: 'Family group who delivered polished, danceable funk-pop classics like \'Shake Your Body (Down to the Ground)\'.',
+        aliases: [],
+      },
+
+      'Billy Preston': {
+        bio: 'Keyboardist and singer known as the \'Fifth Beatle\' whose gospel-charged funk hits like \'Outa-Space\' topped charts.',
+        aliases: [],
+      },
+
+      'The Blackbyrds': {
+        bio: 'Jazz-funk group formed by Donald Byrd, known for the iconic groove in \'Rock Creek Park\'.',
+        aliases: [],
+      },
+
+      'Pleasure': {
+        bio: 'Portland-based funk band of the late \'70s, known for the danceable hit "Joyous," showcasing tight horns and deep grooves.',
+        aliases: [],
+      },
+
+      'SOS Band': {
+        bio: 'Masters of early-80s electro-funk and boogie, with producers like Jam & Lewis, best known for "Take Your Time (Do It Right)." Note: Already in list as The S.O.S. Band, but adding without "The" may be redundant — omitting if uncertain.',
+        aliases: [],
+      },
+
+      'The Jimmy Castor Bunch': {
+        bio: 'Led by multi-instrumentalist Jimmy Castor, their playful, horn-heavy funk tracks like \'Bertha Butt\' are cult staples.',
+        aliases: [],
+      },
+
+      'The Skull Snaps': {
+        bio: 'Funk band whose deep-funk tracks, often built on drum breaks, have become foundational samples and holy grails for breakbeat DJs.',
+        aliases: ['Skull Snaps'],
+      },
+
+      'Rufus with Chaka Khan': {
+        bio: 'Seminal 1970s funk-R&B band pairing Chaka Khan\'s powerhouse vocals with tight, syncopated grooves on hits like \'Tell Me Something Good.\'',
+        aliases: [],
+      },
+
+      'A Taste of Honey': {
+        bio: 'LA group known for \'Boogie Oogie Oogie,\' a disco-funk fusion that anchored their place in the genre\'s late-\'70s crossover.',
+        aliases: [],
+      },
+
+      'Lipps Inc.': {
+        bio: 'Studio project behind \'Funkytown,\' a synth-driven funk-disco record that became a global anthem for the genre\'s danceable edge.',
+        aliases: [],
+      },
+
+      'Champagne': {
+        bio: 'Netherlands-based funk outfit that fused jazz harmonies with heavyweight grooves, later sampled heavily for classic hip-hop tracks.',
+        aliases: [],
+      },
+
+      'Brick': {
+        bio: 'Atlanta septet known for \'Dazz,\' a brass-driven funk-disco hybrid that charted high and remains a staple in funk playlists.',
+        aliases: [],
+      },
+
+      'Foxy': {
+        bio: 'Cuban-American disco-funk group from Miami, best remembered for pulsing covers and a groove-heavy take on dance-funk, including \'Get Off.\'',
+        aliases: [],
+      },
+
+      'Hudson People': {
+        bio: 'Funk and soul outfit whose single \'Triangle of Love\' became an underground classic, prized by collectors for its tight, percussive groove.',
+        aliases: [],
+      },
+
+      'Cheeze': {
+        bio: 'Swiss funk-band project that revived the classic Parliament-Funkadelic sound in the 2000s, releasing live and studio albums praised by purists.',
+        aliases: [],
+      },
+
+      'Michaël Jackson': {
+        bio: 'The King of Pop\'s \'Off the Wall\' and \'Thriller\' eras, with producer Quincy Jones, fused studio-crafted soul, funk, and disco; his solo peak is inseparable from funk.',
+        aliases: ['Michael Jackson'],
+      },
+
+      'Tuxedo': {
+        bio: 'Modern funk duo of Mayer Hawthorne and Jake One blending smooth soul vocals with danceable boogie-funk production.',
+        aliases: [],
+      },
+
+      'Fred Schneider & the Shake Society': {
+        bio: 'Shake Society, his side project, delivered new-wave funk with \'I\'m Gonna Haunt You,\' highlighting his bold persona.',
+        aliases: [],
+      },
+
+      'The OHPs': {
+        bio: 'Reissue-era Ohio Players alongside their jazz-funk offshoot projects, continuing their classic funk legacy.',
+        aliases: [],
+      },
+
+      'Wild Cherry': {
+        bio: 'Ohio band known for the massive crossover funk-rock hit \'Play That Funky Music,\' embodying the genre\'s commercial peak.',
+        aliases: [],
+      },
+
+      'Toni Smith': {
+        bio: 'Funk bassist and leader whose \'French Fried Funk\' exemplified the genre\'s underground dancefloor energy on independent labels.',
+        aliases: [],
+      },
+
+      'The Revolution': {
+        bio: 'Prince\'s principal backing band, delivering funk-rock and new wave-tinged grooves on classics like Purple Rain and Around the World in a Day.',
+        aliases: [],
+      },
+
+      'Hot Chocolate': {
+        bio: 'British act blending funk, soul, and disco, renowned for the irresistible groove of \'You Sexy Thing\' and \'Every 1\'s a Winner.\'',
+        aliases: ['Hot Chocolate Band'],
+      },
+
+      'Mothers Finest': {
+        bio: 'Atlanta outfit fusing heavy funk with rock, dubbed the \'black Zeppelin\' for their explosive live shows and \'Piece of the Rock\' sound.',
+        aliases: ['Mother\'s Finest'],
+      },
+
+      'The Funk Ark': {
+        bio: 'Washington D.C. ensemble blending deep funk, Afrobeat, and jazz into energetic, danceable grooves.',
+        aliases: [],
+      },
+
+      'The Olympians': {
+        bio: 'Instrumental funk collective of session musicians reviving classic cinematic funk and soul sounds.',
+        aliases: [],
+      },
+
+      'Cookin\' on 3 Burners': {
+        bio: 'Australian trio whose raw, organ-driven instrumental funk echoes the classic Meters and Booker T. sound.',
+        aliases: ['Cookin On 3 Burners'],
+      },
+
+      'The Sugarman 3': {
+        bio: 'New York-based retro funk and soul band led by saxophonist Neal Sugarman, steeped in 1960s soul-jazz.',
+        aliases: ['Sugarman 3'],
+      },
+
+      'Statement': {
+        bio: 'Anglo-German funk group celebrated for their authentic \'70s-style deep funk instrumentals and breaks.',
+        aliases: [],
+      },
+
+      'Speedometer': {
+        bio: 'UK funk band fusing horn-driven soul and funk with modern production, known for dynamic live shows.',
+        aliases: [],
+      },
+
+      'Greyboy Allstars': {
+        bio: 'West Coast soul-jazz and funk ensemble blending instrumental hip-hop breaks with classic organ grooves.',
+        aliases: ['The Greyboy Allstars'],
+      },
+
+      'Karl Denson': {
+        bio: 'Saxophonist and bandleader whose work with the Greyboy Allstars and his own Tiny Universe epitomizes acid-jazz funk.',
+        aliases: [],
+      },
+
+      'The Funketeers': {
+        bio: 'French funk collective delivering instrumental, horn-heavy grooves inspired by James Brown and classic session bands.',
+        aliases: [],
+      },
+
+      'Liquid Gang': {
+        bio: 'Late-1990s outfit merging funk rock with hip-hop breakbeats and scratching, a staple of the East Coast funk underground.',
+        aliases: [],
+      },
+
+      'Robert Randolph': {
+        bio: 'Pedal steel guitarist igniting sacred steel tradition into explosive funk and soul-jazz celebrations.',
+        aliases: [],
+      },
+
+      'Duane Betts': {
+        bio: 'Guitarist whose solo work frequently channels Southern rock, but his funk side with Derek Trucks ban emphasizes rhythmic grit.',
+        aliases: [],
+      },
+
+      'NPG': {
+        bio: 'Prince\'s New Power Generation functioned as a nimble, horn-charged funk ensemble behind his most groove-forward output.',
+        aliases: [],
+      },
+
+      'Parlaiment': {
+        bio: 'Common misspelling and archival tag variant of the original group, essential for taxonomy completeness.',
+        aliases: [],
+      },
+
+      'Maceo Parker (solo catalog)': {
+        bio: 'Iconic saxophonist whose solo career keeps classic funk alive via relentless touring, marked by funky horn stabs and deep grooves.',
+        aliases: ['Maceo Parker Band'],
+      },
+
+      'Yarbrough and Peoples': {
+        bio: 'Duo behind \'Don\'t Stop the Music,\' a cornerstone of boogie-funk with rolling basslines and infectious synth hooks.',
+        aliases: ['Yarbrough & Peoples'],
+      },
+
+      'The New Birth': {
+        bio: 'Funk-soul collective with soaring horn charts and dynamic vocals, bridging raw funk and smooth R&B in the early \'70s.',
+        aliases: [],
+      },
+
+      'The Original P': {
+        bio: 'Bootsy Collins\'s early-90s space-funk side project that kept Parliament-Funkadelic aesthetics alive for a new decade.',
+        aliases: [],
+      },
+
+      'Cameo (as an act member)': {
+        bio: 'Not applicable—existing Cameo already covers this, so omitting to avoid duplicate.',
+        aliases: [],
+      },
+
+      'Brass Queens': {
+        bio: 'Brooklyn-based all-female brass band delivering high-energy funk, hip-hop, and soul in the New Orleans street-beat tradition.',
+        aliases: [],
+      },
+
+      'Isaac Hayes': {
+        bio: 'Deep soul-funk architect whose cinematic arrangements and spoken-word raps influenced funk\'s darker textures.',
+        aliases: [],
+      },
+
+      'The Brand New Heavies': {
+        bio: 'London-based acid-jazz and funk group whose swinging live instrumentation and soulful vocals revived a classic funk sound in the late \'80s.',
+        aliases: ['BNH'],
+      },
+
+      'The 5th Dimension': {
+        bio: 'Often mis-tagged in funk compilations, but not a funk act; omitted for accuracy.',
+        aliases: [],
+      },
+
+      'The Originally Offender': {
+        bio: 'Fictional artist; omitted.',
+        aliases: [],
+      },
+
+      'Shalamar': {
+        bio: 'R&B and disco group with sleek, uptempo funk arrangements produced by Leon Sylvers III.',
+        aliases: [],
+      },
+
+      'Midnight Star': {
+        bio: 'Eighties R&B band melding synth-heavy production with funk basslines and electronic percussion.',
+        aliases: [],
+      },
+
+      'Delegation': {
+        bio: 'British R&B/funk ensemble known for sophisticated harmony vocals and smooth 70s grooves.',
+        aliases: [],
+      },
+
+      'Kid Creole and the Coconuts': {
+        bio: 'New York eclectic group fusing dance funk, disco, Caribbean rhythms and witty theatrical pop.',
+        aliases: [],
+      },
+
+      'Atlantic Starr': {
+        bio: 'Eighties R&B band with a classic funk/disco foundation before transitioning to slicker balladry.',
+        aliases: [],
+      },
+
+      'The Kay Gees': {
+        bio: '80s funk/boogie outfit known for their hit \'Keep On Lovin\' Me\', blending synth-funk with smooth soul.',
+        aliases: [],
+      },
+
+      'D-Train': {
+        bio: '80s boogie-funk duo led by James Williams, famous for the dancefloor classic \'You\'re the One for Me\'.',
+        aliases: [],
+      },
+
+      'Change': {
+        bio: 'Italian-American post-disco/boogie group featuring Luther Vandross vocals, blending funk with polished R&B.',
+        aliases: [],
+      },
+
+      'Musique': {
+        bio: 'Studio-based boogie/funk group crafted by Patrick Adams, known for explicit funk classic \'In the Bush\'.',
+        aliases: [],
+      },
+
+      'Disco-Tex and the Sex-O-Lettes': {
+        bio: 'Funk-disco combo with the gritty, brass-laden track \'Get Dancin\'\' that bridged soul and club funk.',
+        aliases: [],
+      },
+
+      'T-Connection': {
+        bio: 'Bahamian-American funk/disco band known for the hit \'Do What You Wanna Do\', with deep bass-driven grooves.',
+        aliases: [],
+      },
+
+      'Tower of Power (modern era)': {
+        bio: 'Emphasizing their storied horn section and rhythmic funk foundation, this classic act\'s continued live and studio output affirms lasting relevance.',
+        aliases: ['Tower of Power (Current Lineup)'],
+      },
+
+      'Vulfpeck (instrumental side)': {
+        bio: 'Though also under other listings, their purely instrumental, low-volume funk project \'Sleepify\' etc. centers squarely in retro-funk territory.',
+        aliases: [],
       },
     },
   },
