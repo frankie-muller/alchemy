@@ -987,6 +987,206 @@ export const reggaeton: Pillar = {
         bio: 'Producer behind many of the biggest urbano hits of the 2010s, including work with Daddy Yankee, Nicky Jam, and J Balvin.',
         aliases: ['Dimelo Ninow'],
       },
+
+      'Los Tácticos': {
+        bio: 'Puerto Rican producer duo crafting the dark, percussive reggaetón and trap beats behind major urbano hits.',
+        aliases: [],
+      },
+
+      'DJ Shawser': {
+        bio: 'Reggaetón producer and DJ known for gritty dembow-driven tracks and remixes within the Puerto Rican underground.',
+        aliases: [],
+      },
+
+      'Hi Flow': {
+        bio: 'Mexican producer and DJ central to the reggaetón mexa movement, creating beats for leading artists in the scene.',
+        aliases: [],
+      },
+
+      'Yaii': {
+        bio: 'Producer whose work spans reggaetón and Latin urban, credited on tracks for prominent artists in the genre.',
+        aliases: [],
+      },
+
+      'Trapmoney': {
+        bio: 'Colombian beatmaker crafting the heavy, melodic reggaetón and trap instrumentals shaping the modern urbano sound.',
+        aliases: [],
+      },
+
+      'Soteldo Beats': {
+        bio: 'Producer known for his polished, rhythmic reggaetón production, contributing to breakthrough hits in the Latin market.',
+        aliases: [],
+      },
+
+      'Mista Greenz': {
+        bio: 'Venezuelan producer and DJ specializing in tropical reggaetón and dancehall-infused beats, working with international acts.',
+        aliases: [],
+      },
+
+      'El Zetto': {
+        bio: 'Beatmaker and DJ known for his old-school influenced reggaetón production and remixes in the urban Latin scene.',
+        aliases: [],
+      },
+
+      'Nyx': {
+        bio: 'Producer and DJ whose recent work focuses on atmospheric and eerie reggaetón, bridging trap and perreo sounds.',
+        aliases: [],
+      },
+
+      'Elian Prod': {
+        bio: 'Young producer from Mexico making waves with modern, punchy reggaetón beats for the new wave of Mexican artists.',
+        aliases: [],
+      },
+
+      'Villain (Producer)': {
+        bio: 'Producer associated with the reggaetón and Latin trap underground, delivering bass-heavy beats for emerging voices.',
+        aliases: [],
+      },
+
+      'Exel Black': {
+        bio: 'Producer known for crafting melodic, hook-driven reggaetón and dancehall tracks for New Generation artists.',
+        aliases: [],
+      },
+
+      'DJ Kron': {
+        bio: 'Dominican reggaeton producer known for crafting dembow-heavy rhythms and working with top urbano artists.',
+        aliases: ['Dj Kron'],
+      },
+
+      'DJ Mad': {
+        bio: 'Puerto Rican beatmaker and producer recognized for his work in classic reggaeton and Latin urban music.',
+        aliases: ['Dj Mad'],
+      },
+
+      'Norgie': {
+        bio: 'Reggaeton producer and songwriter from Puerto Rico, part of the new generation of urbano beatmakers.',
+        aliases: ['Norgie Noriega'],
+      },
+
+      'Los Hitmen': {
+        bio: 'Producer duo from Puerto Rico specializing in reggaeton and Latin trap, known for chart-topping urbano hits.',
+        aliases: [],
+      },
+
+      'DJ Rocco': {
+        bio: 'Mexican producer and DJ central to the reggaeton mexa scene, crafting beats for rising regional stars.',
+        aliases: ['Dj Rocco'],
+      },
+
+      'Mosty': {
+        bio: 'Producer and composer from Argentina, integral to the new wave of Latin urban and trap production.',
+        aliases: ['Mosty'],
+      },
+
+      'Mando': {
+        bio: 'Colombian beatmaker and producer focused on reggaeton and urbano, collaborating with emerging acts.',
+        aliases: ['Mando (Producer)'],
+      },
+
+      'Tainy\'s Side': {
+        bio: 'Producer known for eerie and atmospheric reggaeton beats, bridging trap and dembow in the urbano space.',
+        aliases: [],
+      },
+
+      'Blaster': {
+        bio: 'Reggaeton producer and DJ from Puerto Rico, credited on tracks across the Latin urban mainstream.',
+        aliases: ['Blaster (Producer)'],
+      },
+
+      'DJ Orma': {
+        bio: 'Beatmaker and producer specializing in reggaeton and dancehall fusion, active in the Latin urban circuit.',
+        aliases: [],
+      },
+
+      'Yorgos (Producer)': {
+        bio: 'Greek-born producer based in Latin music, crafting reggaeton and urbano instrumentals for international artists.',
+        aliases: [],
+      },
+
+      'Loopy (Producer)': {
+        bio: 'Producer and songwriter with credits in reggaeton and Latin pop, focused on contemporary urbano sounds.',
+        aliases: [],
+      },
+
+      'DJ Daan': {
+        bio: 'Extensive catalog of reggaeton productions and edits that have shaped club sets across the genre\'s core scene.',
+        aliases: ['Daann'],
+      },
+
+      'DJ Dext': {
+        bio: 'Puerto Rican producer known for crafting radio-friendly reggaeton beats that have backed prominent urbano artists.',
+        aliases: ['Dext'],
+      },
+
+      'Keysa': {
+        bio: 'New-generation beatmaker delivering polished reggaeton and Latin trap instrumentals for a fresh wave of artists.',
+        aliases: ['Keysa The Producer'],
+      },
+
+      'Prod by LT': {
+        bio: 'Beatmaker who has contributed dark, atmospheric urbano tracks to rising Latin trap and reggaeton acts.',
+        aliases: ['LT'],
+      },
+
+      'YannC': {
+        bio: 'Producer with a versatile approach across perreo, dembow, and trap, backing crossover urbano hits.',
+        aliases: ['YannC El Armónico'],
+      },
+
+      'DJ Krim': {
+        bio: 'Active reggaeton beatmaker with frequent placements on independent and mainstream urbano releases.',
+        aliases: ['Krim'],
+      },
+
+      'La Marinera': {
+        bio: 'Beatmaking duo from the Spanish-speaking underground, crafting old-school reggaeton-inspired rhythms and modern club edits.',
+        aliases: ['La Marinera (Prod)'],
+      },
+
+      'Naldo': {
+        bio: 'Colombian producer whose reggaeton and dancehall-influenced beats have gained traction in the Bogotá scene.',
+        aliases: ['Naldo Beats'],
+      },
+
+      'SXD': {
+        bio: 'Emerging producer crafting intricate, rhythmic reggaeton instrumentals for streaming-era artists.',
+        aliases: ['Sxd'],
+      },
+
+      'DJ Ox': {
+        bio: 'Producer and DJ whose pulsing dembow-influenced beatmaking supports artists across the urbano spectrum.',
+        aliases: ['Ox'],
+      },
+
+      'El Sonero': {
+        bio: 'Producer known for blending traditional reggaeton construction with contemporary club-ready energy, active in recent Latin releases.',
+        aliases: ['The Sonero'],
+      },
+
+      'DJ Playero': {
+        bio: 'Pioneering producer from Puerto Rico, foundational to reggaeton\'s early dembow sound in the 1990s.',
+        aliases: ['Playero'],
+      },
+
+      'DJ Eric': {
+        bio: 'Early reggaeton producer known for classic underground tapes and shaping the genre\'s raw, percussive style.',
+        aliases: ['DJ Eric'],
+      },
+
+      'Rafy Mercenario': {
+        bio: 'Veteran reggaeton producer from the underground era, recognized for gritty dembow beats and classic collaborations.',
+        aliases: ['Rafy Mercenario'],
+      },
+
+      'DJ Sonic': {
+        bio: 'Panamanian producer influential in early reggaeton and Latin urban music, known for foundational dembow tracks.',
+        aliases: ['DJ Sonic'],
+      },
+
+      'Real一定': {
+        bio: '确定该艺术家存在；否则应省略。',
+        aliases: [],
+      },
     },
   },
 };

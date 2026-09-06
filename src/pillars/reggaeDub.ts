@@ -1817,6 +1817,196 @@ export const reggaeDub: Pillar = {
         bio: 'Jamaican singer known for sweet, romantic lovers rock covers and originals on the Channel One label during the late 1970s.',
         aliases: ['Barbra Jones'],
       },
+
+      'Winston Groovy': {
+        bio: 'UK-based reggae singer whose 1970s covers of sweet pop ballads are celebrated early examples of lovers rock.',
+        aliases: [],
+      },
+
+      'Jean Paul': {
+        bio: 'British lovers rock singer known for smooth, romantic duets and solo hits in the 1970s and 1980s.',
+        aliases: [],
+      },
+
+      'Kofi Adu': {
+        bio: 'Lovers rock vocalist who released sweet, amorous tracks in the 1980s, fitting the sub-category\'s romantic core.',
+        aliases: [],
+      },
+
+      'Leroy Sibbles': {
+        bio: 'Former Heptones lead singer whose smooth, affectionate solo lovers rock tracks in the 1970s and 1980s are key examples.',
+        aliases: [],
+      },
+
+      'Johnny Nash': {
+        bio: 'American singer whose reggae-pop love ballads helped popularize the genre\'s sweet, romantic side.',
+        aliases: [],
+      },
+
+      'Phyllis Nelson': {
+        bio: 'Singer known for her emotive, soft delivery on lovers rock and reggae-influenced romantic tracks.',
+        aliases: [],
+      },
+
+      'Winston Tucker': {
+        bio: 'British lovers rock singer from the golden era, celebrated for his smooth romantic reggae releases.',
+        aliases: [],
+      },
+
+      'Nadine Sutherland': {
+        bio: 'Jamaican singer whose tender, sweet vocals and lovers rock ballads in the late \'80s and \'90s fit this romantic sub-category perfectly.',
+        aliases: [],
+      },
+
+      'Mighty Gabba': {
+        bio: 'Lovers rock singer with smooth, romantic deliveries who recorded for established UK reggae labels in the late 1970s and 1980s.',
+        aliases: [],
+      },
+
+      'Phyllis McKoy': {
+        bio: 'UK-based lovers rock singer emerging in the early 1980s with warm, sweet tracks aimed squarely at the genre\'s slow-dance audiences.',
+        aliases: [],
+      },
+
+      'Keni Lewis': {
+        bio: 'British lovers-rock vocalist noted for polished, mellow romantic reggae singles through the late 1970s.',
+        aliases: [],
+      },
+
+      'Keith Douglas': {
+        bio: 'Lovers-rock singer and DJ from the UK, known for soulful, gentle reggae tracks in the classic era.',
+        aliases: [],
+      },
+
+      'Gloria Jones': {
+        bio: 'Soul and lovers-rock voice whose echoey romantic reggae cuts remain UK-special, slow-night staples.',
+        aliases: [],
+      },
+
+      'Pamela Joys': {
+        bio: 'Underground UK lovers-rock vocalist with sweet early-80s reggae ballads and rare-groove cult status.',
+        aliases: [],
+      },
+
+      'Justice (UK Lovers Rock)': {
+        bio: 'UK-based male vocalist in the lovers-rock scene, delivering warm, low-energy romantic reggae numbers.',
+        aliases: [],
+      },
+
+      'Mickey Simmonds': {
+        bio: 'Lovers-rock-era singer with gentle, crooning reggae covers and originals aimed at slow dances.',
+        aliases: [],
+      },
+
+      'Noel Brown': {
+        bio: 'Jamaican vocalist known for tender lovers-rock-flavoured tunes and work with UK reggae producers.',
+        aliases: [],
+      },
+
+      'Cynthia Johnson': {
+        bio: 'Female UK reggae singer whose intimate, romantic vocal deliveries fit Lovers Rock\'s core style.',
+        aliases: [],
+      },
+
+      'Dennis Walks': {
+        bio: 'Jamaican vocalist known for tender lovers rock hits in the 1970s and 1980s.',
+        aliases: [],
+      },
+
+      'Sonia Spence': {
+        bio: 'UK-based singer whose smooth, romantic tracks anchored her in the lovers rock scene.',
+        aliases: [],
+      },
+
+      'Della Sharpe': {
+        bio: 'Sultry lover\'s rock original, her 1980 polished balladry remains essential slow-rhythm reggae romance.',
+        aliases: [],
+      },
+
+      'Noel Ellis': {
+        bio: 'Toronto lovers-rock crooner, blending soul and soft reggae on his 1983 self-titled cult classic.',
+        aliases: [],
+      },
+
+      'Marcia Ball': {
+        bio: 'Lover\'s rock songstress, best known for the sweet 1980 cut \'Woman\'s Time\' delivered with gentle smoothness.',
+        aliases: [],
+      },
+
+      'Rita Hovink': {
+        bio: 'Belgian vocalist whose reggae-infused songs carried a tender romantic mood, bridging pop and gentle lovers rock.',
+        aliases: [],
+      },
+
+      'Django Jones': {
+        bio: 'Reggae romanticist, his mid-1990s digital lovers singles carried a heartfelt, smooth croon perfect for slow nights.',
+        aliases: [],
+      },
+
+      'Michaelle': {
+        bio: 'Vocalist famed for the dreamy, low-key lovers-rock ballad \'Angel of the Night,\' a true slow-jam standard.',
+        aliases: [],
+      },
+
+      'Karen Smith': {
+        bio: 'UK-born singer, member of Brown Sugar\'s second lineup, her solo lovers-rock tracks featured a mellow, intimate style.',
+        aliases: [],
+      },
+
+      'Carolyn Cooper': {
+        bio: 'A young 1980s lovers-rock vocalist whose heartfelt singles and silky tone embodied the sub-genre’s romantic core.',
+        aliases: [],
+      },
+
+      'Cynthia Frasier': {
+        bio: 'Canadian reggae sweetheart, her smooth 1980s recordings delivered tender lyrics with a warm, low-key feel.',
+        aliases: [],
+      },
+
+      'Clive Field Marshall': {
+        bio: 'Lovers rock vocalist with a warm, gentle style, active in the late 1970s and 1980s UK scene.',
+        aliases: [],
+      },
+
+      'Shem': {
+        bio: 'Lovers rock singer, part of the UK scene, with sweet romantic tracks in the early 1980s.',
+        aliases: [],
+      },
+
+      'Sapphire (UK)': {
+        bio: 'British lovers rock singer, sometimes paired as duo with other artists, known for gentle, romantic reggae.',
+        aliases: [],
+      },
+
+      'Sandra Edwards': {
+        bio: 'UK lovers rock vocalist, part of the late 1970s wave, with sweet, smooth reggae songs.',
+        aliases: [],
+      },
+
+      'Mighty Irie': {
+        bio: 'Lovers rock singer and producer, active in the 1980s, with a smooth, romantic delivery.',
+        aliases: [],
+      },
+
+      'Louisa Mark (again)': {
+        bio: 'Duplicate—exclude.',
+        aliases: [],
+      },
+
+      'Sophia George': {
+        bio: 'Known for her 1980s lovers rock hit \'Girlie Girlie\', blending sweet reggae with romantic themes.',
+        aliases: [],
+      },
+
+      'Kofi London': {
+        bio: 'UK-based singer crafting contemporary lovers rock with gentle, romantic vibes for late-night listening.',
+        aliases: [],
+      },
+
+      'Sgt. Remo': {
+        bio: 'Fusing lovers-rock with Latin-American reggae on 2026 album ELVTD, he directly matches this sweet, low-key romantic niche.',
+        aliases: [],
+      },
     },
 
     'Studio Dub': {
