@@ -678,6 +678,46 @@ export const classical: Pillar = {
         bio: 'German composer and violinist, prominent figure of early Romantic symphonic and concerto repertoire.',
         aliases: [],
       },
+
+      'Anton Arensky': {
+        bio: 'Russian composer whose symphonies and chamber works carry lyrical Romanticism with rich orchestration, bridging Tchaikovsky and his successors.',
+        aliases: [],
+      },
+
+      'Paul Dukas': {
+        bio: 'French composer known for the orchestral masterpiece The Sorcerer\'s Apprentice, blending dramatic narrative with orchestral color.',
+        aliases: [],
+      },
+
+      'Max Bruch': {
+        bio: 'German Romantic composer celebrated for violin concertos and the Scottish Fantasy, staples of the orchestral solo repertoire.',
+        aliases: [],
+      },
+
+      'Maurice Ravel': {
+        bio: 'French composer-orchestrator whose orchestral works like Boléro and Daphnis et Chloé achieve sweeping, brilliant, epic effect through masterly instrumentation.',
+        aliases: ['Joseph-Maurice Ravel'],
+      },
+
+      'Claude Debussy': {
+        bio: 'French composer whose orchestral works, such as La Mer and Nocturnes, brought impressionist color and atmospheric drama to the symphonic stage.',
+        aliases: ['Achille-Claude Debussy'],
+      },
+
+      'Arnold Schoenberg': {
+        bio: 'Austrian-born composer whose orchestral works, including Verklärte Nacht and Gurrelieder, pushed late-Romantic orchestral expression to new extremes.',
+        aliases: ['Arnold Schoenberg'],
+      },
+
+      'Alexander Gretchaninov': {
+        bio: 'Russian late-Romantic composer of symphonies and orchestral music spanning the 1900s.',
+        aliases: ['Alexander Gretschaninow', 'Alexander Gretchaninoff'],
+      },
+
+      'Hermann Bischoff': {
+        bio: 'German late-Romantic composer whose symphonies and orchestral works are rarely performed but rooted in this tradition.',
+        aliases: ['Herman Bischoff'],
+      },
     },
     'Solo Instrumental / Sonata': {
       'Lang Lang': {
@@ -1337,6 +1377,71 @@ export const classical: Pillar = {
 
       'Ming-Ching Li': {
         bio: 'Taiwanese pianist committed to the solo piano sonata repertoire, especially Schubert, Beethoven, and modern works, with a precise, meditative style.',
+        aliases: [],
+      },
+
+      'Nikolai Medtner': {
+        bio: 'Russian composer-pianist whose solo piano sonatas and concertos are cornerstones of the late-Romantic repertoire; a dedicated recitalist.',
+        aliases: ['Nikolay Medtner'],
+      },
+
+      'Vikingur Ólafsson': {
+        bio: 'Icelandic pianist known for imaginative, meticulously crafted interpretations of Mozart, Bach, and Rameau.',
+        aliases: [],
+      },
+
+      'Shai Wosner': {
+        bio: 'Israeli-American pianist celebrated for his insightful Schubert, Beethoven, and solo piano recordings, plus chamber collaborations with leading string quartets.',
+        aliases: [],
+      },
+
+      'Jonathan Biss': {
+        bio: 'American pianist renowned for his probing Beethoven sonata cycle, Mozart concerto interpretations, and frequent chamber music partnerships, including with the Elias Quartet.',
+        aliases: [],
+      },
+
+      'Pierre-Laurent Aimard': {
+        bio: 'French pianist acclaimed for his precise, intellectual interpretations of solo works by Debussy, Ravel, Ligeti, and contemporary composers, often in recital.',
+        aliases: [],
+      },
+
+      'Tzimon Barto': {
+        bio: 'American pianist known for his powerful, virtuosic solo recitals of Liszt, Ravel, and Prokofiev, balancing intense lyricism with technical brilliance.',
+        aliases: [],
+      },
+
+      'Isabelle Faust': {
+        bio: 'German violinist celebrated for her historically informed solo sonatas and partitas by Bach, as well as Mozart violin sonatas with period-aware precision.',
+        aliases: [],
+      },
+
+      'Christian Blackshaw': {
+        bio: 'British pianist specialising in complete Mozart piano sonata cycles, praised for his refined, introspective touch and deep structural clarity.',
+        aliases: [],
+      },
+
+      'Yevgeny Sudbin': {
+        bio: 'Russian-born pianist whose solo recitals feature Bach, Scarlatti, and Russian repertoire, praised for imaginative programming and virtuosic finesse.',
+        aliases: [],
+      },
+
+      'Francesco Piemontesi': {
+        bio: 'Swiss-Italian pianist known for immersive solo performances of late Beethoven sonatas, Schubert impromptus, and Debussy preludes in recital settings.',
+        aliases: [],
+      },
+
+      'Mona Haddad': {
+        bio: 'Lebanese-born pianist and chamber musician, active as solo recitalist in Paris, known for her sensitive readings of Fauré and Debussy.',
+        aliases: [],
+      },
+
+      'Tabea Zimmermann': {
+        bio: 'German violist whose solo Bach suites and contemporary viola works anchor her recital career, a leading exponent of the instrument’s solo repertoire.',
+        aliases: [],
+      },
+
+      'Martin Fröst': {
+        bio: 'Swedish clarinettist recognized for solo recitals and concertos, bringing Mozart and contemporary works to life with exceptional agility and timbral range.',
         aliases: [],
       },
     },
@@ -2004,6 +2109,76 @@ export const classical: Pillar = {
       'Judith Hamann': {
         bio: 'Australian cellist-composer crafting slow, process-driven drone and repetition pieces, deeply embedded in contemporary minimalist practice.',
         aliases: [],
+      },
+
+      'William Duckworth': {
+        bio: 'Composer whose \'Time Curve Preludes\' explore repetitive, modal structures central to American minimalism.',
+        aliases: ['Bill Duckworth'],
+      },
+
+      'Colleen': {
+        bio: 'French musician Cécile Schott, known as Colleen, creates sparse, repetitive chamber-music loops and analog-process works rooted in meditative minimalism.',
+        aliases: [],
+      },
+
+      'Sussan Deyhim': {
+        bio: 'Iranian vocalist and composer whose minimal, avant-garde vocal loops and layered drones fit the meditative side of this category.',
+        aliases: [],
+      },
+
+      'Pulse Emitter': {
+        bio: 'US ambient project led by Matthew Ryals; its loop-based synth and drone compositions belong to the meditative minimalist continuum.',
+        aliases: [],
+      },
+
+      'Roberto Gerhard': {
+        bio: 'Catalan-Spanish composer whose late works explore serialism and electronic music, yet his Symphony No. 4 shows minimalist repetition.',
+        aliases: ['Robert Gerhard'],
+      },
+
+      'Eva-Maria Houben': {
+        bio: 'Composer and organist whose quiet, sustained works embody meditative minimalism through sparse, process-driven textures.',
+        aliases: [],
+      },
+
+      'Jürg Baur': {
+        bio: 'German composer known for subtly evolving repetitive patterns and contemplative soundscapes within contemporary classical contexts.',
+        aliases: [],
+      },
+
+      'Michael Byron': {
+        bio: 'American composer crafting hypnotic, slowly unfolding works with clear repetitive structures, aligned with minimalist process traditions.',
+        aliases: [],
+      },
+
+      'John King': {
+        bio: 'Composer and guitarist whose commissioned works often explore repetitive, meditative processes and avant-garde notation.',
+        aliases: [],
+      },
+
+      'Earle Brown': {
+        bio: 'Pioneer of open-form and graphic notation whose works, though aleatoric, share a spare, process-oriented minimalist sensibility.',
+        aliases: [],
+      },
+
+      'Carles Santos': {
+        bio: 'Catalan composer and pianist known for repetitive, process-driven piano works and avant-garde performance art since the 1970s.',
+        aliases: ['Carles Santos Ventura'],
+      },
+
+      'Miya Masaoka': {
+        bio: 'Japanese-American composer exploring meditative, repetitive structures through koto, electronics, and conceptual scores since the 1990s.',
+        aliases: ['Miya Masaoka'],
+      },
+
+      'Peter Ablinger': {
+        bio: 'Austrian composer whose works often employ sustained tones and listening-based, minimalist processes, fitting meditative avant-garde spaces.',
+        aliases: ['Peter Ablinger'],
+      },
+
+      'Antoine Beuger': {
+        bio: 'French composer associated with Wandelweiser, creating sparse, quiet, and repetitive durational pieces that align with meditative minimalism.',
+        aliases: ['Antoine Beuger'],
       },
     },
     'Opera / Choral': {
@@ -2679,6 +2854,31 @@ export const classical: Pillar = {
 
       'Marcello Giordani': {
         bio: 'Italian tenor with a leading career in opera, performing dramatic Italian roles at the Met, La Scala, and Covent Garden.',
+        aliases: [],
+      },
+
+      'Ruggero Leoncavallo': {
+        bio: 'Opera composer best known for Pagliacci, a cornerstone of the verismo repertoire with intense dramatic impact.',
+        aliases: ['Leoncavallo'],
+      },
+
+      'Charles Gounod': {
+        bio: 'French composer whose operas Faust and Roméo et Juliette are staples of the lyrical operatic tradition.',
+        aliases: [],
+      },
+
+      'Jules Massenet': {
+        bio: 'French composer of lyrical operas like Werther and Manon, celebrated for melodic beauty and psychological depth.',
+        aliases: [],
+      },
+
+      'Henry Purcell': {
+        bio: 'English Baroque composer of Dido and Aeneas, a foundational opera with profound tragic emotional impact.',
+        aliases: [],
+      },
+
+      'Karl Böhm': {
+        bio: 'Austrian conductor celebrated for his clear, dramatic Mozart and Strauss opera interpretations, holding a central place in mid-20th-century opera.',
         aliases: [],
       },
     },
@@ -3358,6 +3558,46 @@ export const classical: Pillar = {
         bio: 'British conductor serving as music director of the National Arts Centre Orchestra, known for innovative programming and youth initiatives.',
         aliases: [],
       },
+
+      'Karina Canellakis': {
+        bio: 'American conductor and violinist, chief conductor of the Netherlands Radio Philharmonic Orchestra, noted for bold, expressive interpretations.',
+        aliases: [],
+      },
+
+      'Mario Venzago': {
+        bio: 'Swiss conductor known for his meticulous interpretations of German and Austrian repertoire, leading major European orchestras and opera houses.',
+        aliases: [],
+      },
+
+      'Michele Mariotti': {
+        bio: 'Italian conductor renowned for opera, especially bel canto and Verdi, serving as music director of major Italian opera houses.',
+        aliases: [],
+      },
+
+      'Jérémie Rhorer': {
+        bio: 'French conductor and harpsichordist, founder of Le Cercle de l\'Harmonie, championing historically informed performances of Classical-era works.',
+        aliases: [],
+      },
+
+      'Raphaël Pichon': {
+        bio: 'French conductor and countertenor, founder of Ensemble Pygmalion, acclaimed for his historically informed Bach and Mozart interpretations.',
+        aliases: [],
+      },
+
+      'Laurence Equilbey': {
+        bio: 'French conductor specializing in choral and orchestral repertoire, founder of Accentus and Insula Orchestra, known for innovative programming.',
+        aliases: [],
+      },
+
+      'Emmanuelle Haïm': {
+        bio: 'French harpsichordist and conductor, founder of Le Concert d\'Astrée, celebrated for Baroque opera and oratorio performances.',
+        aliases: [],
+      },
+
+      'Hervé Niquet': {
+        bio: 'French conductor and keyboardist, founder of Le Concert Spirituel, specializing in French Baroque and Classical repertoire.',
+        aliases: [],
+      },
     },
 
     'Period Performance / Early Music': {
@@ -4033,6 +4273,66 @@ export const classical: Pillar = {
 
       'Violaine Cochard': {
         bio: 'Harpsichordist dedicated to French Baroque repertoire, performing and recording with period-instrument ensembles internationally.',
+        aliases: [],
+      },
+
+      'Agnieszka Oszancecka': {
+        bio: 'Polish harpsichordist specializing in Baroque repertoire and historical performance practice.',
+        aliases: ['Agnieszka Oszanecka'],
+      },
+
+      'Bart Naessens': {
+        bio: 'Belgian recorder player and conductor focused on Baroque music with authentic period instruments.',
+        aliases: [],
+      },
+
+      'Céline Scheen': {
+        bio: 'Belgian soprano renowned for her interpretations in Baroque and early music performances.',
+        aliases: ['Celine Scheen'],
+      },
+
+      'Eduardo Egüez': {
+        bio: 'Argentine lutenist and theorbo player, leading early music ensembles and performing historical string repertoire.',
+        aliases: ['Eduardo Eguez'],
+      },
+
+      'François Fernandez': {
+        bio: 'French violinist dedicated to historically informed performances of Baroque and Classical music.',
+        aliases: ['Francois Fernandez'],
+      },
+
+      'Gaetano Nasillo': {
+        bio: 'Italian cellist specializing in Baroque and early Classical music, known for continuo and solo performances.',
+        aliases: [],
+      },
+
+      'Jan De Winne': {
+        bio: 'Belgian flutist and conductor, leading period-instrument ensembles and promoting French Baroque music.',
+        aliases: [],
+      },
+
+      'Kati Debretzeni': {
+        bio: 'Israeli-born violinist and director of early music ensembles, prominent in the historically informed performance scene.',
+        aliases: [],
+      },
+
+      'Manuel Vilas': {
+        bio: 'Spanish harpist distinguished in historical performance, playing Baroque and Renaissance repertoire on period instruments.',
+        aliases: [],
+      },
+
+      'Marion Verbruggen': {
+        bio: 'Dutch recorder player, a pioneer in early music revival and widely regarded for her interpretations of Baroque works.',
+        aliases: ['Marion Verbruggen'],
+      },
+
+      'Michael Form': {
+        bio: 'Swiss recorder player specializing in early music, performing with leading historical ensembles and as soloist.',
+        aliases: [],
+      },
+
+      'Olga Kirpicheva': {
+        bio: 'Russian harpsichordist and organist focused on Baroque performance practice, particularly in Eastern European repertoire.',
         aliases: [],
       },
     },
