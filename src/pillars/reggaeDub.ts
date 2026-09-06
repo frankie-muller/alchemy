@@ -673,6 +673,71 @@ export const reggaeDub: Pillar = {
         bio: 'Jamaican harmony-singing veteran with deep roots reggae releases in the 1970s, often covering spiritual themes.',
         aliases: ['Lloyd Hemming'],
       },
+
+      'Delroy Williams': {
+        bio: 'Jamaican roots singer backed by the Revolutionaries, delivering conscious 1970s cuts like "Love Heart".',
+        aliases: [],
+      },
+
+      'Errol Scorcher': {
+        bio: 'Late-1970s roots singjay known for the fierce, militant "Peace Truce" and other conscious microphone anthems.',
+        aliases: [],
+      },
+
+      'Clive Dley': {
+        bio: 'Jamaican vocalist with deep roots sound, releasing spiritual material during the 1970s roots heyday.',
+        aliases: [],
+      },
+
+      'Willi Williams': {
+        bio: 'Roots-reggae singer styled as "Messenger of the Almighty," best known for the militant "Armagideon Time".',
+        aliases: [],
+      },
+
+      'Morgan Heritage': {
+        bio: 'Grammy-winning family roots reggae band, keeping traditional spiritual and cultural themes alive through generations.',
+        aliases: [],
+      },
+
+      'Chronixx': {
+        bio: 'Leader of the reggae revival movement, channeling roots consciousness and Rasta spirituality into contemporary songwriting.',
+        aliases: [],
+      },
+
+      'Alborosie': {
+        bio: 'Italian-born roots reggae producer and singer steeped in Jamaican studio tradition, delivering authentic spiritual-conscious albums.',
+        aliases: ['Alborosie'],
+      },
+
+      'The Ethiopian': {
+        bio: 'Roots reggae vocalist and percussionist known for militant, Rastafarian-centered songs and work with The Gladiators band.',
+        aliases: [],
+      },
+
+      'Jah Lion': {
+        bio: 'Jamaican deejay and singer, protégé of Lee Perry, whose \'Columbia Colly\' album is a cornerstone of roots reggae.',
+        aliases: [],
+      },
+
+      'Knowledge': {
+        bio: 'Jamaican roots singer and keyboardist whose 1980s albums fused Rastafarian devotion with steppers rhythms.',
+        aliases: [],
+      },
+
+      'The Sons of Light': {
+        bio: 'Jamaican roots vocal trio known for the Rastafarian classic \'Wicked Man\' on Studio One.',
+        aliases: [],
+      },
+
+      'Nkulee Dube': {
+        bio: 'South African roots-reggae singer continuing her father Lucky Dube\'s spiritual, conscious legacy.',
+        aliases: [],
+      },
+
+      'Kabaka Pyramid': {
+        bio: 'Contemporary Jamaican roots-reggae artist fusing lyrical consciousness with modern production.',
+        aliases: [],
+      },
     },
 
     'Dancehall': {
@@ -1345,6 +1410,71 @@ export const reggaeDub: Pillar = {
         bio: 'Jamaican dancehall trio from the 2000s, celebrated for smooth harmony-driven singles on energetic digital rhythms.',
         aliases: ['Voicemail (Jamaican group)'],
       },
+
+      'Winston \'Merryman\' Williams': {
+        bio: 'Dancehall deejay and singer known for his smooth vocal style and 1980s hits like \'Mirthful.\'',
+        aliases: [],
+      },
+
+      'Terror Danjah': {
+        bio: 'UK grime producer whose early dancehall-influenced riddims and MC collaborations bridge Jamaican and UK soundsystem culture.',
+        aliases: ['Terror Danjah'],
+      },
+
+      'Stranjah Miller': {
+        bio: 'Dancehall MC and sound system operator known for gruff toasting and extensive work across reggae and dubplate culture.',
+        aliases: ['Stranjah'],
+      },
+
+      'Smiley Culture': {
+        bio: 'British reggae and dancehall MC, celebrated for fast-talking toasting and hits like \'Cockney Translation\' in the 1980s.',
+        aliases: ['Smiley Culture'],
+      },
+
+      'Papa Levi': {
+        bio: 'UK dancehall MC, renowned for rapid-fire lyrics and 1980s clash culture on the sound system circuit.',
+        aliases: ['Papa Levi'],
+      },
+
+      'Asher Senator': {
+        bio: 'Dancehall and ragga toaster with deep roots in Jamaican sound system clashes, known for witty social commentary and versatile flow.',
+        aliases: ['Asher Senator'],
+      },
+
+      'Chuck Fenda': {
+        bio: 'Jamaican dancehall and reggae artist, blending conscious themes with rugged dancehall delivery—often called \'The Fire Man\'.',
+        aliases: ['Chuck Fenda'],
+      },
+
+      'Charly B': {
+        bio: 'Jamaican dancehall DJ who charted in the 1990s, known for slack lyrics and a raw, energetic style.',
+        aliases: [],
+      },
+
+      'Chico': {
+        bio: 'Dancehall toaster active in the 1990s with a gritty, high-energy delivery and roots-ragga edge.',
+        aliases: [],
+      },
+
+      'Early B': {
+        bio: 'Pioneering 1980s dancehall selector and MC known for iconic, rhythmic chatter over dub plates.',
+        aliases: [],
+      },
+
+      'Pampidoo': {
+        bio: 'Jamaican deejay from the early digital dancehall era whose style bridges roots to aggressive ragga.',
+        aliases: [],
+      },
+
+      'Pad Anthony': {
+        bio: '1980s dancehall vocalist with upfront, conscious yet energetic deejaying, part of the Steely & Clevie generation.',
+        aliases: [],
+      },
+
+      'Shinehead': {
+        bio: 'Jamaican-born, NYC-raised MC who fused dancehall toasting with reggae and hip-hop rhythmic delivery.',
+        aliases: [],
+      },
     },
 
     'Lovers Rock': {
@@ -2005,6 +2135,81 @@ export const reggaeDub: Pillar = {
 
       'Sgt. Remo': {
         bio: 'Fusing lovers-rock with Latin-American reggae on 2026 album ELVTD, he directly matches this sweet, low-key romantic niche.',
+        aliases: [],
+      },
+
+      'Sonia Abel': {
+        bio: 'British lovers rock singer known for sweet, low-key romantic tracks in the late 1970s and early 1980s.',
+        aliases: [],
+      },
+
+      'Nereus Joseph': {
+        bio: 'UK lovers rock vocalist with gentle, warm delivery across 1980s singles and albums.',
+        aliases: [],
+      },
+
+      'Phyllis Lindsay': {
+        bio: 'UK lovers rock singer with delicate deliveries on early 1980s singles and compilations.',
+        aliases: [],
+      },
+
+      'White Mice': {
+        bio: 'Jamaican vocalist with tender, high-pitched love songs in a lovers rock vein during the 1980s.',
+        aliases: [],
+      },
+
+      'Jolly Brothers': {
+        bio: 'Vocal group whose 1970s harmony romantic numbers resonate with lovers rock\'s warmth.',
+        aliases: [],
+      },
+
+      'Jimmy London': {
+        bio: 'Known for honeyed reggae covers of soul ballads, his sound epitomized lovers rock\'s UK bedroom era.',
+        aliases: [],
+      },
+
+      'Louisa (Lovers Rock)': {
+        bio: 'Distinct from Louisa Mark, this UK-based singer cut romantic lovers rock singles in the early 1980s for the Santic label.',
+        aliases: [],
+      },
+
+      'Gayle (Lovers Rock)': {
+        bio: 'UK lovers rock singer, active in the late 1970s and early 1980s, known for the sweet ballad \'I\'m in Love.\'',
+        aliases: [],
+      },
+
+      'Caroline (Lovers Rock)': {
+        bio: 'UK lovers rock vocalist of the early 1980s, releasing gentle, romantic reggae singles for the acknowledged lover\'s rock producer Dennis Bovell.',
+        aliases: [],
+      },
+
+      'Kofi (Dancehall)': {
+        bio: 'Not to be confused with other Kofis, this UK artist blended smooth lovers rock with early dancehall harmony in the 1980s.',
+        aliases: [],
+      },
+
+      'Pamala (Lovers Rock)': {
+        bio: 'British singer with a soft, romantic delivery, active in the late 1970s and early 1980s, a staple on lovers rock compilations.',
+        aliases: ['Pamela'],
+      },
+
+      'Jeanette (Lovers Rock)': {
+        bio: 'UK lovers rock singer of the early 1980s, known for tender cover versions and original slow jams in the genre\'s classic style.',
+        aliases: [],
+      },
+
+      'Sandra (Lovers Rock)': {
+        bio: 'British female vocalist of the early 1980s, recording gentle, romantic lovers rock for the influential Fashion Records label.',
+        aliases: [],
+      },
+
+      'Marie (Lovers Rock)': {
+        bio: 'UK singer, active in the late 1970s, known for the classic sweet lovers rock single \'I Need Your Love.\'',
+        aliases: [],
+      },
+
+      'Tracey (Lovers Rock)': {
+        bio: 'Early 1980s UK lovers rock artist, associated with the genre\'s sound-system era, issuing soft reggae romantic numbers.',
         aliases: [],
       },
     },
@@ -2673,6 +2878,66 @@ export const reggaeDub: Pillar = {
       'Jah Batta': {
         bio: 'Sardinian dub producer with deep-sounding, tape-heavy instrumental works drawing directly from Jamaican studio dub lineage.',
         aliases: [],
+      },
+
+      'The Java Brothers': {
+        bio: 'Japanese dub duo known for their deep, echo-heavy instrumental reggae and live sound-system performances.',
+        aliases: [],
+      },
+
+      'Dub Terror': {
+        bio: 'Italian producer crafting dense, psychedelic studio dub with tape effects and deep bass, aligned with 1990s-2000s revival.',
+        aliases: [],
+      },
+
+      'Ras Tinny': {
+        bio: 'Jamaican engineer and dub mixer who worked at Channel One and Studio 2000, producing spacious roots dub instrumentals.',
+        aliases: [],
+      },
+
+      'Andre \'Bass\' Warren': {
+        bio: 'UK-based dub engineer and producer known for crisp, minimalist studio dub releases on his own Bassline Records.',
+        aliases: [],
+      },
+
+      'King Tubby\'s All Stars': {
+        bio: 'Core musicians assembled for Tubby\'s dub sessions, their play was the canvas for his revolutionary echo and reverb.',
+        aliases: ['Tubby\'s All Stars'],
+      },
+
+      'Tubby\'s Dub Band': {
+        bio: 'King Tubby\'s in-house session musicians, creating the signature sparse, echoing instrumentals that defined studio dub.',
+        aliases: [],
+      },
+
+      'Danny Thompson': {
+        bio: 'British dub producer and engineer, crafting spacious, psychedelic dub from the 1970s onward, closely tied to the UK dub scene.',
+        aliases: [],
+      },
+
+      'On-U Sound System': {
+        bio: 'Adrian Sherwood\'s collective, fusing reggae instrumentals with heavy studio effects, echo, and dub-wise experimentation.',
+        aliases: [],
+      },
+
+      'The Scientist\'s All Stars': {
+        bio: 'Session group backing Scientist\'s early 1980s dub albums, featuring deep bass, cavernous echo, and sparse mixing.',
+        aliases: [],
+      },
+
+      'The Ligerians': {
+        bio: 'Modern roots-dub ensemble from the UK, crafting dubbed-out instrumentals through vintage analog gear and tape echo.',
+        aliases: [],
+      },
+
+      'Professor Skank': {
+        bio: 'German dub producer and engineer who reshapes original instrumentals with deep echo and tape manipulation in the classic studio-dub mold.',
+        aliases: [],
+      },
+
+      'Jah Lloyd': {
+        bio: 'Veteran Jamaican toaster and engineer crafting spacious, echo-laden instrumentals via King Tubby\'s studio in the 1970s.',
+        aliases: ['Jah Lloyd\'s'],
       },
     },
 
@@ -3345,6 +3610,61 @@ export const reggaeDub: Pillar = {
 
       'Die Toten Hosen': {
         bio: 'A punk act, their celebrated \'Learning English, Lesson 1\' album includes multiple reggae/rocksteady covers, making them canon-adjacent icons.',
+        aliases: [],
+      },
+
+      'The Scofflaws': {
+        bio: 'Long-running American third-wave ska band blending classic Jamaican rhythms with punk energy since the late 1980s.',
+        aliases: ['Scofflaws'],
+      },
+
+      'The Rudiments': {
+        bio: 'California ska-punk band from the 1990s known for their energetic live shows and horn-driven sound.',
+        aliases: [],
+      },
+
+      'The Abruptors': {
+        bio: 'American ska band from the 1990s who played a mix of traditional and third-wave ska with political lyrics.',
+        aliases: [],
+      },
+
+      'The Debonaires': {
+        bio: 'Modern traditional ska and rocksteady band from California, known for their authentic vintage Jamaican sound.',
+        aliases: [],
+      },
+
+      'The Tips': {
+        bio: 'Japanese ska band since 1987, primarily instrumental, known for a jazzy, upbeat classic ska style.',
+        aliases: [],
+      },
+
+      'Mark Foggo\'s Skasters': {
+        bio: 'Scottish-born singer leading a Dutch ska band since the 1980s, notable for a lengthy international career and danceable beat.',
+        aliases: ['Mark Foggo', 'Mark Foggo Skasters'],
+      },
+
+      'The Busters (German band)': {
+        bio: 'German ska band formed in 1984, a cornerstone of the European ska scene blending 2-Tone and reggae influences.',
+        aliases: [],
+      },
+
+      'The Hotknives (American)': {
+        bio: 'Cincinnati-based ska-revival outfit from the 1990s with a melodic, horn-heavy sound and devoted cult following.',
+        aliases: [],
+      },
+
+      'The Caroloregians': {
+        bio: 'French ska band active since 1982, one of Europe\'s earliest and most respected ska acts with a classic 2-Tone influence.',
+        aliases: [],
+      },
+
+      'The Board Governors': {
+        bio: 'Swedish instrumental ska band formed in the 1990s, mixing traditional ska with jazz and soul for a distinctive style.',
+        aliases: [],
+      },
+
+      'The Void Union': {
+        bio: 'American ska and reggae band from Northern California known for fusing rocksteady, dub, and punk on their albums.',
         aliases: [],
       },
     },
