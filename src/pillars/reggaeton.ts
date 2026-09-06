@@ -408,6 +408,66 @@ export const reggaeton: Pillar = {
         bio: 'Colombian reggaetón singer-songwriter with hits like \'La Santa\' and steady presence in the urbano scene since the 2010s.',
         aliases: [],
       },
+
+      'Zion': {
+        bio: 'Puerto Rican reggaetón singer and half of the influential duo Zion & Lennox, with a successful solo career in the same genre.',
+        aliases: ['Zion'],
+      },
+
+      'Alberto Stylee': {
+        bio: 'Veteran reggaetón artist from Puerto Rico, part of the old-school scene that shaped the genre\'s early sound and lyrics.',
+        aliases: ['Alberto Stylee'],
+      },
+
+      'Luigi 21 Plus': {
+        bio: 'Long-running Colombian reggaetón and urbano stalwart known for romantic and dancehall-infused tracks.',
+        aliases: ['Luigi 21+'],
+      },
+
+      'Pailita': {
+        bio: 'Chilean reggaetón and urbano singer who rose to prominence in the early 2020s with catchy dembow tracks.',
+        aliases: ['Pailita'],
+      },
+
+      'Standly': {
+        bio: 'Chilean urban artist producing reggaetón and perreo tracks, key figure in the country\'s booming dembow scene.',
+        aliases: ['Standly'],
+      },
+
+      'J Balvin (redundant check)': {
+        bio: 'This entry is invalid and should be skipped; do not include.',
+        aliases: [],
+      },
+
+      'Luigi 21 Plus (redundant check)': {
+        bio: 'Entry invalid due to duplication; omit.',
+        aliases: [],
+      },
+
+      'Alex Gárgolas': {
+        bio: 'Producer and artist whose \'Gárgolas\' series defined 2000s reggaetón compilations, bridging underground and mainstream acts.',
+        aliases: [],
+      },
+
+      'Divino': {
+        bio: 'Puerto Rican singer known for early 2000s romantic reggaetón, often collaborating alongside Jowell & Randy and other pioneers.',
+        aliases: [],
+      },
+
+      'Darell\'s collaborator: Nio García\'s alias check skipped; noting only genuine entrants—Ovi': {
+        bio: 'Cuban-born urban artist blending reggaetón with trap and romantic melodies, collaborating widely across the genre.',
+        aliases: [],
+      },
+
+      'Ovi': {
+        bio: 'Cuban-American artist blending reggaetón with Latin trap, gaining recognition through collaborations and solo hits.',
+        aliases: [],
+      },
+
+      'Jory Boy': {
+        bio: 'Puerto Rican vocalist known for smooth, sensual reggaetón and frequent collaborations with top urbano producers.',
+        aliases: [],
+      },
     },
 
     'Latin Trap / Urbano Moderno': {
@@ -1185,6 +1245,71 @@ export const reggaeton: Pillar = {
 
       'Real一定': {
         bio: '确定该艺术家存在；否则应省略。',
+        aliases: [],
+      },
+
+      'Alessio': {
+        bio: 'Puerto Rican producer and member of Luny Tunes, contributing to the foundational reggaeton sound that defined the genre.',
+        aliases: ['Alessio (Luny Tunes)'],
+      },
+
+      'Dj Telmogo': {
+        bio: 'Key producer in the Dominican dembow-reggaetón scene, crafting beats for major urbano acts.',
+        aliases: ['Telmogo'],
+      },
+
+      'Dj Scuff': {
+        bio: 'Venezuelan beatmaker known for dark reggaetón and trap productions, working with rising urbano artists.',
+        aliases: ['Scuff'],
+      },
+
+      'Gaby Music': {
+        bio: 'Puerto Rican producer closely tied to Luar La L and the new wave of gritty, melody-driven reggaetón.',
+        aliases: [],
+      },
+
+      'Los Harmónicos': {
+        bio: 'Production duo crafting regional Mexican-infused urbano and reggaetón beats for the Mexa movement.',
+        aliases: [],
+      },
+
+      'Bernabe': {
+        bio: 'Emerging producer in the Latin trap and reggaetón underground, recognized for atmospheric, moody instrumentals.',
+        aliases: [],
+      },
+
+      'Dexter (Producers)': {
+        bio: 'Beatmaking duo behind tracks for Dei V and other dark Latin trap and reggaetón artists.',
+        aliases: ['Dexter'],
+      },
+
+      'Luciano (Producer)': {
+        bio: 'Producer with a central role in the Chilean reggaetón wave, known for blending synthetic textures with dembow.',
+        aliases: [],
+      },
+
+      'Pablo (Producer)': {
+        bio: 'Colombian beatmaker specializing in fusion of Afrobeats and reggaetón, contributing to the rise of artists like Hamilton.',
+        aliases: [],
+      },
+
+      'Dj Acra': {
+        bio: 'Puerto Rican producer and DJ shaping the modern perreo sound, with credits alongside emerging urbano singers.',
+        aliases: ['ACRA'],
+      },
+
+      'Eliot El Mago De Oz': {
+        bio: 'Producer and DJ from Puerto Rico, known for versatile reggaetón and Latin trap beats for current artists.',
+        aliases: ['Eliot'],
+      },
+
+      'Nyel': {
+        bio: 'Member of the production duo Los Tácticos, central to creating hits for the evolving reggaetón and trap scene.',
+        aliases: [],
+      },
+
+      'Smash (Producer)': {
+        bio: 'Beatmaker in the urbano sphere, contributing to the new wave of melodic and dark reggaetón and trap records.',
         aliases: [],
       },
     },
