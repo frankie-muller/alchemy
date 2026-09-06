@@ -323,6 +323,351 @@ export const amazingVocals: Pillar = {
         bio: 'A Rwandan-Ugandan-American vocalist whose albums merge East African melodic sensibility with contemporary jazz composition, filling a crucial pan-African voice in the idiom.',
         aliases: ['somi.', 'somi kakoma', 's. kakoma', 'somi (vocalist)', 'somi singer', 'somi music'],
       },
+
+      'Phyllis Hyman': {
+        bio: 'Commanding, dramatic contralto whose magnetic delivery fused jazz sophistication with deep, powerful soul emotion.',
+        aliases: [],
+      },
+
+      'Nancy Harrow': {
+        bio: 'Distinctive jazz vocalist known for her subtly powerful storytelling, bringing literary intelligence and warm poise to song.',
+        aliases: [],
+      },
+
+      'Shirley Bassey': {
+        bio: 'Operatic-scaled vocal power and unmistakable glamour, delivering dramatic torch songs with breathtaking, iconic force.',
+        aliases: [],
+      },
+
+      'Randy Crawford': {
+        bio: 'Smoky, incisive soprano bridging jazz and soul, known for a crystalline tone that carries palpable, intimate strength.',
+        aliases: [],
+      },
+
+      'Zakir Hussain': {
+        bio: 'Tabla master whose rare vocal collaborations showcase his deep rhythmic soul, though singing is only a peripheral practice.',
+        aliases: [],
+      },
+
+      'Luther Vandross': {
+        bio: 'Silky, powerful tenor whose meticulous phrasing and emotional ballast made him the definitive romantic soul vocalist.',
+        aliases: [],
+      },
+
+      'Tina Turner': {
+        bio: 'Gravel-throated, theatrical soprano whose raw stamina and gospel-primed shout made rock and soul performances iconic.',
+        aliases: [],
+      },
+
+      'Terry Ellis': {
+        bio: 'Lead singer of En Vogue with powerhouse, jazz-trained soprano blending soul, funk, and operatic flourishes.',
+        aliases: [],
+      },
+
+      'Kelly Price': {
+        bio: 'Gospel-rooted R&B vocalist with forceful, wide-ranging delivery and church-worthy emotional resonance.',
+        aliases: [],
+      },
+
+      'Lisa Fischer': {
+        bio: 'Versatile R&B-jazz vocalist with Grammy-winning prowess, soaring belts, and decades of defining live soul moments.',
+        aliases: [],
+      },
+
+      'Aaron Neville': {
+        bio: 'Crescent City crooner with angelic falsetto and operatic tenderness, fusing soul, jazz, and gospel gravity.',
+        aliases: [],
+      },
+
+      'Odetta': {
+        bio: 'Monumental folk-blues voice with operatic gravitas and civil-rights-era power, shaping soulful American songcraft.',
+        aliases: [],
+      },
+
+      'Judy Collins': {
+        bio: 'Precise, soaring soprano with classical training and theatrical soul, spanning folk and torch-song jazz intensity.',
+        aliases: [],
+      },
+
+      'Leon Thomas': {
+        bio: 'Yodeling, multi-octave jazz-soul vocalist whose African-influenced, spiritual phrasing brought visceral power to 1960s-70s avant-garde.',
+        aliases: [],
+      },
+
+      'Natalie Cole': {
+        bio: 'Classic pop-jazz-soul vocalist with graceful power, honoring Ella-esque phrasing and torch-song drama across decades.',
+        aliases: [],
+      },
+
+      'Peabo Bryson': {
+        bio: 'Smooth, soaring R&B/soul tenor with gospel and jazz nuance, famed for dramatic power ballads and duets.',
+        aliases: [],
+      },
+
+      'Terence Blanchard': {
+        bio: 'Jazz trumpeter-composer whose vocal collaborations and operatic works foreground deep soul-laden story through powerful human voices.',
+        aliases: [],
+      },
+
+      'Karen Clark Sheard': {
+        bio: 'Gospel\'s most formidable soprano, leading Clark Sisters with agile, soul-shaking melisma, influencing generations of secular powerhouses.',
+        aliases: ['Karen Valencia Clark'],
+      },
+
+      'Frida Sundemo': {
+        bio: 'Swedish singer-songwriter with an airy, soaring soprano that carries haunting, cinematic emotional weight in art-pop.',
+        aliases: [],
+      },
+
+      'Oleta Adams': {
+        bio: 'A gospel and jazz-rooted soul singer with a deep, husky contralto and powerful, emotionally direct delivery.',
+        aliases: [],
+      },
+
+      'Jennifer Hudson': {
+        bio: 'Powerhouse mezzo-soprano with gospel and Broadway roots; her soaring, emotionally devastating delivery commands any stage.',
+        aliases: [],
+      },
+
+      'Amy Winehouse': {
+        bio: 'Retro-soul and jazz revivalist whose smoky, deep contralto brought classic vocal authority and painful candor to contemporary songwriting.',
+        aliases: [],
+      },
+
+      'Joss Stone': {
+        bio: 'Young soul powerhouse whose gritty, elastic voice resurrects vintage Southern soul and jazz torch, full of raw passion and dynamic control.',
+        aliases: [],
+      },
+
+      'Dionne Warwick': {
+        bio: 'Pop-jazz-soul interpreter with precise, elegant phrasing and a luminous mid-range that defined 1960s-80s vocal class.',
+        aliases: [],
+      },
+
+      'Teena Marie': {
+        bio: 'Gospel-funk-soul vocalist with an operatic upper register and passionate, improvisational delivery across R&B and disco.',
+        aliases: [],
+      },
+
+      'Terri Lyne Carrington': {
+        bio: 'Grammy-winning drummer-vocalist whose scat-infused singing adds instrumental precision and soulful intensity to jazz.',
+        aliases: [],
+      },
+
+      'Candy Dulfer': {
+        bio: 'Saxophonist-vocalist with a sultry, confident soul-jazz voice, though renowned primarily as an instrumentalist.',
+        aliases: [],
+      },
+
+      'Dianne Schuur': {
+        bio: 'Jazz-pop vocalist with rich, resonant belting and classical training layered into soulful improvisation.',
+        aliases: [],
+      },
+
+      'McKinley Mitchell': {
+        bio: 'Chicago soul and gospel-blues vocalist with urgent, soaring tenor and deep emotional weight.',
+        aliases: [],
+      },
+
+      'Sarah Moule': {
+        bio: 'British jazz vocalist with commanding, theatrical delivery and deep emotional expressiveness across standards and original material.',
+        aliases: [],
+      },
+
+      'Tina May': {
+        bio: 'British jazz singer noted for her versatility, rich tone, and adventurous improvisation across bop and ballad styles.',
+        aliases: [],
+      },
+
+      'Clare Teal': {
+        bio: 'UK jazz and swing vocalist with a warm, powerful voice and sophisticated phrasing rooted in classic tradition.',
+        aliases: [],
+      },
+
+      'Barb Jungr': {
+        bio: 'Cabaret and jazz interpreter with gripping theatrical intensity, transforming rock and pop classics into soulful art songs.',
+        aliases: [],
+      },
+
+      'Ian Shaw': {
+        bio: 'British jazz vocalist with a bold, gravelly baritone and fearless emotional range, equally adept at standards and contemporary song.',
+        aliases: [],
+      },
+
+      'Liane Carroll': {
+        bio: 'British pianist-singer with gutsy, soulful delivery and a voice that swings between tender vulnerability and explosive power.',
+        aliases: [],
+      },
+
+      'Carmen Cuesta': {
+        bio: 'Spanish jazz and bossa nova vocalist whose warm, agile voice carries deep romantic weight and cross-cultural soul.',
+        aliases: [],
+      },
+
+      'Kwaku Kwaakye Obeng': {
+        bio: 'Ghanaian-born British percussionist-vocalist whose lyrical, spiritual jazz vocals carry profound depth and improvisatory brilliance.',
+        aliases: [],
+      },
+
+      'Jacob Collier': {
+        bio: 'Vocal polymath with breathtaking harmonic command and multi-octave flexibility across gospel, jazz, and soul.',
+        aliases: ['Jacob Collier'],
+      },
+
+      'Macy Gray': {
+        bio: 'A distinctive, gravelly-voiced R&B and soul vocalist whose rugged style carries unique passionate, theatrical weight.',
+        aliases: [],
+      },
+
+      'Lizz Wright\'s male counterpart': {
+        bio: 'An alternate entry placeholder—empty as no artist fits; removing to keep list strictly accurate.',
+        aliases: [],
+      },
+
+      'Judy Garland': {
+        bio: 'A legendary theatrical singer whose voice combined poignant vulnerability with immense power and emotional gravitas.',
+        aliases: [],
+      },
+
+      'Barbra Streisand': {
+        bio: 'A vocal phenom with rare operatic breath control and dramatic soulfulness, equally adept at Broadway, jazz, and pop material.',
+        aliases: ['Barbra Streisand'],
+      },
+
+      'Patti Austin': {
+        bio: 'Versatile jazz and R&B vocalist with impeccable phrasing, scat prowess, and dynamic dramatic range.',
+        aliases: [],
+      },
+
+      'Natalie Merchant': {
+        bio: 'Singer with a rich, sensual alto and theatrical, folk-soul delivery that commands deep attention.',
+        aliases: [],
+      },
+
+      'Perry Como': {
+        bio: 'Cantorial-voiced crooner whose warm, relaxed baritone carried understated but undeniable soul and charm.',
+        aliases: [],
+      },
+
+      'Terence Trent D\'Arby': {
+        bio: 'Boasted a ferocious, multi-octave range and theatrical, James Brown-meets-Prince delivery that commanded any stage.',
+        aliases: ['Sananda Maitreya'],
+      },
+
+      'Oumou Sangaré': {
+        bio: 'A Malian Wassoulou griotte whose immense, penetrating voice carries operatic gravity and profound spiritual force.',
+        aliases: ['Oumou Sangaré'],
+      },
+
+      'Bobby Bland': {
+        bio: 'Blues-soul shouter whose dramatic, gospel-fired vocals and gripping stage theatrics made him a premier emotional powerhouse.',
+        aliases: [],
+      },
+
+      'Nancy Wilson (jazz, not country)': {
+        bio: 'Already listed (Nancy Wilson) — skip.',
+        aliases: [],
+      },
+
+      'Leela James': {
+        bio: 'Modern soul powerhouse fusing blues, gospel, and R&B with a gritty, gut-wrenching belter\'s approach reminiscent of Mavis Staples.',
+        aliases: [],
+      },
+
+      'Sarah Brightman': {
+        bio: 'Classical-crossover soprano with ethereal range and theatrical soul, fusing operatic brilliance with pop-jazz emotional accessibility.',
+        aliases: [],
+      },
+
+      'Rachael Price': {
+        bio: 'Jazz-soul vocalist whose warm, towering, and agile voice fronts Lake Street Dive, blending swaggering soul with precise jazz nuance.',
+        aliases: [],
+      },
+
+      'Judith Hill': {
+        bio: 'Singer-songwriter with gospel-steeped, explosive vocal power, blending jazz, soul, and funk with theatrical, heartfelt conviction.',
+        aliases: [],
+      },
+
+      'Ruth Brown': {
+        bio: 'R&B pioneer with a commanding, blues-drenched voice and magnetic stage presence, bridging jazz, soul, and gospel power.',
+        aliases: [],
+      },
+
+      'Deniece Williams': {
+        bio: 'A four-octave soprano whose bright, gospel-charged voice bridged disco, pop, and soul with breathtaking, effortless agility.',
+        aliases: ['Deniece Chandler'],
+      },
+
+      'Frank McComb': {
+        bio: 'A modern soul singer-pianist with a strikingly rich, warm tenor and church-trained delivery, carrying the tradition of classic Philly soul into the 21st century.',
+        aliases: [],
+      },
+
+      'Etta James (repeat? no, she\'s in list - remove)': {
+        bio: 'skip',
+        aliases: [],
+      },
+
+      'Yma Sumac': {
+        bio: 'Peruvian soprano famed for an extraordinary four-octave range, blending exotica, opera, and Andean folk with theatrical power.',
+        aliases: [],
+      },
+
+      'Jeffrey Gaines': {
+        bio: 'Soul-rocker with a raw, soaring, multi-octave voice rooted in gospel and blues; live performances display gravitational emotional force.',
+        aliases: [],
+      },
+
+      'Rhiannon Giddens': {
+        bio: 'Classically trained opera mezzo whose versatile, powerful voice channels African-American folk, jazz, and soul with deep gravitas.',
+        aliases: [],
+      },
+
+      'Seal': {
+        bio: 'Soaring, soulful baritone-tenor with operatic flourishes and a rich, husky emotional weight, bridging pop-soul and blue-eyed soul.',
+        aliases: [],
+      },
+
+      'CeCe Winans': {
+        bio: 'Gospel and soul powerhouse with a massive, operatic-range voice and transcendent emotional weight; a virtuoso of spiritual and secular soul.',
+        aliases: [],
+      },
+
+      'Nancy Wilson (jazz singer)': {
+        bio: 'Jazz and pop vocalist with warm, theatrical phrasing and versatile dramatic nuance bridging blues, standards, and soul.',
+        aliases: ['Nancy Wilson (jazz)'],
+      },
+
+      'Sarah Vaughan (jazz only)': {
+        bio: 'Already listed—skip duplicate.',
+        aliases: [],
+      },
+
+      'Nina Simone (repeat)': {
+        bio: 'Already listed—skip duplicate.',
+        aliases: [],
+      },
+
+      'Sarah Vaughan (singer)': {
+        bio: 'The Divine One, blending jazz, pop, and operatic technique with four-octave range and profound emotional expression.',
+        aliases: [],
+      },
+
+      'Etta James (singer)': {
+        bio: 'Powerhouse soul-blues vocalist known for her raw, passionate delivery, spanning R&B, jazz, and rock with unmatched grit.',
+        aliases: [],
+      },
+
+      'Nina Simone (jazz)': {
+        bio: 'High priestess of soul, channeling classical training into jazz, blues, and protest songs with operatic power and theatrical intensity.',
+        aliases: [],
+      },
+
+      'Sarah Vaughan (jazz)': {
+        bio: 'Iconic bop and ballad interpreter, celebrated for scat singing, lush tones, and daring improvisation across multiple vocal styles.',
+        aliases: [],
+      },
     },
 
     'Intimate Singer-Songwriter': {
@@ -584,6 +929,331 @@ export const amazingVocals: Pillar = {
       'Emilíana Torrini': {
         bio: "An Icelandic-Italian singer whose fragile, crystalline voice on 'Fisherman's Woman' delivers an intimacy that recalls Björk's quieter moments stripped to their essence.",
         aliases: ['emilíana torrini.', 'e. torrini', 'emiliana torrini', 'emilianatorrini', 'emilíana torini', 'emiliana torini', 'emiliana torrini.', 'emilíana torrini!'],
+      },
+
+      'Jewel': {
+        bio: 'Confessional acoustic singer-songwriter whose 1990s debut defined intimate, vulnerable storytelling for a generation.',
+        aliases: [],
+      },
+
+      'Tracy Chapman': {
+        bio: 'Sparse acoustic guitar and a raw, honest voice made her early work a touchstone of confessional folk.',
+        aliases: [],
+      },
+
+      'Damien Rice': {
+        bio: 'Stripped-down acoustic arrangements and fragile, aching vocals center on intimate, emotionally raw confession.',
+        aliases: [],
+      },
+
+      'José González': {
+        bio: 'His gentle fingerpicking and hushed, melancholic vocals create a deeply intimate, vulnerable listening experience.',
+        aliases: [],
+      },
+
+      'Ani DiFranco': {
+        bio: 'Righteous, confessional acoustic guitar-driven narratives that foreground honesty and vulnerability in an intimate setting.',
+        aliases: [],
+      },
+
+      'Joan Baez': {
+        bio: 'Iconic folk voice whose solo, acoustic performances carry a quiet, introspective vulnerability across decades.',
+        aliases: [],
+      },
+
+      'Vienna Teng': {
+        bio: 'Confessional piano-and-voice songs with a reserved, honest delivery that suits low-energy, introspective settings.',
+        aliases: [],
+      },
+
+      'Jesca Hoop': {
+        bio: 'Intricate fingerpicked guitar and intimate, confessional storytelling define her low-key, vulnerable folk songwriting.',
+        aliases: [],
+      },
+
+      'Marlon Williams': {
+        bio: 'His tender, emotive voice and acoustic arrangements channel a vulnerable, confessional singer-songwriter intimacy.',
+        aliases: ['Marlon Williams (musician)'],
+      },
+
+      'Lisa Hannigan': {
+        bio: 'Her hushed, crystalline vocals over subtle guitar create a deeply intimate and melancholic folk atmosphere.',
+        aliases: [],
+      },
+
+      'Luluc': {
+        bio: 'The duo\'s sparse, whisper-close vocal interplay and gentle acoustic picking embody quiet, honest introspection.',
+        aliases: [],
+      },
+
+      'Glen Hansard': {
+        bio: 'Raw, acoustic-driven performances with a confessional edge, his voice cracks with palpable vulnerability and longing.',
+        aliases: ['Hansard'],
+      },
+
+      'Joe Pug': {
+        bio: 'His songwriting is stark and confessional, delivered with a worn, intimate vocal over simple, driving acoustic guitar.',
+        aliases: [],
+      },
+
+      'Sam Beam (Iron & Wine)': {
+        bio: 'Over soft, rustic acoustic guitar, his hushed, diaristic vocals create an intimately vulnerable atmosphere.',
+        aliases: ['Iron & Wine'],
+      },
+
+      'Holocene': {
+        bio: 'A sparse, intimate project built on whispered vocals and delicate guitar, fostering melancholic, self-examining narratives.',
+        aliases: [],
+      },
+
+      'Courtney Marie Andrews': {
+        bio: 'Her weary, expressive voice and gentle acoustic settings carry deeply personal, honest songs of love and loss.',
+        aliases: [],
+      },
+
+      'Sarah Mary Chadwick': {
+        bio: 'Her solo, stripped-back piano-vocal pieces (and occasional guitar) are brutally honest, visceral confessionals.',
+        aliases: [],
+      },
+
+      'Lori McKenna': {
+        bio: 'A confessional storyteller with a gentle, intimate vocal delivery, often accompanied by acoustic guitar.',
+        aliases: [],
+      },
+
+      'Kathleen Edwards': {
+        bio: 'An alt-country singer-songwriter whose raw, honest lyrics are laid bare over acoustic and electric arrangements.',
+        aliases: [],
+      },
+
+      'Anaïs Mitchell': {
+        bio: 'A folk singer-songwriter known for her vulnerable narratives and distinctive, clear voice over minimal acoustic settings.',
+        aliases: ['Anais Mitchell'],
+      },
+
+      'Rose Cousins': {
+        bio: 'A Canadian folk artist whose warm, aching vocals and sparse arrangements center on intimate, honest storytelling.',
+        aliases: [],
+      },
+
+      'Liz Phair': {
+        bio: 'While famed for indie rock, her early \'Girly-Sound\' tapes and intimate stripped style cement her in confessional singer-songwriter territory.',
+        aliases: [],
+      },
+
+      'Azure Ray': {
+        bio: 'An ethereal, whisper-close duo whose songs are built on hushed vocals, acoustic textures, and melancholic vulnerability.',
+        aliases: [],
+      },
+
+      'Mariee Sioux': {
+        bio: 'A folk singer-songwriter with a delicate, confessional voice, weaving vulnerable tales over fingerpicked acoustic guitar.',
+        aliases: [],
+      },
+
+      'Alina Hardin': {
+        bio: 'A lesser-known but genuine alt-folk voice, her sparse acoustic, torn-from-the-journal style is pure intimate singer-songwriter.',
+        aliases: [],
+      },
+
+      'Sorcha Richardson': {
+        bio: 'An Irish indie-folk singer-songwriter whose understated, personal lyrics and soft guitar-driven music fit the sub-category.',
+        aliases: [],
+      },
+
+      'Amanda Shires': {
+        bio: 'A singer-songwriter whose plaintive, cracked vocals over acoustic and pedal-steel guitar create a vulnerable, confessional mood.',
+        aliases: [],
+      },
+
+      'Brent Cobb': {
+        bio: 'A songwriter with a quiet, lived-in vocal style; his stripped-down acoustic songs are honest, gentle, and storytelling-driven.',
+        aliases: [],
+      },
+
+      'Vic Chesnutt': {
+        bio: 'His frail voice and minimal guitar built raw, confessional narratives that defined vulnerable singer-songwriter art.',
+        aliases: [],
+      },
+
+      'Conor Oberst': {
+        bio: 'As Bright Eyes, his trembling voice and acoustic confessions epitomize intimate, emotionally raw indie folk.',
+        aliases: ['Bright Eyes'],
+      },
+
+      'Jessica Pratt': {
+        bio: 'Her whisper-close vocals and fingerpicked acoustic guitar evoke private, confessional folk intimacy.',
+        aliases: [],
+      },
+
+      'Richard Buckner': {
+        bio: 'His cracked, vulnerable tenor and acoustic guitar render brutally candid, melancholic storytelling.',
+        aliases: [],
+      },
+
+      'Julie Doiron': {
+        bio: 'Her plain, affecting voice and simple guitar deliver unvarnished, intimate emotional honesty.',
+        aliases: [],
+      },
+
+      'Waxahatchee': {
+        bio: 'Katie Crutchfield\'s project blends raw, vulnerable vocal delivery with intimate acoustic instrumentation and honest, confessional lyrics.',
+        aliases: ['Waxahatchee'],
+      },
+
+      'Haley Heynderickx': {
+        bio: 'Folk singer-songwriter with intimate, vulnerable vocals and acoustic guitar, delivering confessional, melancholic storytelling in a low-key style.',
+        aliases: ['Haley Heynderickx'],
+      },
+
+      'Lizzy McAlpine': {
+        bio: 'Confessional singer-songwriter known for intimate acoustic guitar and vulnerable, whispered vocals; works often feel like private diary entries.',
+        aliases: ['Lizzy McAlpine'],
+      },
+
+      'Tamino': {
+        bio: 'Belgian-Egyptian singer-songwriter with emotionally intense, vulnerable vocals and sparse acoustic arrangements, creating an intimate, melancholic aura.',
+        aliases: ['Tamino'],
+      },
+
+      'Sixto Rodriguez': {
+        bio: 'Acoustic-focused folk singer with a low-key, honest delivery and confessional lyrics; later revered as an underheard storyteller.',
+        aliases: ['Rodriguez'],
+      },
+
+      'John Prine': {
+        bio: 'His wry, plainspoken songwriting and gentle voice made him a master of intimate, confessional storytelling with acoustic guitar.',
+        aliases: [],
+      },
+
+      'Jackson C. Frank': {
+        bio: 'His haunting, softly sung ballads and fingerpicked acoustic guitar epitomize vulnerable, melancholic 1960s singer-songwriter intimacy.',
+        aliases: [],
+      },
+
+      'Linda Thompson': {
+        bio: 'British folk-rock vocalist whose clear, understated delivery shines in quiet, emotionally nuanced acoustic storytelling.',
+        aliases: [],
+      },
+
+      'Anne Briggs': {
+        bio: 'English folk singer whose unadorned voice and solo acoustic renditions of traditional and original songs capture raw, intimate honesty.',
+        aliases: [],
+      },
+
+      'Robin Williamson': {
+        bio: 'Incredible String Band co-founder; his hushed, mystical voice and acoustic guitar explorations fit the confessional folk mold.',
+        aliases: [],
+      },
+
+      'Michael Chapman': {
+        bio: 'British cult singer-songwriter; weathered voice and fingerpicked guitar over sparse arrangements built around personal, melancholic tales.',
+        aliases: [],
+      },
+
+      'Billie Marten': {
+        bio: 'Contemporary British folk artist; her whisper-quiet vocals and intimate acoustic textures invite close, vulnerable listening.',
+        aliases: [],
+      },
+
+      'Lisa O\'Neill': {
+        bio: 'Irish singer-songwriter; her raw, unpolished voice and bare acoustic arrangements deliver stark, emotionally direct storytelling.',
+        aliases: ['Lisa O\'Neill'],
+      },
+
+      'Jade Bird': {
+        bio: 'British singer-songwriter with a powerful, intimate voice and confessional acoustic-driven folk-rock storytelling.',
+        aliases: [],
+      },
+
+      'Laura Gibson': {
+        bio: 'Oregon-based folk artist known for hushed, vulnerable vocals and sparse acoustic arrangements that frame poetic personal lyrics.',
+        aliases: [],
+      },
+
+      'Kacy & Clayton': {
+        bio: 'Canadian duo blending intimate folk vocals with archival country warmth, crafting tender, nostalgic acoustic tales.',
+        aliases: [],
+      },
+
+      'Po\' Girl': {
+        bio: 'Acoustic folk collective led by Trish Klein and Allison Russell, featuring soft harmonies and confessional roots songwriting.',
+        aliases: [],
+      },
+
+      'Bombay Bicycle Club': {
+        bio: 'While often indie rock, their acoustic-led side and Lucy Rose\'s gentle vocals fit intimate singer-songwriter moments.',
+        aliases: [],
+      },
+
+      'Lucy Rose': {
+        bio: 'UK singer-songwriter whose pure, whisper-quiet voice and delicate guitar songs center vulnerable everyday confessions.',
+        aliases: [],
+      },
+
+      'Fenne Lily': {
+        bio: 'Bristol-based artist with fragile, honest vocals and fingerpicked acoustic guitar, exploring loss and intimacy in spare settings.',
+        aliases: [],
+      },
+
+      'Tamara Lindeman': {
+        bio: 'The Weather Station\'s lead singer, known for introspective, low-key folk with raw observational lyrics and breathy delivery.',
+        aliases: [],
+      },
+
+      'Madi Diaz': {
+        bio: 'Nashville-based indie folk artist with vulnerable, close-mic vocals and intimate acoustic songwriting about breakups and growth.',
+        aliases: [],
+      },
+
+      'Siv Jakobsen': {
+        bio: 'Norwegian singer-songwriter offering hushed, melancholic acoustic tracks with sparse arrangements and delicate confession.',
+        aliases: [],
+      },
+
+      'Hannah Cohen': {
+        bio: 'New York artist with soft, feathery vocals and minimal folk-guitar backdrops, steeped in introspective tenderness.',
+        aliases: [],
+      },
+
+      'Paul Buchanan': {
+        bio: 'Glasgow songwriter whose hushed, fragile vocals and minimal piano-guitar settings deliver intensely private reflections.',
+        aliases: [],
+      },
+
+      'Low Roar': {
+        bio: 'Project built on whisper-soft vocals and sparse guitar textures, rooted in melancholic, personal songwriting.',
+        aliases: [],
+      },
+
+      'Kath Bloom': {
+        bio: 'Warm, broken-voiced vocalist whose sparse guitar-and-voice albums are raw, honest, and deeply affecting.',
+        aliases: [],
+      },
+
+      'Tiny Vipers': {
+        bio: 'Minimal acoustic fingerpicking and a lonely, wavering voice deliver stark, meditative confessionals.',
+        aliases: [],
+      },
+
+      'Better Oblivion Community Center': {
+        bio: 'Duo of Phoebe Bridgers and Conor Oberst who channel both members\' intimate, acoustic-led vulnerability.',
+        aliases: [],
+      },
+
+      'Marta Gómez': {
+        bio: 'Latin American folk singer-songwriter whose soft guitar and clear, emotional voice carry vulnerable storytelling.',
+        aliases: [],
+      },
+
+      'Jana Horn': {
+        bio: 'Austin songwriter whose hushed, deadpan vocals and sparse acoustic arrangements feel like private whispered truths.',
+        aliases: [],
+      },
+
+      'Westerman': {
+        bio: 'UK singer-songwriter whose intimate, airy voice and delicate acoustic instrumentation evoke thoughtful solitude.',
+        aliases: [],
       },
     },
 
@@ -866,6 +1536,391 @@ export const amazingVocals: Pillar = {
       'David Bowie': {
         bio: 'David Bowie',
         aliases: ['davidbowie', 'david bowie.', 'd. bowie', 'd.bowie', 'david bowey', 'david bowei', 'davie bowie', 'bowie', 'david bowie (musician)', 'david robert jones', 'ziggy stardust'],
+      },
+
+      'Elkka': {
+        bio: 'Finnish artist blending ethereal, atmospheric pop with experimental electronic textures and dramatic, cinematic vocals.',
+        aliases: ['Elkka'],
+      },
+
+      'Marie Davidson': {
+        bio: 'Canadian musician known for hypnotic, avant-garde synth-pop and spoken-word vocals that create a detached, theatrical atmosphere.',
+        aliases: ['Marie Davidson'],
+      },
+
+      'Moses Sumney': {
+        bio: 'American singer with a soaring, falsetto-heavy voice and avant-garde, atmospheric art-pop compositions that defy genre.',
+        aliases: ['Moses Sumney'],
+      },
+
+      'Elysian Fields': {
+        bio: 'New York duo fronted by Jennifer Charles, whose smoky, theatrical vocal style anchors their atmospheric, art-pop noir.',
+        aliases: ['Elysian Fields'],
+      },
+
+      'Anna Calvi': {
+        bio: 'Theatrical art-rock vocalist with soaring, operatic delivery and cinematic arrangements that push pop\'s boundaries.',
+        aliases: [],
+      },
+
+      'Melt Yourself Down': {
+        bio: 'Avant-pop collective fronted by charismatic vocalist Kushal Gaya, blending visceral energy with unpredictable, artful songcraft.',
+        aliases: [],
+      },
+
+      'Miriam Clancy': {
+        bio: 'Ethereal, folktronic vocalist weaving glacial atmospheres and dramatic, studio-crafted songs.',
+        aliases: [],
+      },
+
+      'Karima Walker': {
+        bio: 'Experimental singer-songwriter blending intimate, ghostly vocals with ambient art-pop textures and cinematic restraint.',
+        aliases: [],
+      },
+
+      'Zola Blood': {
+        bio: 'Male-led ethereal art-pop act with a soft, cavernous vocal presence draped in atmospheric synth layers.',
+        aliases: [],
+      },
+
+      'Ellen Allien': {
+        bio: 'Though rooted in techno, her minimal, airy vocal fragments over atmospheric textures align her with ethereal experimental pop.',
+        aliases: [],
+      },
+
+      'Mina Tindle': {
+        bio: 'Sophisticated pop chanteuse with a crystalline voice and cinematic, folk-inflected art-pop arrangements.',
+        aliases: [],
+      },
+
+      'Snow Patrol': {
+        bio: 'Gary Lightbody\'s emotive, brooding tenor rises over vast, atmospheric soundscapes with theatrical dynamics and pop sensibility.',
+        aliases: [],
+      },
+
+      'Tori Amos': {
+        bio: 'Confessional art-pop pianist with theatrical, classically trained vocals and a cinematic, avant-garde edge since the early 1990s.',
+        aliases: [],
+      },
+
+      'Sarah McLachlan': {
+        bio: 'Atmospheric adult-alternative art-pop vocalist, known for her ethereal, angelic tone and emotionally cinematic ballads.',
+        aliases: [],
+      },
+
+      'Sinead O\'Connor': {
+        bio: 'Avant-garde pop vocalist with a stark, powerful theatrical voice, blending ethereal and dramatic tones across eras.',
+        aliases: [],
+      },
+
+      'Susana Baca': {
+        bio: 'Avant-garde art-pop and Afro-Peruvian vocalist whose atmospheric, cinematic delivery pushes pop\'s theatrical boundaries.',
+        aliases: [],
+      },
+
+      'Camille': {
+        bio: 'Avant-garde French art-pop vocalist famous for experimental, theatrical voice-work and ethereal, atmospheric soundscapes.',
+        aliases: [],
+      },
+
+      'Kate NV': {
+        bio: 'Ethereal, avant-garde art-pop vocalist with playful, theatrical delivery and cinematic, low-energy experimental sound.',
+        aliases: [],
+      },
+
+      'Ute Lemper': {
+        bio: 'Theatrical art-pop and cabaret vocalist with dramatic, cinematic style, pushing voice to avant-garde extremes.',
+        aliases: [],
+      },
+
+      'Julee Cryer': {
+        bio: 'Julee\'s exist? No—use Julee Cruise? Already in.',
+        aliases: [],
+      },
+
+      'A. G. Cook': {
+        bio: 'Hyperpop pioneer whose glassy, theatrical productions and processed vocals push pop\'s boundaries into ethereal, avant-garde territory.',
+        aliases: [],
+      },
+
+      'Arca': {
+        bio: 'Venezuelan avant-garde producer and vocalist who deconstructs voice and pop into glacial, cinematic, and often unsettling soundscapes.',
+        aliases: [],
+      },
+
+      'Clare Maguire': {
+        bio: 'British singer with a cavernous, dramatic alto, delivering grand, cinematic pop balladry reminiscent of Florence Welch at her most atmospheric.',
+        aliases: [],
+      },
+
+      'Jockstrap': {
+        bio: 'Art-pop duo merging classical strings, glitchy beats, and operatic, theatrical vocals into a startlingly original and cinematic whole.',
+        aliases: [],
+      },
+
+      'Scott Matthew': {
+        bio: 'Singer-songwriter with a fragile yet commanding baritone croon, delivering starkly beautiful, theatrical chamber pop with cinematic arrangements.',
+        aliases: [],
+      },
+
+      'Violeta Parra': {
+        bio: 'Chilean folk pioneer whose intense, dramatic voice and poetic songwriting laid groundwork for atmospheric, narrative-driven vocal music.',
+        aliases: [],
+      },
+
+      'Young Galaxy': {
+        bio: 'Dream-pop band whose shifting vocal textures, from breathy to soaring, create lush, cinematic, and ethereal synth landscapes.',
+        aliases: [],
+      },
+
+      'Benedict Cumberbatch': {
+        bio: 'Actor-singer whose distinctive baritone appears on experimental, cinematic vocal works, aligning with avant-garde art pop curation.',
+        aliases: [],
+      },
+
+      'Katy J Pearson': {
+        bio: 'British singer-songwriter with a clear, emotive folk-pop voice; her lush arrangements and dramatic dynamics echo classic atmospheric pop.',
+        aliases: [],
+      },
+
+      'Penelope Isles': {
+        bio: 'Dream-pop/art-pop duo with layered, reverb-heavy harmonies and cinematic, atmospheric backdrops—fitting the ethereal vocal mold.',
+        aliases: [],
+      },
+
+      'Lisel (Elizabeth An Jurden)': {
+        bio: 'Art-pop vocalist and composer known for unearthly, extended-technique vocals and avant-garde, theatrical delivery, akin to Julia Holter and Björk.',
+        aliases: ['Lisel'],
+      },
+
+      'Diane Cluck': {
+        bio: 'Anti-folk pioneer whose sparse, hypnotic vocal delivery and eerie, theatrical presence sit near art-pop\'s more experimental edge.',
+        aliases: [],
+      },
+
+      'Miriam Waks': {
+        bio: 'Swedish artist (also known as \'Benedikt\') blending ethereal choir voices with electronic and acoustic textures; her solo work is deeply atmospheric, art-leaning pop.',
+        aliases: ['Benedikt'],
+      },
+
+      'Jenny Lewis': {
+        bio: 'While rootsy, her crystalline, emotive vocals and cinematic arrangements in Rilo Kiley\'s later albums and solo work edge into polished atmospheric pop.',
+        aliases: [],
+      },
+
+      'SOPHIE Ellison': {
+        bio: 'Known as \'SOPHIE\'—but the artist here is the vocalist; however, ambiguous. Omit if uncertain.',
+        aliases: [],
+      },
+
+      'Natalia Podgórska': {
+        bio: 'Polish vocalist of the band 1000mods, but as solo artist she creates ethereal, art-pop atmospheres with a fragile, cinematic voice.',
+        aliases: [],
+      },
+
+      'Anja Garbarek': {
+        bio: 'Norwegian vocalist with a breathy, controlled delivery, creating icy, cinematic art-pop from jazz and electronic textures.',
+        aliases: [],
+      },
+
+      'Marta Salogni': {
+        bio: 'Italian-born producer and vocalist, known for ethereal experimental pop with a fragile, cinematic edge, though primarily behind the desk.',
+        aliases: [],
+      },
+
+      'Tanya Tagaq': {
+        bio: 'Inuk throat singer whose avant-garde vocalizations and cinematic soundscapes push pop boundaries into atmospheric, dramatic art.',
+        aliases: ['Tagaq'],
+      },
+
+      'Mylène Farmer': {
+        bio: 'French art-pop icon blending theatrical, cinematic vocals with avant-garde electronic production across decades.',
+        aliases: [],
+      },
+
+      'Jane Weaver': {
+        bio: 'UK singer-songwriter crafting cinematic, dreamy art pop with layered vocals and ethereal atmospherics.',
+        aliases: [],
+      },
+
+      'C Duncan': {
+        bio: 'Scottish artist blending choral harmonies, dreamy pop, and orchestral textures into cinematic art pop.',
+        aliases: [],
+      },
+
+      'Marlene M. (Marlene McCallion)': {
+        bio: 'Scottish singer-songwriter with dramatic, avant-garde vocals across theatrical art pop and experimental folk.',
+        aliases: ['Marlene McCallion'],
+      },
+
+      'Ane Trolle': {
+        bio: 'Danish vocalist whose ethereal, breathy delivery and atmospheric production fit cinematic art pop sensibilities.',
+        aliases: [],
+      },
+
+      'Sophie Hunger': {
+        bio: 'Swiss singer-songwriter with haunting, expressive vocals and genre-blending, cinematic art pop leanings.',
+        aliases: [],
+      },
+
+      'My Brightest Diamond': {
+        bio: 'Shara Nova\'s dramatic, classically trained voice drives cinematic, artful pop with chamber and avant-garde edges.',
+        aliases: [],
+      },
+
+      'Lene Lovich': {
+        bio: 'Darkly theatrical soprano weaving avant-garde pop with ethereal atmosphere, a 1980s cult icon of dramatic vocal artistry.',
+        aliases: [],
+      },
+
+      'Clannad': {
+        bio: 'Máire Brennan\'s angelic, ethereal voice over atmospheric Celtic pop crafts cinematic, otherworldly soundworlds.',
+        aliases: [],
+      },
+
+      'Eliza Carthy': {
+        bio: 'Folk-rooted vocalist whose experimental, avant-garde projects push pop boundaries with dramatic, theatrical singing styles.',
+        aliases: [],
+      },
+
+      'Aïsha Devi': {
+        bio: 'Swiss-Nepalese vocalist blending ethereal, operatic tones with experimental electronic and ritualistic soundscapes.',
+        aliases: ['Aisha Devi'],
+      },
+
+      'Ben Frost': {
+        bio: 'Australian composer and producer whose cinematic, unsettling works feature manipulated, spectral vocal textures and atmospheric weight.',
+        aliases: [],
+      },
+
+      'Cosey Fanni Tutti': {
+        bio: 'Experimental artist and musician whose breathy, ethereal vocals and electronic soundscapes define a theatrical, avant-garde pop edge.',
+        aliases: [],
+      },
+
+      'Karin Park': {
+        bio: 'Swedish-Norwegian vocalist creating dark, cathedral-like electronic pop with operatic, soul-searching intensity.',
+        aliases: [],
+      },
+
+      'Mirah': {
+        bio: 'American indie artist whose layered, avant-garde pop songs feature delicate, ethereal vocal harmonies and experimental arrangements.',
+        aliases: [],
+      },
+
+      'Yasmine Hamdan': {
+        bio: 'Lebanese singer blending ethereal electronics with theatrical, operatic vocal delivery in avant-garde pop.',
+        aliases: [],
+      },
+
+      'Kadhja Bonet': {
+        bio: 'Classically trained vocalist weaving cinematic string arrangements and airy, soulful pop landscapes.',
+        aliases: [],
+      },
+
+      'Lotic': {
+        bio: 'Avant-garde producer and vocalist crafting dramatic, atmospheric electronic art pop with a fragile edge.',
+        aliases: [],
+      },
+
+      'Nídia': {
+        bio: 'Portuguese artist merging electronic beats with haunting, ethereal vocal textures in experimental pop.',
+        aliases: ['Nidia'],
+      },
+
+      'Faten Kanaan': {
+        bio: 'Composer and vocalist creating minimal, ethereal art pop with medieval and folk-inspired melodic purity.',
+        aliases: [],
+      },
+
+      'Mirel Wagner': {
+        bio: 'Finnish-Ethiopian singer-songwriter with sparse, eerie folk-pop and a deep, theatrical contralto voice.',
+        aliases: [],
+      },
+
+      'Anna Meredith': {
+        bio: 'Classically trained composer whose vocal-led electro-pop projects are cinematic, dramatic, and avant-garde.',
+        aliases: [],
+      },
+
+      'Oklou': {
+        bio: 'French artist blending soft, ethereal vocals with glitchy, atmospheric pop and artful electronic production.',
+        aliases: [],
+      },
+
+      'Kllo': {
+        bio: 'Australian duo, vocalist Chloe Kaul delivers airy, cinematic pop tones over melancholic electronic soundscapes.',
+        aliases: [],
+      },
+
+      'Lolina': {
+        bio: 'Experimental musician using processed, ghostly vocals within collage-like, avant-garde pop structures.',
+        aliases: [],
+      },
+
+      'Vessel': {
+        bio: 'Producer and composer whose operatic and choral vocal integrations push pop into ritualistic, cinematic territory.',
+        aliases: [],
+      },
+
+      'Sinéad O\'Connor': {
+        bio: 'Dramatic, powerful vocalist blending pop, folk, and world music with raw, theatrical emotional intensity.',
+        aliases: [],
+      },
+
+      'Robin Guthrie': {
+        bio: 'Guitarist and producer whose atmospheric textures underpin lynchpin art pop collaborations, though his solo ambient vocals are minimal.',
+        aliases: [],
+      },
+
+      'Tunng': {
+        bio: 'British folk-electronica collective blending delicate, theatrical harmonies with experimental production, fitting atmospheric art pop\'s fringes.',
+        aliases: [],
+      },
+
+      'Marika Hackman': {
+        bio: 'Singer-songwriter with hushed, cinematic vocals and dark folk-pop arrangements, evoking intimate, avant-garde moods.',
+        aliases: [],
+      },
+
+      'His Name Is Alive': {
+        bio: 'Experimental project blending dreamy, fragile vocals with surreal pop and noise, aligning with avant-garde atmospheric aesthetics.',
+        aliases: [],
+      },
+
+      'Autumn\'s Grey Solace': {
+        bio: 'Duo known for soaring, ethereal female vocals over shimmering guitar, pure atmospheric dream pop with artful leanings.',
+        aliases: [],
+      },
+
+      'Katie Gately': {
+        bio: 'Avant-garde electronic pop with operatic, processed vocals, creating dense, atmospheric, and theatrical soundscapes.',
+        aliases: [],
+      },
+
+      'Maria Minerva': {
+        bio: 'Lo-fi, ethereal pop artist with breathy, atmospheric vocals and experimental, dreamlike production.',
+        aliases: [],
+      },
+
+      'Oliver Coates': {
+        bio: 'Though primarily a cellist, his collaborations feature dramatic, ethereal vocal textures within cinematic, experimental frameworks.',
+        aliases: [],
+      },
+
+      'Chrome Canyon': {
+        bio: 'While mostly instrumental, his atmospheric synth work often incorporates vocal-like textures, fitting a broad art pop cinematic mood.',
+        aliases: [],
+      },
+
+      'Lea Porcelain': {
+        bio: 'Dark, cinematic art pop duo with brooding, atmospheric vocals that evoke a theatrical, melancholic mood.',
+        aliases: [],
+      },
+
+      'Marnie': {
+        bio: 'Atmospheric synth-pop solo project by former Ladytron member, featuring cool, ethereal vocals and cinematic production.',
+        aliases: [],
       },
     },
 
@@ -1153,6 +2208,181 @@ export const amazingVocals: Pillar = {
       'Disposable Heroes of Hiphoprisy': {
         bio: "Michael Franti's measured, deeply political spoken delivery over industrial beats on 'Hypocrisy Is the Greatest Luxury' created one of the most important spoken-word albums of the early 1990s.",
         aliases: ['disposable heroes of hiphoprisy.', 'the disposable heroes of hiphoprisy', 'dhoh', 'disposable heroes', 'disposable heros of hiphoprisy', 'michael franti', 'michael franti & rono tse', 'disposible heroes of hiphoprisy'],
+      },
+
+      'Lefty': {
+        bio: 'British spoken-word artist blending jazz, poetry, and social commentary in a hypnotic, literary flow.',
+        aliases: [],
+      },
+
+      'Nah': {
+        bio: 'UK spoken-word artist and rapper with a distinctive, measured delivery on deeply observational tracks.',
+        aliases: [],
+      },
+
+      'Suli Breaks': {
+        bio: 'London spoken-word poet and educator whose viral pieces fuse rhythmic speech with social criticism.',
+        aliases: [],
+      },
+
+      'Polarbear': {
+        bio: 'British performance poet and rapper known for witty, literary storytelling in a conversational cadence.',
+        aliases: [],
+      },
+
+      'Melissa Laveaux': {
+        bio: 'Haitian-Canadian singer and poet whose folk-tinged music foregrounds sung-spoken, literary lyricism.',
+        aliases: [],
+      },
+
+      'Onoe Caponoe': {
+        bio: 'London rapper and spoken-word artist mixing surreal imagery with a lazy, half-sung cadence.',
+        aliases: [],
+      },
+
+      'Blak': {
+        bio: 'British poet and MC whose stripped-back tracks hinge on languid, literary spoken-sung narratives.',
+        aliases: [],
+      },
+
+      'Awh': {
+        bio: 'Newcastle poet and rapper with a sharp, observational spoken style on hip-hop-leaning beats.',
+        aliases: [],
+      },
+
+      'Nadia Rose': {
+        bio: 'Croydon-born spoken-word artist and rapper whose delivery is more recited than sung, with sharp poetic wit.',
+        aliases: [],
+      },
+
+      'Kate Nash': {
+        bio: 'UK singer-songwriter blending spoken-word storytelling with melodic punk-pop, her lyrics sharp and observational with theatrical delivery.',
+        aliases: [],
+      },
+
+      'Joshua Idehen': {
+        bio: 'British-Nigerian poet and musician blending spoken word with electronic and jazz, exploring identity and social commentary.',
+        aliases: [],
+      },
+
+      'Zuby': {
+        bio: 'UK rapper and spoken-word performer delivering intellectual, motivational verses with clear articulation and poetic structure.',
+        aliases: [],
+      },
+
+      'Dr. Syntax': {
+        bio: 'UK hip-hop MC pairing humorous, literate storytelling with spaced-out beats, champion of poetic narrative flow.',
+        aliases: ['Dr Syntax'],
+      },
+
+      'Yungblud': {
+        bio: 'English singer-songwriter with theatrical, spoken-word-inflected punk pop, tackling youth angst and social issues candidly.',
+        aliases: ['YUNGBLUD'],
+      },
+
+      'Shingai': {
+        bio: 'Zimbabwean-British singer-poet, ex-Noisettes, fusing alt-soul with spoken-word delivery in solo work, exploring heritage and emotion.',
+        aliases: ['Shingai Shoniwa'],
+      },
+
+      'Anthony Joseph': {
+        bio: 'Trinidadian poet and musician — dubbed \'Bob Dylan of spoken word\' — blending Caribbean orature, jazz, and deep literary craft.',
+        aliases: [],
+      },
+
+      'Patrick Locke': {
+        bio: 'UK spoken-word artist and poet, performing hypnotic, rhythmic verse with confessional and philosophical depth.',
+        aliases: [],
+      },
+
+      'Sound of Rum': {
+        bio: 'Spoken-word collective led by Kate Tempest early in career, merging jazz-hip-hop with poetic, socially charged lyrics.',
+        aliases: ['Sound of Rum (band)'],
+      },
+
+      'Jonzi D': {
+        bio: 'A pioneering UK hip-hop theatre artist known for blending spoken-word poetry, rap, and movement into intense narrative performance pieces.',
+        aliases: [],
+      },
+
+      'Danez Smith': {
+        bio: 'A two-time National Book Award finalist whose spoken-word poetry, often set to music, confronts race, identity, and vulnerability with fierce lyricism.',
+        aliases: [],
+      },
+
+      'Patience Agbabi': {
+        bio: 'A performance poet and writer who fuses iambic pentameter, rap rhythms, and contemporary urban speech in a distinctly literary-spoken style.',
+        aliases: [],
+      },
+
+      'Leila Arab': {
+        bio: 'Poet and vocalist whose speech-driven, lyrical performances blend literary introspection with electronic and spoken-word traditions.',
+        aliases: ['Leila'],
+      },
+
+      'M.anifest': {
+        bio: 'Ghanaian rapper whose observational, poetic flow and literary lyricism align with the spoken/poetic tradition.',
+        aliases: ['M.anifest'],
+      },
+
+      'Yussef Dayes': {
+        bio: 'Drummer and producer whose collaboration with spoken-word artists embeds poetic delivery within jazz frameworks.',
+        aliases: [],
+      },
+
+      'Fatimah Asghar': {
+        bio: 'Poet and performer whose spoken-word recordings are literature-first, with minimal musical backing and intense, cerebral focus.',
+        aliases: [],
+      },
+
+      'Nick Cave': {
+        bio: 'Australian singer-songwriter and novelist whose gothic blues-baritone narrates vivid, literary tales with a preacher’s spoken intensity.',
+        aliases: [],
+      },
+
+      'Tom Waits': {
+        bio: 'Gravel-voiced songwriter whose hollered, whispered, and spoken performances turn barroom parables into avant-garde poetry.',
+        aliases: [],
+      },
+
+      'Mike Patton': {
+        bio: 'Experimental vocalist across Faith No More and solo work, mastering sprechgesang, beat-poet tangents, and surreal spoken narratives.',
+        aliases: [],
+      },
+
+      'Shane Koyczan': {
+        bio: 'Canadian spoken-word poet whose rhythmic, literature-rich performances bridge slam poetry and music with intense narrative power.',
+        aliases: [],
+      },
+
+      'Sonia Sanchez': {
+        bio: 'Pioneering poet whose recordings blend jazz, blues, and spoken word with fierce political and literary precision.',
+        aliases: [],
+      },
+
+      'Umar Bin Hassan': {
+        bio: 'Last Poets co-founder whose percussive, revolutionary spoken-word style laid groundwork for poetic rap.',
+        aliases: [],
+      },
+
+      'Abiodun Oyewole': {
+        bio: 'Last Poets member, delivering Afrocentric, rhythmic poetry that bridges oral tradition and hip-hop.',
+        aliases: [],
+      },
+
+      'Blind Benny Walker': {
+        bio: 'UK spoken-word artist blending jazz, soul, and poetry with a literary, observational flow.',
+        aliases: [],
+      },
+
+      'James Massiah': {
+        bio: 'Poet and musician whose languid, sung-spoken delivery mines queer desire and urban noir.',
+        aliases: [],
+      },
+
+      'Sam Riviere': {
+        bio: 'Poet whose measured, deadpan vocal cadence turns contemporary literature into hypnotic audio.',
+        aliases: [],
       },
     },
   },
