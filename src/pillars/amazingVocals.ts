@@ -1255,6 +1255,96 @@ export const amazingVocals: Pillar = {
         bio: 'UK singer-songwriter whose intimate, airy voice and delicate acoustic instrumentation evoke thoughtful solitude.',
         aliases: [],
       },
+
+      'Chris Thile': {
+        bio: 'Mandolin virtuoso with intimate, confessional vocal delivery and intricate acoustic arrangements rooted in singer-songwriter tradition.',
+        aliases: [],
+      },
+
+      'Jena Malone': {
+        bio: 'Alternative folk artist whose sparse, whispered vocals and raw acoustic guitar evoke vulnerable, diary-like storytelling.',
+        aliases: [],
+      },
+
+      'Sam Amidon': {
+        bio: 'Folk interpreter and songwriter whose stark, trembling vocals and minimal acoustic settings center on melancholy narratives.',
+        aliases: [],
+      },
+
+      'Benjamin Francis Leftwich': {
+        bio: 'Acoustic folk singer-songwriter known for fragile, intimate vocals and delicate guitar work on reflective, vulnerable tracks.',
+        aliases: [],
+      },
+
+      'Tom Rosenthal': {
+        bio: 'Quirky, honest songwriter pairing plainspoken, whispery vocals with spare acoustic guitar, capturing everyday emotional truths.',
+        aliases: [],
+      },
+
+      'William Fitzsimmons': {
+        bio: 'Soft-spoken indie folk artist whose gentle, honest vocals and acoustic arrangements explore deeply personal grief and relationships.',
+        aliases: [],
+      },
+
+      'Julia Jacklin': {
+        bio: 'Australian songwriter whose clear, direct vocals and minimal guitar strips bare themes of vulnerability, longing, and self-doubt.',
+        aliases: [],
+      },
+
+      'Foy Vance': {
+        bio: 'Irish singer-songwriter with a gravelly, soulful voice and intimate acoustic storytelling rooted in confessional folk and blues.',
+        aliases: [],
+      },
+
+      'Glen Phillips': {
+        bio: 'Ex-Toad the Wet Sprocket frontman known for vulnerable, acoustic-driven solo work with honest, introspective lyrics and warm vocals.',
+        aliases: ['Glen Phillips (solo)'],
+      },
+
+      'David Gray': {
+        bio: 'British singer-songwriter whose hushed vocals and acoustic guitar create confessional, intimate songs marked by fragile emotional depth.',
+        aliases: [],
+      },
+
+      'Sara Watkins': {
+        bio: 'Americana artist with clear, tender voice and spare acoustic arrangements, delivering vulnerable, personal storytelling in a singer-songwriter vein.',
+        aliases: [],
+      },
+
+      'Rae Morris': {
+        bio: 'UK artist often performing solo at piano or guitar, with fragile, intimate vocals and confessional lyrics rooted in singer-songwriter tradition.',
+        aliases: [],
+      },
+
+      'Ocie Elliott': {
+        bio: 'Canadian folk duo with hushed harmonies and acoustic guitar, crafting gentle, confessional songs that feel deeply personal and intimate.',
+        aliases: [],
+      },
+
+      'Neal Casal': {
+        bio: 'Late American songwriter with a warm, weathered voice and acoustic folk-rock meditations on loss, longing, and honest self-appraisal.',
+        aliases: [],
+      },
+
+      'Cary Ann Hearst': {
+        bio: 'Americana singer-songwriter with raw, tender vocals and sparse acoustic arrangements that center vulnerable storytelling and intimate moods.',
+        aliases: [],
+      },
+
+      'Heloise Werner': {
+        bio: 'UK art-folk singer known for minimalist voice-and-guitar performances, delivering confessional, emotionally stark material with striking vulnerability.',
+        aliases: ['Héloïse Werner'],
+      },
+
+      'Maya Hawke': {
+        bio: 'Singer-songwriter whose debut albums feature breathy, close-mic vocals over acoustic guitar, exploring personal memory and intimate self-reflection.',
+        aliases: [],
+      },
+
+      'Baerd': {
+        bio: 'Pseudonymous indie-folk artist (Ólafur Josephsson) blending acoustic fingerpicking with muted, intimate, whisper-close vocals and confessional lyrics.',
+        aliases: ['Ólafur Josephsson'],
+      },
     },
 
     'Atmospheric / Art Pop': {
@@ -2382,6 +2472,16 @@ export const amazingVocals: Pillar = {
 
       'Sam Riviere': {
         bio: 'Poet whose measured, deadpan vocal cadence turns contemporary literature into hypnotic audio.',
+        aliases: [],
+      },
+
+      'Fiachna Ó Braonáin': {
+        bio: 'Irish spoken-word artist blending literary lyricism with a rhythmic, sung-spoken flow over hip-hop and electronica beats.',
+        aliases: [],
+      },
+
+      'Eoghan Ó Ceannabháin': {
+        bio: 'Sean-nós singer and poet whose fragile, sung-spoken delivery reimagines traditional Irish verse in a contemporary, literary mode.',
         aliases: [],
       },
     },
