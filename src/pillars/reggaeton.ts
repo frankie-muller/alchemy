@@ -483,6 +483,21 @@ export const reggaeton: Pillar = {
         bio: 'Puerto Rican artist blending reggaetón with trap and R&B, known for underground credibility and feature-heavy catalog.',
         aliases: ['Rafa Pabon'],
       },
+
+      'JKing & Maximan': {
+        bio: 'Puerto Rican duo known for classic reggaetón party anthems from the late 2000s and 2010s.',
+        aliases: ['J King y Maximan'],
+      },
+
+      'Gaby': {
+        bio: 'Panamanian vocalist from La Factoria, iconic in early 2000s reggaetón with \'Perdón\' and steady urbano output.',
+        aliases: [],
+      },
+
+      'Larry Over': {
+        bio: 'Venezuelan reggaetón singer and composer active since the 2000s, recognized for melodic urbano tracks.',
+        aliases: [],
+      },
     },
 
     'Latin Trap / Urbano Moderno': {
