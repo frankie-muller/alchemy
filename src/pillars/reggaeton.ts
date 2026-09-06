@@ -473,6 +473,16 @@ export const reggaeton: Pillar = {
         bio: 'Spanish artist whose music heavily features reggaetón and Latin urban rhythms, a leading figure in the European scene.',
         aliases: [],
       },
+
+      'Lennox': {
+        bio: 'Half of Zion & Lennox, also a solo artist with a consistent reggaetón presence and club-ready dembow hits.',
+        aliases: [],
+      },
+
+      'Rafa Pabön': {
+        bio: 'Puerto Rican artist blending reggaetón with trap and R&B, known for underground credibility and feature-heavy catalog.',
+        aliases: ['Rafa Pabon'],
+      },
     },
 
     'Latin Trap / Urbano Moderno': {
