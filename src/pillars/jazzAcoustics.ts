@@ -1201,6 +1201,11 @@ export const jazzAcoustics: Pillar = {
         bio: 'Tenor saxophonist famed for his silky cool tone, key voice in Duke Ellington\'s orchestra.',
         aliases: [],
       },
+
+      'Misha Alperin': {
+        bio: 'Ukrainian-Norwegian pianist and ECM artist whose solo and duo albums mine introspective, spacious, contemplative modal folk-jazz.',
+        aliases: ['Misha Alperin'],
+      },
     },
 
     'Free / Avant-Garde': {

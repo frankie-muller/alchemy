@@ -1982,6 +1982,11 @@ export const hipHopRap: Pillar = {
         bio: 'Brooklyn-based rapper channeling raw, street-oriented lyricism and grimy sample usage fitting the East Coast sub-category.',
         aliases: [],
       },
+
+      'K-Rino': {
+        bio: 'Houston-born but deeply rooted in intricate, lyrical storytelling and dense rhyme patterns that align with East Coast boom-bap esthetics; veteran underground force.',
+        aliases: [],
+      },
     },
 
     'West Coast': {
