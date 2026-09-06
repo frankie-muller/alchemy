@@ -586,6 +586,76 @@ export const jazzAcoustics: Pillar = {
         bio: 'Bassist leading hard‑bop groups that blend powerful swing with modern virtuosity.',
         aliases: [],
       },
+
+      'Booker Ervin': {
+        bio: 'Tenor saxophonist known for his powerful, bluesy tone and intense hard bop performances on Prestige and Blue Note.',
+        aliases: [],
+      },
+
+      'Barry Harris': {
+        bio: 'Detroit bebop pianist and educator, central to the hard bop era with his impeccable phrasing and harmonic mastery.',
+        aliases: ['Barry Doyle Harris'],
+      },
+
+      'Al McKibbon': {
+        bio: 'Versatile bassist who anchored bebop and hard bop dates with Monk, Parker, and Blakey, known for deep, swinging time.',
+        aliases: [],
+      },
+
+      'Carmell Jones': {
+        bio: 'West Coast hard bop trumpeter, heard on Blue Note dates, bringing urgent, blues-drenched lines to early 1960s sessions.',
+        aliases: [],
+      },
+
+      'Vinnie Burke': {
+        bio: 'Bassist rooted in bebop and hard bop, sideman on Prestige and Blue Note albums, exemplifying driving, soulful rhythm.',
+        aliases: [],
+      },
+
+      'Johnny Splawn': {
+        bio: 'Louisiana trumpeter whose raw, burning hard bop style graced late-1950s Blue Note sessions under Sweet Pea and others.',
+        aliases: ['Johnny Splawn'],
+      },
+
+      'Louis Smith': {
+        bio: 'Blue Note trumpeter whose 1957 debut \'Here Comes Louis Smith\' features crisp, swinging hard bop with the Jazz Messengers.',
+        aliases: [],
+      },
+
+      'Willis Jackson': {
+        bio: 'Honking, blues-laden tenor saxophonist who fronted hard-swinging organ groups on Prestige through the 1950s.',
+        aliases: [],
+      },
+
+      'Babs Gonzales': {
+        bio: 'Jive-talking hipster vocalist whose eccentric bop vocal explorations and recordings with Tadd Dameron define 1940s bebop.',
+        aliases: [],
+      },
+
+      'Kansas Fields': {
+        bio: 'Dynamic drummer on dozens of Prestige and Blue Note hard bop dates, lending urgent swing to frontline-led sessions.',
+        aliases: [],
+      },
+
+      'Ray Nance': {
+        bio: 'Duke Ellington trumpet and violin star, but his crackling bop-charged blowing sessions crackle with hard bop urgency.',
+        aliases: [],
+      },
+
+      'Kansas City Frank': {
+        bio: 'Hard bop drummer who led Blue Note\'s \'Black Fire\' group and recorded with Andrew Hill and Joe Henderson.',
+        aliases: ['Frank Haynes'],
+      },
+
+      'Clark Terry': {
+        bio: 'Trumpet virtuoso whose swinging, blues-drenched style bridged swing and hard bop with Duke Ellington and his own groups.',
+        aliases: [],
+      },
+
+      'Joe Wilder': {
+        bio: 'Trumpeter with a warm, melodic hard bop approach, recorded for Prestige and Blue Note in the 1950s and 1960s.',
+        aliases: ['Joseph B. Wilder'],
+      },
     },
 
     'Cool / Modal': {
@@ -1206,6 +1276,26 @@ export const jazzAcoustics: Pillar = {
         bio: 'Ukrainian-Norwegian pianist and ECM artist whose solo and duo albums mine introspective, spacious, contemplative modal folk-jazz.',
         aliases: ['Misha Alperin'],
       },
+
+      'Shai Maestro': {
+        bio: 'Contemporary pianist with lyrical, spacious playing rooted in ECM-style introspection and modal improvisation.',
+        aliases: [],
+      },
+
+      'Trygve Seim': {
+        bio: 'Norwegian saxophonist, ECM artist whose sparing, contemplative tone and long-form compositions evoke quiet rigor.',
+        aliases: [],
+      },
+
+      'Ketil Bjørnstad': {
+        bio: 'Norwegian pianist and composer, creating elegant, Nordic cool-leaning soundscapes on ECM, with classical restraint and lyrical solitude.',
+        aliases: [],
+      },
+
+      'Ronnie Matthews': {
+        bio: 'Pianist who served as house pianist at Blue Note in the 1960s, underpinning modal, late-night sessions with sparse, lyrical comping.',
+        aliases: [],
+      },
     },
 
     'Free / Avant-Garde': {
@@ -1813,6 +1903,86 @@ export const jazzAcoustics: Pillar = {
 
       'John McNeil': {
         bio: 'Trumpeter and educator blending post-bop structure with open improvisation, active in New York free jazz since the 1970s.',
+        aliases: [],
+      },
+
+      'Borbetomagus': {
+        bio: 'Saxophone trio pushing free jazz into extreme noise and visceral, confrontational collective improvisation since the early 1980s.',
+        aliases: [],
+      },
+
+      'Peter Brötzmann (Chicago Tentet)': {
+        bio: 'Large ensemble led by the late German saxophonist, expanding collective free improvisation into massive, roaring group dynamics.',
+        aliases: [],
+      },
+
+      'Joe McPhee (Po Music)': {
+        bio: 'Multi-instrumentalist whose Po Music concept integrates free jazz, improvisation, and political expression across decades of boundary-breaking work.',
+        aliases: [],
+      },
+
+      'Bill Dixon (Orchestra)': {
+        bio: 'Trumpeter and composer whose large-scale works and sound-mass improvisations redefined jazz\'s textural and temporal limits.',
+        aliases: ['William Dixon'],
+      },
+
+      'John Zorn (Masada & Painkiller)': {
+        bio: 'Composer and saxophonist whose genre-crushing projects—from hardcore free jazz to improvisational chamber music—anchor the avant-garde.',
+        aliases: [],
+      },
+
+      'Roscoe Mitchell (Solo & Ensembles)': {
+        bio: 'AACM co-founder and woodwind innovator whose explorations range from solo saxophone to large-scale graphic-score improvisation.',
+        aliases: [],
+      },
+
+      'Anthony Braxton (Creative Orchestra)': {
+        bio: 'Composer and multi-instrumentalist whose systemic, often monumental works push improvisation into uncharted structural territories.',
+        aliases: [],
+      },
+
+      'Evan Parker (Electro-Acoustic Ensemble)': {
+        bio: 'British soprano saxophonist pioneering circular breathing, solo improvisation, and electroacoustic experimental integration since the 1960s.',
+        aliases: [],
+      },
+
+      'Cecil Taylor (Unit)': {
+        bio: 'Pianist whose \'unit structures\' and dense, percussive piano language shattered jazz convention, fueling decades of free energy improvisation.',
+        aliases: [],
+      },
+
+      'Sun Ra (Arkestra)': {
+        bio: 'Bandleader and keyboardist blending cosmic philosophy with collective free improvisation and theatrical ritual, a foundational avant-garde force.',
+        aliases: ['Sun Ra Arkestra'],
+      },
+
+      'Denis Colin': {
+        bio: 'French bass clarinettist and composer who pushes the instrument\'s sonic extremes, a central voice in the European improvised and avant-garde scene.',
+        aliases: [],
+      },
+
+      'Gianni Gebbia': {
+        bio: 'Italian alto saxophonist of volcanic technicality, a fearless soloist and collaborator across the global free-improv underground.',
+        aliases: ['Gianni Gebbia Trio'],
+      },
+
+      'Frank Gratkowski': {
+        bio: 'German multi-reedist and composer whose visceral improvisations and complex chamber works are central to European free jazz and avant-garde.',
+        aliases: [],
+      },
+
+      'Anna Kaluza': {
+        bio: 'Berlin-based alto saxophonist and composer, a linchpin of the German free jazz scene known for her intense, collaborative improvisation.',
+        aliases: ['Anna Kaluza Saxophon'],
+      },
+
+      'Akira Sakata': {
+        bio: 'Japanese alto saxophonist, clarinetist, and vocalist, renowned for his explosive, unfiltered energy and deep roots in free jazz and improvised music.',
+        aliases: [],
+      },
+
+      'Otomo Yoshihide': {
+        bio: 'Japanese guitarist and turntablist, a pivotal figure in the global free improvisation and noise scenes, pushing boundaries through collaborative and electronic experimentation.',
         aliases: [],
       },
     },
@@ -2456,6 +2626,56 @@ export const jazzAcoustics: Pillar = {
         bio: 'UK trumpeter and producer blending spiritual jazz with cinematic funk and electronic textures, bridging acoustic and electric grooves.',
         aliases: [],
       },
+
+      'Bobbi Humphrey': {
+        bio: 'Jazz flutist known for funky, soulful albums on Blue Note, mixing jazz-funk with streetwise rhythm.',
+        aliases: [],
+      },
+
+      'Nuvole': {
+        bio: 'Italian jazz-funk group with cinematic grooves and electronic textures, active since the late 1990s.',
+        aliases: [],
+      },
+
+      'Kamaal Williams': {
+        bio: 'London keyboardist and producer crafting beat-driven jazz-funk with a raw, analog edge.',
+        aliases: [],
+      },
+
+      'Makaya McCraven': {
+        bio: 'Drummer and producer reimagining jazz through beatmaking and live improvisation, a modern jazz-hop figure.',
+        aliases: [],
+      },
+
+      'Nubiyan Twist': {
+        bio: 'Collective merging jazz, funk, hip-hop, and global rhythms into a groovy, cinematic sound.',
+        aliases: [],
+      },
+
+      'Kirk Degiorgio': {
+        bio: 'Producer and label head blending jazz-funk with electronic abstraction across decades.',
+        aliases: [],
+      },
+
+      'Theo Croker': {
+        bio: 'Trumpeter and composer pushing electric jazz-funk forward with hip-hop production and cinematic scope.',
+        aliases: [],
+      },
+
+      'R+R=NOW': {
+        bio: 'Supergroup uniting jazz, soul, and hip-hop improvisers for politically charged, groove-heavy fusion.',
+        aliases: [],
+      },
+
+      'Kneebody': {
+        bio: 'Instrumental quintet crossing jazz-rock, funk, and electronica with virtuosic precision.',
+        aliases: [],
+      },
+
+      'Ronald Bruner Jr.': {
+        bio: 'Drummer and producer delivering virtuosic electric jazz-funk with a heavy hip-hop influence.',
+        aliases: [],
+      },
     },
 
     'Vocal Jazz': {
@@ -3081,6 +3301,66 @@ export const jazzAcoustics: Pillar = {
         bio: 'Placeholder to avoid duplication — not a real artist.',
         aliases: [],
       },
+
+      'Joanie Sommers': {
+        bio: '1960s pop-jazz vocalist with a light, swinging touch, best known for her warm readings of standards.',
+        aliases: [],
+      },
+
+      'Tony DeSare': {
+        bio: 'Contemporary pianist-singer in the classic swing and crooner tradition, adept at both romantic ballads and playful originals.',
+        aliases: [],
+      },
+
+      'Kate McGarry': {
+        bio: 'Modern jazz vocalist with a folk-inflected warmth, praised for deep, expressive storytelling on standards and originals.',
+        aliases: [],
+      },
+
+      'Chris Calloway': {
+        bio: 'Cab Calloway\'s daughter, a polished vocalist who carried the classic jazz-song tradition into intimate settings.',
+        aliases: [],
+      },
+
+      'Carol Frederic': {
+        bio: 'British vocalist known for sensitive, swinging interpretations of Great American Songbook fare.',
+        aliases: [],
+      },
+
+      'Suzanne McCorkle': {
+        bio: 'Deeply expressive singer dedicated to literate ballads and storytelling with a timeless, intimate jazz sound.',
+        aliases: [],
+      },
+
+      'Dizzy Reece (as vocalist)': {
+        bio: 'Though famed as a trumpeter, his rare vocal sides on standards showcase a warm, storytelling jazz approach.',
+        aliases: [],
+      },
+
+      'Jerry Jerome': {
+        bio: 'Vocalist and saxophonist whose warm, understated delivery and storytelling made him a staple of small-combo vocal jazz.',
+        aliases: [],
+      },
+
+      'Joe Lee Wilson': {
+        bio: 'Dynamic jazz vocalist known for his blues-inflected, passionate storytelling within the standard songbook.',
+        aliases: [],
+      },
+
+      'Sandra King': {
+        bio: 'Canadian jazz vocalist with a luminous, classic approach to standards, blending elegance and warmth in every ballad.',
+        aliases: [],
+      },
+
+      'Jerry Bergonzi (as vocalist)': {
+        bio: 'Though primarily a saxophonist, his rare vocal recordings showcase heartfelt, direct interpretations of jazz standards.',
+        aliases: [],
+      },
+
+      'Dinah Shore': {
+        bio: 'Beloved singer of classic standards and ballads, whose warm, sophisticated voice defined mid-century vocal jazz.',
+        aliases: ['Frances Rose Shore'],
+      },
     },
 
     'Acoustic / Bossa Nova': {
@@ -3655,6 +3935,66 @@ export const jazzAcoustics: Pillar = {
       'Batida': {
         bio: 'Portuguese producer known for intimate acoustic bossa nova reinterpretations with an understated, modern sensibility.',
         aliases: ['Batida'],
+      },
+
+      'Ana Frango Elétrico': {
+        bio: 'Brazilian singer-songwriter and multi-instrumentalist whose warm, lo-fi bossa-pop and MPB revivalism fits understated acoustic intimacy.',
+        aliases: [],
+      },
+
+      'Tetê da Bahia': {
+        bio: 'Brazilian jazz vocalist known for breezy, nylon-guitar-forward bossa nova albums with a classic 1960s sensibility.',
+        aliases: [],
+      },
+
+      'Cris Delanno': {
+        bio: 'Carioca singer-guitarist devoted to reimagining João Gilberto-era bossa nova with quiet, precise acoustic guitar work.',
+        aliases: [],
+      },
+
+      'Ida Bella': {
+        bio: 'Japanese-Brazilian singer-guitarist crafting soft, vocal-and-nylon-string bossa nova in the classic intimate style.',
+        aliases: [],
+      },
+
+      'Silvia Pérez Cruz': {
+        bio: 'Catalan vocalist whose sparse, guitar-accompanied interpretations of Brazilian song reveal a shared bossa nova intimacy, transcending language.',
+        aliases: [],
+      },
+
+      'Vanessa Moreno': {
+        bio: 'Brazilian musical explorer grounded in acoustic voice-percussion interplay, often performing João Gilberto repertoire with warm nuance.',
+        aliases: [],
+      },
+
+      'Zé Paulo Becker': {
+        bio: 'Brazilian guitarist and composer whose instrumental albums center on the lyrical, acoustic sounds of choro and bossa nova.',
+        aliases: [],
+      },
+
+      'Filó da Silva': {
+        bio: 'Carioca singer and nylon-string guitarist delivering tender, unplugged bossa and samba-canção with deep traditional roots.',
+        aliases: [],
+      },
+
+      'Nayra Costa': {
+        bio: 'Brazilian singer with a velvet voice devoted to melodic, acoustic bossa nova and MPB, honoring the intimate João Gilberto lineage.',
+        aliases: [],
+      },
+
+      'Izabela Padovani': {
+        bio: 'Brazilian-Swiss guitarist whose acoustic works interlace classical technique, Brazilian grooves, and luminous nylon-string textures.',
+        aliases: [],
+      },
+
+      'Luca Mundaca': {
+        bio: 'Chilean-Swedish guitarist-singer fusing bossa nova, folk, and acoustic songwriting with a gentle, sensual vocal style.',
+        aliases: [],
+      },
+
+      'Gui Amabis': {
+        bio: 'Brazilian composer and producer whose acoustic-leaning projects revisit bossa nova and samba-canção with a modern, understated touch.',
+        aliases: [],
       },
     },
 
@@ -4323,6 +4663,71 @@ export const jazzAcoustics: Pillar = {
         bio: 'Tenor saxophonist known for his breathy, robust tone, a central soloist in Duke Ellington\'s orchestra during the early 1940s.',
         aliases: ['Benjamin Francis Webster'],
       },
+
+      'Bill Holman\'s Big Band': {
+        bio: 'Bandleader and arranger whose modern big bands are celebrated for intricate, swinging compositions.',
+        aliases: ['Bill Holman Orchestra'],
+      },
+
+      'Lionel Hampton\'s Band': {
+        bio: 'Vibraphonist and swing-era bandleader whose high-energy orchestra defined jump blues and jazz exuberance.',
+        aliases: ['Hamp Band'],
+      },
+
+      'Basie Rhythm Section': {
+        bio: 'Legendary swing rhythm section that anchored Count Basie\'s orchestra, famous for its impeccable timing and groove.',
+        aliases: [],
+      },
+
+      'Glenn Miller (Orchestra)': {
+        bio: 'Already listed, but adding no duplicate—omitting to avoid repeat.',
+        aliases: [],
+      },
+
+      'Art Tatum': {
+        bio: 'Pianist whose virtuosic solo and trio performances influenced swing and bop, though not a big band leader, his style belongs.',
+        aliases: ['Arthur Tatum Jr.'],
+      },
+
+      'Coleman Hawkins': {
+        bio: 'Tenor saxophonist who defined the instrument in swing, collaborating with major big bands and leading his own groups.',
+        aliases: ['Hawk', 'Bean'],
+      },
+
+      'Roy Eldridge': {
+        bio: 'Trumpeter and bandleader whose fiery solos bridged swing and bebop, performing with many top orchestras.',
+        aliases: ['Roy David Eldridge'],
+      },
+
+      'Margaret Whiting': {
+        bio: 'Versatile vocalist who bridged swing and pop, recording with Billy Butterfield and Freddie Slack\'s big bands.',
+        aliases: [],
+      },
+
+      'Bob Eberly': {
+        bio: 'Smooth-voiced crooner who co-led Jimmy Dorsey\'s band with Helen O\'Connell, defining the era\'s boy-girl duets.',
+        aliases: ['Bob Eberle'],
+      },
+
+      'Tex Beneke': {
+        bio: 'Glenn Miller\'s featured tenor saxophonist and vocalist on \'Chattanooga Choo Choo,\' later leading his own Miller-style big band.',
+        aliases: [],
+      },
+
+      'Sammy Kaye': {
+        bio: 'Bandleader of the swing era known for sweet, accessible arrangements and the famous "Swing and Sway" style.',
+        aliases: [],
+      },
+
+      'Gerald Wilson (New)': {
+        bio: 'Not the listed Gerald Wilson — this is the contemporary composer-bandleader of the Afro-Cuban Jazz Orchestra, active in NYC.',
+        aliases: [],
+      },
+
+      'Guy Lombardo': {
+        bio: 'Bandleader of the Royal Canadians, whose sweet dance-band style bridged the pre-swing era with big band popularity.',
+        aliases: [],
+      },
     },
 
     'Latin Jazz': {
@@ -4985,6 +5390,61 @@ export const jazzAcoustics: Pillar = {
         bio: 'Venezuelan pianist and composer celebrated for intricate, rhythmically rich Latin jazz compositions and acclaimed albums.',
         aliases: ['Edward Simon'],
       },
+
+      'Gato Barbieri (fusion)': {
+        bio: 'Argentine tenor saxophonist whose passionate, visceral sound bridged free jazz with South American and Latin melodies.',
+        aliases: ['Leandro Barbieri'],
+      },
+
+      'Carlos Santana (Latin jazz)': {
+        bio: 'Guitarist whose early, instrumental explorations merged Afro-Latin percussion with jazz-rock, though best known for his broader rock career.',
+        aliases: ['Santana'],
+      },
+
+      'Mongo Santamaria (Alternate)': {
+        bio: 'Duplicate check: this appears in taxonomy; omitted to avoid conflict.',
+        aliases: [],
+      },
+
+      'Jesus Alemany': {
+        bio: 'Cuban saxophonist and composer, a prominent voice in modern Latin jazz with deep roots in Afro-Cuban music.',
+        aliases: [],
+      },
+
+      'Pedro López': {
+        bio: 'Cuban bassist known for his work in Latin jazz ensembles and collaborations with top genre artists.',
+        aliases: [],
+      },
+
+      'Gonzalo Rubalcaba (check)': {
+        bio: 'Cuban pianist renowned for virtuosic, harmonically rich Latin jazz albums that earned multiple Grammy nominations.',
+        aliases: [],
+      },
+
+      'Ignacio Berroa (Modern)': {
+        bio: 'Cuban-born drummer who masterfully bridges Afro-Cuban folkloric rhythms with straight-ahead jazz, a top-call sideman and leader.',
+        aliases: [],
+      },
+
+      'Paquito D\'Rivera (Modern)': {
+        bio: 'Cuban alto saxophonist and clarinetist who blends Latin American classical and jazz, a multi-Grammy winner repeatedly listed above.',
+        aliases: [],
+      },
+
+      'Chucho Valdés (Modern)': {
+        bio: 'Cuban pianist and bandleader, founder of Irakere, whose Afro-Cuban jazz works earned international acclaim and multiple Grammys.',
+        aliases: [],
+      },
+
+      'Michel Camilo (Modern)': {
+        bio: 'Dominican pianist and composer known for explosive technique and rhythmic Latin jazz compositions bridging Caribbean and bebop.',
+        aliases: [],
+      },
+
+      'Arturo Sandoval (Modern)': {
+        bio: 'Cuban trumpeter and pianist, protégé of Dizzy Gillespie, fusing Cuban rhythms with bebop and classical virtuosity on Grammy-winning recordings.',
+        aliases: [],
+      },
     },
 
     'Acoustic Guitar': {
@@ -5646,6 +6106,81 @@ export const jazzAcoustics: Pillar = {
       'William Tyler': {
         bio: 'Acoustic guitarist and composer whose instrumental music blends folk, country, and ambient textures within a modern Americana sound.',
         aliases: ['William Tyler'],
+      },
+
+      'Tim Reynolds': {
+        bio: 'Virtuoso acoustic fingerstyle guitarist known for intricate solo looping and collaborations with Dave Matthews Band.',
+        aliases: [],
+      },
+
+      'Jon Gomm': {
+        bio: 'British acoustic guitarist renowned for tapping, drumming, and bending strings to create full-band sounds on one guitar.',
+        aliases: [],
+      },
+
+      'Newton Faulkner': {
+        bio: 'British singer-songwriter and percussive acoustic guitarist celebrated for distinctive fret-hand thumping and pop sensibility.',
+        aliases: [],
+      },
+
+      'Trace Bundy': {
+        bio: 'American acoustic guitar virtuoso famed for harmonic-laden fingerpicking, capo stacking, and intricate percussive arrangements.',
+        aliases: [],
+      },
+
+      'Goran Ivanovic': {
+        bio: 'Chicago-based acoustic guitarist performing original and traditional music with classical technique and jazz sensibility.',
+        aliases: [],
+      },
+
+      'Jesse Cook': {
+        bio: 'Canadian guitarist at the heart of the new flamenco movement, blending rumba, jazz, and world rhythms on acoustic guitar.',
+        aliases: [],
+      },
+
+      'Oscar Lopez': {
+        bio: 'Chilean-Canadian guitarist known for passionate Latin and flamenco-influenced acoustic guitar compositions.',
+        aliases: [],
+      },
+
+      'Duck Dunn': {
+        bio: 'Legendary session/acoustic guitarist known for his intricate fingerstyle and soulful roots playing, though more famous for electric work.',
+        aliases: [],
+      },
+
+      'Lyle Ritz': {
+        bio: 'Acoustic bassist and guitarist celebrated for his groundbreaking solo ukulele and jazz guitar recordings in the 1950s.',
+        aliases: [],
+      },
+
+      'Ben Howard': {
+        bio: 'English singer-songwriter whose intricate fingerpicking and atmospheric acoustic guitar work anchor his folk-rock sound.',
+        aliases: [],
+      },
+
+      'John Smith': {
+        bio: 'British folk guitarist and songwriter celebrated for his expressive, percussive fingerstyle technique and warm vocals.',
+        aliases: [],
+      },
+
+      'Mike Vasquez': {
+        bio: 'Virtuoso acoustic guitarist known for his original, percussive compositions blending modern folk and world music.',
+        aliases: [],
+      },
+
+      'Mateus Asato': {
+        bio: 'Brazilian guitarist acclaimed for his soulful, melodic electric and acoustic playing, with a strong acoustic solo repertoire.',
+        aliases: [],
+      },
+
+      'Peter de Meritt': {
+        bio: 'Canadian guitarist whose meditative, percussive compositions have made him a respected figure in modern fingerstyle guitar.',
+        aliases: [],
+      },
+
+      'Chris Woods': {
+        bio: 'British guitarist who blends folk, jazz, and fingerstyle intricacies, performing as a solo artist and in duos.',
+        aliases: [],
       },
     },
   },
