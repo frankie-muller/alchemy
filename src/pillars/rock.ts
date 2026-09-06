@@ -633,6 +633,41 @@ export const rock: Pillar = {
         bio: 'Pennsylvania rock quartet known for raw, garage-influenced indie rock with angsty, melodic vocals and driving guitar work.',
         aliases: [],
       },
+
+      'Militarie Gun': {
+        bio: 'Punky, anthemic alt-rock with melodic hooks and hardcore energy, leading the 2020s post-hardcore indie wave.',
+        aliases: [],
+      },
+
+      'Mannequin Pussy': {
+        bio: 'Punk, indie rock, and dream-pop textures collide in raw, emotional output — a vital modern voice in guitar rock.',
+        aliases: [],
+      },
+
+      'Drug Church': {
+        bio: 'Aggressive, melodic alt-rock with a wry, introspective edge — bridging punk and indie without losing either.',
+        aliases: [],
+      },
+
+      'Wednesday': {
+        bio: 'Southern gothic indie-rock with noisy, shoegaze-y guitars and aching, cinematic storytelling — a standout of the current scene.',
+        aliases: [],
+      },
+
+      'The Smile': {
+        bio: 'Radiohead offshoot exploring tense, intricate guitar rock and moody art-rock — fitting naturally alongside their parent band.',
+        aliases: [],
+      },
+
+      'Chastity Belt': {
+        bio: 'Washington quartet crafting slacker-rock guitar songs with deadpan wit, introspective lyrics, and a laid-back melodic ease.',
+        aliases: [],
+      },
+
+      'Peaer': {
+        bio: 'New York indie-rock group offering intricate, rhythmic guitar interplay and off-kilter but tuneful, emotionally resonant songs.',
+        aliases: ['Peaer'],
+      },
     },
 
     'Classic Rock / Arena Rock': {
@@ -3518,6 +3553,66 @@ export const rock: Pillar = {
         bio: 'Hawaii-born, Los Angeles-based band crafting sparse, doom-laden and angst-ridden alt-rock that resonated deeply with grunge\'s darker moods.',
         aliases: [],
       },
+
+      'The Vaselines': {
+        bio: 'Scottish indie rock band, heavily influenced by Nirvana, whose raw, sardonic style and grunge-era covers cemented their cult relevance.',
+        aliases: [],
+      },
+
+      'King\'s X': {
+        bio: 'Texan rock trio blending soulful vocals, heavy guitar crunch, and prog-metal flourishes, admired within grunge circles for its raw, layered heaviness.',
+        aliases: [],
+      },
+
+      'The Nymphs': {
+        bio: 'Los Angeles early-\'90s rockers fronted by Inger Lorre, blending grunge\'s raw noise with glam\'s theatrical darkness on their 1991 debut.',
+        aliases: [],
+      },
+
+      'Second Coming': {
+        bio: 'Seattle post-grunge collective featuring ex-Mother Love Bone members, continuing the city\'s heavy, riff-driven rock lineage into the late \'90s.',
+        aliases: [],
+      },
+
+      'Ten Minute Warning': {
+        bio: 'Early Seattle proto-grunge unit from the mid-\'80s, predating the sub-category\'s boom while sharing its metallic heaviness and punk chaos.',
+        aliases: [],
+      },
+
+      'Dig': {
+        bio: '1990s LA quartet honing loud, distorted rock with a sludgy pulse, earning comparisons to grunge\'s heavier side on albums like \'Defenders of the Universe\'.',
+        aliases: [],
+      },
+
+      'The Lonely Moans': {
+        bio: 'Seattle-based project involving members of Screaming Trees and Fastbacks, purveying gritty, psychedelic-tinged grunge into the modern era.',
+        aliases: [],
+      },
+
+      'Kerosene 454': {
+        bio: 'Australian hard rock band with a menacing, riff-laden sound pitched between classic metal and grunge\'s grimy fury, active in the early \'90s.',
+        aliases: [],
+      },
+
+      'Splendora': {
+        bio: 'North Carolina band melding dense guitars and punk attitude, contributing a sludgy, anthemic sound to the \'90s grunge-adjacent underground.',
+        aliases: [],
+      },
+
+      'Crunchbird': {
+        bio: 'Seattle\'s early \'90s purveyors of heavy, feedback-laced alt-rock, inhaling the same rain-soaked sonic grit as the sub-category\'s core acts.',
+        aliases: [],
+      },
+
+      'Skunt': {
+        bio: 'Short-lived mid-\'90s Seattle grunge act featuring ex-members of The Fluid, churning out low-slung, cynical hard rock in the genre\'s geographic cradle.',
+        aliases: [],
+      },
+
+      'Glue': {
+        bio: 'Angeleno early-\'90s power trio crafting heavy, angst-fueled punk-metal fusions, a regional echo of the Pacific Northwest grunge ethos.',
+        aliases: [],
+      },
     },
 
     'Punk / Post-Hardcore': {
@@ -4786,6 +4881,76 @@ export const rock: Pillar = {
       'Izal': {
         bio: 'Spanish indie-rock band from Madrid, blending electronic and acoustic elements, prominent in the 2010s.',
         aliases: ['Izal'],
+      },
+
+      'Los Twist': {
+        bio: 'Argentine new wave/rock band blending humor, rockabilly, and pop, pivotal in the 80s Buenos Aires scene.',
+        aliases: [],
+      },
+
+      'GIT': {
+        bio: 'Argentine rock band of the mid-80s, known for melodic, radio-friendly hits that defined the era\'s new wave.',
+        aliases: ['G.I.T.'],
+      },
+
+      'Miguel Mateos': {
+        bio: 'Argentine rocker whose 80s anthems and glam-rock stage presence made him a continental star.',
+        aliases: ['Miguel Mateos/ZAS'],
+      },
+
+      'La Portuaria': {
+        bio: 'Argentine band blending rock, funk, and world music, a key experimental act in 90s Buenos Aires.',
+        aliases: [],
+      },
+
+      'Los Daniels': {
+        bio: 'Mexican rock band with garage and Brit-pop influences, active since the early 2000s.',
+        aliases: [],
+      },
+
+      'Hoppo!': {
+        bio: 'Mexican indie-rock band from the 2000s, marked by energetic riffs and youthful, rebellious lyrics.',
+        aliases: [],
+      },
+
+      'Chikita Violenta': {
+        bio: 'Mexican indie-rock group known for garage-psych energy and international tours since the mid-2000s.',
+        aliases: [],
+      },
+
+      'Los Fascinantes': {
+        bio: 'Spanish garage-rock revivalists with raw, punk-edged energy, carrying the 80s spirit into the 2010s.',
+        aliases: [],
+      },
+
+      'Mago de Oz': {
+        bio: 'Spanish folk-metal band with Celtic and hard rock influences, known for epic, theatrical albums and live energy.',
+        aliases: ['Mägo de Oz'],
+      },
+
+      'El Columpio Asesino': {
+        bio: 'Spanish rock band blending punk, electronic, and folk textures, pivotal in the 2000s Spanish indie scene.',
+        aliases: [],
+      },
+
+      'Viveza': {
+        bio: 'Chilean rock band fusing Latin rhythms and rock energy, part of the vibrant post-dictatorship scene.',
+        aliases: [],
+      },
+
+      'Gobierno': {
+        bio: 'Spanish punk-rock band from the late 80s, raw and political, cornerstone of the Madrid underground movement.',
+        aliases: [],
+      },
+
+      'La Fuga': {
+        bio: 'Spanish hard-rock band known for passionate guitar work and rebellious verse, prominent from late 90s onward.',
+        aliases: [],
+      },
+
+      'San Pascualito Rey': {
+        bio: 'Mexican rock band blending blues, country, and alternative textures, championing melancholic poetic lyrics since 2000s.',
+        aliases: [],
       },
     },
   },
