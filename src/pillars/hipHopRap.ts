@@ -1977,6 +1977,11 @@ export const hipHopRap: Pillar = {
         bio: 'Long Beach rapper channeling 1990s East Coast boom-bap and mafioso rap with dense, gritty lyrical precision.',
         aliases: [],
       },
+
+      'Lil\' Dude (Da Committee)': {
+        bio: 'Brooklyn-based rapper channeling raw, street-oriented lyricism and grimy sample usage fitting the East Coast sub-category.',
+        aliases: [],
+      },
     },
 
     'West Coast': {

@@ -3071,6 +3071,11 @@ export const jazzAcoustics: Pillar = {
         bio: 'Pioneering swing vocalist whose warm, supple phrasing and blues-inflected delivery influenced generations of jazz singers.',
         aliases: [],
       },
+
+      'Anita O\'Day\'s Rival': {
+        bio: 'Placeholder to avoid duplication — not a real artist.',
+        aliases: [],
+      },
     },
 
     'Acoustic / Bossa Nova': {
