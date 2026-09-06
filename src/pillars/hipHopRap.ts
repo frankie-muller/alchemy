@@ -3246,6 +3246,31 @@ export const hipHopRap: Pillar = {
         bio: 'Anarchist singer-rapper blending punk, folk, and hip-hop to deliver deeply personal, class-conscious narratives.',
         aliases: [],
       },
+
+      'Myka 9': {
+        bio: 'Freestyle Fellowship co-founder known for abstract, jazz-inflected conscious rap and intricate rhythmic delivery.',
+        aliases: ['Myka Nyne', 'Myka9'],
+      },
+
+      'Invincible': {
+        bio: 'Detroit-based underground rapper and activist known for feminist, anti-war, and anti-capitalist lyrical content.',
+        aliases: ['Invincible (MC)'],
+      },
+
+      'A.F.R.O.': {
+        bio: 'Battle-tested lyrical technician whose intricate rhymes often carry uplifting, educational, and socially aware messages.',
+        aliases: ['A-F-R-O'],
+      },
+
+      'Swamburger': {
+        bio: 'Florida-based spoken-word artist and emcee blending jazz, funk, and socially conscious rhymes in underground collectives.',
+        aliases: [],
+      },
+
+      'Zion I': {
+        bio: 'Bay Area duo merging West Coast bounce with conscious, introspective rhymes and eclectic electronic production.',
+        aliases: [],
+      },
     },
   },
 };
