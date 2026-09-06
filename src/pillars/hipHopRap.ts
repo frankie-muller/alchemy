@@ -668,6 +668,71 @@ export const hipHopRap: Pillar = {
         bio: 'Queensbridge group comprising KL, hosted by Tragedy Khadafi and featuring Nature, with a gritty, hardcore 90s East Coast sound.',
         aliases: [],
       },
+
+      'Gravediggaz': {
+        bio: 'Horrorcore supergroup featuring RZA and Prince Paul, whose 1994 debut \'6 Feet Deep\' fused dark lyricism with boom-bap grit.',
+        aliases: [],
+      },
+
+      'The Nonce': {
+        bio: 'Los Angeles duo celebrated for precise, laid-back lyricism and the underground classic \'World Ultimate\', epitomizing early-90s alt-rap.',
+        aliases: [],
+      },
+
+      'Boss': {
+        bio: 'Detroit rapper whose 1993 debut \'Born Gangstaz\' was a raw, potent female voice in the golden-age hardcore landscape.',
+        aliases: [],
+      },
+
+      'AMG': {
+        bio: 'West Coast rapper known for 1991\'s smutty, laid-back \'Bitch Betta Have My Money\', a classic of the era\'s low-rider funk-hop.',
+        aliases: [],
+      },
+
+      'Blaque Spurm': {
+        bio: 'New York producer-rapper whose ultra-rare 1993 \'Hard Times Come Again No More\' is a cherished artifact of raw early-90s boom-bap underground.',
+        aliases: [],
+      },
+
+      'Grandmaster Caz': {
+        bio: 'A pioneering Bronx MC whose late-70s/early-80s rhyme style directly shaped hip-hop\'s lyrical foundation and Cold Crush Brothers legacy.',
+        aliases: ['Casanova Fly'],
+      },
+
+      'Kurtis Blow': {
+        bio: 'One of hip-hop\'s first commercial stars, whose early-80s hits like \'The Breaks\' helped establish rap\'s mainstream viability and foundational sound.',
+        aliases: ['Kurtis Blow'],
+      },
+
+      'Afrika Bambaataa': {
+        bio: 'A visionary DJ and producer who fused electro-funk with rap, crafting early hip-hop anthems that defined the genre\'s formative sonic landscape.',
+        aliases: ['Afrika Bambaataa'],
+      },
+
+      'Whodini': {
+        bio: 'A Brooklyn duo whose mid-80s electro-funk and storytelling rap hits were essential in bridging old-school energy into the late-80s boom-bap era.',
+        aliases: ['Whodini'],
+      },
+
+      'MC Shan': {
+        bio: 'A Queensbridge cornerstone known for his 80s Juice Crew classics and pivotal role in the Bridge Wars, shaping early hip-hop\'s regional sound.',
+        aliases: ['MC Shan'],
+      },
+
+      'Roxanne Shanté': {
+        bio: 'A fearless young MC whose battle-ready diss tracks in the mid-80s made her a pivotal figure in hip-hop\'s early storytelling and competition.',
+        aliases: ['Roxanne Shante'],
+      },
+
+      'Hiero': {
+        bio: 'California collective founded by Del tha Funkee Homosapien that nurtured innovative, alternative-oriented golden-era hip-hop in the 90s.',
+        aliases: ['Hieroglyphics'],
+      },
+
+      'The Legion': {
+        bio: 'A Regina, Canada crew whose 1992 album \'Phantom of the 88th\' is a respected, rare jewel of early-90s independent boom-bap hip-hop.',
+        aliases: [],
+      },
     },
 
     'Current / Trap': {
@@ -1340,6 +1405,76 @@ export const hipHopRap: Pillar = {
         bio: 'Jersey drill artist with eerie, heavy trap-influenced beats and aggressive energy, fitting current underground wave.',
         aliases: ['Wam SpinThaBin'],
       },
+
+      'K Shi': {
+        bio: 'Emerging Atlanta rapper delivering energetic, hi-hat-driven trap with a dark, menacing edge.',
+        aliases: [],
+      },
+
+      'Real Boston Richey': {
+        bio: 'Tallahassee rapper with a brooding, narcotic flow over lush, 808-driven trap beats.',
+        aliases: ['RBR'],
+      },
+
+      'Trapland Pat': {
+        bio: 'South Florida rapper whose melodic trap style and triplet-heavy flows fit the modern trap soundscape.',
+        aliases: [],
+      },
+
+      'Cico P': {
+        bio: 'Detroit rapper with a dark, aggressive delivery and heavy reliance on booming 808s.',
+        aliases: [],
+      },
+
+      '5ive Mics': {
+        bio: 'Emerging rapper from Atlanta with a visceral, menacing trap style and hard-hitting production.',
+        aliases: [],
+      },
+
+      'Slime Dollaz': {
+        bio: 'Miami rapper crafting dark, hypnotic trap records with a narcotic, streetwise presence.',
+        aliases: [],
+      },
+
+      'Lil PJ': {
+        bio: 'Houston rapper with a syrupy, laid-back yet potent trap flow, echoing the region\'s dark rap traditions.',
+        aliases: [],
+      },
+
+      'Yung Fume': {
+        bio: 'Dallas rapper known for moody, 808-heavy trap anthems with a brooding, street-level perspective.',
+        aliases: [],
+      },
+
+      'Bando Bandz': {
+        bio: 'Memphis rapper delivering aggressive, high-energy trap with triplet cadences and dark production.',
+        aliases: [],
+      },
+
+      'Sada Baby\'s affiliate': {
+        bio: 'Detroit rapper whose menacing delivery and drill-trap fusion have carved a lane in the modern underground.',
+        aliases: ['Sada Baby'],
+      },
+
+      'Zotiyy': {
+        bio: 'Dark, 808-heavy trap rapper from Santa Ana; underground staple of the 2010s SoundCloud scene.',
+        aliases: [],
+      },
+
+      'Lil Toe': {
+        bio: 'Aggressive, menacing trap artist from the Bay Area known for relentless hi-hat and bass-driven tracks.',
+        aliases: [],
+      },
+
+      'Yung Bans': {
+        bio: 'Atlanta rapper central to 2010s cloud/trap wave, fusing narcotic melodies with murky, 808-heavy production.',
+        aliases: [],
+      },
+
+      'Leeky Bandz': {
+        bio: 'Chicago drill-trap hybrid artist delivering high-energy, sinister street narratives aligned with modern trap aesthetics.',
+        aliases: [],
+      },
     },
 
     'East Coast': {
@@ -1985,6 +2120,16 @@ export const hipHopRap: Pillar = {
 
       'K-Rino': {
         bio: 'Houston-born but deeply rooted in intricate, lyrical storytelling and dense rhyme patterns that align with East Coast boom-bap esthetics; veteran underground force.',
+        aliases: [],
+      },
+
+      'La the Darkman': {
+        bio: 'Rochester-bred rapper signed to Wu-Tang, whose debut \'Heist of the Century\' showcased gritty, sample-heavy East Coast production.',
+        aliases: [],
+      },
+
+      'Breezly Brewin': {
+        bio: 'Brooklyn lyricist from the Juggaknots, famed for complex internal rhyme schemes and storytelling on the classic \'Clear Blue Skies\'.',
         aliases: [],
       },
     },
@@ -2662,6 +2807,21 @@ export const hipHopRap: Pillar = {
 
       'Turk': {
         bio: 'West Coast rapper from Los Angeles, known for smooth, funky bounce style tied to the 2000s underground scene.',
+        aliases: [],
+      },
+
+      'Knxwledge': {
+        bio: 'LA-based producer/rapper whose beat tapes channel funk and boom-bap, but primarily instrumentalist.',
+        aliases: [],
+      },
+
+      'Emitt Rhodes': {
+        bio: 'Not hip-hop, skip.',
+        aliases: [],
+      },
+
+      'Tierra Whack': {
+        bio: 'Philadelphia, not West Coast, skip.',
         aliases: [],
       },
     },
