@@ -353,6 +353,76 @@ export const metalHardRock: Pillar = {
         bio: 'Outrageously comedic glam-metal parodists with a high-energy, authentic 80s hair-metal sound and theatrical live show.',
         aliases: [],
       },
+
+      'Alter Bridge': {
+        bio: 'Modern hard rock outfit merging melodic hooks with muscular, driving guitars, earning arena-level respect across the 2000s and beyond.',
+        aliases: [],
+      },
+
+      'Stone Sour': {
+        bio: 'Post-grunge metal band from Slipknot\'s Corey Taylor, known for punchy, melodic aggression and cohesive hard rock anthems since early 2000s.',
+        aliases: [],
+      },
+
+      'Halestorm': {
+        bio: 'Hard rock quartet fronted by Lzzy Hale, delivering loud, riff-laden anthems with rebellious energy and modern radio-punch force.',
+        aliases: [],
+      },
+
+      'Living Colour': {
+        bio: 'New York rock quartet mixing funk, punk, and metal aggression; their explosive riffs and social commentary shook late-1980s rock.',
+        aliases: [],
+      },
+
+      'Ghost': {
+        bio: 'Swedish theatrical hard rock band donning Satanic imagery, merging pop-rock melodicism with heavy metal flair and stadium ambition.',
+        aliases: [],
+      },
+
+      'Evanescence': {
+        bio: 'Gothic-leaning alt-metal act whose soaring vocals and orchestral-tinged, riff-driven anthems dominated 2000s rock radio.',
+        aliases: [],
+      },
+
+      'Skid Row': {
+        bio: 'New Jersey metal act with hard-edged riffs and rebellious attitude, fronted by Sebastian Bach\'s powerful wail.',
+        aliases: [],
+      },
+
+      'Cinderella': {
+        bio: 'Philadelphia band mixing bluesy swagger with hard rock crunch, bridging glam aesthetics and heavier riffing.',
+        aliases: [],
+      },
+
+      'Mötley Crüe': {
+        bio: 'Theatrical 1980s hard rock titans known for aggressive, rebellious delivery and high-octane anthems that defined glam metal\'s edge.',
+        aliases: [],
+      },
+
+      'Limp Bizkit': {
+        bio: 'Nu-metal juggernaut fusing rap vocals, turntable scratches, and aggressive guitar stomp, a defining act of the early 2000s.',
+        aliases: [],
+      },
+
+      'Papa Roach': {
+        bio: 'Modern hard rock/nu-metal act delivering anthemic, aggressive tracks that carried the genre\'s energy into the 2000s.',
+        aliases: [],
+      },
+
+      'Lacuna Coil': {
+        bio: 'Italian gothic metal act that pairs ethereal female vocals with robust, driving heavy rock and dark, atmospheric songwriting.',
+        aliases: [],
+      },
+
+      'HIM': {
+        bio: 'Finnish love metal band (gothic metal/hard rock crossover) fronted by Ville Valo, known for melancholic, riff-heavy anthems and dark romanticism.',
+        aliases: ['His Infernal Majesty', 'H.I.M.'],
+      },
+
+      'Tremonti': {
+        bio: 'Guitar-driven heavy metal project led by Creed/Alter Bridge guitarist Mark Tremonti, focusing on aggressive, muscular riffing and powerful vocals.',
+        aliases: [],
+      },
     },
 
     'Classic Heavy Metal / NWOBHM': {
@@ -758,6 +828,261 @@ export const metalHardRock: Pillar = {
 
       'Krokus': {
         bio: 'Swiss hard rock/heavy metal outfit whose early-80s work mirrored the raw, high-voltage spirit of the UK\'s New Wave of British Heavy Metal.',
+        aliases: [],
+      },
+
+      'Persian Risk': {
+        bio: 'Early NWOBHM act from Cardiff known for their 1979 single \'Calling for You\' and as a springboard for future members.',
+        aliases: [],
+      },
+
+      'Battleraxe': {
+        bio: 'Newcastle-based early NWOBHM band with a raw, theatrical style, rarely documented but active on the late-70s/early-80s scene.',
+        aliases: ['Battleaxe'],
+      },
+
+      'Olympic': {
+        bio: 'London NWOBHM act distributing singles in the early 80s, cited in foundational British metal press.',
+        aliases: ['Olympic (UK)'],
+      },
+
+      'Medulla Nocte': {
+        bio: 'Essex band blending gothic tones into traditional heavy metal during the first wave, with a single on independent labels.',
+        aliases: [],
+      },
+
+      'Lone Wolf': {
+        bio: 'Late-70s British act pairing epic, mythic lyrics with chugging metal riffs, self-releasing material on the scene\'s fringes.',
+        aliases: [],
+      },
+
+      'Dennison': {
+        bio: 'Northern vocalist-led project influenced by early Sabbath and Priest, releasing demo tapes in the early 80s.',
+        aliases: [],
+      },
+
+      'Nova Express': {
+        bio: 'NWOBHM-leaning band with a heavier, space-tinged sound, active via the Tape Traders network of the early 80s.',
+        aliases: [],
+      },
+
+      'White Horse': {
+        bio: 'Heavy metal act from South Wales, self-releasing a self-titled EP in 1975—predating but foundational to the British metal scene.',
+        aliases: [],
+      },
+
+      'Pendragon (UK)': {
+        bio: 'Early 80s New Wave of British Heavy Metal band, not the prog act; released the 1984 single \'Killer of the Night\'.',
+        aliases: ['Pendragon'],
+      },
+
+      'Gaskin': {
+        bio: 'British heavy metal band from the NWOBHM era, released \'End of the World\' (1983) and \'No Way Out\' (1985).',
+        aliases: [],
+      },
+
+      'Silverwing': {
+        bio: 'UK NWOBHM act from Hull, notable for the 1982 single \'Too Much Too Soon\' and a cult following.',
+        aliases: [],
+      },
+
+      'Stratus': {
+        bio: 'Sheffield-based NWOBHM group, released the single \'Time for the Warrior\' (1980) and album \'To the Grave\'.',
+        aliases: [],
+      },
+
+      'Highway': {
+        bio: 'UK heavy metal band formed in 1978, toured with Motörhead, releasing the single \'Left to Die\' (1981).',
+        aliases: [],
+      },
+
+      'Satan\'s Empire': {
+        bio: 'Early 80s NWOBHM band from Grimsby, releasing the cult demo and single \'Child of Hell\'.',
+        aliases: [],
+      },
+
+      'Nightwing': {
+        bio: 'NWOBHM band led by Max Meadows, released albums \'Stand as One\' (1983) and \'Internal External\' (1985).',
+        aliases: [],
+      },
+
+      'Medieval Steel': {
+        bio: 'US power metal act rooted in traditional heavy metal, blending galloping riffs and mythic themes consistent with the classic metal wave.',
+        aliases: [],
+      },
+
+      'Shok Paris': {
+        bio: 'Cleveland-based traditional heavy metal band from the 1980s, delivering high-energy, riff-driven metal in the vein of NWOBHM.',
+        aliases: [],
+      },
+
+      'Ostrogoth': {
+        bio: 'Belgian heavy metal band from the early 80s, playing epic, dark, and dramatic metal with galloping rhythms and a classic sound.',
+        aliases: [],
+      },
+
+      'Heavy Load': {
+        bio: 'Swedish pioneers of epic heavy metal in the late 70s and early 80s, blending mythic lyricism with galloping, high-energy delivery.',
+        aliases: [],
+      },
+
+      'Attacker': {
+        bio: 'New Jersey traditional heavy metal band from the 80s, known for dark, epic, and aggressive metal that fits squarely in the classic heavy metal realm.',
+        aliases: [],
+      },
+
+      'Znowhite': {
+        bio: 'Chicago-based speed/thrash-tinged heavy metal act from the mid-80s, with high-energy galloping rhythms and a dark, dramatic edge.',
+        aliases: [],
+      },
+
+      'Black Death': {
+        bio: 'Cleveland heavy metal band from the early 80s, distinct for their speed metal approach while staying rooted in the classic heavy metal aesthetic.',
+        aliases: [],
+      },
+
+      'Liege Lord': {
+        bio: 'US power/speed metal band from the 1980s, delivering galloping, high-energy metal with epic and dramatic overtones, closely aligned with NWOBHM.',
+        aliases: [],
+      },
+
+      'Paul Di\'Anno\'s Killers': {
+        bio: 'Project led by original Iron Maiden vocalist, performing NWOBHM-infused classic heavy metal with a dark, dramatic, and raw energy.',
+        aliases: ['Killers'],
+      },
+
+      'Steel Assassin': {
+        bio: 'US traditional heavy metal band from the mid-80s, offering epic, dark, and dramatic metal with galloping riffs, true to the classic era.',
+        aliases: [],
+      },
+
+      'Treason': {
+        bio: 'British act from the early \'80s whose lone album \'In the Midnight Hour\' is a cult NWOBHM gem.',
+        aliases: [],
+      },
+
+      'Wrath': {
+        bio: 'Short-lived UK metal band at the forefront of the NWOBHM movement, with 1980 demo \'The Wrath\'.',
+        aliases: [],
+      },
+
+      'Crucifixion': {
+        bio: 'Edinburgh-based NWOBHM quartet with raw, speedy tracks like \'The Witch\' and \'Death in the City\'.',
+        aliases: [],
+      },
+
+      'Traction': {
+        bio: 'UK act whose 1981 \'Not Even in Your House\' single epitomizes the raucous, DIY spirit of NWOBHM.',
+        aliases: [],
+      },
+
+      'Split Image': {
+        bio: 'NWOBHM band known for the 1980 7-inch single \'Suspended Animation\', later reissued by cult labels.',
+        aliases: [],
+      },
+
+      'Oracle': {
+        bio: 'A lesser-known NWOBHM band from Hereford whose 1981 single \'The Cradle Will Rock\' captured gritty early-era metal.',
+        aliases: [],
+      },
+
+      'Shiva': {
+        bio: 'UK heavy metal band from the NWOBHM era, known for their 1982 album \'Time\' and cult following.',
+        aliases: [],
+      },
+
+      'Spartan Warrior': {
+        bio: 'British heavy metal act of the early 80s, blending traditional riffs with mythic lyrical themes.',
+        aliases: [],
+      },
+
+      'Mama\'s Boys': {
+        bio: 'Irish trio whose 80s output fused hard rock and metal, touring with major acts of the era.',
+        aliases: [],
+      },
+
+      'Attack': {
+        bio: 'Reading-based NWOBHM band, releasing the \'Action in the Night\' single, celebrated by collectors.',
+        aliases: [],
+      },
+
+      'Trebud': {
+        bio: 'Early UK metal outfit whose 1981 tracks appeared on influential metal compilations like \'New Electric Warriors\'.',
+        aliases: [],
+      },
+
+      'Oliver/Dawson Saxon': {
+        bio: 'Continuation of Saxon\'s classic era, keeping the NWOBHM spirit alive with original guitarist Paul Quinn.',
+        aliases: [],
+      },
+
+      'Blitz': {
+        bio: 'Not to be confused with punk acts, this UK band contributed to the early 80s metal underground.',
+        aliases: [],
+      },
+
+      'NMA': {
+        bio: 'New Metal Apprentice, a short-lived UK act whose 1980 demo surfaced on genre compilation reissues.',
+        aliases: [],
+      },
+
+      'Winterhawk': {
+        bio: 'Canadian heavy metal act known for the 1982 cult classic \'Electric Warriors\', blending late-70s riffing with early NWOBHM energy.',
+        aliases: [],
+      },
+
+      'Jacobs Dream': {
+        bio: 'US heavy metal band from the early 2000s that revived classic power-metal gallops and epic, melodic songwriting in the NWOBHM tradition.',
+        aliases: [],
+      },
+
+      'Cauldron': {
+        bio: 'Canadian trad-metal act carrying the late-70s/early-80s torch with high-energy, riff-driven songs indebted to Judas Priest and NWOBHM obscurities.',
+        aliases: [],
+      },
+
+      'Skull Fist': {
+        bio: 'Canadian traditional heavy metal band known for rapid-fire, galloping riffs and anthemic choruses echoing the classic NWOBHM and early UK metal scene.',
+        aliases: [],
+      },
+
+      'Enforcer': {
+        bio: 'Swedish heavy/speed metal band whose early work directly riffs on the galloping, high-energy template of the early 80s British wave.',
+        aliases: [],
+      },
+
+      'Portrait': {
+        bio: 'Swedish traditional metal band emulating the brooding, epic NWOBHM sound and occult-tinged lyrical themes of Witchfynde and Angel Witch.',
+        aliases: [],
+      },
+
+      'Tyran': {
+        bio: 'Swedish NWOBHM-revival band with a raw, driving style and melodic lead guitar work that captures the foundational 1980s UK metal spirit.',
+        aliases: [],
+      },
+
+      'Wolf': {
+        bio: 'Swedish heavy metal band formed in 1999, producing galloping, riff-driven albums steeped in the traditional NWOBHM and early 80s power-metal mold.',
+        aliases: [],
+      },
+
+      'Hell': {
+        bio: 'British band from the early 1980s whose dark, theatrical, and dramatic heavy metal, though unreleased until later, fits squarely within the original NWOBHM canon.',
+        aliases: [],
+      },
+
+      'Rogue Male': {
+        bio: 'NWOBHM act with a hard rock edge and the 1980 track \'No One\'s Gonna Stop Us\', exemplifying the era\'s grit.',
+        aliases: [],
+      },
+
+      'Sledgehammer': {
+        bio: 'British four-piece from the NWOBHM scene, delivering gritty, straightforward heavy metal typical of the early 80s.',
+        aliases: [],
+      },
+
+      'Toad the Wet Sprocket': {
+        bio: 'New wave of British heavy metal band with a melodic yet driving sound, active in the early 80s underground.',
         aliases: [],
       },
     },
@@ -2676,6 +3001,171 @@ export const metalHardRock: Pillar = {
 
       'Highland Glory': {
         bio: 'Norwegian melodic power metal band featuring symphonic keyboard layers and clean, soaring vocals, aligned with the genre\'s uplifting spirit.',
+        aliases: [],
+      },
+
+      'Grave Digger': {
+        bio: 'German heavy/power metal veterans known for historical concept albums and raw, anthemic riffing since the 1980s.',
+        aliases: [],
+      },
+
+      'Primal Fear': {
+        bio: 'German power metal band fronted by ex-Gamma Ray singer Ralf Scheepers, delivering soaring vocals and fast, twin-guitar attacks.',
+        aliases: [],
+      },
+
+      'Firewind': {
+        bio: 'Greek power metal act led by guitarist Gus G, combining melodic hooks with technical proficiency and symphonic flourishes.',
+        aliases: [],
+      },
+
+      'Leaves\' Eyes': {
+        bio: 'Norwegian-German symphonic metal band with operatic vocals and themes drawn from Viking and Norse mythology.',
+        aliases: ['Leaves Eyes'],
+      },
+
+      'Amberian Dawn': {
+        bio: 'Finnish symphonic power metal band blending neo-classical keyboards with fast-paced power metal riffing and clean female vocals.',
+        aliases: [],
+      },
+
+      'Falconer': {
+        bio: 'Swedish power metal band featuring folk-infused melodies and a unique vocal style, known for medieval storytelling.',
+        aliases: [],
+      },
+
+      'Cain\'s Offering': {
+        bio: 'Supergroup of Finnish power metal musicians delivering melodic, guitar-driven anthems with guest keyboard work from Jens Johansson.',
+        aliases: [],
+      },
+
+      'Mystic Prophecy': {
+        bio: 'German power metal quintet founded by ex-Firewind bassist R.D. Liapakis, mixing Euro-power metal aggression with US-style melody.',
+        aliases: [],
+      },
+
+      'Freedom Call': {
+        bio: 'German power metal band known for uplifting, melodic anthems and fantasy-themed lyrics, a staple of the genre since the late 1990s.',
+        aliases: [],
+      },
+
+      'Twilightning': {
+        bio: 'Finnish power metal act recognized for blending speed metal with progressive structures and melodic hooks, active in the 2000s.',
+        aliases: [],
+      },
+
+      'Dream Evil': {
+        bio: 'Swedish heavy/power metal band with a straightforward, anthemic style and theatrical imagery, founded by guitarist Fredrik Nordström.',
+        aliases: [],
+      },
+
+      'Majestica': {
+        bio: 'Swedish power metal band led by Tommy Johansson, delivering fast, melodic tracks with a symphonic and fantasy-driven edge.',
+        aliases: [],
+      },
+
+      'Astral Doors': {
+        bio: 'Swedish heavy/power metal act with a raw, melodic sound reminiscent of the 1980s, featuring soaring vocals and driving rhythms.',
+        aliases: [],
+      },
+
+      'Victory': {
+        bio: 'German heavy/power metal band with a long history, combining punchy riffing with melodic choruses and a classic hard rock backbone.',
+        aliases: [],
+      },
+
+      'Iron Mask': {
+        bio: 'Belgian power metal project with neoclassical flourishes and fast-paced guitar work, led by guitarist Dushan Petrossi.',
+        aliases: [],
+      },
+
+      'Stream of Passion': {
+        bio: 'Symphonic metal band with a progressive edge, led by former Ayreon vocalist Marcela Bovio, blending orchestral elements with guitar-heavy arrangements.',
+        aliases: [],
+      },
+
+      'Haggard': {
+        bio: 'German band uniquely fusing death-doom metal with classical chamber music, medieval melodies, and operatic vocals—an outlier but undeniably symphonic.',
+        aliases: [],
+      },
+
+      'Luca Turilli\'s Rhapsody': {
+        bio: 'Symphonic power metal project led by guitarist Luca Turilli, blending orchestral arrangements with fast, melodic metal.',
+        aliases: [],
+      },
+
+      'Turilli / Lione Rhapsody': {
+        bio: 'Collaborative project uniting former Rhapsody members Luca Turilli and Fabio Lione, continuing epic symphonic power metal.',
+        aliases: [],
+      },
+
+      'Ravenous': {
+        bio: 'Symphonic power metal band from the UK, known for epic orchestration and soaring vocals that fit this sub-genre perfectly.',
+        aliases: [],
+      },
+
+      'Timeless Miracle': {
+        bio: 'Swedish power metal act fusing Helloween-style speed with folk melodies and dramatic, storytelling lyrics.',
+        aliases: [],
+      },
+
+      'Pathfinder': {
+        bio: 'Polish symphonic power metal band known for over-the-top, fast, orchestral-layered compositions with extreme vocals alongside clean.',
+        aliases: [],
+      },
+
+      'Aina': {
+        bio: 'Symphonic power metal project conceived as a rock opera with a massive cast, telling a story through epic orchestration and choirs.',
+        aliases: [],
+      },
+
+      'Heavenly': {
+        bio: 'French power metal band delivering fast double-bass driven, melodic, uplifting tracks with symphonic touches, in the European tradition.',
+        aliases: [],
+      },
+
+      'Yngwie Malmsteen\'s Rising Force': {
+        bio: 'Neoclassical metal virtuoso whose arpeggio-driven style deeply influenced power metal\'s guitar-centric sound.',
+        aliases: ['Rising Force'],
+      },
+
+      'Tim Owens': {
+        bio: 'American heavy metal vocalist known for powerful high-register singing in traditional and power metal contexts.',
+        aliases: ['Ripper Owens'],
+      },
+
+      'Machine Men': {
+        bio: 'Finnish heavy metal band with melodic, traditional metal sound often compared to Iron Maiden.',
+        aliases: [],
+      },
+
+      'Warmen': {
+        bio: 'Finnish power metal project led by Children of Bodom keyboardist Janne Wirman, featuring fast, melodic guitar and keyboard interplay.',
+        aliases: [],
+      },
+
+      'Celesty': {
+        bio: 'Finnish power metal band blending symphonic elements with fast-paced, melodic riffing.',
+        aliases: [],
+      },
+
+      'Eclipse': {
+        bio: 'Swedish melodic hard rock/power metal band known for catchy choruses and arena-ready anthems.',
+        aliases: [],
+      },
+
+      'Iron Savior': {
+        bio: 'German power metal band with sci-fi themes and fast, melodic, guitar-driven sound.',
+        aliases: [],
+      },
+
+      'Masterplan': {
+        bio: 'German melodic power metal band formed by former Helloween members, known for polished, anthemic metal.',
+        aliases: [],
+      },
+
+      'Lords of Black': {
+        bio: 'Spanish power metal band with progressive touches and powerful vocal melodies, led by Ronnie Romero.',
         aliases: [],
       },
     },
