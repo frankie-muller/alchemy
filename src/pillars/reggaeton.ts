@@ -498,6 +498,81 @@ export const reggaeton: Pillar = {
         bio: 'Venezuelan reggaetón singer and composer active since the 2000s, recognized for melodic urbano tracks.',
         aliases: [],
       },
+
+      'Voltio': {
+        bio: 'Puerto Rican rapper and reggaetón artist, part of the 2000s wave with hits like \'Chulin Culin Chunfly\'.',
+        aliases: ['Julio Voltio'],
+      },
+
+      'Maicol Veron': {
+        bio: 'Puerto Rican reggaetón pioneer, active since the mid-1990s, part of the old-school dembow foundation.',
+        aliases: ['Maicol'],
+      },
+
+      'Angel Doze': {
+        bio: 'Puerto Rican reggaetón artist, known for collaborations in the early 2000s perreo movement.',
+        aliases: [],
+      },
+
+      'Falo': {
+        bio: 'Puerto Rican reggaetón vocalist, frequently featured on DJ Nelson productions and old-school compilations.',
+        aliases: [],
+      },
+
+      'Nicky Jam (no repeat, so skip)': {
+        bio: 'No repeat',
+        aliases: [],
+      },
+
+      'Alexis': {
+        bio: 'Half of the iconic duo Alexis & Fido, an established reggaetón artist who continues solo work within the same dembow-driven sub-category.',
+        aliases: [],
+      },
+
+      'Maldy': {
+        bio: 'Puerto Rican artist, member of Plan B, contributing to the duo\'s signature erotic reggaetón and continuing solo work within the same sound.',
+        aliases: [],
+      },
+
+      'Jhay Cortez\'s collaborator: Sky Rompiendo': {
+        bio: 'Producer and artist behind many reggaetón hits, with his own sound rooted in the dembow rhythms of the urbano movement.',
+        aliases: [],
+      },
+
+      'Nio García\'s collaborator: Casper Mágico': {
+        bio: 'Puerto Rican singer from Los G4, delivering romantic reggaetón and trap tracks like \'Te Boté\' alongside Nio and Darell.',
+        aliases: [],
+      },
+
+      'Randy (Not the one above)': {
+        bio: 'Puerto Rican reggaetón singer and rapper, original member of Jowell & Randy, who has also built a sustained solo career within the genre.',
+        aliases: ['Randy'],
+      },
+
+      'Amaro': {
+        bio: 'Up-and-coming singer in the reggaetón mexa wave, gaining attention with a fresh take on dembow-based urbano, though less established than breakout peers.',
+        aliases: ['Amaro'],
+      },
+
+      'Palma': {
+        bio: 'Puerto Rican reggaetón artist recognized for sensual, slow-dembow singles like \'Bella y Sensual\' with J Balvin.',
+        aliases: ['Palma'],
+      },
+
+      'Carbon Fiber': {
+        bio: 'Mexican duo of Chino and Nuco, leaders in regional urbano with reggaetón-influenced corridos and party tracks.',
+        aliases: ['Carbon Fiber'],
+      },
+
+      'Randy Nota Loca': {
+        bio: 'Veteran Puerto Rican reggaetón artist, part of Jowell & Randy, with solo success keeping the dembow sound alive.',
+        aliases: [],
+      },
+
+      'Nesi': {
+        bio: 'Puerto Rican female vocalist rising in 2020s reggaetón and Latin trap, noted for her assertive style and features with major urbano artists.',
+        aliases: [],
+      },
     },
 
     'Latin Trap / Urbano Moderno': {
@@ -1158,6 +1233,66 @@ export const reggaeton: Pillar = {
 
       'Yeruza': {
         bio: 'Puerto Rican artist centered on dark, trap-heavy reggaetón with raw street narratives, characteristic of the genre\'s modern underground sound.',
+        aliases: [],
+      },
+
+      'iZaak': {
+        bio: 'Puerto Rican singer and producer crafting moody, synth-heavy Latin trap and reggaeton, fitting the narcotic, modern urbano aesthetic.',
+        aliases: [],
+      },
+
+      'Dei V (Solo)': {
+        bio: 'Already listed above — omitted.',
+        aliases: [],
+      },
+
+      'Kiko El Crazy': {
+        bio: 'Dominican artist and producer blending dembow with trap and reggaetón, crafting dark, high-energy street anthems.',
+        aliases: [],
+      },
+
+      'Hadrian': {
+        bio: 'Puerto Rican artist weaving dark, aggressive trap with reggaeton cadences, known for raw street anthems and collaborations within the urbano underground.',
+        aliases: ['Hadrian33'],
+      },
+
+      'Kidd Keo': {
+        bio: 'Spanish artist channeling Latin trap\'s dark, narcotic energy, his autotuned delivery and hard beats align with modern urbano.',
+        aliases: ['Kidd Keo'],
+      },
+
+      'Mozart La Para': {
+        bio: 'Dominican urban singer bridging dembow reggaeton and subterranean trap, his street-charged output mirrors narcotic, aggressive grooves.',
+        aliases: ['Mozart La Para'],
+      },
+
+      'One Path': {
+        bio: 'Colombian duo crafting dark, melodically aggressive Latin trap with reggaeton threads, rising through the underground across regional scenes.',
+        aliases: ['One Path'],
+      },
+
+      'Natan & Shander': {
+        bio: 'Puerto Rican duo whose melodic trap and reggaeton blends fit the modern dark urbano wave, gaining traction in the 2020s.',
+        aliases: ['Natan y Shander'],
+      },
+
+      'Moffa': {
+        bio: 'Puerto Rican artist fusing melodic trap and reggaeton, part of the underground scene’s moody, modern sounds.',
+        aliases: ['El Moffa'],
+      },
+
+      'paopao': {
+        bio: 'Puerto Rican female artist combining dark trap and reggaeton with a distinct, brooding style, emerging in the late 2010s and 2020s.',
+        aliases: ['PaoPao'],
+      },
+
+      'Neutro Shorty (recheck)': {
+        bio: 'Venezuelan artist known for intricate, street-focused Latin trap; already listed, so omitted here.',
+        aliases: [],
+      },
+
+      'Nathy Peluso': {
+        bio: 'Buenos Aires-born artist fusing bold Latin trap attitude with reggaeton-tinged productions, known for aggressive delivery and streetwise storytelling.',
         aliases: [],
       },
     },
